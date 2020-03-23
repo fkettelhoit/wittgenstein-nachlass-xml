@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://wab.uib.no/cost-a32/skjema/wab_OA.rng"  type="xml" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="WS" rendition="Facsimile: CC BY-NC 4.0. Original at the Bertrand Russell Archives at McMaster University Library, Hamilton, Ontario, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB), this scan was produced.  The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and The Bertrand Russell Archives at McMaster University, Hamilton, Ontario. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The Bertrand Russell Archives at McMaster University, Hamilton, Ontario; The University of Bergen, Bergen.">Wittgenstein Nachlass Ts-201a2: Notes on Logic (BRA)</title>
+        <title xml:id="Ts-201a2" n="Ts-201a2" type="main" xml:lang="en"/>
+        <author><persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>; <persName key="Russell, Bertrand">Bertrand Russell</persName></author>
+        <editor><orgName ref="http://wab.uib.no/">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this edition: <persName>Alois Pichler</persName></editor>
+        <funder>Trinity College, Cambridge; Bertrand Russell Archives, Ontario; Oxford University Press, Oxford;  Uni Research, Bergen; University of Bergen, Bergen; L. Meltzers Høyskolefond, Bergen; COST Action A32, Brussels; eContent+ DISCOVERY, Luxembourg; ICT PSP DM2E,  Brussels</funder>
+        <respStmt>
+          <name>Michael Biggs, Peter Cripps</name>
+          <resp>transcription in MECS-WIT markup: No date</resp>
+        </respStmt>
+        <respStmt>
+          <name>Alois Pichler</name>
+          <resp>2001-: coordination and editorial guidelines; amendments; conversion from MECS-WIT to XML-TEI; XML-TEI markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claus Huitfeldt, Kjersti Bjørnestad Berg, Sindre Sørensen, MLCD project</name>
+          <resp>2001: parser for conversion from MECS to XML</resp>
+        </respStmt>
+        <respStmt>
+          <name>Vemund Olstad, Øyvind L. Gjesdal</name>
+          <resp>2002-: stylesheets</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tone Merete Bruvik, Øyvind L. Gjesdal</name>
+          <resp>2006-: XML-TEI validation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Heinz Wilhelm Krüger, Deirdre C. P. Smith</name>
+          <resp>2006-09: amendments; XML-TEI markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>Špela Vidmar</name>
+          <resp>2013-14: proofreading of normalized transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Nivedita Gangopadhyay </name>
+          <resp>2018: proofreading of normalized transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Michael Biggs, Hans Biesenbach</name>
+          <resp>1990-: the rendering of graphics makes use of Michael Biggs: "Ludwig Wittgenstein: A Visual Concordance to the Published Works", Minerva Vol. 2 (1998) [http://www.minerva.mic.ul.ie/vol2/Ver_33/index.htm], as well as work by Hans Biesenbach.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="URL">http://wab.uib.no/cost-a32_xml/Ts-201a2_OA.xml</idno>
+        <idno type="URL">http://www.wittgensteinsource.org/Ts-201a2_n</idno>
+        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
+        <idno type="URL">http://www.wittgensteinsource.org/Ts-201a2_d</idno>
+        <idno type="URL">http://www.wittgensteinsource.org/Ts-201a2_f</idno>
+        <availability xml:lang="en">
+          <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; Bertrand Russell Archives at McMaster University Library, Hamilton, Ontario;  University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc xml:lang="en">
+        <p>Tba. </p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://philpapers.org/">
+          <term>Philosophy of Language</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>The text has not been proofread since the production of the Bergen Electronic Edition (2000), though some corrections have been made. Dating with reference to Pichler 1994, p.109ff. </change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="Ts-201a2_TP" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,TP.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_a1" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,a1.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_a2" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,a2.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_a3" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,a3.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_a4" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,a4.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_a5" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,a5.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_a6" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,a6.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_a7" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,a7.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_a8" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,a8.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b1" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b1.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b2" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b2.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b3" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b3.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b4" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b4.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b5" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b5.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b6" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b6.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b7" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b7.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b8" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b8.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b9" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b9.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b10" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b10.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b11" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b11.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b12" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b12.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b13" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b13.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b14" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b14.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b15" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b15.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b16" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b16.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b17" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b17.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b18" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b18.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b19" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b19.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b20" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b20.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b21" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b21.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b22" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b22.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b23" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b23.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b24" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b24.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b25" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b25.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b26" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b26.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b27r" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b27r.jpg"/>
+    </surface>
+    <surface xml:id="Ts-201a2_b27v" n="0" lrx="0" lry="0">
+      <graphic url="http://www.wittgensteinsource.org/Ts-201a2,b27v.jpg"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="en">
+    <body>
+      <ab xml:id="Ts-201a2_TP.1" n="Ts-201a2,TP[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?_seg:fm" emph="blbef_0" xml:lang="en">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <pb facs="Ts-201a2_TP" rend="recto" n="pagename_Ts-201a2,TP pageref_00"/>
+          <del type="dnpc_h">
+            <seg type="fm-title">
+              <s type="es">
+                <emph rend="cap">Summary</emph>
+              </s>
+            </seg>
+          </del>
+          <emph rend="centered">
+            <s type="es">
+              <add rend="el_h"><seg type="fm-title">Notes on <c type="c">L</c>ogic</seg><lb rend="hl"/> by<lb rend="hl"/> <persName key="Wittgenstein, Ludwig">Ludwig  Wittgenstein</persName><lb rend="hl"/> <date when-iso="19130900">September   1913.</date></add>
+            </s>
+          </emph>
+          <emph rend="bl_2"/>
+          <pb facs="Ts-201a2_a1" rend="recto" n="pagename_Ts-201a2,a1 pageref_00"/>
+          <fw type="pagen">1</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a1.1" n="Ts-201a2,a1[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="centered">
+            <seg type="fm-title">
+              <s type="es"><emph rend="cap">Summary</emph>.</s>
+            </seg>
+          </emph>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a1.2" n="Ts-201a2,a1[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_2">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">One reason for thinking the old notation wrong is that it is<lb/> very  unlikely that from every proposition <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> an infinite number of<lb/> other  propositions <seg type="notation" subtype="logic_propositional formula" rend="literal">not-not-p</seg>,  <seg type="notation" subtype="logic_propositional formula" rend="literal">not-not-not-not-p</seg>,  <abbr type="abb">etc.</abbr>, should<lb/> follow.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a1.3" n="Ts-201a2,a1[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">If only those signs which contain proper names were complex<lb/> then  propositions containing nothing but apparent variables would<lb/> be  simple.</s>
+          <s type="es">Then what about their denials?</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a1.4" n="Ts-201a2,a1[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">The verb of a proposition cannot be “is true” or  “is false”,<lb/> but whatever is true or false must already  contain the verb.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a1.5" n="Ts-201a2,a1[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h">o.</seg>
+          <s type="es" rend="indl_5">Deductions only proceed according to the laws of deduction,<lb/> but these  laws cannot justify the deduction.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a1.6" n="Ts-201a2,a1[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">One reason for supposing that not all propositions which<lb/> have more than  one argument are relational propositions is that<lb/> if they were, the  relations of judgment and inference would have<lb/> to hold between an  arbitrary number of things.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a1.7" n="Ts-201a2,a1[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">Every proposition which seems to be about a complex can be<lb/> analysed  into a proposition about its constituents and about<lb/> the proposition which  describes the complex perfectly; <abbr type="abb">i.e.</abbr>,<lb/> that  proposition which is equivalent to saying the complex exists.</s>
+          <pb facs="Ts-201a2_a2" rend="recto" n="pagename_Ts-201a2,a2 pageref_00"/>
+          <fw type="pagen">2</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a2.1" n="Ts-201a2,a2[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">The idea that propositions are names of complexes suggests<lb/> that  whatever is not a proper name is a sign for a relation.</s>
+          <lb/>
+          <s type="es">Because spatial complexes<seg type="edcom">*</seg> consist<del type="dn">s</del> of <c type="c">T</c>hings and  <c type="c">R</c>elations<lb/> only and the idea of a complex is taken from  space.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a2.2" n="Ts-201a2,a2[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">In a proposition convert all its indefinables into<lb/> variables; there  then remains a class of propositions which<lb/> is not all propositions but a  type.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a2.3" n="Ts-201a2,a2[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">There are thus two ways in which signs are similar.</s>
+          <s type="es">The<lb/> names <persName key="Sokrates">Socrates</persName> and  <persName key="Platon">Plato</persName> are similar: they are both  names.</s>
+          <s type="es">But<lb/> whatever they have in common must not be introduced before  <persName key="Sokrates">Socrates</persName><lb/> and <persName key="Platon">Plato</persName> are introduced.</s>
+          <s type="es">The same applies to a subject-predicate<lb/> form  <abbr type="abb">etc.</abbr></s>
+          <s type="es">Therefore, thing, proposition, subject-predicate form,<lb/>  <abbr type="abb">etc.</abbr>, are not indefinables, <abbr type="abb">i.e.</abbr>,  types are not indefinables.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a2.4" n="Ts-201a2,a2[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">When we say <seg type="p">A</seg> judges that <abbr type="abb">etc.</abbr>, then we have to  mention<lb/> a whole proposition which <seg type="p">A</seg> judges.</s>
+          <s type="es">It will not do either to<lb/> mention only its constituents, or its  constituents and form, but<lb/> not in the proper order.</s>
+          <s type="es">This shows that a proposition itself<lb/> must occur in the statement that  it is judged; however, for<lb/> instance, “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg>” may be explained, the  question, “<c type="c">W</c>hat is<lb/> negated” must have a  meaning.</s>
+          <emph rend="sepline_h"/>
+          <s type="es">
+            <add rend="ilomm"><seg type="edcom">*</seg><persName key="Russell, Bertrand">Russell</persName> – for instance  imagines every fact as a spatial<lb/> complex.</add>
+          </s>
+          <pb facs="Ts-201a2_a3" rend="recto" n="pagename_Ts-201a2,a3 pageref_00"/>
+          <fw type="pagen">3</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a3.1" n="Ts-201a2,a3[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">To understand a proposition <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> it is not enough to know<lb/> that  <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> implies  ‘“<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>” is true’, but we must  also know that<lb/> <seg type="notation" subtype="logic_propositional connective" rend="literal"><add rend="el_h">~</add>p</seg> implies  “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>  is false”.</s>
+          <s type="es">This shows the bi<add rend="el_h">-</add>polarity of the<lb/> proposition.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a3.2" n="Ts-201a2,a3[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">To every molecular function a  <seg xml:lang="de"><abbr type="abb">WF</abbr></seg><add rend="ilomm"><seg type="noteref" corresp="Ts-201a2:2"><seg type="edcom">*</seg></seg></add> scheme corresponds.</s>
+          <lb/>
+          <s type="es">Therefore we may use the <seg xml:lang="de"><abbr type="abb">WF</abbr></seg> scheme itself instead of  the<lb/> function.</s>
+          <s type="es">Now what the <seg xml:lang="de"><abbr type="abb">WF</abbr></seg> scheme does is, it correlates the<lb/>  letters <seg xml:lang="de"><abbr type="abb">W</abbr></seg> and <seg xml:lang="de"><abbr type="abb">F</abbr></seg> with each  proposition.</s>
+          <s type="es">These two letters<lb/> are the poles of atomic propositions.</s>
+          <s type="es">Then the scheme<lb/> correlates another <seg xml:lang="de"><abbr type="abb">W</abbr></seg> and  <seg xml:lang="de"><abbr type="abb">F</abbr></seg> to these poles.</s>
+          <s type="es">In this notation<lb/> all that matters is the correlation of the outside  poles to<lb/> the poles of the atomic propositions.</s>
+          <s type="es">Therefore <seg type="notation" subtype="logic_propositional formula" rend="literal">not-not-p</seg><lb/> is the same symbol as  <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>.</s>
+          <s type="es">And therefore we shall never get<lb/> two symbols for the same molecular  function.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a3.3" n="Ts-201a2,a3[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">The meaning of a proposition is the fact which actually<lb/> corresponds to  it.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a3.4" n="Ts-201a2,a3[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">As the <seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg> functions of atomic propositions are  bi-polar<lb/> propositions again we can perform  <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph> operations on them.</s>
+          <s type="es">We<lb/> shall, by doing so, correlate two new outside poles via the old<lb/>  outside poles to the poles of the atomic propositions.</s>
+          <emph rend="sepline_h"/>
+          <s type="es">
+            <add rend="ilomm"><seg type="edcom">*</seg><seg xml:lang="de"><abbr type="abb">W-F</abbr></seg>  =   <seg xml:lang="de"><c type="c">W</c>ahr-<c type="c">F</c>alsch</seg>.</add>
+          </s>
+          <pb facs="Ts-201a2_a4" rend="recto" n="pagename_Ts-201a2,a4 pageref_00"/>
+          <fw type="pagen">4</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a4.1" n="Ts-201a2,a4[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">The symbolising fact in <seg type="notation" subtype="logic_nonstandard propositional formula" rend="literal">a-p-b</seg> is that,   <emph rend="us2">say</emph><seg type="edcom">*</seg> <seg type="noteref" corresp="Ts-201a2:3"/> <seg type="p"><emph rend="us1"><seg type="notation" subtype="logic_truth value" rend="literal">a</seg></emph></seg> is on the<lb/> left of  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>  and <seg type="p"><emph rend="us1"><seg type="notation" subtype="logic_truth value" rend="literal">b</seg></emph></seg>  on the right of <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>; then the correlation of new<lb/> poles is to be  transitive, so that for instance if a new pole<lb/> <seg type="p"><emph rend="us1">a</emph></seg> in  whatever way <abbr type="abb">i.e.</abbr> via whatever poles is correlated to  the<lb/> inside <seg type="p"><emph rend="us1">a</emph></seg>, the symbol is not changed thereby.</s>
+          <s type="es">It is therefore<lb/> possible to construct all possible  <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph> functions by performing<lb/> one  <seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal"><emph rend="us1">ab</emph></seg> operation repeatedly, and we  can therefore talk of all<lb/> <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph> functions as of all  those functions which can be obtained<lb/> by performing this  <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph> operation repeatedly.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a4.2" n="Ts-201a2,a4[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <s type="es" rend="indl_5">[Note by <persName key="Russell, Bertrand"><abbr corresp="Bertrand Russell">B.R.</abbr></persName><corr type="tra">:</corr> <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph> means the  same as <seg xml:lang="de"><abbr type="abb">WF</abbr></seg>, which means true-false.]</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a4.3" n="Ts-201a2,a4[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">Naming is like pointing.</s>
+          <s type="es">A function is like a line<lb/> dividing points of a plane into right and  left ones; then<lb/> “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> or <seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg>” has no meaning because  it does not divide the<lb/> plane.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a4.4" n="Ts-201a2,a4[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">But though a particular proposition  “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>  or <seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg>” has no<lb/> meaning, a  general proposition “for all <seg type="notation" subtype="logic_propositional formula" rend="literal">p's</seg>, <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> or <seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg>” has a<lb/> meaning  because this does not contain the nonsensical function<lb/> “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> or  <seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg>” but the function  “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>  or <seg type="notation" subtype="logic_propositional formula" rend="literal">not-q</seg>” just as “for all  <seg type="p">x's</seg><lb/> <seg type="notation" subtype="logic_quantificational formula" rend="literal">xRx</seg>” contains the function  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">xRy</seg>”.</s>
+          <emph rend="sepline_h"/>
+          <s type="es">
+            <add rend="ilomm"><seg type="edcom">*</seg><c type="c">T</c>his is quite  arbitrary but, if we once have fixed on which<lb/> order the poles have to  stand we must of course stick to our con<lb rend="shyphen"/>vention.</add>
+          </s>
+          <add rend="ilomm">
+            <s type="es">If for instance “<seg type="notation" subtype="logic_nonstandard propositional formula" rend="literal">a p b</seg>” says  <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> then  <seg type="notation" subtype="logic_nonstandard propositional formula" rend="literal">b p  a</seg> says <emph rend="us1">nothing</emph>.</s>
+            <lb/>
+            <s type="es">(It does not say <seg type="notation" subtype="logic_propositional formula" rend="literal"><add rend="el_h">~</add>p</seg><corr type="tra">.</corr>)</s>
+            <s type="es">But <seg type="notation" subtype="logic_nonstandard propositional formula" rend="literal">a  - a p b - b</seg> is the same symbol as   <seg type="notation" subtype="logic_nonstandard propositional formula" rend="literal"><corr type="trs"><orig type="trs1">apb</orig><reg type="trs2">a p b</reg></corr></seg><lb/> (here the <seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg> function  vanishes automatically) for here the new<lb/> poles are related to the same  side of <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> as  the old ones.</s>
+            <s type="es">The<lb/> question is always: how are the new poles correlated to  <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>  com<lb rend="shyphen"/>pared with the way the old poles are correlated to  <seg type="notation" subtype="logic_propositional formula" rend="literal"><add rend="el_h">~</add>p</seg>.</s>
+          </add>
+          <lb rend="hl"/>
+          <pb facs="Ts-201a2_a5" rend="recto" n="pagename_Ts-201a2,a5 pageref_00"/>
+          <fw type="pagen">5</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a5.1" n="Ts-201a2,a5[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">A proposition is a standard to which <del type="d">all</del> facts behave, with<lb/> names  it is otherwise; it is thus bi-polarity and sense comes in;<lb/> just as  one arrow behaves to another arrow by being in the same<lb/> sense or the  opposite, so a fact behaves to a proposition.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a5.2" n="Ts-201a2,a5[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">The form of a proposition has meaning in the following way.</s>
+          <lb/>
+          <s type="es">Consider a symbol “<seg type="notation" subtype="logic_quantificational formula" rend="literal">xRy</seg>”.</s>
+          <s type="es">To symbols of this form correspond<lb/> couples of things whose names are  respectively “<seg type="p">x</seg>” and  “<seg type="p">y</seg>”.</s>
+          <s type="es">The<lb/> things <seg type="p"><emph rend="us1">x</emph></seg> <seg type="p"><emph rend="us1">y</emph></seg> stand to one another in  all sorts of relations,<lb/> amongst others some stand in the relation  <seg type="p">R</seg>, and some not; just<lb/> as I single out a particular thing by a  particular name I single<lb/> out all behaviours of the points <seg type="p">x</seg> and  <seg type="p">y</seg> with respect to the<lb/> relation <seg type="p">R</seg>.</s>
+          <s type="es"><c type="k">I</c> say that if an <seg type="p">x</seg> stands in the relation <seg type="p">R</seg> to a<lb/>  <seg type="p">y</seg> the sign “<seg type="notation" subtype="logic_quantificational formula" rend="literal">xRy</seg>” is to be called true to the  fact and otherwise<lb/> false.</s>
+          <s type="es">This is a definition of sense.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a5.3" n="Ts-201a2,a5[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es" rend="indl_5">In my theory <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> has the same meaning as <seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg> but opposite<lb/> sense.</s>
+          <s type="es">The meaning is the fact.</s>
+          <s type="es">The proper theory of<lb/> judgment must make it impossible to judge  nonsense.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a5.4eta6.1" n="Ts-201a2,a5[4]eta6[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">It is not strictly true to say that we understand a<lb/> proposition <seg type="p">p</seg>  if we know that <seg type="p">p</seg> is equivalent to  “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>  is true”<lb/> for this would be the case if accidentally both were  true or<lb/> false.</s>
+          <s type="es">What is wanted is the formal equivalence with respect<lb/> to the forms of  the proposition, <emph rend="us1"><abbr type="abb">i.e.</abbr></emph>, all the general<lb/>  indefinables involved.</s>
+          <s type="es"><emph rend="us1">The sense of</emph> an <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph> function of a  proposition<lb/> is a function of its sense.</s>
+          <s type="es">There are only unasserted propositions.</s>
+          <lb/>
+          <pb facs="Ts-201a2_a6" rend="recto" n="pagename_Ts-201a2,a6 pageref_00"/>
+          <fw type="pagen">6</fw>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">Assertion is merely psychological.</s>
+          <s type="es">In <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg></emph>,  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>  is exactly the<lb/> same as if it stands alone; this point is absolutely  fundamental.</s>
+          <lb/>
+          <s type="es">Among the facts that make “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> or <seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg>” true there are also facts  which<lb/> make “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> and <seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg>” true; if propositions have only  meaning, we ought,<lb/> in such a case, to say that these two propositions are  identical,<lb/> but in fact, their sense is different for we have  introduced<lb/> sense by talking of all <seg type="notation" subtype="logic_propositional formula" rend="literal">p's</seg> and all  <seg type="notation" subtype="logic_propositional formula" rend="literal">q's</seg>.</s>
+          <s type="es">Consequently the<lb/> molecular propositions will only be used in cases  where their<lb/> <seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal"><emph rend="us1">ab</emph></seg> function stands under a  generality sign or enters into<lb/> another function such as “I  believe that,  <abbr type="abb">etc<corr type="trco"><orig type="trco1">”.</orig><reg type="trco2">.”</reg></corr></abbr>, because  then<lb/> the sense enters.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a6.2" n="Ts-201a2,a6[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">In “<seg type="p">a</seg> judges <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>” <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> cannot be replaced by a proper  name.</s>
+          <s type="es">This<lb/> appears if we substitute “<seg type="p">a</seg> judges that  <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> is true  and not <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>  is<lb/> false”.</s>
+          <s type="es">The proposition “<seg type="p">a</seg> judges <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>” consists of the proper name<lb/>  <seg type="p">a</seg>, the proposition <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> with its 2 poles, and <seg type="notation" subtype="logic_truth value" rend="literal"><emph rend="us1">a</emph></seg> being related to<lb/> both of these  poles in a certain way.</s>
+          <s type="es">This is obviously not a<lb/> relation in the ordinary sense.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a6.3" n="Ts-201a2,a6[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">The <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph> notation makes it clear that  <emph rend="us1">not</emph> and <emph rend="us1">or</emph> are dependent<lb/> on one another and we can  therefore not use them as simultaneous<lb/> indefinables.</s>
+          <s type="es">Same objections in the case of apparent variables<lb/> to <add rend="i_h">the  usual</add> old indefinables, as in the  case of molecular functions.</s>
+          <s type="es">The<lb/> application of the <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph> notation to apparent  variable propositions<lb/> becomes clear if we consider that, for instance,  the proposition<lb/> “for all <seg type="notation" subtype="logic_quantificational variable" rend="literal">x</seg>, <seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>x</seg>” is to be  true when <seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>x</seg> is true for all  <seg type="notation" subtype="logic_quantificational variable" rend="literal">x</seg><seg type="p">'s</seg> and<lb/> false when  <seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>x</seg> is false for some  <seg type="p">x's</seg>.</s>
+          <s type="es">We see that <emph rend="us1">some</emph> and <emph rend="us1">all</emph><lb/> occur simultaneously in  the proper apparent variable notation.</s>
+          <pb facs="Ts-201a2_a7" rend="recto" n="pagename_Ts-201a2,a7 pageref_00"/>
+          <fw type="pagen">7</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a7.1" n="Ts-201a2,a7[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">The Notation is:<emph rend="bl_1"/> <emph rend="indl_7"/> for  <seg type="notation" subtype="logic_quantificational formula" rend="literal">(x)  <add rend="el_h">φ</add>x</seg> : <seg type="notation" subtype="logic_nonstandard quantificational formula, quantificational semantics" rend="literal">a -  (x) - a <add rend="el_h">φ</add>x b - (<add rend="el_h">∃</add>  x) - b</seg> <emph rend="right">and</emph><emph rend="bl_1"/>  <emph rend="indl_7"/> for <seg type="notation" subtype="logic_quantificational semantics" rend="literal">(<add rend="el_h">∃</add>x)  <add rend="el_h">φ</add>x</seg> : <seg type="notation" subtype="logic_nonstandard quantificational formula, quantificational semantics" rend="literal">a -  (<add rend="el_h">∃</add>x) - a <add rend="el_h">φ</add>x b -  (x) - b</seg></s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a7.2" n="Ts-201a2,a7[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_6">Old definitions now become tautologous.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a7.3" n="Ts-201a2,a7[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">In <seg type="notation" subtype="logic_quantificational formula" rend="literal">aRb</seg>  it is not the complex that symbolises but the fact<lb/> that the symbol   <seg type="notation" subtype="logic_quantificational constant" rend="literal">a</seg> stands  in a certain relation to the symbol <seg type="notation" subtype="logic_quantificational constant" rend="literal">b</seg>.</s>
+          <lb/>
+          <s type="es">Thus facts are symbolised by facts, or more correctly: that a<lb/>  certain thing is the case in the symbol says that a certain<lb/> thing is the  case in the world.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a7.4" n="Ts-201a2,a7[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">Judgment, question and command are all on the same level.</s>
+          <lb/>
+          <s type="es">What interests logic in them is only the unasserted proposition.</s>
+          <lb/>
+          <s type="es">Facts cannot be named.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a7.5" n="Ts-201a2,a7[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">A proposition cannot occur in itself.</s>
+          <s type="es">This is the fundamental<lb/> truth of the theory of types.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a7.6" n="Ts-201a2,a7[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_5">Every proposition that says something indefinable about one<lb/> thing is a  subject-predicate proposition, and so on.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a7.7" n="Ts-201a2,a7[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">Therefore we can recognize a subject-predicate proposition<lb/> if we  know it contains only one name and one form,  <abbr type="abb">etc.</abbr></s>
+          <s type="es">This<lb/> gives the construction of types.</s>
+          <s type="es">Hence the type of a proposition<lb/> can be recognized by its symbol  alone.</s>
+          <pb facs="Ts-201a2_a8" rend="recto" n="pagename_Ts-201a2,a8 pageref_00"/>
+          <fw type="pagen">8</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a8.1" n="Ts-201a2,a8[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <s type="es" rend="indl_5">What is essential in a correct apparent-variable notation<lb/> is  this:– (1) it must mention a type of propositions;  (2) it<lb/> must show which components of a proposition of this type  are<lb/> constants.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a8.2" n="Ts-201a2,a8[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">[Components are forms and constituents.]</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_a8.3" n="Ts-201a2,a8[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <s type="es" rend="indl_5">Take <seg type="notation" subtype="logic_nonstandard quantificational formula, nonstandard type-theoretic formula" rend="literal">(<add rend="el_h">φ</add>).  <add rend="el_h">φ</add>!x</seg>.</s>
+          <s type="es">Then if we describe the <emph rend="us1">kind</emph> of symbols,<lb/> for which  <seg type="notation" subtype="logic_nonstandard quantificational formula, definite description" rend="literal"><add rend="el_h">φ</add>!</seg> stands and  which, by the above, is enough to<lb/> determine the type, then automatically  “<seg type="notation" subtype="logic_nonstandard quantificational formula, nonstandard type-theoretic formula" rend="literal">(<add rend="el_h">φ</add>).  <add rend="el_h">φ</add>! x</seg>” cannot be<lb/> fitted by this  description, because it <emph rend="us1"><emph rend="cap">contains</emph></emph>  “<seg type="notation" subtype="logic_nonstandard quantificational formula, definite description" rend="literal"><add rend="el_h">φ</add>!x</seg>” and  the<lb/> description is to describe <emph rend="us1"><emph rend="cap">all</emph></emph> that symbolises in  symbols of<lb/> the <seg type="notation" subtype="logic_nonstandard quantificational formula, definite description" rend="literal"><add rend="el_h">φ</add>!</seg>  kind.</s>
+          <s type="es">If the description is <emph rend="us1">thus</emph> complete vicious<lb/> circles can just  as little occur as for instance <seg type="notation" subtype="logic_nonstandard quantificational formula, nonstandard type-theoretic formula" rend="literal">(<add rend="el_h">φ</add>).  (X)<add rend="el_h"><emph rend="sub">φ</emph></add></seg><lb/> (where   <seg type="notation" subtype="logic_nonstandard quantificational formula, nonstandard type-theoretic formula" rend="literal">(X)<add rend="el_h"><emph rend="sub">φ</emph></add></seg> is a  subject-predicate proposition).</s>
+          <emph rend="bl_2"/>
+          <pb facs="Ts-201a2_b1" rend="recto" n="pagename_Ts-201a2,b1 pageref_00"/>
+          <fw type="pagen">1</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b1.1" n="Ts-201a2,b1[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="fm-title">
+            <s type="es">
+              <seg type="edcom"><emph rend="us1">First <abbr type="abb">MS</abbr></emph>.</seg>
+            </s>
+          </seg>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b1.2" n="Ts-201a2,b1[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">Indefinables are of two sorts: names, and forms.</s>
+          <s type="es">Propositions<lb/> cannot consist of names alone; they cannot be classes of  names.</s>
+          <lb/>
+          <s type="es">A name can not only occur in two different propositions, but can<lb/> occur  in the same way in both.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b1.3" n="Ts-201a2,b1[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_5">Propositions [which are symbols having reference to facts]<lb/> are  themselves facts: that this inkpot is on this table may<lb/> express  that I sit in this chair.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b1.4" n="Ts-201a2,b1[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">It can never express the common characteristic of two<lb/> objects that we  designate them by the same name but by two<lb/> different ways of designation,  for, since names are arbitrary,<lb/> we might also choose different names, and  where then would be<lb/> the common element in the designations?</s>
+          <s type="es">Nevertheless one is<lb/> always tempted, in a difficulty, to take refuge in  different<lb/> ways of designation.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b1.5" n="Ts-201a2,b1[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es"><persName key="Frege, Gottlob"><c type="k">F</c>rege</persName> said  “propositions are names”; <persName key="Russell, Bertrand">Russell</persName> said<lb/> “propositions correspond to  complexes”.</s>
+          <s type="es">Both are false; and<lb/> especially false is the statement  “propositions are names of<lb/> complexes.”</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b1.6" n="Ts-201a2,b1[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">It is easy to suppose that only such symbols are complex as<lb/> contain  names of objects, and that accordingly “<seg type="notation" subtype="logic_quantificational formula" rend="literal">(<add rend="el_h">∃</add>x,<add rend="el_h">φ</add>).  <add rend="el_h">φ</add>x</seg>”<lb/> or  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">(<add rend="el_h">∃x,y</add>). x R y</seg>” must be  simple.</s>
+          <s type="es">It is then natural to<lb/> call the first of these the name of a form, the  second the name<lb/> of a relation.</s>
+          <s type="es">But in that case what is the meaning of  (<abbr type="abb">e.g.</abbr>)<lb/>  “<seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">~</add>(<add rend="el_h">∃</add>x<add rend="el_h">,</add>y).  x R y</seg>”?</s>
+          <s type="es">Can we put “not” before a name?</s>
+          <pb facs="Ts-201a2_b2" rend="recto" n="pagename_Ts-201a2,b2 pageref_00"/>
+          <fw type="pagen">2</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b2.1" n="Ts-201a2,b2[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">The reason why “<add rend="el_h">~</add><persName key="Sokrates">Socrates</persName>” means nothing is that  “<seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">~</add>x</seg>” does<lb/> not express a  property of <seg type="notation" subtype="logic_quantificational variable" rend="literal"><emph rend="us1">x</emph></seg>.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b2.2" n="Ts-201a2,b2[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">There are positive and negative facts: if the proposition<lb/>  “this rose is not red” is true, then what it signifies is  negative.</s>
+          <lb/>
+          <s type="es">But the occurrence of the word “not” does not indicate  this unless<lb/> we know that the signification of the proposition  “this rose is<lb/> red” (when it is true) is  positive.</s>
+          <s type="es">It is only from both, the<lb/> negation and the negated proposition, that we  can conclude to a<lb/> characteristic of the significance of the whole  proposition.</s>
+          <s type="es">(We<lb/> are not here speaking of negations of <emph rend="us1">general</emph>  propositions, <abbr type="abb">i.e.</abbr><lb/> of such as contain apparent  variables.</s>
+          <s type="es">Negative facts only<lb/> justify the negations of atomic  propositions.)</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b2.3" n="Ts-201a2,b2[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_5"><emph rend="us1">Positive</emph> and <emph rend="us1">negative</emph> facts there are, but not  <emph rend="us1">true</emph> and<lb/> <emph rend="us1">false</emph> facts.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b2.4etb3.1" n="Ts-201a2,b2[4]etb3[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">If we overlook the fact that propositions have a <emph rend="us1">sense</emph> which<lb/>  is independent of their truth or falsehood, it easily seems as if<lb/> true  and false were two equally justified relations between the<lb/> sign and what  is signified.</s>
+          <s type="es">(We might then say <abbr type="abb">e.g.</abbr> that  “<seg type="notation" subtype="logic_propositional formula" rend="literal"><emph rend="us1">q</emph></seg>”<lb/> <emph rend="us1">signifies</emph> in the true way what  “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-<emph rend="us1">q</emph></seg>”  <emph rend="us1">signifies</emph> in the false<lb/> way).</s>
+          <s type="es">But are not true and false in fact equally justified?</s>
+          <s type="es">Could<lb/> we not express ourselves by means of false propositions just  as<lb/> well as hitherto with true ones, so long as we know that they<lb/> are  meant falsely?</s>
+          <s type="es">No!</s>
+          <s type="es">For a proposition is then true when<lb/>  <pb facs="Ts-201a2_b3" rend="recto" n="pagename_Ts-201a2,b3 pageref_00"/><fw type="pagen">3</fw> it is as we assert in this proposition; and  accordingly if<lb/> by “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg></emph>” we mean  “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">not-q</seg></emph>”, and it is as we  mean to assert, then<lb/> in the new interpretation  “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg></emph>” is actually true and  <emph rend="us1">not</emph> false.</s>
+          <lb/>
+          <s type="es">But it is important that we <emph rend="us1">can</emph> mean the same by  “<seg type="notation" subtype="logic_propositional formula" rend="literal"><emph rend="us1">q</emph></seg>” as by<lb/>  “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-q</seg>”, for it shows that  neither to the symbol “not” nor to<lb/> the manner of its  combination with “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg></emph>” does a characteristic<lb/>  of the denotation of “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg></emph>” correspond.</s>
+          <emph rend="bl_2"/>
+          <pb facs="Ts-201a2_b4" rend="recto" n="pagename_Ts-201a2,b4 pageref_00"/>
+          <fw type="pagen">4</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b4.1" n="Ts-201a2,b4[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: First MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="fm-title">
+            <s type="es">
+              <seg type="edcom"><emph rend="us1">Second <abbr type="abb">MS</abbr></emph>.</seg>
+            </s>
+          </seg>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b4.2" n="Ts-201a2,b4[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">We must be able to understand propositions which we have<lb/> never heard  before.</s>
+          <s type="es">But every proposition is a new symbol.</s>
+          <lb/>
+          <s type="es">Hence we must have <emph rend="us1">general</emph> indefinable symbols; these are<lb/>  unavoidable if propositions are not all indefinable.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b4.3" n="Ts-201a2,b4[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">Whatever corresponds in reality to compound propositions<lb/> must not be  more than what corresponds to their several atomic<lb/> propositions.</s>
+          <lb rend="hl"/>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b4.4" n="Ts-201a2,b4[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_5">Not only must logic not deal with [particular] things, but<lb/> just  as little with relations and predicates.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b4.5" n="Ts-201a2,b4[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">There are no propositions containing real variables.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b4.6" n="Ts-201a2,b4[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">What corresponds in reality to a proposition depends upon<lb/> whether it is  true or false.</s>
+          <s type="es">But we must be able to understand<lb/> a proposition without knowing if it  is true or false.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b4.7" n="Ts-201a2,b4[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_5">What we know when we understand a proposition is this: <c type="c">W</c>e<lb/>  know what is the case if the proposition is true, and what is<lb/> the case if  it is false.</s>
+          <s type="es">But we do not know [necessarily]<lb/> whether it is true or  false.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b4.8" n="Ts-201a2,b4[8]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_5">Propositions are not names.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b4.9" n="Ts-201a2,b4[9]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">We can never distinguish one logical type from another by<lb/> attributing a  property to members of the one which we deny to<lb/> members of the  other.</s>
+          <pb facs="Ts-201a2_b5" rend="recto" n="pagename_Ts-201a2,b5 pageref_00"/>
+          <fw type="pagen">5</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b5.1" n="Ts-201a2,b5[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">Symbols are not what they seem to be.</s>
+          <s type="es">In “<seg type="notation" subtype="logic_quantificational formula" rend="literal">a  R b</seg>”, “<seg type="notation" subtype="logic_quantificational formula" rend="literal">R</seg>”<lb/> looks like a substantive,  but is not one.</s>
+          <s type="es">What symbolizes<lb/> in “<seg type="notation" subtype="logic_quantificational formula" rend="literal"><emph rend="us1">a</emph> R <emph rend="us1">b</emph></seg>” is that  <seg type="notation" subtype="logic_quantificational formula" rend="literal">R</seg> occurs  between <emph rend="us1"><seg type="notation" subtype="logic_quantificational constant" rend="literal">a</seg></emph> and  <seg type="p"><emph rend="us1"><seg type="notation" subtype="logic_quantificational constant" rend="literal">b</seg></emph></seg>.</s>
+          <s type="es">Hence “<seg type="notation" subtype="logic_quantificational formula" rend="literal">R</seg>” is<lb/> <emph rend="us1">not</emph> the  indefinable in “<seg type="notation" subtype="logic_quantificational constant" rend="literal"><emph rend="us1">a</emph> R  <emph rend="us1">b</emph></seg>”.</s>
+          <s type="es">Similarly in “<seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>x</seg>”,  “<seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add></seg>”<lb/> looks like a substantive  but is not one; in “<seg type="notation" subtype="logic_propositional formula" rend="literal"><add rend="el_h">~</add>p</seg>”,  “<seg type="notation" subtype="logic_propositional connective" rend="literal"><add rend="el_h">~</add></seg>”  looks<lb/> like “<seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add></seg>” but is not  like it.</s>
+          <s type="es">This is the first thing that<lb/> indicates that there <emph rend="us1">may</emph> not be  logical constants.</s>
+          <s type="es">A reason<lb/> against them is the generality of logic: logic cannot  treat<lb/> a special set of things.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b5.2" n="Ts-201a2,b5[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">Molecular propositions contain nothing beyond what is<lb/> contained in  their atoms; they add no material information<lb/> above that contained in  their atoms.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b5.3" n="Ts-201a2,b5[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_5">All that is essential about molecular functions is their<lb/>  <abbr type="abb">T-F</abbr> schema [<abbr type="abb">i.e.</abbr> the statement of the  cases when they are true<lb/> and the cases when they are false].</s>
+          <lb rend="hl"/>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b5.4" n="Ts-201a2,b5[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">Alternative indefinability shows that the indefinables<lb/> have not been  reached.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b5.5" n="Ts-201a2,b5[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">Every proposition is essentially true-false: to understand<lb/>  it, we must know both what must be the case if it is true, and<lb/> what must  be the case if it is false.</s>
+          <s type="es">Thus a proposition<lb/> has two <emph rend="us1">poles</emph>, corresponding to the case  of its truth and the<lb/> case of its falsehood.</s>
+          <s type="es">We call this the <emph rend="us1">sense</emph> of a proposition.</s>
+          <pb facs="Ts-201a2_b6" rend="recto" n="pagename_Ts-201a2,b6 pageref_00"/>
+          <fw type="pagen">6</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b6.1" n="Ts-201a2,b6[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">In regard to notation, it is important to note that not<lb/> every feature  of a symbol symbolizes.</s>
+          <s type="es">In two molecular<lb/> functions which have the same <abbr type="abb">T-F</abbr>  schema, what symbolizes<lb/> must be the same.</s>
+          <s type="es">In “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-not-<emph rend="us1">p</emph></seg>”,  “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-<emph rend="us1">p</emph></seg>” does not  occur;<lb/> for “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-not-<emph rend="us1">p</emph></seg>” is the  same as “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>”, and therefore, if  “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg></emph>”<lb/> occurred in  “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">not-not-p</seg></emph>”, it would  occur in “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>”.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b6.2" n="Ts-201a2,b6[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">Logical indefinables cannot be predicates or relations,<lb/> because  propositions, owing to sense, cannot have predicates<lb/> or  relations.</s>
+          <s type="es">Nor are “not” and “or”, like  judgment,<lb/> <emph rend="us1">analogous</emph> to predicates or relations, because they do  not<lb/> introduce anything new.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b6.3" n="Ts-201a2,b6[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">Propositions are always complex even if they contain no<lb/> names.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b6.4" n="Ts-201a2,b6[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">A proposition must be understood when <emph rend="us1">all</emph> its indefinables<lb/>  are understood.</s>
+          <s type="es">The indefinables in “<seg type="notation" subtype="logic_quantificational formula" rend="literal">a R b</seg>” are introduced<lb/> as  follows:<emph rend="bl_1"/> <emph rend="indl_5"/>  “<emph rend="us1"><seg type="notation" subtype="logic_quantificational constant" rend="literal">a</seg></emph>” is indefinable;  <emph rend="indl_5"/> “<seg type="p"><emph rend="us1"><seg type="notation" subtype="logic_quantificational constant" rend="literal">b</seg></emph></seg>” is indefinable;  <emph rend="indl_5"/> <c type="c">W</c>hatever “<seg type="notation" subtype="logic_quantificational variable" rend="literal">x</seg>” and “<seg type="p">y</seg>”  may mean, “<seg type="notation" subtype="logic_quantificational variable" rend="literal">x R y</seg>” says something<lb/>  indefinable about their meaning.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b6.5" n="Ts-201a2,b6[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">A complex symbol must never be introduced as a single<lb/>  indefinable.</s>
+          <s type="es">[Thus <abbr type="abb">e.g.</abbr> no proposition is  indefinable<corr type="trsn"><orig type="trsn1">)</orig><reg type="trsn2">]</reg></corr>.</s>
+          <s type="es">For<lb/> if one of its parts occurs also in another connection, it must<lb/>  there be re-introduced.</s>
+          <s type="es">And would it then mean the same?</s>
+          <pb facs="Ts-201a2_b7" rend="recto" n="pagename_Ts-201a2,b7 pageref_00"/>
+          <fw type="pagen">7</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b7.1" n="Ts-201a2,b7[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_5">The ways by which we introduce our indefinables must permit<lb/> us to  construct all propositions that have sense [<seg type="edcom"><corr type="tra">˓</corr>﹖<corr type="tra">˒</corr></seg> meaning]<lb/>  from these indefinables <emph rend="us1">alone</emph>.</s>
+          <s type="es">It is easy to introduce “all”<lb/> and  “some” in a way that will make the construction of  (say)<lb/> “<seg type="notation" subtype="logic_quantificational formula" rend="literal">(x, y). x R y</seg>” possible  from “all” and  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x R  y</seg>” <emph rend="us1">as introduced<lb/> before</emph>.</s>
+          <emph rend="bl_2"/>
+          <pb facs="Ts-201a2_b8" rend="recto" n="pagename_Ts-201a2,b8 pageref_00"/>
+          <fw type="pagen">8</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b8.1" n="Ts-201a2,b8[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Second MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="fm-title">
+            <s type="es">
+              <seg type="edcom"><emph rend="us1"><seg type="p">3rd.</seg><abbr type="abb">MS</abbr></emph>.</seg>
+            </s>
+          </seg>
+          <lb rend="hl"/>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b8.2" n="Ts-201a2,b8[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">An analogy for the theory of truth: <c type="c">C</c>onsider a black patch<lb/>  on white paper; then we can describe the form of the patch by<lb/> mentioning,  for each point of the surface, whether it is white<lb/> or black.</s>
+          <s type="es">To the fact that a point is black corresponds a<lb/> positive fact, to the  fact that a point is white (not black)<lb/> corresponds a negative  fact.</s>
+          <s type="es">If I designate a point of the<lb/> surface (one of  <persName key="Frege, Gottlob">Frege's</persName>  “truth-values”), this is as if I set up<lb/> an  assumption to be decided upon.</s>
+          <s type="es">But in order to be able to<lb/> say of a point that it is black or that it  is white, I must first<lb/> know when a point is to be called black and when  it is to be<lb/> called white.</s>
+          <s type="es">In order to be able to say that “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>” is true<lb/> (or false), I  must first have determined under what circumstances<lb/> I call a proposition  true, and thereby I determine the <emph rend="us1">sense</emph><lb/> of a  proposition.</s>
+          <s type="es">The point in which the analogy fails is<lb/> this: I can indicate a  point of the paper what is white  and<lb/> black, but to a proposition without sense nothing corresponds,<lb/> for  it does not designate a thing (truth-value), whose<lb/> properties  might be called “false” or “true”; the  verb of a<lb/> proposition is not “is true” or “is  false”, as <persName key="Frege, Gottlob">Frege</persName>  believes,<lb/> but what is true must already contain the verb.</s>
+          <lb rend="hl"/>
+          <pb facs="Ts-201a2_b9" rend="recto" n="pagename_Ts-201a2,b9 pageref_00"/>
+          <fw type="pagen">9</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b9.1" n="Ts-201a2,b9[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">The comparison of language and reality is like that of<lb/> retinal image  and visual image: to the blind spot nothing in<lb/> the visual image  seems to correspond, and thereby the boundaries<lb/> of the blind spot  determine the visual image – as true negations<lb/> of atomic  propositions determine reality.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b9.2" n="Ts-201a2,b9[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">Logical inferences can, it is true, be made in accordance<lb/> with  <persName key="Frege, Gottlob">Frege's</persName> or  <persName key="Russell, Bertrand">Russell's</persName> laws of  deduction, but this cannot<lb/> justify the inference; and therefore they are  not primitive<lb/> propositions of logic.</s>
+          <s type="es">If <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph> follows from  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg></emph>,  it can also be<lb/> inferred from <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg></emph>, and the “manner of  deduction” is indifferent.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b9.3" n="Ts-201a2,b9[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">Those symbols which are called propositions in which<lb/>  “variables occur” are in reality not propositions at all,  but<lb/> only schemes of propositions, which only become propositions<lb/> when  we replace the variables by constants.</s>
+          <s type="es">There is no<lb/> proposition which is expressed by  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x  =   x</seg>”, for “<seg type="p">x</seg>” has no<lb/>  signification; but there is a proposition “<seg type="notation" subtype="logic_quantificational formula" rend="literal">(x). x   =  x</seg>” and propositions such as  “<persName key="Sokrates">Socrates</persName>  =   <persName key="Sokrates">Socrates</persName>”  <abbr type="abb">etc.</abbr></s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b9.4etb10.1" n="Ts-201a2,b9[4]etb10[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">In books on logic, no variables ought to occur, but only<lb/> the general  propositions which justify the use of variables.</s>
+          <lb/>
+          <s type="es">It follows that the so-called definitions of logic are not<lb/>  definitions, but only schemes of definitions, and instead of<lb/> these we  ought to put general propositions; and similarly the<lb/> so-called  primitive ideas (<seg xml:lang="de">Urzeichen</seg>) of logic are not primitive<lb/>  ideas, but the schemes of them.</s>
+          <s type="es">The mistaken idea that there<lb/> <pb facs="Ts-201a2_b10" rend="recto" n="pagename_Ts-201a2,b10 pageref_00"/><fw type="pagen">10</fw> are things called facts or complexes and  relations easily leads<lb/> to the opinion that there must be a relation of  <emph rend="us1_h">questioning</emph><add rend="irm_h"><seg type="edcom">(<seg type="edcom">﹖</seg>)</seg></add>  to<lb/> the facts, and then the question arises whether a relation can<lb/> hold  between an arbitrary number of things, since a fact can<lb/> follow from  arbitrary cases.</s>
+          <s type="es">It is a fact that the proposition<lb/> which <abbr type="abb">e.g.</abbr>  expresses that <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg></emph> follows from  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>  and <seg type="notation" subtype="logic_propositional formula" rend="literal">p  <add rend="el_h">⊃</add> q</seg> is this:<lb/>  <seg type="notation" subtype="logic_propositional formula" rend="literal">p. p  <add rend="el_h">⊃</add> q. <add rend="el_h">⊃</add>  <add rend="el_h"><emph rend="sub">p.q</emph></add>.q</seg>.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b10.2" n="Ts-201a2,b10[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">At a pinch, one is tempted to interpret “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg></emph>” as  “everything<lb/> else, only not <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>”.</s>
+          <s type="es">That from a single fact <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph> an infinity of<lb/> others,  <seg type="notation" subtype="logic_propositional formula" rend="literal">not-not-p</seg> <abbr type="abb">etc.</abbr>, follow, is hardly  credible.</s>
+          <s type="es">Man<lb/> possesses an innate capacity for constructing symbols with<lb/> which  <emph rend="us1">some</emph> sense can be expressed, without having the slightest<lb/> idea  what each word signifies.</s>
+          <s type="es">The best example of this is<lb/> mathematics, for man has until lately used  the symbols for<lb/> numbers without knowing what they signify or that they  signify<lb/> nothing.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b10.3" n="Ts-201a2,b10[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es"><persName key="Russell, Bertrand"><c type="k">R</c>ussell's</persName>  “complexes” were to have the useful property of<lb/> being  compounded, and were to combine with this the agreeable<lb/> property that  they could be treated like “simples”.</s>
+          <s type="es">But this<lb/> alone made them unserviceable as logical types, since there  would<lb/> have been significance in asserting, of a simple, that it was<lb/>  complex.</s>
+          <s type="es">But a <emph rend="us1">property</emph> cannot be a logical type.</s>
+          <pb facs="Ts-201a2_b11" rend="recto" n="pagename_Ts-201a2,b11 pageref_00"/>
+          <fw type="pagen">11</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b11.1" n="Ts-201a2,b11[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">Every statement about apparent complexes can be resolved<lb/> into the  logical sum of a statement about the constituents and<lb/> a statement about  the proposition which describes the complex<lb/> completely.</s>
+          <s type="es">How, in each case, the resolution is to be made,<lb/> is an important  question, but its answer is not unconditionally<lb/> necessary for the  construction of logic.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b11.2" n="Ts-201a2,b11[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">That “or” and “not”  <abbr type="abb">etc.</abbr> are not relations in the same<lb/> sense as  “right” and “left” <abbr type="abb">etc.</abbr>,  is obvious to the plain man.</s>
+          <lb/>
+          <s type="es">The possibility of cross-definitions in the old logical<lb/>  indefinables shows, of itself, that these are not the right<lb/> indefinables,  and, even more conclusively, that they do not<lb/> denote relations.</s>
+          <lb rend="hl"/>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b11.3" n="Ts-201a2,b11[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">If we change a constituent <seg type="p"><emph rend="us1">a</emph></seg> of a proposition  <seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>(a)</seg> into<lb/> a  variable, then there is a class <emph rend="centered"><seg type="notation" subtype="logic_quantificational formula, type-theoretic formula" rend="literal"><table rend="table"><row><cell rend="column" n="1">^<lb rend="hl"/>p<lb rend="hl"/></cell></row></table><add rend="el_h">{</add>(<add rend="el_h">∃</add>x).  <add rend="el_h">φ</add>(x)  =  p<add rend="el_h">}</add></seg>.</emph></s>
+          <s type="es">This class in general still depends upon what, by an  <emph rend="us1">arbitrary</emph><lb/> <emph rend="us1">convention</emph>, we mean by  “<seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>(x)</seg>”.</s>
+          <s type="es">But if we change into<lb/> variables all those symbols whose significance  was arbitrarily<lb/> determined, there is still such a class.</s>
+          <s type="es">But this is now not<lb/> dependent upon any convention, but only upon the  nature of the<lb/> symbol “<seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>(x)</seg>”.</s>
+          <s type="es">It corresponds to a logical type.</s>
+          <pb facs="Ts-201a2_b12" rend="recto" n="pagename_Ts-201a2,b12 pageref_00"/>
+          <fw type="pagen">12</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b12.1" n="Ts-201a2,b12[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">Types can never be distinguished from each other by saying<lb/> (as is  often done) that one has these <emph rend="us1">but</emph> the other has those<lb/>  properties, for this presupposes that there is a <emph rend="us1">meaning</emph> in<lb/>  asserting all these properties of both types.</s>
+          <s type="es">But from this<lb/> it follows that, at best, these properties may be types,  but<lb/> certainly not the objects of which they are asserted.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b12.2" n="Ts-201a2,b12[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">At a pinch we are always inclined to explanations of<lb/> logical functions  of propositions which aim at introducing into<lb/> the function either only  the constituents of these propositions,<lb/> or only their form,  <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr>; and we overlook that ordinary<lb/>  language would not contain the whole propositions if it did<lb/> not need  them: <c type="c">H</c>owever, <abbr type="abb">e.g.</abbr>,  “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg></emph>” may be explained,  there<lb/> must always be a meaning given to the question “what is  denied?”</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b12.3" n="Ts-201a2,b12[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">The very possibility of <persName key="Frege, Gottlob">Frege's</persName> explanations of “<seg type="notation" subtype="logic_quantificational formula" rend="literal">not-p</seg>”<lb/> and “if  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>  then <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg></emph>”, from which it follows that  “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-not-p</seg>” denotes<lb/> the  same as <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>, makes it probable that there is some  method of<lb/> designation in which   “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-not-<emph rend="us1">p</emph></seg>” corresponds to the  same<lb/> symbol as “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>”.</s>
+          <s type="es">But if this method of designation suffices<lb/> for logic, it must be the  right one.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b12.4" n="Ts-201a2,b12[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">Names are points, propositions arrows – they have  <emph rend="us1">sense</emph>.</s>
+          <lb/>
+          <s type="es">The sense of a proposition is determined by the two poles  <emph rend="us1">true</emph><lb/> and <emph rend="us1">false</emph>.</s>
+          <s type="es">The form of a proposition is like a straight line,<lb/> which divides all  points of a plane into right and left.</s>
+          <s type="es">The<lb/> line does this autom<add rend="im_h">at</add>ically, the form of proposition  only by<lb/> convention.</s>
+          <pb facs="Ts-201a2_b13" rend="recto" n="pagename_Ts-201a2,b13 pageref_00"/>
+          <fw type="pagen">13</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b13.1" n="Ts-201a2,b13[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">Just as little as we are concerned, in logic, with the<lb/> relation of a  name to its meaning, just so little are we<lb/> concerned with the relation of  a proposition to reality, but<lb/> we want to know the meaning of names and  the sense of propositions<lb/> as we introduce an indefinable concept  “<seg type="p">A</seg>” by saying:  “‘<seg type="p">A</seg>’<lb/> denotes something  indefinable”, so we introduce <abbr type="abb">e.g.</abbr> the  form<lb/> of propositions <seg type="notation" subtype="logic_quantificational formula" rend="literal"><emph rend="us1">a</emph> R <emph rend="us1">b</emph></seg> by saying:  “<c type="c">F</c>or all meanings of  “<seg type="notation" subtype="logic_quantificational variable" rend="literal">x</seg>”<lb/> and  “<seg type="notation" subtype="logic_quantificational variable" rend="literal">y</seg>”,  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x R  y</seg>” expresses something indefinable about <seg type="p">x</seg> and  <seg type="p">y</seg>”.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b13.2" n="Ts-201a2,b13[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">In place of every proposition “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>”, let us write   “<seg type="notation" subtype="logic_nonstandard propositional formula" rend="literal"><add rend="el_h"><table rend="table"><row><cell rend="column" n="1">a<lb rend="hl"/>b<lb rend="hl"/></cell></row></table></add>p</seg>”.</s>
+          <lb/>
+          <s type="es">Let every correlation of propositions to each other or of names<lb/> to  propositions be effected by a correlation of their poles<lb/>  “<seg type="p">a</seg>” and “<seg type="p">b</seg>”.</s>
+          <s type="es">Let this correlation be transitive.</s>
+          <s type="es">Then<lb/> accordingly “<seg type="notation" subtype="logic_nonstandard propositional formula" rend="literal"><add rend="el_h"><table rend="table"><row><cell rend="column" n="1">a ‒ a<lb rend="hl"/>b ‒ b<lb rend="hl"/></cell></row></table></add>p</seg>” is the same  symbol as “<seg type="notation" subtype="logic_nonstandard propositional formula" rend="literal"><add rend="el_h"><table rend="table"><row><cell rend="column" n="1">a<lb rend="hl"/>b<lb rend="hl"/></cell></row></table></add>p</seg>”.</s>
+          <s type="es">Let <seg type="p"><emph rend="us1">n</emph></seg><lb/> propositions be given.</s>
+          <s type="es"><c type="k">I</c> then call a “class of poles” of these<lb/>  propositions every class of <seg type="p"><emph rend="us1">n</emph></seg> members, of which each is a  pole<lb/> of one of the <seg type="p"><emph rend="us1">n</emph></seg> propositions, so that one member  corresponds<lb/> to each proposition.</s>
+          <s type="es"><c type="k">I</c> then correlate with each class of<lb/> poles one of two poles  (<seg type="p"><emph rend="us1">a</emph></seg> and <seg type="p"><emph rend="us1">b</emph></seg>).</s>
+          <s type="es">The sense of the symbolizing<lb/> fact thus constructed I cannot define, but  I know it.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b13.3" n="Ts-201a2,b13[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">If <seg type="notation" subtype="logic_propositional formula" rend="literal">p  =   not-not-p</seg> <abbr type="abb">etc.</abbr>, this shows that the  traditional<lb/> method of symbolism is wrong, since it allows a plurality  of<lb/> symbols with the same sense; and thence it follows that, in<lb/>  analyzing such propositions, we must not be guided by  <persName key="Russell, Bertrand">Russell's</persName><lb/> method of  symbolizing.</s>
+          <pb facs="Ts-201a2_b14" rend="recto" n="pagename_Ts-201a2,b14 pageref_00"/>
+          <fw type="pagen">14</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b14.1" n="Ts-201a2,b14[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">It is to be remembered that names are not things, but<lb/> classes:  “<seg type="p">A</seg>” is the same letter as  “<seg type="p">A</seg>”.</s>
+          <s type="es">This has the most<lb/> important consequences for every symbolic  language.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b14.2" n="Ts-201a2,b14[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">Neither the sense nor the meaning of a proposition is a<lb/> thing.</s>
+          <s type="es">These words are incomplete symbols.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b14.3" n="Ts-201a2,b14[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">It is impossible to dispense with propositions in which<lb/> the same  argument occurs in different positions.</s>
+          <s type="es">It is<lb/> obviously useless to replace <seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>(a, a)</seg> by  <seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>(a, b). a  =  b</seg>.</s>
+          <lb rend="hl"/>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b14.4" n="Ts-201a2,b14[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">Since the <seg type="p"><emph rend="us1">ab</emph>-</seg>functions of  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>  are again bi-polar propositions,<lb/> we can form  <seg type="p"><emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph>-</seg>functions of them, and so  on.</s>
+          <s type="es">In this way a<lb/> series of propositions will arise, in which in general  the<lb/> <emph rend="us1">symbolizing</emph> facts will be the same in several  members.</s>
+          <s type="es">If now<lb/> we find an <seg type="p"><emph rend="us1">ab</emph>-</seg>function of such a kind that  by repeated application<lb/> of it every <seg type="p">ab-</seg>function can be  generated, then we can introduce<lb/> the totality of <seg type="p">ab-</seg>functions  as the totality of those that are<lb/> generated by application of this  function.</s>
+          <s type="es">Such a function is<lb/> <seg type="notation" subtype="logic_propositional formula, Sheffer stroke" rend="literal"><add rend="el_h">~</add>p <add rend="el_h"> ⌵   ~</add>q</seg>.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b14.5etb15.1" n="Ts-201a2,b14[5]etb15[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">It is easy to suppose a contradiction in the fact that on<lb/> the one hand  every possible complex proposition is a simple  <seg type="p"><emph rend="us1">ab</emph><lb rend="divl"/></seg>function of simple propositions, and that on the  other hand the<lb/> repeated application of one <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph>-function suffices to generate  all<lb/> these propositions.</s>
+          <s type="es">If <abbr type="abb">e.g.</abbr> an affirmation can be generated by<lb/> double  negation, is negation in any sense contained in affirmation?</s>
+          <lb/>
+          <s type="es">Does “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>” deny  “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg>” or assert  “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>”, or both?</s>
+          <s type="es">And how do<lb/> <pb facs="Ts-201a2_b15" rend="recto" n="pagename_Ts-201a2,b15 pageref_00"/><fw type="pagen">15</fw> matters stand with the definition of  “<add rend="el_h">⊃</add>” by  “<add rend="el_h"> ⌵ </add>” and  “.”,<lb/> or of  “<add rend="el_h"> ⌵ </add>” by “.” and  “<add rend="el_h">⊃</add>”?</s>
+          <s type="es">And how <abbr type="abb">e.g.</abbr> shall we introduce<lb/>  <seg type="notation" subtype="logic_propositional formula" rend="literal">p<choice type="o"><orig type="o1">“</orig><orig type="o2"><add rend="el_h"> ∣ </add></orig></choice>q</seg>  (<abbr type="abb">i.e.</abbr> <seg type="notation" subtype="logic_propositional formula" rend="literal"><add rend="el_h">~</add>p <add rend="el_h"> ⌵   ~</add>q</seg>), if not by saying that this expression<lb/>  says something indefinable about all arguments  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>  and <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg></emph>?</s>
+          <s type="es">But<lb/> the <seg type="p"><emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab</seg></emph>-</seg>functions must be  introduced as follows: <c type="c">T</c>he function<lb/>  <seg type="notation" subtype="logic_propositional formula" rend="literal">p<choice type="o"><orig type="o1">“</orig><orig type="o2"><add rend="el_h"> ∣ </add></orig></choice>q</seg> is  merely a mechanical instrument for constructing all<lb/> possible  <emph rend="us1">symbols</emph> of <seg type="p"><emph rend="us1">ab</emph>-</seg>functions.</s>
+          <s type="es">The symbols arising by<lb/> repeated application of the symbol  “<add rend="el_h">|</add>” do <emph rend="us1">not</emph> contain the<lb/> symbol  “<seg type="notation" subtype="logic_propositional formula" rend="literal">p<add rend="el_h"> ∣ </add>q</seg>”.</s>
+          <s type="es">We need a rule according to which we can form<lb/> all symbols of  <seg type="p"><emph rend="us1">ab</emph>-</seg>functions, in order to be able to speak of<lb/> the  class of them; and we now speak of them <abbr type="abb">e.g.</abbr> as  those<lb/> symbols of functions which can be generated by repeated<lb/>  application of the operation “<add rend="el_h">|</add>”.</s>
+          <s type="es">And we say now: <c type="c">F</c>or all<lb/> <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>'s and <seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg>'s,  “<seg type="notation" subtype="logic_propositional formula, Sheffer stroke" rend="literal">p<add rend="el_h"> ∣ </add>q</seg>” says something  indefinable about the sense<lb/> of those simple propositions which are  contained in <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> and <seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg>.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b15.2" n="Ts-201a2,b15[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">The assertion-sign is logically quite without significance.</s>
+          <lb/>
+          <s type="es">It only shows, in <persName key="Frege, Gottlob">Frege</persName> and  <persName key="Whitehead, Alfred North">Whitehead</persName> and  <persName key="Russell, Bertrand">Russell</persName>, that these<lb/> authors  hold the propositions so indicated to be true.</s>
+          <s type="es">“<add rend="el_h">⊢</add>”<lb/> therefore belongs as little  to the proposition as (say) the<lb/> number of the proposition.</s>
+          <s type="es">A proposition cannot possibly<lb/> assert of itself that it is true.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b15.3" n="Ts-201a2,b15[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h"/>
+          <s type="es" rend="indl_5">Every right theory of judgment must make it impossible<lb/> for me to judge  that this table penholders the book.</s>
+          <s type="es"><persName key="Russell, Bertrand"><c type="k">R</c>ussell's</persName><lb/>  theory does not satisfy this requirement.</s>
+          <pb facs="Ts-201a2_b16" rend="recto" n="pagename_Ts-201a2,b16 pageref_00"/>
+          <fw type="pagen">16</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b16.1" n="Ts-201a2,b16[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">It is clear that we understand propositions without knowing<lb/> whether  they are true or false.</s>
+          <s type="es">But we can only know the<lb/> <emph rend="us1">meaning</emph> of a proposition when we  know if it is true or false.</s>
+          <lb/>
+          <s type="es">What we understand is the <emph rend="us1">sense</emph> of the proposition.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b16.2" n="Ts-201a2,b16[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">The assumption of the existence of logical objects makes<lb/> it appear  remarkable that in the sciences propositions of the<lb/> form  “<seg type="notation" subtype="logic_propositional formula" rend="literal">p  <add rend="el_h"> ⌵ </add> q</seg>”,  “<seg type="notation" subtype="logic_propositional formula" rend="literal">p  <add rend="el_h">⊃</add> q</seg>”, <abbr type="abb">etc.</abbr> are only  then not provisional<lb/> when “<add rend="el_h"> ⌵ </add>” and  “<add rend="el_h">⊃</add>” stand within the scope of a  generality<lb rend="divl"/>sign [apparent variable].</s>
+          <emph rend="bl_2"/>
+          <pb facs="Ts-201a2_b17" rend="recto" n="pagename_Ts-201a2,b17 pageref_00"/>
+          <fw type="pagen">17</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b17.1" n="Ts-201a2,b17[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Third MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="fm-title">
+            <s type="es">
+              <seg type="edcom"><emph rend="us1"><seg type="p">4th.</seg><abbr type="abb">MS</abbr></emph>.</seg>
+            </s>
+          </seg>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b17.2" n="Ts-201a2,b17[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">If we formed all possible atomic propositions, the world<lb/> would be  completely described if we declared the truth or<lb/> falsehood of  each.</s>
+          <s type="es">[<c type="k">I</c> doubt this.]</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b17.3" n="Ts-201a2,b17[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">The chief characteristic of my theory is that, in it, <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph><lb/>  has the same <emph rend="us1">meaning</emph> as <seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg>.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b17.4" n="Ts-201a2,b17[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">A false theory of relations makes it easily seem as if the<lb/> relation of  fact and constituent were the same as that of fact<lb/> and fact which follows  from it.</s>
+          <s type="es">But the similarity of the<lb/> two may be expressed thus:  <seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>a.  <add rend="el_h">⊃..<emph rend="sub">φ,a</emph></add> a  =  a</seg>.</s>
+          <lb rend="hl"/>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b17.5" n="Ts-201a2,b17[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">If a word creates a world so that in it the principles<lb/> of logic are  true, it thereby creates a world in which the<lb/> whole of mathematics holds;  and similarly it could not create<lb/> a world in which a proposition was  true, without creating<lb/> its constituents.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b17.6" n="Ts-201a2,b17[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">Signs of the form “<seg type="notation" subtype="logic_propositional formula" rend="literal">p <add rend="el_h"> ⌵   ~</add>p</seg>” are senseless, but not the<lb/>  proposition “<seg type="notation" subtype="logic_quantificational formula, type-theoretic formula" rend="literal">(p). p <add rend="el_h"> ⌵   ~</add>p</seg>”.</s>
+          <s type="es">If I know that this rose is<lb/> either red or not red, I know  nothing.</s>
+          <s type="es">The same holds of all<lb/> <seg type="p"><emph rend="us1">ab</emph>-</seg>functions.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b17.7" n="Ts-201a2,b17[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">To understand a proposition means to know what is the case<lb/> if it is  true.</s>
+          <s type="es">Hence we can understand it without knowing if<lb/> it is true.</s>
+          <s type="es">We understand it when we understand its constituents<lb/> and forms.</s>
+          <s type="es">If we know the meaning of “<seg type="p">a</seg>” and  “<seg type="p">b</seg>”, and if we<lb/> know what  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x R  y</seg>” means for all <seg type="notation" subtype="logic_quantificational variable" rend="literal">x</seg>'s and  <seg type="p"><seg type="notation" subtype="logic_quantificational variable" rend="literal">y</seg>'s</seg>, then we also under<lb rend="shyphen"/>stand  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">a R  b</seg>”.</s>
+          <pb facs="Ts-201a2_b18" rend="recto" n="pagename_Ts-201a2,b18 pageref_00"/>
+          <fw type="pagen">18</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b18.1" n="Ts-201a2,b18[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es"><c type="k">I</c> understand the proposition  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">a R  b</seg>” when I know that either<lb/> the fact that  <seg type="notation" subtype="logic_quantificational formula" rend="literal">a R b</seg> or  the fact that not <seg type="notation" subtype="logic_quantificational formula" rend="literal">a R b</seg> corresponds to it;<lb/> but this is not to be confused  with the false opinion that I<lb/> understood  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">a R  b</seg>” when I know that  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">a R  b</seg> or not <seg type="notation" subtype="logic_quantificational formula" rend="literal">a R b</seg>” is the<lb/> case.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b18.2" n="Ts-201a2,b18[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">But the form of a proposition symbolizes in the following<lb/> way:  <c type="c">L</c>et us consider symbols of the form  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x R  y</seg>”; to these<lb/> correspond primarily pairs of objects, of  which one has the<lb/> name “<seg type="p">x</seg>”, the other the name  “<seg type="p">y</seg>”.</s>
+          <s type="es">The <seg type="p">x's</seg> and <seg type="p">y's</seg> stand in<lb/> various relations to each  other, among others the relation <seg type="p">R</seg><lb/> holds between some, but not  between others.</s>
+          <s type="es"><c type="k">I</c> n<add rend="our">ow</add> determine<lb/> the sense of  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x R  y</seg>” by laying down: when the facts behave in<lb/>  regard to “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x R y</seg>” so that the meaning of  “<seg type="p">x</seg>” stands in the<lb/> relation <seg type="p">R</seg> to the meaning  of “<seg type="p">y</seg>”, then I say that they [the<lb/> facts]  are “of like sense”  [“<seg xml:lang="de">gleichsinnig</seg>”] with the proposition<lb/>  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x R  y</seg>”; otherwise, “of opposite sense”  [<corr type="tra">“</corr><seg xml:lang="de">entgegengesetz<add rend="our">t</add></seg>”];<lb/>  I correlate the facts to the symbol  “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x R  y</seg>” <emph rend="us1">by</emph> thus dividing them<lb/> into those of like  sense and those of opposite sense.</s>
+          <s type="es">To this<lb/> correlation corresponds the correlation of name and  meaning.</s>
+          <lb/>
+          <s type="es">Both are psychological.</s>
+          <s type="es">Thus I understand the form “<seg type="notation" subtype="logic_quantificational formula" rend="literal">x R y</seg>”<lb/> when I know that it  discriminates the behaviour of <seg type="p">x</seg> and <seg type="p">y</seg><lb/> according as these  stand in the relation <seg type="p">R</seg> or not.</s>
+          <s type="es">In this<lb/> way I extract from all possible relations the relation <seg type="p">R</seg>,  as,<lb/> by a name, I extract its meaning from among all possible  things.</s>
+          <pb facs="Ts-201a2_b19" rend="recto" n="pagename_Ts-201a2,b19 pageref_00"/>
+          <fw type="pagen">19</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b19.1" n="Ts-201a2,b19[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">Strictly speaking, it is incorrect to say: we understand<lb/> the  proposition <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph> when we know that  ‘“<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>” is true’ <add rend="el_h">≡</add>  <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>; for<lb/>  this would naturally always be the case if accidentally the<lb/> propositions  to right and left of the symbol “<add rend="el_h">≡</add>” were  both<lb/> true or both false.</s>
+          <s type="es">We require not only an equivalence, but<lb/> a formal equivalence, which is  bound up with the introduction<lb/> of the form of  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b19.2" n="Ts-201a2,b19[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">The sense of an <seg type="p">ab-</seg>function of  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>  is a function of the<lb/> sense of <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b19.3" n="Ts-201a2,b19[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">The <seg type="p"><emph rend="us1">ab</emph>-</seg>functions use the discrimination of facts,  which<lb/> their arguments bring forth, in order to generate new<lb/>  discriminations.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b19.4" n="Ts-201a2,b19[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">Only facts can express sense, a class of names cannot.</s>
+          <lb/>
+          <s type="es">This is easily shown.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b19.5" n="Ts-201a2,b19[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">There is no thing which is the form of a proposition, and<lb/> no name which  is the name of a form.</s>
+          <s type="es">Accordingly we can also<lb/> not say that a relation which in certain cases  holds between<lb/> things holds sometimes between forms and things.</s>
+          <s type="es">This goes<lb/> against <persName key="Russell, Bertrand">Russell's</persName> theory of judgment.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b19.6" n="Ts-201a2,b19[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <del type="d_h">
+            <s type="es" rend="indl_5">It is very easy to forget that, though the propositions<lb/> of a  form can be either true or false, each one of these<lb/> propositions can only  be either true or false, not both.</s>
+            <pb facs="Ts-201a2_b20" rend="recto" n="pagename_Ts-201a2,b20 pageref_00"/>
+            <fw type="pagen">20</fw>
+          </del>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b20.1" n="Ts-201a2,b20[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">Among the facts which make “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> or <seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg>” true, there are some<lb/> which  make “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> and <seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg>” true; but the class which makes  “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>  or <seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg>”<lb/> true is different from the class which  makes “<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> and <seg type="notation" subtype="logic_propositional formula" rend="literal">q</seg>” true;<lb/> and only this is what  matters.</s>
+          <s type="es">For we introduce this class,<lb/> as it were, when we introduce  <seg type="p"><emph rend="us1">ab</emph>-</seg>functions.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b20.2" n="Ts-201a2,b20[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">A very natural objection to the way in which I have<lb/> introduced  <abbr type="abb">e.g.</abbr> propositions of the form  <seg type="notation" subtype="logic_quantificational formula" rend="literal">x R y</seg> is  that by it<lb/> propositions such as (<seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">∃.</add> x. y). x R y</seg>  and similar ones are not<lb/> explained, which yet obviously have in common  with <seg type="notation" subtype="logic_quantificational formula" rend="literal">a R  b</seg> what<lb/> <seg type="notation" subtype="logic_quantificational formula" rend="literal">c R d</seg> has in common with  <seg type="notation" subtype="logic_quantificational formula" rend="literal">a R  b</seg>.</s>
+          <s type="es"><emph rend="us1">But</emph> when we introduce<lb/> propositions of the form  <seg type="notation" subtype="logic_quantificational formula" rend="literal">x R y</seg> we  mentioned no one particular<lb/> proposition of this form; and we only need to  introduce<lb/> <seg type="notation" subtype="logic_quantificational formula" rend="literal">(<add rend="el_h">∃</add> x, y). <add rend="el_h">φ</add>(x,  y)</seg> for all <seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>'s</seg> in any way which  makes the<lb/> sense of these propositions dependent on the sense of all<lb/>   propositions of the form <seg type="notation" subtype="logic_quantificational formula" rend="literal"><add rend="el_h">φ</add>(a, b)</seg>, and thereby the   <choice type="em"><orig type="em1">just<del type="d_h">ification</del><add rend="i_h">ness</add></orig><orig type="em2"><choice type="dsl_h"><orig type="alt1">justification</orig><orig type="alt2">just<add rend="i_h">ness</add></orig></choice></orig></choice><lb/> of our procedure is proved.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b20.3etb21.1" n="Ts-201a2,b20[3]etb21[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es">The indefinables of logic must be independent of each other.</s>
+          <lb/>
+          <s type="es">If an indefinable is introduced, it must be introduced in all<lb/>  combinations in which it can occur.</s>
+          <s type="es">We cannot therefore introduce<lb/> it first for one combination, then for  another; <abbr type="abb">e.g.</abbr>, if the<lb/> form  <seg type="notation" subtype="logic_quantificational formula" rend="literal">x R y</seg>  has been introduced, it must henceforth be understood<lb/> in propositions of  the form <seg type="notation" subtype="logic_quantificational formula" rend="literal">a R  b</seg> just in the same way as in<lb/> propositions such as  <seg type="notation" subtype="logic_quantificational formula" rend="literal">(<add rend="el_h">∃</add>x, y). x R y</seg> and  others.</s>
+          <s type="es">We must not<lb/> introduce it first for one class of cases, then for the  other;<lb/> for it would remain doubtful if its meaning was the same in<lb/>  <pb facs="Ts-201a2_b21" rend="recto" n="pagename_Ts-201a2,b21 pageref_00"/><fw type="pagen">21</fw> both cases, and there would be no ground for  using the same<lb/> manner of combining symbols in both cases.</s>
+          <s type="es">In short, for<lb/> the introduction of indefinable symbols and combinations  of<lb/> symbols the same holds, <seg xml:lang="la">mutatis mutandis</seg>, that  <persName key="Frege, Gottlob">Frege</persName> has said<lb/> for the  introduction of symbols by definitions.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b21.2" n="Ts-201a2,b21[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">It is <seg type="ct">a priori</seg> likely that the introduction of atomic<lb/>  propositions is fundamental for the understanding of all other<lb/> kinds of  propositions.</s>
+          <s type="es">In fact the understanding of general<lb/> propositions obviously depends on  that of atomic propositions.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b21.3" n="Ts-201a2,b21[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">Cross-definability in the realm of general propositions<lb/> leads to  <del type="dnpc_h">the</del> quite similar questions to those in  the realm<lb/> of <seg type="p"><emph rend="us1">ab</emph>-</seg>functions.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b21.4" n="Ts-201a2,b21[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">When we say “<seg type="p">A</seg> believes <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>”, this sounds, it is true,  as<lb/> if here we could substitute a proper name for  “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>”; but we can<lb/> see that  here a <emph rend="us1">sense</emph>, not a meaning, is concerned, if we say<lb/>  “<seg type="p">A</seg> believes that  ‘<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>’ is true<add rend="el_h">”</add>; and in  order to make the direction<lb/> of <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph> even more explicit, we might say  “<seg type="p">A</seg> believes that ‘<seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>’ is<lb/> true and  ‘<seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg>’ is  false”.</s>
+          <s type="es">Here the bi-polarity of <seg type="notation" subtype="logic_propositional formula" rend="literal"><emph rend="us1">p</emph></seg> is<lb/> expressed and it seems  that we shall only be able to express<lb/> the proposition “<seg type="p">A</seg>  believes <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>” correctly by the   <seg type="p"><emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal">ab-</seg></emph></seg>notation;<lb/> say by making  “<seg type="p">A</seg>” have a relation to the poles  “<seg type="notation" subtype="logic_truth value" rend="literal">a</seg>”<lb/> and “<seg type="p">b</seg>”  of <seg type="notation" subtype="logic_nonstandard propositional formula" rend="literal">a-p-b</seg>.  <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio201a2-b21.BMP" subtype="graphics_Zeichen; Struktur" rend="bitmap">824F21</seg></emph></s>
+          <s type="es">The epistemological<lb/> questions concerning the nature of judgment and belief  cannot<lb/> be solved without a correct apprehension of the  <choice type="em"><orig type="em1">fo<emph rend="us1_h">ur</emph><add rend="i_h">rm</add></orig><orig type="em2"><corr type="npc">four</corr>   fo<add rend="i_h">rm</add></orig></choice>  of the<lb/> proposition.</s>
+          <pb facs="Ts-201a2_b22" rend="recto" n="pagename_Ts-201a2,b22 pageref_00"/>
+          <fw type="pagen">22</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.1" n="Ts-201a2,b22[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">III</seg>
+          <s type="es">The <seg type="p"><emph rend="us1">ab</emph>-</seg>notation shows the dependence of <emph rend="us1">or</emph>  and <emph rend="us1">not</emph>, and<lb/> thereby that they are not to be employed as  simultaneous<lb/> indefinables.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.2" n="Ts-201a2,b22[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_1">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">V</seg>
+          <s type="es"><emph rend="us1">Not</emph>: “<c type="c">T</c>he complex sign  ‘<seg type="notation" subtype="logic_quantificational formula" rend="literal">a R  b</seg>’” says that <seg type="p"><emph rend="us1"><seg type="notation" subtype="logic_quantificational constant" rend="literal">a</seg></emph></seg> stands in the<lb/> relation  <seg type="notation" subtype="logic_quantificational formula" rend="literal">R</seg> to  <seg type="p"><emph rend="us1"><seg type="notation" subtype="logic_quantificational constant" rend="literal">b</seg></emph></seg>; but <emph rend="us1">that</emph>  ‘<seg type="notation" subtype="logic_quantificational constant" rend="literal">a</seg>’ stands in a certain relation  to<lb/> ‘<seg type="notation" subtype="logic_quantificational constant" rend="literal">b</seg>’ says <emph rend="us1">that</emph>  <seg type="notation" subtype="logic_quantificational formula" rend="literal">a R  b</seg>.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.3" n="Ts-201a2,b22[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="publ">
+          <emph rend="clilm_h">
+            <seg type="wabmarks-secml"/>
+            <s type="es">
+              <add rend="ilm_h">
+                <seg type="edcom"><corr type="tra">[</corr>Preliminary<corr type="tra">]</corr></seg>
+                <note type="editor">See facsimile; left curly bracket.</note>
+              </add>
+            </s>
+            <seg type="series-number-indent"/>
+            <s type="es" rend="indl_5">In philosophy there are no deductions: <emph rend="us1">it</emph> is purely<lb/>  descriptive.</s>
+          </emph>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.4" n="Ts-201a2,b22[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="publ">
+          <emph rend="clilm_h">
+            <seg type="wabmarks-secml"/>
+            <seg type="series-number-indent"/>
+            <s type="es" rend="indl_5">Philosophy gives no pictures of reality.</s>
+          </emph>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.5" n="Ts-201a2,b22[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="publ">
+          <emph rend="clilm_h">
+            <seg type="wabmarks-secml"/>
+            <seg type="series-number-indent"/>
+            <s type="es" rend="indl_5">Philosophy can neither confirm nor confute scientific<lb/>  investigation.</s>
+          </emph>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.6" n="Ts-201a2,b22[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="publ">
+          <emph rend="clilm_h">
+            <seg type="wabmarks-secml"/>
+            <seg type="series-number-indent"/>
+            <s type="es" rend="indl_5">Philosophy consists of logic and metaphysics: logic<lb/> is its  basis.</s>
+          </emph>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.7" n="Ts-201a2,b22[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="publ">
+          <emph rend="clilm_h">
+            <seg type="wabmarks-secml"/>
+            <seg type="series-number-indent"/>
+            <s type="es" rend="indl_5">Epistemology is the philosophy of psychology.</s>
+          </emph>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.8" n="Ts-201a2,b22[8]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="publ">
+          <emph rend="clilm_h">
+            <seg type="wabmarks-secml"/>
+            <seg type="series-number-indent"/>
+            <s type="es" rend="indl_5">Distrust of grammar is the first requisite for<lb/>  philosophizing.</s>
+          </emph>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.9" n="Ts-201a2,b22[9]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="publ">
+          <del type="d_h">
+            <seg type="wabmarks-secml"/>
+            <seg type="series-number-indent"/>
+            <s type="es" rend="indl_5">Propositions can never be indefinables, for they are always<lb/>  complex.</s>
+            <s type="es">That also words like “<seg xml:lang="la">ambulo</seg>” are complex  appears<lb/> in the fact that their root with a different termination gives<lb/>  a different sense.</s>
+          </del>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b22.10" n="Ts-201a2,b22[10]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">II</seg>
+          <s type="es">Only the doctrine of general indefinables permits us to<lb/> understand the  nature of functions.</s>
+          <s type="es">Neglect of this doctrine<lb/> leads to an impenetrable thicket.</s>
+          <lb rend="hl"/>
+          <pb facs="Ts-201a2_b23" rend="recto" n="pagename_Ts-201a2,b23 pageref_00"/>
+          <fw type="pagen">23</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b23.1" n="Ts-201a2,b23[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="publ">
+          <emph rend="clilm_h">
+            <seg type="wabmarks-secml"/>
+            <seg type="series-number-indent"/>
+            <s type="es">
+              <add rend="ilm_h">
+                <seg type="edcom"><corr type="tra">[</corr>Preliminary<corr type="tra">]</corr></seg>
+                <note type="editor">See facsimile; left curly bracket.</note>
+              </add>
+            </s>
+            <s type="es" rend="indl_5">Philosophy is the doctrine of the logical form of scientific<lb/>  propositions (not only of primitive propositions).</s>
+          </emph>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b23.2" n="Ts-201a2,b23[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="publ">
+          <emph rend="clilm_h">
+            <seg type="wabmarks-secml"/>
+            <seg type="series-number-indent"/>
+            <s type="es" rend="indl_5">The word “philosophy” ought always to designate  something<lb/> over or under but not beside, the natural  sciences.</s>
+          </emph>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b23.3" n="Ts-201a2,b23[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">Judgment, command and question all stand on the same level;<lb/> but all  have in common the propositional form, which does interest<lb/>  <emph rend="us1">us</emph>.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b23.4" n="Ts-201a2,b23[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">The structure of the proposition must be recognized, the<lb/> rest comes of  itself.</s>
+          <s type="es">But ordinary language conceals the<lb/> structure of the proposition:  in it, relations look like<lb/> predicates, predicates like names,  <abbr type="abb">etc.</abbr></s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b23.5" n="Ts-201a2,b23[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es" rend="indl_5">Facts cannot be <emph rend="us1">named</emph>.</s>
+          <lb rend="hl"/>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b23.6" n="Ts-201a2,b23[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">It is easy to suppose that “individual”,  “particular”,<lb/> “complex”  <abbr type="abb">etc.</abbr> are primitive ideas of logic.</s>
+          <s type="es"><persName key="Russell, Bertrand"><c type="k">R</c>ussell</persName><abbr type="abb">e.g.</abbr><lb/> says “individual” and  “matrix” are “primitive ideas”.</s>
+          <s type="es">This<lb/> error presumably is to be explained by the fact that, by<lb/>  employment of variables instead of the generality-sign it<lb/> comes to  seem as if logic dealt with things which have been<lb/> deprived of all  properties except thing-hood, and with<lb/> propositions deprived of all  properties except complexity.</s>
+          <lb/>
+          <s type="es">We forget that the indefinables of symbols [<seg xml:lang="de">Urbilder von<lb/>  Zeichen</seg>] only occur under the generality-sign, never outside<lb/>  it.</s>
+          <pb facs="Ts-201a2_b24" rend="recto" n="pagename_Ts-201a2,b24 pageref_00"/>
+          <fw type="pagen">24</fw>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b24.1" n="Ts-201a2,b24[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">IV</seg>
+          <s type="es">Just as people used to struggle to bring all propositions<lb/> into the  subject-predicate form, so now it is natural to con<lb rend="shyphen"/>ceive every  proposition as expressing a relation, which is just<lb/> as incorrect.</s>
+          <s type="es">What is justified in this desire is fully<lb/> satisfied by  <persName key="Russell, Bertrand">Russell's</persName> theory of  manufactured relations.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b24.2" n="Ts-201a2,b24[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">One of the most natural attempts at solution consists in<lb/> regarding  “<seg type="notation" subtype="logic_propositional formula" rend="literal">not-p</seg>” as “the  opposite of <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg></emph>”, where then  “opposite”<lb/> would be the indefinable relation.</s>
+          <s type="es">But it is easy to see<lb/> that every such attempt to replace the  <seg type="p"><emph rend="us1">ab</emph>-</seg>functions by<lb/> descriptions must fail.</s>
+          <lb rend="hl"/>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b24.3" n="Ts-201a2,b24[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">I</seg>
+          <s type="es">The false assumption that propositions are names leads us<lb/> to believe  that there must be logical objects: for the meanings<lb/> of logical  propositions will have to be such things.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b24.4" n="Ts-201a2,b24[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent"/>
+          <s type="es">
+            <add rend="ilm_h">
+              <seg type="edcom"><corr type="tra">[</corr>Preliminary<corr type="tra">]</corr></seg>
+            </add>
+          </s>
+          <s type="es" rend="indl_5">A correct explanation of logical propositions must give<lb/> them a unique  position as against all other propositions.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b24.5" n="Ts-201a2,b24[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es" rend="indl_5">No proposition can say anything about itself, because the<lb/> symbol of the  proposition cannot be contained in itself; this<lb/> must be the basis of the  theory of logical types.</s>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b24.6etb25.1" n="Ts-201a2,b24[6]etb25[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" xml:lang="en" emph="blbef_0">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <emph rend="indl_5"/>
+          <seg type="series-number-indent_h">VI</seg>
+          <s type="es">Every proposition which says something indefinable about<lb/> a thing is a  subject-predicate proposition; every proposition<lb/> which says something  indefinable about two things expresses a<lb/> dual relation between these  things, and so on.</s>
+          <s type="es">Thus every<lb/> proposition which contains only one name and one  indefinable<lb/> form is a subject-predicate proposition, and so  on.</s>
+          <s type="es">An<lb/> <pb facs="Ts-201a2_b25" rend="recto" n="pagename_Ts-201a2,b25 pageref_00"/><fw type="pagen">25</fw> indefinable simple symbol can  only be a name, and therefore<lb/> we can know, by the symbol of an atomic  proposition, whether<lb/> it is a subject-predicate proposition.</s>
+          <lb rend="hl"/>
+          <pb facs="Ts-201a2_b26" rend="recto" n="pagename_Ts-201a2,b26 pageref_00"/>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b26.1" n="Ts-201a2,b26[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" emph="blbef_0" xml:lang="en">
+        <seg type="publ">
+          <seg type="intref" n="201a2:136_201a3:136"/>
+          <seg type="wabmarks-secml"/>
+          <add rend="el_h">
+            <s type="es">
+              <seg type="edcom">
+                <emph rend="us1">
+                  <persName key="Wittgenstein, Ludwig">
+                    <abbr type="abb">Wittg.–</abbr>
+                  </persName>
+                </emph>
+                <lb rend="hl"/>
+              </seg>
+            </s>
+            <s type="es"><seg type="p">I.</seg><c type="c">B</c>i-polarity of propositions: sense     &amp; meaning, truth &amp; falsehood.</s>
+            <lb rend="hl"/>
+            <s type="es"><seg type="p">II.</seg><c type="c">A</c>nalysis of atomic propositions: general     indefinables, predicates, <abbr type="abb">etc.</abbr></s>
+            <lb rend="hl"/>
+            <s type="es"><seg type="p">III.</seg><c type="c">A</c>nalysis of molecular <del type="dnpc"><corr type="npcn">fu</corr></del>     propositions: <seg type="p"><emph rend="us1">ab</emph>-</seg>functions.</s>
+            <lb rend="hl"/>
+            <s type="es"><seg type="p">IV.</seg><c type="c">A</c>nalysis of general     propositions<corr type="tra">.</corr></s>
+            <lb rend="hl"/>
+            <s type="es"><seg type="p"><choice type="o"><orig type="o1">IV</orig><orig type="o2">V</orig></choice>.</seg><c type="c">P</c>rinciples of symbolism:     what symbolizes in a symbol.</s>
+            <s type="es">Facts for facts.</s>
+            <lb rend="hl"/>
+            <s type="es"><seg type="p">V<add rend="el">I</add>.</seg><c type="c">T</c>ypes<corr type="tra">.</corr></s>
+            <emph rend="bl_2"/>
+            <pb facs="Ts-201a2_b27r" rend="recto" n="pagename_Ts-201a2,b27r pageref_00"/>
+            <emph rend="bl_4"/>
+            <seg type="intref" n="201a2:137_201a3:137"/>
+          </add>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b27r.1" n="Ts-201a2,b27r[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" emph="blbef_0" xml:lang="en">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <add rend="el_h">
+            <emph rend="centered">
+              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio201a2-b27r.BMP" subtype="graphics_Klammern; Klammernotation (Varia)" rend="bitmap">823F25</seg>
+            </emph>
+            <s type="es">This is the symbol for <emph rend="indl_9"/><seg type="notation" subtype="logic_propositional formula, alternative denial, Sheffer stroke" rend="literal">~p      ⌵  ~q</seg></s>
+            <emph rend="bl_2"/>
+            <pb facs="Ts-201a2_b27v" rend="recto" n="pagename_Ts-201a2,b27v pageref_00"/>
+            <seg type="intref" n="201a2:138_201a3:138"/>
+          </add>
+        </seg>
+      </ab>
+      <ab xml:id="Ts-201a2_b27v.1" n="Ts-201a2,b27v[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Fourth MS_date:19130901?-19130930?" emph="blbef_0" xml:lang="en">
+        <seg type="wabmarks-secml"/>
+        <seg type="publ">
+          <add rend="el_h">
+            <emph rend="centered">
+              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio201a2-b27v.BMP" subtype="graphics_Zeichen; Struktur" rend="bitmap">823F26</seg>
+            </emph>
+          </add>
+        </seg>
+      </ab>
+    </body>
+  </text>
+</TEI>
