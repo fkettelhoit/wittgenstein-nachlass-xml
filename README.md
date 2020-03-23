@@ -2,6 +2,10 @@
 
 ![Fetch Wittgenstein Nachlass](https://github.com/fkettelhoit/wittgenstein-nachlass-xml/workflows/Fetch%20Wittgenstein%20Nachlass/badge.svg)
 
+This repository periodically downloads, formats (using `xmllint --format`) and
+auto-commits the XML source files of Wittgenstein's Nachlass as transcribed and
+edited by the [Wittgenstein Archives Bergen (WAB)](http://wab.uib.no/).
+
 > The texts are made available by permission of The Master and Fellows of
 > Trinity College, Cambridge and the University of Bergen, Bergen, and in
 > agreement with Oxford University Press with whom WAB cooperates towards
@@ -15,10 +19,6 @@
 > Cambridge; The University of Bergen, Bergen.
 
 For more details, see http://wab.uib.no/wab_transcriptions.page
-
-This repository periodically downloads, formats (using `xmllint --format`) and
-auto-commits the XML source files of Wittgenstein's Nachlass as transcribed and
-edited by the Wittgenstein Archives Bergen (WAB).
 
 Please note that while the software used to fetch the Nachlass is released
 under the MIT license, the Nachlass XML files are released under a Creative
