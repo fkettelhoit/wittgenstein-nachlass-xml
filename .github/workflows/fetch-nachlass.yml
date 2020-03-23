@@ -1,0 +1,25 @@
+name: Fetch Wittgenstein Nachlass
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build:
+    name: Fetch
+    runs-on: ubuntu-latest
+    container:
+      image: google/dart:latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install xmllint
+        run: apt-get update && apt-get install -y libxml2-utils
+      - name: Install Dart Dependencies
+        run: pub get
+      - name: Fetch Nachlass
+        run: pub run bin/main.dart
+      - name: Commit
+        env:
+          COMMIT_AUTHOR: Alois Pichler <Alois.Pichler@uib.no>
+        run: sh ./commit.sh
