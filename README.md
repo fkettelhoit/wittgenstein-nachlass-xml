@@ -22,4 +22,4 @@ For more details, see http://wab.uib.no/wab_transcriptions.page
 
 Please note that while the software used to fetch the Nachlass is released
 under the MIT license, the Nachlass XML files are released under a Creative
-Commons license (see `xml/LICENSE`).
+Commons license (see [xml/LICENSE](xml/LICENSE)).

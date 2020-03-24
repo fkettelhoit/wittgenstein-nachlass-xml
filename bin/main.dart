@@ -51,14 +51,6 @@ Future<void> _formatDocument(Future<io.File> file) async {
   });
 }
 
-Future<String> _readResponse(io.HttpClientResponse response) {
-  final completer = Completer<String>();
-  final contents = StringBuffer();
-  response.transform(utf8.decoder).listen(contents.write,
-      onDone: () => completer.complete(contents.toString()));
-  return completer.future;
-}
-
 Future<List<String>> _fetchXmlNames(String url) async {
   final fetched = await _fetchHtml(url);
   final doc = html.parse(fetched);
@@ -76,3 +68,11 @@ Future<String> _fetchHtml(String uri) => io.HttpClient()
     .getUrl(Uri.parse(uri))
     .then((request) => request.close())
     .then<String>(_readResponse);
+
+Future<String> _readResponse(io.HttpClientResponse response) {
+  final completer = Completer<String>();
+  final contents = StringBuffer();
+  response.transform(utf8.decoder).listen(contents.write,
+      onDone: () => completer.complete(contents.toString()));
+  return completer.future;
+}

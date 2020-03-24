@@ -1,7 +1,7 @@
-name: wab_git
-description: Downloads and git commits the Wittgenstein Archive Bergen XML Nachlass
+name: wittgenstein_nachlass_downloader
+description: Downloads and formats the Wittgenstein Archive Bergen XML Nachlass
 version: 0.0.1
-homepage: https://github.com/fkettelhoit/wab-git
+homepage: https://github.com/fkettelhoit/wittgenstein-nachlass-xml
 author: Frederic Kettelhoit <kettelhoit@gmail.com>
 
 environment:
