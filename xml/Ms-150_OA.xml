@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="WS" rendition="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-150: so-called C6 (WL)</title>
+        <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-150: so-called C6 (WL)</title>
         <title xml:id="Ms-150" n="Ms-150" type="main" xml:lang="en"/>
         <author>
           <persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>
@@ -46,6 +46,10 @@
         <respStmt>
           <name>Nivedita Gangopadhyay </name>
           <resp>2018: proofreading of normalized transcription of English parts</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claus Huitfeldt</name>
+          <resp>2020: Spell-check</resp>
         </respStmt>
         <respStmt>
           <name>Michael Biggs, Hans Biesenbach</name>
@@ -404,10 +408,8 @@
           <s type="es">Denke an Esperanto &amp; wie seltsam es uns anmutet einen Ausdruck der  Herzlichkeit in diese<del type="dn">r</del> Kunstsprache <del type="dnpc"><gap extent="words_1"/></del> übersetzt zu  hören.</s>
           <s type="es">Wir könnten ja auch nicht den Händedruck willkürlich durch ein anderes  Zeichen <del type="d">des Abschieds</del> ersetzen.</s>
           <s type="es">Das hängt damit zusammen, daß wir <del type="dnpc">bei der</del>    <pb facs="Ms-150_2" rend="verso" n="pagename_Ms-150,2 pageref_00"/><fw type="pagen">2</fw> uns das Gefühl der Trauer als etwas<lb/> hinter  den Empfindungen des Weinens,<lb/> schweren Atmens <abbr type="abb">etc.</abbr>  <abbr type="abb">etc.</abbr> vorstellen<lb/> &amp; diese geneigt sind als etwas  Nebensäch<lb rend="shyphen"/>liches zu vernachlässigen.</s>
-          <s type="es" rend="indl_4">Auch hängt das mit der Frage zusammen<lb/> ob <choice type="s"><orig type="alt1">der Eindruck</orig><orig type="alt2"><add rend="im">der  Ausdruck</add></orig></choice> des Gesichtes <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-2-a.BMP" xml:lang="de" subtype="graphics_Abbild; Gesicht(er)" rend="bitmap">150001</seg>  <emph rend="us1">gesehen</emph><lb/> wird oder hinter dem gesehenen<lb/> gefühlt.</s>
-          <s type="es">Denke an <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-2-b.BMP" xml:lang="de" subtype="graphics_Polyeder; Würfel" rend="bitmap">150002</seg> &amp;  …</s>
-          <emph rend="bl_1"/>
-          <lb rend="hl"/>
+          <s type="es" rend="indl_4">Auch hängt das mit der Frage zusammen<lb/> ob <choice type="s"><orig type="alt1">der Eindruck</orig><orig type="alt2"><add rend="im">der  Ausdruck</add></orig></choice> des Gesichtes <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-2-a.BMP" subtype="graphics_Abbild; Gesicht(er)" rend="bitmap">150001</seg>  <emph rend="us1">gesehen</emph><lb/> wird oder hinter dem gesehenen<lb/> gefühlt.</s>
+          <s type="es">Denke an <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-2-b.BMP" subtype="graphics_Polyeder; Würfel" rend="bitmap">150002</seg> &amp;  …</s>
           <emph rend="conline"/>
         </ab>
         <ab xml:id="Ms-150_2.2" n="Ms-150,2[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_1">
@@ -549,13 +551,11 @@
           <s type="es"><abbr type="abb">D.h.</abbr> wir haben beim lesenden<lb/> Durchlaufen der Zeilen  ein <del type="dnpc"><corr type="npcn">Erl</corr></del> <emph rend="us1">gleichförmi<lb rend="shyphen"/>ges</emph>  Erlebnis, &amp; es unterscheidet sich vom<lb/> <choice type="o"><orig type="o1">d</orig><orig type="o2">D</orig></choice>urchlaufen  beliebiger anderer Formenreihen.</s>
           <lb/>
           <s type="es">Es wäre auch unrichtig zu sagen, daß<lb/> das Lesen <del type="d">einfach</del> darin  bestehe, daß wir<lb/> Zeichenreihen durchlaufen &amp; uns dabei<lb/> Laute  einfallen.</s>
-          <s type="es">Denn wenn ich die Reihe <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-7-a.BMP" xml:lang="de" subtype="graphics_Zeichen; Gekritzel" rend="bitmap">150003</seg>  durchlaufe &amp; lasse mir  dabei<lb/> <corr type="trsn"><orig type="trsn1">l</orig><reg type="trsn2">L</reg></corr>aute Einfallen – was ganz leicht ist –  so ist<lb/> das doch kein Lesen.</s>
-          <s type="es">Es ist anders ob ich<lb/> ‘<seg type="p">a</seg>’ lese &amp;  ausspreche, als wenn mir derselben<lb/> Laut bei ‘<seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-7-b.BMP" xml:lang="de" subtype="graphics_Zeichen; Gekritzel" rend="bitmap">150004</seg>’  einfällt.</s>
+          <s type="es">Denn wenn ich die Reihe <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-7-a.BMP" subtype="graphics_Zeichen; Gekritzel" rend="bitmap">150003</seg>  durchlaufe &amp; lasse mir  dabei<lb/> <corr type="trsn"><orig type="trsn1">l</orig><reg type="trsn2">L</reg></corr>aute Einfallen – was ganz leicht ist –  so ist<lb/> das doch kein Lesen.</s>
+          <s type="es">Es ist anders ob ich<lb/> ‘<seg type="p">a</seg>’ lese &amp;  ausspreche, als wenn mir derselben<lb/> Laut bei ‘<seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-7-b.BMP" subtype="graphics_Zeichen; Gekritzel" rend="bitmap">150004</seg>’  einfällt.</s>
           <s type="es" rend="indl_4">Und diese Art des Erlebnisses ist<lb/> charakteristisch für jedes fließende  Lesen<lb/> alles dessen was wir für gewöh<add rend="el">n</add>lich  ‘Schrift’<lb/> nennen; aber nicht für das   ‘Lesen’ überha<add rend="our">up</add>t.</s>
           <pb facs="Ms-150_8" rend="verso" n="pagename_Ms-150,8 pageref_00"/>
           <fw type="pagen">8</fw>
-          <emph rend="bl_1"/>
-          <lb rend="hl"/>
           <emph rend="conline"/>
         </ab>
         <ab xml:id="Ms-150_8.1" n="Ms-150,8[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_1">
@@ -576,7 +576,7 @@
           <s type="es">Eine Regel verstehen heißt <emph rend="us1">manchmal</emph><lb/> das System  verstehen.</s>
           <s type="es">Was aber heißt <emph rend="us1">das</emph>?</s>
           <lb rend="hl"/>
-          <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-8.BMP" xml:lang="de" subtype="graphics_Abbild; Varia" rend="bitmap">150005</seg>
+          <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-8.BMP" subtype="graphics_Abbild; Varia" rend="bitmap">150005</seg>
           <s type="es">In welchem Falle sagen wir es<lb/> verstehe <c type="c">J</c>emand das System<lb/> dieser  Befehle?</s>
           <s type="es">Er <add rend="our">r</add>eagiert<lb/> auf Glieder des Systems in bestimmter<lb/> Weise; er kann  das System <emph rend="us1">erklären</emph>.</s>
           <lb/>
@@ -700,10 +700,10 @@
           <seg type="wabmarks-secml"/>
           <s type="es">
             <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-13-a.BMP" xml:lang="de" subtype="graphics_Abbild; Varia" rend="bitmap">150006</seg>
+              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-13-a.BMP" subtype="graphics_Abbild; Varia" rend="bitmap">150006</seg>
             </emph>
             <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-13-b.BMP" xml:lang="de" subtype="graphics_Schema; Pfeile" rend="bitmap">150007</seg>
+              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-13-b.BMP" subtype="graphics_Schema; Pfeile" rend="bitmap">150007</seg>
             </emph>
           </s>
         </ab>
@@ -747,13 +747,13 @@
           <s type="es"><choice type="em"><orig type="em1"><add rend="i">“<choice type="o"><orig type="o1">“</orig><orig type="o2">But</orig></choice></add><choice type="o"><orig type="o1">W</orig><orig type="o2">w</orig></choice>hy</orig><orig type="em2"><choice type="dsl"><orig type="alt1">“<c type="c">W</c>hy</orig><orig type="alt2">“<c type="c">B</c>ut why</orig></choice></orig></choice><add rend="our">d</add>o you <del type="dnpc">call</del> speak  both of physical<lb/> &amp; mental  ‘strain’?” –</s>
           <s type="es">“Because they<lb/> have a certain similarity, they have a<lb/> common  element.”</s>
           <s type="es">What<del type="dn">t</del> is this com<add rend="our">mon</add><lb/> element<corr type="tra">?</corr></s>
-          <s type="es"><corr type="trsn"><orig type="trsn1">c</orig><reg type="trsn2">C</reg></corr>an you  point to it as you<lb/><unclear>pointed in</unclear> …?</s>
-          <del type="d">
+          <emph rend="vdline">
+            <s type="es"><corr type="trsn"><orig type="trsn1">c</orig><reg type="trsn2">C</reg></corr>an you  point to it as you<lb/><unclear>pointed in</unclear> …?</s>
             <s type="es">Can you say anything<lb/> more about it than that it is the<lb/> element of  strain?</s>
             <s type="es">
               <corr type="npc">If not, it was no expla<lb rend="shyphen"/>nation to say</corr>
             </s>
-          </del>
+          </emph>
           <s type="es" rend="indl_4">“It is a certain ten<corr type="trsn"><orig type="trsn1">t</orig><reg type="trsn2">s</reg></corr>ion.”</s>
           <s type="es">That doesn't get us<lb/> any further, for why do you talk of tension<lb/>  in these different cases.</s>
           <s type="es" rend="indl_4">“A certain feeling of ten<corr type="trsn"><orig type="trsn1">t</orig><reg type="trsn2">s</reg></corr>ion  <choice type="dsl"><orig type="alt1"><del type="d">accompan<corr type="trsn"><orig type="trsn1">y</orig><reg type="trsn2">ie</reg></corr>s</del></orig><orig type="alt2"><add rend="i">is part  <corr type="tra">of</corr></add></orig></choice><lb/> both experiences”.</s>
@@ -939,7 +939,7 @@
         <ab xml:id="Ms-150_21.5" n="Ms-150,21[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <s type="es" rend="indl_4">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-21.BMP" xml:lang="de" subtype="graphics_Abbild; Gesicht(er)" rend="bitmap">150009</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-21.BMP" subtype="graphics_Abbild; Gesicht(er)" rend="bitmap">150009</seg>
           </s>
           <s type="es">Ich kann auch ein bestimmtes<lb/> gezeichnetes Gesicht einmal als das<lb/> Gesicht  des so &amp; so sehen &amp; einmal<lb/> anders.</s>
         </ab>
@@ -1867,7 +1867,7 @@
           <seg type="wabmarks-secml"/>
           <s type="es">
             <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-55.BMP" xml:lang="de" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap">150013</seg>
+              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-55.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap">150013</seg>
             </emph>
           </s>
         </ab>
@@ -1917,7 +1917,7 @@
         </ab>
         <ab xml:id="Ms-150_57.2" n="Ms-150,57[2]" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_0" xml:lang="en">
           <seg type="wabmarks-secml"/>
-          <s type="es" rend="indl_4">It would be interesting to imagine beings<lb/> which consisted  <del type="dncr"><corr type="npc">in</corr></del> <add rend="i">of</add> nothing else than a<lb/> circular stroke  &amp; <del type="dnpc">four</del> two eye strokes &amp;<lb/>  nose<corr type="tra">-</corr>stroke &amp; one mouth<corr type="tra">-</corr>stroke  &amp; whose move<lb rend="shyphen"/>ments consisted <choice type="dsl"><orig type="alt1"><del type="d">of</del></orig><orig type="alt2">in</orig></choice>  movements<corr type="tra">,</corr> changes<lb/> of <corr type="tra">the</corr> shape of these strokes.</s>
+          <s type="es" rend="indl_4">It would be interesting to imagine beings<lb/> which consisted  <del type="dncr"><corr type="npc">in</corr></del> <add rend="i">of</add> nothing else than a<lb/> circular stroke  &amp; <del type="dnpc">four</del> two eye strokes &amp;<lb/>   nose<corr type="trs"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>stroke &amp; one mouth<corr type="trs"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>stroke  &amp; whose move<lb rend="shyphen"/>ments consisted <choice type="dsl"><orig type="alt1"><del type="d">of</del></orig><orig type="alt2">in</orig></choice>  movements<corr type="tra">,</corr> changes<lb/> of <corr type="tra">the</corr> shape of these strokes.</s>
         </ab>
         <ab xml:id="Ms-150_57.3" n="Ms-150,57[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
@@ -1976,7 +1976,7 @@
           <s type="es" rend="indl_4"><choice type="em"><orig type="em1"><add rend="el">Oder</add><choice type="o"><orig type="o1">Ich</orig><orig type="o2">ich</orig></choice></orig><orig type="em2"><choice type="dsl"><orig type="alt1"><c type="c">I</c>ch</orig><orig type="alt2"><c type="c">O</c>der ich</orig></choice></orig></choice> frage “<c type="c">W</c>as drückt es denn<lb/>  aus?” und will doch eigentlich keine<lb/>  Antwort<corr type="tra">.</corr></s>
           <lb rend="hl"/>
           <rs type="extref" key="Busch, Wilhelm: Maler Klecksel">
-            <s type="es" rend="indl_4">Es heißt eigentlich es ha<corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">t</reg></corr> Ausdruck<lb/> es ist ein  Gesicht<corr type="tra">.</corr><emph rend="bl_1"/> <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-59.BMP" xml:lang="de" subtype="graphics_Abbild; Gesicht(er)" rend="bitmap">150015</seg></emph></s>
+            <s type="es" rend="indl_4">Es heißt eigentlich es ha<corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">t</reg></corr> Ausdruck<lb/> es ist ein  Gesicht<corr type="tra">.</corr><emph rend="bl_1"/> <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-59.BMP" subtype="graphics_Abbild; Gesicht(er)" rend="bitmap">150015</seg></emph></s>
           </rs>
         </ab>
         <ab xml:id="Ms-150_59.3" n="Ms-150,59[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_1">
@@ -2310,12 +2310,14 @@
         </ab>
         <ab xml:id="Ms-150_66.1" n="Ms-150,66[1]" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_1" xml:lang="en">
           <seg type="wabmarks-secml"/>
-          <s type="es">
-            <add rend="iupm">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-66.BMP" subtype="graphics_Linie; Gekritzel" rend="bitmap">k150004</seg>
-            </add>
-          </s>
-          <s type="es">When <add rend="our">I</add> read a line of <del type="d">a</del> writing<lb/> in a well known language  <add rend="im">trying to see what reading consists in</add> I get<lb/> a particular experience  which I<lb/> <emph rend="slilm"> take to be the experience  of<lb/> reading. </emph></s>
+          <emph rend="vdline">
+            <s type="es">
+              <add rend="iupm">
+                <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-66.BMP" subtype="graphics_Linie; Gekritzel" rend="bitmap">k150004</seg>
+              </add>
+            </s>
+            <s type="es">When <add rend="our">I</add> read a line of <del type="d">a</del> writing<lb/> in a well known language  <add rend="im">trying to see what reading consists in</add> I get<lb/> a particular experience  which I<lb/> <emph rend="slilm"> take to be the experience  of<lb/> reading. </emph></s>
+          </emph>
         </ab>
         <ab xml:id="Ms-150_66.2" n="Ms-150,66[2]" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_1" xml:lang="en">
           <seg type="wabmarks-secml"/>
@@ -3083,6 +3085,7 @@
             </emph>
             <lb rend="hl"/>
           </emph>
+          <emph rend="bl_1"/>
           <s type="es">
             <emph rend="centered">
               <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio150-89.BMP" ana="field:PhilosophyOfLanguage_pos_28" rend="bitmap">150029</seg>

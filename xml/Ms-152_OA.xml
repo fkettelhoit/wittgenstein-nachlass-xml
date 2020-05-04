@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="WS" rendition="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-152: so-called C8 (WL)</title>
+        <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-152: so-called C8 (WL)</title>
         <title xml:id="Ms-152" n="Ms-152" type="main" xml:lang="en"/>
         <author>
           <persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>
@@ -38,6 +38,10 @@
         <respStmt>
           <name>Alexander Berg</name>
           <resp>2014: proofreading of normalized transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claus Huitfeldt</name>
+          <resp>2020: Spell-check</resp>
         </respStmt>
         <respStmt>
           <name>Michael Biggs, Hans Biesenbach</name>
@@ -692,8 +696,10 @@
           </fw>
         </ab>
         <ab xml:id="Ms-152_16.1" n="Ms-152,16[1]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_1" xml:lang="de">
-          <seg type="wabmarks-secml">?</seg>
-          <s type="es" rend="indl_1">Und wir werden umso geneigter sein die Farbe<lb/> als <emph rend="us1">die</emph> Farbe der  Fläche zu betrachten je wohlvertrauter <add rend="i">sie</add> uns <del type="dnpc"/> ist  <add rend="iupmm">&amp; je stärker der Eindruck ist d<add rend="our">en</add> sie auf uns  macht</add><del type="d"> je charakteristischer <add rend="i">sie uns erscheint</add> <add rend="iupmm">je mehr  Ausdruck sie hat <gap extent="words_3"/></add></del><corr type="tra">.</corr></s>
+          <seg type="wabmarks-secml">? </seg>
+          <emph rend="crossed">
+            <s type="es" rend="indl_1">Und wir werden umso geneigter sein die Farbe<lb/> als <emph rend="us1">die</emph> Farbe der  Fläche zu betrachten je wohlvertrauter <add rend="i">sie</add> uns <del type="dnpc"/> ist  <add rend="iupmm">&amp; je stärker der Eindruck ist d<add rend="our">en</add> sie auf uns  macht</add><del type="d"> je charakteristischer <add rend="i">sie uns erscheint</add> <add rend="iupmm">je mehr  Ausdruck sie hat <gap extent="words_3"/></add></del><corr type="tra">.</corr></s>
+          </emph>
           <s type="es" rend="indl_3">Es ist die <add rend="im">außerordentliche</add> Wohlvertrautheit <choice type="dsl"><orig type="alt1"><del type="d">&amp;  <gap extent="words_1"/> unserer Schrift</del></orig><orig type="alt2"><add rend="i"><lb/>unserer Schrift</add></orig></choice> der  charakteristische Eindruck<lb/> den sie uns macht was uns verleitet <del type="dnpc">das<lb/>  Lesen</del> daß wir das Wesentliche des Lesens im Lesen<lb/> der Schrift zu sehen  <add rend="our">g</add>lauben.</s>
         </ab>
         <ab xml:id="Ms-152_16.2" n="Ms-152,16[2]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_1" xml:lang="de">
@@ -1400,7 +1406,7 @@
         <ab xml:id="Ms-152_39.7" n="Ms-152,39[7]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_1" xml:lang="de">
           <seg type="wabmarks-secml"/>
           <rs type="extref" key="Augustinus, Aurelius: Confessiones">
-            <s type="es" rend="indl_2"><emph rend="us1"><persName key="Augustinus, Aurelius">Augustinus</persName></emph>  beschreibt das Lernen der Sprache<emph rend="bl_1"/>so:</s>
+            <s type="es" rend="indl_2"><emph rend="us1"><persName key="Augustinus, Aurelius">Augustinus</persName></emph>  beschreibt das Lernen der Sprache<emph rend="bl_1"/> so:</s>
           </rs>
         </ab>
         <ab xml:id="Ms-152_39.8" n="Ms-152,39[8]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_1" xml:lang="de">
@@ -1425,7 +1431,9 @@
         </ab>
         <ab xml:id="Ms-152_40.1" n="Ms-152,40[1]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_1" xml:lang="de">
           <seg type="wabmarks-secml"/>
-          <s type="es" rend="indl_1">Der Begriff der “Bedeutung der<lb/> Wörter” <choice type="s"><orig type="alt1">die den  Mittelpunkt der Phi<lb rend="shyphen"/>losophie bilden soll, ist  …<lb rend="hl"/></orig><orig type="alt2"><corr type="npc"><emph rend="indl_8"/></corr><add rend="imb">wie wir ihn in der Philosophie<lb/> zu gebrauchen  versucht sind,  …</add></orig></choice></s>
+          <emph rend="vdline">
+            <s type="es" rend="indl_1">Der Begriff der “Bedeutung der<lb/> Wörter” <choice type="s"><orig type="alt1">die den  Mittelpunkt der Phi<lb rend="shyphen"/>losophie bilden soll, ist  …<lb rend="hl"/></orig><orig type="alt2"><corr type="npc"><emph rend="indl_8"/></corr><add rend="imb">wie wir ihn in der Philosophie<lb/> zu gebrauchen  versucht sind,  …</add></orig></choice></s>
+          </emph>
         </ab>
         <ab xml:id="Ms-152_40.2" n="Ms-152,40[2]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_1" xml:lang="de">
           <seg type="wabmarks-secml"/>
@@ -1722,8 +1730,8 @@
         <ab xml:id="Ms-152_48.4et49.1" n="Ms-152,48[4]et49[1]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_2" xml:lang="de">
           <seg type="wabmarks-secml"/>
           <emph rend="indl_1"/>
-          <emph rend="vdline">
-            <s type="es">Aber wissen wie das Wort gebraucht wird<lb/> heißt hier nicht außer dieser  Erklä<unclear>rung<lb/> Regeln kennen sondern </unclear></s>
+          <emph rend="crossed">
+            <s type="es">Aber wissen wie das Wort gebraucht wird<lb/> heißt hier nicht außer dieser  Erklä<unclear>rung<lb/> Regeln kennen sondern <corr type="npcn">en</corr> <corr type="tra"> …</corr></unclear></s>
           </emph>
           <s type="es" rend="indl_1">Auch hier wird diese Erkl<corr type="trsn"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>rung nur<lb/> darum den Gebrauch  des Worts <choice type="s"><orig type="alt1">lehren</orig><orig type="alt2"><add rend="i">erklären</add></orig></choice> <lb/>weil er weiß <choice type="em"><orig type="em1">wie <add rend="i">welche  Rolle</add> dieses Stück Holz <add rend="i">spielt</add> <del type="d_c">gebraucht wird</del></orig><orig type="em2"><choice type="s"><orig type="alt1">wie dieses Stück Holz gebraucht wird</orig><orig type="alt2">welche Rolle dieses Stück Holz  spielt</orig></choice></orig></choice> aber dies wissen <pb facs="Ms-152_49" rend="recto" n="pagename_Ms-152,49 pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">49.</add></fw> ist hier kein Wissen von Regeln.</s>
           <s type="es">Er gebraucht<lb/> es eben so<add rend="el">.</add> <del type="dnpc">&amp; wenn </del></s>
@@ -1981,7 +1989,7 @@
           <s type="es">Und wir können <del type="dnpc">sozusagen <emph rend="us1">zu</emph> dem Gegenstand das</del> <add rend="i">so  <unclear>auch</unclear></add> <corr type="tra">das</corr> Wort “dieses”<del type="dnpc">  sagen</del>,<lb/> <choice type="s"><orig type="alt1">sozusagen</orig><orig type="alt2"><add rend="im">gleichsam</add></orig></choice> zu dem Gegenstand, sagen<lb/>  <choice type="s"><orig type="alt1">eine seltsame Zeremonie die nirgends <lb/><choice type="s"><orig type="alt1">anders</orig><orig type="alt2"><add rend="i">sonst</add></orig></choice>  gebraucht wird</orig><orig type="alt2"><add rend="i">ein merkwürdiger Gebrauch dieses Wortes der  <corr type="trs"><orig type="trs1"> … </orig><reg type="trs2">nirgends sonst</reg></corr>  <emph rend="uw1">vorkommt</emph></add></orig></choice><reloc type="fetch-nec" n="Ms-152,54_Ms-152,54" corresp="relocNec#Ms-152:555"><del type="d"><add rend="el">,  wenn wir <choice type="s"><orig type="alt1">nicht mit ihr <emph rend="us1">arbeiten</emph></orig><orig type="alt2"><add rend="i">sie nicht praktisch  verwenden</add></orig></choice></add></del></reloc><corr type="tra">.</corr></s>
         </ab>
         <ab xml:id="Ms-152_54.5et55.1" n="Ms-152,54[5]et55[1]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_1" xml:lang="de">
-          <seg type="wabmarks-secml">?</seg>
+          <seg type="wabmarks-secml">? </seg>
           <emph rend="vdline">
             <s type="es">Ich wüßte nicht was ich in diesem Spra<add rend="our">ch</add><lb rend="shyphen"/>spiel natürlicher  “das Einfache” nennen<lb/> <choice type="s"><orig type="alt1">sollte</orig><orig type="alt2"><add rend="i">könnte</add></orig></choice>. –</s>
             <s type="es">Unter andern <choice type="o"><orig type="o1">u</orig><orig type="o2">U</orig></choice>mständen <add rend="el">aber würde ich</add>  …</s>
@@ -1991,7 +1999,7 @@
           <s type="es">Denke ich mir die <del type="dnpc">Quadrate <add rend="our">als</add> <corr type="npcn">au</corr></del> Figur  <pb facs="Ms-152_55" rend="recto" n="pagename_Ms-152,55 pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">55.</add></fw> als Mosaik so werde ich etwa  geneigt sein jedes<lb/> Quadrat ein Element zu nennen.</s>
           <s type="es">Denke ich sie<lb/> mir eben alle mit vierfarbigen  Stemp<corr type="trsn"><orig type="trsn1">le</orig><reg type="trsn2">el</reg></corr>n <add rend="i">auf Papier</add> gedruckt<lb/> so bin ich  <add rend="i">vielleicht</add> zur andern Auffassung  g<corr type="tran">e</corr>n<add rend="our">ei</add>gt.</s>
           <emph rend="indl_3"/>
-          <emph rend="vdline">
+          <emph rend="crossed">
             <s type="es"><add rend="our">Is</add>t denn nun aber jede Sprache <choice type="s"><orig type="alt1">wie</orig><orig type="alt2"><add rend="i"><choice type="dsl"><orig type="alt1"><del type="d">so  gebildet wie</del></orig><orig type="alt2">von der Art</orig></choice></add></orig></choice>  …</s>
             <lb/>
             <s type="es">Ist jeder Satz ein Komplex von Namen <abbr type="abb">z.B.</abbr><lb/>  <add rend="i"><gap extent="words_1"/></add> die Sätze in (9)?</s>
@@ -2514,7 +2522,7 @@
           <lb/>
           <s type="es">Machst Du ihn dadurch erst brauch<lb rend="shyphen"/>bar?</s>
           <s type="es">Durchaus nicht! es sei denn für einen<lb/> bestimmten Zweck.</s>
-          <s type="es">Sowenig wie der das <del type="dnpc"><corr type="npcn">Schr</corr></del><lb/>  L<corr type="trsn"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>ngenmaß <corr type="tra">“</corr>ein  Schritt<corr type="tra">”</corr> brauchbar machte<lb/> der die Definition gab 1  Schritt  =  75<abbr type="abb">cm</abbr><del type="dnpc"/>.</s>
+          <s type="es">Sowenig wie der das <del type="dnpc"><corr type="npcn">Schr</corr></del><lb/>  L<corr type="trsn"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>ngenmaß <corr type="tra">“</corr>ein  Schritt<corr type="tra">”</corr> brauchbar machte<lb/> der die Definition gab 1  Schritt  =  75 cm<del type="dnpc"/>.</s>
           <s type="es">Und<lb/> wenn Du sagen willst <corr type="tra">“</corr>aber vorher war es<lb/> doch  kein exaktes Längenmaß<corr type="tra">”</corr> so antworte<lb/> ich:  <corr type="tra">“</corr>gut dann war es ein  unexa<corr type="trsn"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>tes<corr type="tra">”</corr>.</s>
           <s type="es">Ob<lb rend="shyphen"/>gleich Du mir noch die Definition der Exaktheit<lb/> schuldig  bist.</s>
           <lb rend="hl"/>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="WS" rendition="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-154 (WL)</title>
+        <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-154 (WL)</title>
         <title xml:id="Ms-154" n="Ms-154" type="main" xml:lang="en"/>
         <author>
           <persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>
@@ -38,6 +38,10 @@
         <respStmt>
           <name>Alexander Berg</name>
           <resp>2014: proofreading of normalized transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claus Huitfeldt</name>
+          <resp>2020: Spell-check</resp>
         </respStmt>
         <respStmt>
           <name>Michael Biggs, Hans Biesenbach</name>
@@ -656,7 +660,7 @@
   <text xml:lang="de">
     <body>
       <div n="OUP_Notebooks_8_Ms-154">
-        <ab xml:id="Ms-154_1r.1" n="Ms-154,1r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?_seg:fm" emph="blbef_1">
+        <ab xml:id="Ms-154_1r.1" n="Ms-154,1r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;52.1_date:19320401?-19320531?_seg:fm" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <pb facs="Ms-154_FCr" n="pagename_Ms-154,FCr pageref_00"/>
@@ -688,7 +692,7 @@
           </emph>
           <lb rend="hl"/>
           <pb facs="Ms-154_1v" n="pagename_Ms-154,1v pageref_00"/>
-          <emph rend="vdline">
+          <emph rend="crossed">
             <s type="es">
               <choice type="s">
                 <orig type="alt1"><corr type="tra"><persName key="Russell, Bertrand"><c type="k">R</c>ussell</persName> hat für  die Existenz unendlich vieler</corr> Dinge vorgesorgt;  <persName key="Ramsey, Frank Plumpton">Ram<lb rend="shyphen0"/>sey</persName> für die  Existenz beliebiger<lb/> n-stelliger<lb/> Relationen,  <corr type="tran"><abbr type="abb">etc.</abbr></corr></orig>
@@ -697,7 +701,7 @@
             </s>
           </emph>
         </ab>
-        <ab xml:id="Ms-154_1v.1" n="Ms-154,1v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_1v.1" n="Ms-154,1v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;53.1_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -712,7 +716,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-154_2r.1" n="Ms-154,2r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <pb facs="Ms-154_2r" n="pagename_Ms-154,2r pageref_00"/>
             <fw type="pagen" place="top right">
@@ -724,7 +728,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_2r.2et2v.1" n="Ms-154,2r[2]et2v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Nun kann man doch<lb/> für die Existenz eines<lb/> Dinges vorsorgen: ich<lb/> mache  <emph rend="ringed"><unclear><abbr type="abb">z.B.</abbr></unclear></emph> ein Käst<lb rend="shyphen0"/>chen um  den Schmuck<lb/> hineinzulegen der<lb/> vielleicht einmal ge<lb rend="shyphen0"/>macht werden  wird.</s>
             <lb rend="hl"/>
@@ -739,11 +743,11 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_2v.2et3r.1et3v.1" n="Ms-154,2v[2]et3r[1]et3v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Man denkt <abbr type="abb">z.B.</abbr> einer<lb rend="shyphen0"/>seits daß es die  Arith<lb rend="shyphen0"/>metik mit den Funk<lb rend="shyphen0"/>tionen zu tun hat von<lb/> deren Anzahlen sie  han<lb rend="shyphen0"/>delt.</s>
             <s type="es">Aber man<lb/> will sich nicht durch<lb/> die uns jetzt bekann<lb rend="shyphen0"/>ten Funktionen binden<lb/>  lassen und man weiß<lb/> nicht ob es jemals<lb/> eine geben wird die von<lb/> 100  <del type="dnpc"><corr type="npcn">ge</corr></del> <add rend="our">G</add>egenständen<lb/> befriedigt wird:  a<add rend="our">ls</add>o<lb/> muß man vorsorgen       <pb facs="Ms-154_3r" n="pagename_Ms-154,3r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">3</add></fw>     &amp; eine  Konstruktion<lb/> machen die <add rend="im">alles</add> für die <del type="dnpc">alles</del><lb/>  100-stellige Relation<lb/> vorbereitet wenn sich<lb/> eine finden sollte.</s>
-            <s type="es" rend="indl_2">Was heißt es aber<lb/> überhaupt „es findet<lb/> sich (oder: es  gibt) eine 100<corr type="tra">-</corr><lb/>stellige Relation”?</s>
+            <s type="es" rend="indl_2">Was heißt es aber<lb/> überhaupt „es findet<lb/> sich (oder: es   gibt) eine 100<corr type="tra">-</corr>stellige<lb/> Relation”?</s>
             <s type="es">Wel<lb rend="shyphen0"/>chen Begriff haben wir <lb/>von ihr<add rend="our">?</add> oder einer  2-stelli<lb rend="shyphen0"/>gen?! –</s>
             <s type="es">Als Beispiel<lb/> einer 2<corr type="tra">-</corr><add rend="our">st</add>elligen Rela<lb rend="shyphen0"/>tion  gibt man etwa <lb/>das der Beziehung<lb/> zwischen Vater &amp;  Sohn<corr type="tra">.</corr></s>
             <lb/>
@@ -756,14 +760,14 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_3v.2et4r.1" n="Ms-154,3v[2]et4r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Hier handelt es sich<lb/> um den Begriff der<lb/> <emph rend="us1">Anwendung</emph>.</s>
             <s type="es">Man <lb/>hat etwa die     Vor<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">stellung</corr><pb facs="Ms-154_4r" n="pagename_Ms-154,4r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">4</add></fw><corr type="npcn-pb">stellung</corr> von einem<lb/>  Motor der erst leer<lb/> geht &amp; dann eine<lb/> Arbeitsmaschine treibt.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_4r.2" n="Ms-154,4r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Aber was gibt die An<lb rend="shyphen0"/>wendung der Rechnung?</s>
             <lb/>
@@ -777,7 +781,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_4v.1" n="Ms-154,4v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Nein, die Rechnung mit<lb/> Äpfeln ist wesentlich<lb/> dieselbe wie die mit<lb/> Strichen  oder Ziffern.</s>
             <lb/>
@@ -785,7 +789,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_4v.2et5r.1" n="Ms-154,4v[2]et5r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Wenn ich nun sage<lb/> „die Liebe ist <abbr type="abb">z.B.</abbr><lb/> eine  2-stellige Rela<lb rend="shyphen0"/>tion”<choice type="s"><orig type="alt1">,</orig><orig type="alt2">–</orig></choice> sage ich hier<lb/> etwas  über die Liebe <lb/>aus?</s>
             <s type="es"><choice type="o"><orig type="o1">n</orig><orig type="o2"><c type="c">N</c></orig></choice>atürlich nicht.</s>
@@ -794,7 +798,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_5r.2et5v.1" n="Ms-154,5r[2]et5v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es"><del type="dnpc">Inwiefern ist</del><c type="c">N</c>un<lb/> hat man aber doch<lb/> das Gefühl daß mit<lb/>  dem Hinweis auf die<lb/> <corr type="trs"><orig type="trs1">2 stellige</orig><reg type="trs2">2<corr type="tra">-</corr>stellige</reg></corr>  Relation Liebe<lb/> in die Hülse des Relations<lb rend="shyphen0"/>kalküls Sinn gesteckt<lb/>  wurde. –</s>
             <s type="es">Denken <corr type="trsn"><orig type="trsn1">W</orig><reg type="trsn2">w</reg></corr>ir<lb/> uns eine <corr type="trsn"><orig type="trsn1">G</orig><reg type="trsn2">g</reg></corr>eometrische<lb/>  Demonstration statt<lb/> an einer Zeichnung oder<lb/> an analytischen Sym<lb rend="shyphen0"/>bolen  an einem Lam<lb rend="shyphen0"/>penzyl<corr type="npcn"><add rend="el">l</add></corr>inder  vorgenom<lb rend="shyphen0"/>men.</s>
@@ -804,7 +808,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_5v.2et6r.1" n="Ms-154,5v[2]et6r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Wir haben mit<lb/> verschiedenen Verwen<lb rend="shyphen0"/>dungen des Wortes<lb/>  <corr type="tra">„</corr>Anwendung<corr type="tra">”</corr> zu tun.</s>
             <lb rend="hl"/>
@@ -812,7 +816,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_6r.2et6v.1" n="Ms-154,6r[2]et6v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Hier kann man nun<lb/> sagen: <c type="c">D</c>ie Arithmetik<lb/> ist ihre eigene  Anwendung.</s>
             <lb/>
@@ -822,7 +826,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_6v.2et7r.1" n="Ms-154,6v[2]et7r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Wenn also der Logiker<lb/> sagt, er habe für<lb/> eventuell existieren<lb rend="shyphen0"/>de  6-stellige Relation<lb rend="shyphen0"/>en in der Arithmetik<lb/> vorgesorgt oder für<lb/>  Funktionen die von 27<lb/> Dingen befriedigt werden,<lb/> so können wir fragen:<lb/>  <c type="c">W</c>as wird denn nun<lb/> zu dem was Du vor<lb rend="shyphen0"/>bereitet hast hinzu<lb rend="shyphen0"/>treten  wenn es nun<lb/><lb/>               <pb facs="Ms-154_7r" n="pagename_Ms-154,7r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">7</add></fw> seine Anwendung findet?</s>
             <lb/>
@@ -831,7 +835,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_7r.2et7v.1" n="Ms-154,7r[2]et7v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">
               <choice type="s">
@@ -842,13 +846,13 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_7v.2" n="Ms-154,7v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Aber wie gewöhnlich<lb/> in unserem Gebiet<lb/> liegt hier der Fehler<lb/> nicht darin  daß<lb/> man etwas <corr type="trsn"><orig type="trsn1">f</orig><reg type="trsn2">F</reg></corr>alsches<lb/> glaubt sondern<lb/> darin daß man auf<lb/>  <emph rend="uw1">eine nicht</emph> <emph rend="uw1">stimmende<lb/> Analogie</emph> hinschielt.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_7v.3et8r.1et8v.1" n="Ms-154,7v[3]et8r[1]et8v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Was geschieht denn<lb/> wenn die 6-stellige<lb/> Relation gefunden<lb/>  wird?</s>
             <s type="es">Wird quasi<lb/> ein Metall gefunden<lb/> da<corr type="trsn"><orig type="trsn1">ß</orig><reg type="trsn2">s</reg></corr>  <del type="dnpc"><corr type="npcn">d</corr></del> nun die           ge<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">wünschte</corr><pb facs="Ms-154_8r" n="pagename_Ms-154,8r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">8</add></fw><corr type="npcn-pb">wünschte</corr> Eigenschaft<lb/>  (das richtige <abbr corresp="spezifische Gewicht">spez. Gew.</abbr>,<lb/>  die richtige Festigkeit <abbr type="abb">etc.</abbr>) <lb/>hat?</s>
@@ -862,7 +866,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_8v.2et9r.1" n="Ms-154,8v[2]et9r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Das alles h<add rend="our">ä</add><add rend="el">n</add>gt auch<lb/> mit dem falschen<lb/> Begriff der  <abbr corresp="logischen">log.</abbr> Ana<lb rend="shyphen0"/>lyse zusammen<lb/> den  <persName key="Russell, Bertrand">Ru<add rend="our">s</add>sell</persName>, ich<lb/> &amp;  <persName key="Ramsey, Frank Plumpton">Ramsey</persName> hatten.</s>
             <s type="es">So <lb/>daß man auf<lb/><lb/>           <pb facs="Ms-154_9r" n="pagename_Ms-154,9r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">9</add></fw> eine endliche  <add rend="im">logische</add> Analyse<lb/> <add rend="our">d</add>er Tatsachen wartet<lb/> wie auf eine  <choice type="o"><orig type="o1">c</orig><orig type="o2"><corr type="trsn"><orig type="trsn1"><c type="c">C</c></orig><reg type="trsn2">c</reg></corr></orig></choice>hemische<lb/> von  Verbindungen.</s>
@@ -870,14 +874,14 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_9r.2" n="Ms-154,9r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Die Grammatik ist<lb/> für un<add rend="our">s</add> ein reiner<lb/> Kalkül.</s>
             <s type="es">(Nicht die An<lb rend="shyphen0"/>wendung eines auf die Re<lb rend="shyphen0"/>alität.)</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_9r.3" n="Ms-154,9r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <seg type="edcom"> ❘  ❘ </seg>
             <s type="es">Die Wörter sind nicht die<lb/> <emph rend="us1">Ingredien<corr type="trsn"><orig type="trsn1">t</orig><reg type="trsn2">z</reg></corr>ien</emph>  eines Satzes<corr type="tra">.</corr></s>
@@ -887,7 +891,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_9v.1" n="Ms-154,9v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">
               <seg type="notation" subtype="logic_quantificational formula" rend="literal">(∃2x) φx ∙ (∃2x) ψx ∙   <abbr type="abb">Ind.</abbr> .⊃.<emph rend="indl_5"/> .⊃.  (∃4x) φx ⌵ ψx</seg>
@@ -895,7 +899,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_9v.2et10r.1" n="Ms-154,9v[2]et10r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Weniger versprechen a<add rend="el">l</add>s<lb/> man halten will<lb/> ist oft schön, aber<lb/> es  kann auch aus<lb/> einer Anmaßung ent<lb rend="shyphen0"/>springen; dann, wenn<lb/> man sich auch  etwas<lb/> drauf einbildet we<lb rend="shyphen0"/>niger zu <del type="dnpc"><corr type="npcn">z</corr></del> versprechen<lb/>  als man halten<lb/> wird. –</s>
             <s type="es">Ist es richtig<lb/> oder unrichtig mein<lb/> Buch nicht  <seg type="title">„<choice type="o"><orig type="o1">p</orig><orig type="o2"><c type="c">P</c></orig></choice>hiloso<lb rend="shyphen0"/>phische Betrachtungen<lb/>  <abbr type="abb">etc.</abbr>”</seg> <add rend="our">zu</add> nennen,<lb/> sondern:  <seg type="title">„<c type="c">P</c>hilosophische<lb/> <emph rend="us1">Bemerkungen</emph></seg>,  <choice type="s"><orig type="alt1">nach<lb/>         <pb facs="Ms-154_10r" n="pagename_Ms-154,10r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">10</add></fw> ihren Gegenständen alphabetisch<lb/>  geordnet”?</orig><orig type="alt2"><lb rend="hl"/><seg type="edinst"> [ </seg>nach Stichwörtern  alphabe<lb rend="shyphen0"/>tisch  geordnet<corr type="tra">”</corr><corr type="tra">?</corr><seg type="edinst"> ] </seg></orig><orig type="alt3"><add rend="iupm"><seg type="edinst"> [ </seg>alphabetisch nach Stichwörte<add rend="our">rn</add><lb/>  <choice type="em"><orig type="em1"><del type="d">an</del>geordnet</orig><orig type="em2"><choice type="dsl"><orig type="alt1">angeordnet</orig><orig type="alt2">geordnet</orig></choice></orig></choice><corr type="tra">”</corr><seg type="edinst"> ] </seg>?</add></orig></choice></s>
@@ -967,7 +971,7 @@
           <s type="es">Der Disput darüber<lb/> ob <add rend="our">schon</add> Eins oder erst<lb/> Zwei die erste Zahl  <choice type="o"><orig type="o1">ist</orig><orig type="o2">sei</orig></choice>.</s>
         </ab>
         <ab xml:id="Ms-154_12v.3et13r.1" n="Ms-154,12v[3]et13r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Was bedeutet ein Satz<lb/> der Art <seg type="notation" subtype="logic_quantificational formula" rend="literal">(∃n)  4 + n = 7</seg>?</s>
             <s type="es">Nun<lb/><lb/>     <pb facs="Ms-154_13r" n="pagename_Ms-154,13r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">13</add></fw> da frage man sich erst;<lb/> gibt es schon einen Beweis<lb/> für  ode<corr type="tran">r</corr> gegen ihn denn<lb/> das ändert seine<lb/> Grammatik.</s>
@@ -978,7 +982,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_13r.2" n="Ms-154,13r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Wie wäre es wenn ein<lb/> S<choice type="o"><orig type="o1">ä</orig><orig type="o2">a</orig></choice>tz seinen Sinn selber<lb/> nicht ganz  erfaßte.</s>
             <s type="es">Wenn<lb/> er sich quasi selber<lb/> zu hoch <add rend="our">wä</add>re.</s>
@@ -986,7 +990,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_13r.3et13v.1et14r.1" n="Ms-154,13r[3]et13v[1]et14r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">„Alle Zahlen haben<lb/> vielleicht diese    Eigen<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">schaft”.</corr><pb facs="Ms-154_13v" n="pagename_Ms-154,13v pageref_00"/><corr type="npcn-pb">schaft”.</corr> –</s>
             <s type="es">Aber was<lb/> heißt alle Zahlen?</s>
@@ -1007,14 +1011,14 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_14v.1" n="Ms-154,14v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <emph rend="bl_1"/>
             <s type="es"><del type="dnpc">Ein <corr type="npcn">math</corr></del><c type="c">E</c>in unbewie<lb rend="shyphen0"/>sen<del type="dn"><gap extent="characters_1"/></del>er  <choice type="dsl"><orig type="alt1"><del type="d"><emph rend="us1">Satz</emph></del></orig><orig type="alt2"><lb/> mathematischer Satz</orig></choice> – <lb/> ein  <add rend="our">W</add>egweiser der<lb/> mathematischen<lb/> Forschung.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_14v.2" n="Ms-154,14v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Der Beweis eines Satzes ist<lb/> ein Teil seiner Gramma<lb rend="shyphen0"/>tik.</s>
             <s type="es">Und wenn er<lb/> unbewiesen ist so hat<lb/> er eine andere Funktion<lb/> als, wenn er  (oder ein<lb/> Kalkül in dem er)<lb/> bewiesen ist.</s>
@@ -1039,7 +1043,7 @@
           <seg type="wabmarks-secml"/>
           <s type="es">Ich verliere mich<lb/> jetzt leicht in einem<lb/> Wald möglicher Nota<lb rend="shyphen0"/>tionen  &amp; Kalküle in<lb/> dem ich mich im Kreis<lb/><lb/>         <pb facs="Ms-154_15v" n="pagename_Ms-154,15v pageref_00"/> oder Kreisen  herumzu<lb rend="shyphen0"/>bewegen scheine.</s>
         </ab>
-        <ab xml:id="Ms-154_15v.2" n="Ms-154,15v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_15v.2" n="Ms-154,15v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.1_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1050,7 +1054,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_15v.3et16r.1" n="Ms-154,15v[3]et16r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_15v.3et16r.1" n="Ms-154,15v[3]et16r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.2_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1084,7 +1088,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_16r.2et16v.1" n="Ms-154,16r[2]et16v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_16r.2et16v.1" n="Ms-154,16r[2]et16v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.3_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1096,7 +1100,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_16v.2" n="Ms-154,16v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_16v.2" n="Ms-154,16v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.4_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1108,7 +1112,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_16v.3et17r.1et17v.1" n="Ms-154,16v[3]et17r[1]et17v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_16v.3et17r.1et17v.1" n="Ms-154,16v[3]et17r[1]et17v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.5_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1124,7 +1128,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_17v.2et18r.1et18v.1" n="Ms-154,17v[2]et18r[1]et18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_17v.2et18r.1et18v.1" n="Ms-154,17v[2]et18r[1]et18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.7_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1137,7 +1141,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_18v.2et19r.1" n="Ms-154,18v[2]et19r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_18v.2et19r.1" n="Ms-154,18v[2]et19r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.8_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1150,7 +1154,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_19r.2" n="Ms-154,19r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_19r.2" n="Ms-154,19r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.9_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1205,7 +1209,7 @@
           <seg type="wabmarks-secml"/>
           <s type="es">‒ ‒ ‒ Aber dieses Vor<lb rend="shyphen0"/>kommen des Paradigmas<lb/> der <unclear>&amp; der  Klasse im</unclear><lb/> Symbolismus bedeutet<lb/> nicht, daß ein bestimmter<lb/> Satz des  Symbolismus<lb/> wahr sein muß.</s>
         </ab>
-        <ab xml:id="Ms-154_20v.3" n="Ms-154,20v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?_seg:misc" emph="blbef_0">
+        <ab xml:id="Ms-154_20v.3" n="Ms-154,20v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;55.1_date:19320401?-19320531?_seg:misc" emph="blbef_0">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1232,7 +1236,7 @@
           <seg type="wabmarks-secml"/>
           <s type="es">Oder kann man<lb/> sagen der Satz <emph rend="indl_4"/>  <seg type="notation" subtype="logic_quantificational formula, type-theoretic formula" rend="literal"><add rend="our">(∃φ)</add>:(Еx) φx</seg>  ist sein<lb/> eigener Beweis, da <lb/><choice type="s"><orig type="alt1">der Satz</orig><orig type="alt2"><add rend="i">das Zeichen</add></orig></choice> selber so  ein Ding<lb/> enthält.</s>
         </ab>
-        <ab xml:id="Ms-154_21v.3et22r.1" n="Ms-154,21v[3]et22r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_21v.3et22r.1" n="Ms-154,21v[3]et22r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.1_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1241,7 +1245,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_20r.2" n="Ms-154,20r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_20r.2" n="Ms-154,20r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.2_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1254,7 +1258,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_22v.1et23r.1et23v.1" n="Ms-154,22v[1]et23r[1]et23v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_22v.1et23r.1et23v.1" n="Ms-154,22v[1]et23r[1]et23v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.3_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1270,7 +1274,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_23v.2et24r.1" n="Ms-154,23v[2]et24r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_23v.2et24r.1" n="Ms-154,23v[2]et24r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.6_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1282,7 +1286,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_23r.2et24v.1" n="Ms-154,23r[2]et24v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_23r.2et24v.1" n="Ms-154,23r[2]et24v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.7_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1300,7 +1304,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_25r.1" n="Ms-154,25r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_25r.1" n="Ms-154,25r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.8_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1322,7 +1326,7 @@
             <s type="es">Wenn das so<lb/> wäre so würde ich diese<lb/> Verwirrung studieren,<lb/> sie wäre sehr  interessant.</s>
           </rs>
         </ab>
-        <ab xml:id="Ms-154_25v.2et26r.1" n="Ms-154,25v[2]et26r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_25v.2et26r.1" n="Ms-154,25v[2]et26r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;57.1_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1334,7 +1338,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_26r.2et26v.1" n="Ms-154,26r[2]et26v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_26r.2et26v.1" n="Ms-154,26r[2]et26v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;57.2_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1348,7 +1352,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_26v.2et27r.1" n="Ms-154,26v[2]et27r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_date:19320401?-19320531?" emph="blbef_1">
+        <ab xml:id="Ms-154_26v.2et27r.1" n="Ms-154,26v[2]et27r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;57.3_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <seg type="VB">
@@ -1382,25 +1386,25 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_27v.2" n="Ms-154,27v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">W<add rend="our">enn</add> wir sagen möchten<lb/> die Unendlichkeit ist<lb/> eine Eigenschaft  der Mög<lb rend="shyphen0"/>lichkeit nicht der Wirk<lb rend="shyphen0"/>lichkeit oder das Wort<lb/>  <corr type="tra">„</corr>unendlich<corr type="tra">”</corr> gehört immer<lb/> zum Wort  <corr type="tra">„</corr>möglich<corr type="tra">”</corr>  <abbr type="abb">u. dergl.</abbr> <lb/><add rend="our">s</add>o kommt das darauf<lb/>  <add rend="our">h</add>inaus zu sagen<del type="dnpc">“</del>, das<lb/> Wort  <del type="dnpc">möglich</del> <corr type="tra">„</corr>unendlich<corr type="tra">”</corr><lb/>  sei immer Teil einer <emph rend="us1">Regel</emph><lb/> nicht eines Erfahrungssatzes.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_27v.3et28r.1" n="Ms-154,27v[3]et28r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Man kann sagen ich<lb/> mache Vorbereitungen<lb/> für die nächsten <add rend="el">3</add>  <del type="dnpc"><gap extent="words_1"/></del> Tage<lb/><lb/>         <pb facs="Ms-154_28r" n="pagename_Ms-154,28r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">28</add></fw> oder 10 Jahre,  <abbr type="abb">etc.</abbr> &amp; auch<lb/> „ich mache Vorbereitungen<lb/> auf  unbestimmte Zeit”<lb/> aber nicht <del type="dnpc">ich mache</del><lb/> „auf  unendliche Zeit”<corr type="tra">.</corr></s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_28r.2" n="Ms-154,28r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Wenn ich aber „Vorbereitungen<lb/> auf unbestimmte Zeit<lb/>  mache” dann läßt<lb/> sich ein<del type="dn">s</del> Zeitraum<lb/> (nachträglich)  finden für<lb/> den ich jedenfalls keine<lb/> Vorbereitungen mehr mache.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_28r.3" n="Ms-154,28r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es"><abbr type="abb">D.h.</abbr> aus dem Satz „ich<lb/> mache  <abbr corresp="Vorbereitungen">Vorb.</abbr> für <abbr corresp="unbestimmte">unbest.</abbr><lb/> Zeit” folgt nicht jeder<lb/> <corr type="trsn"><orig type="trsn1">B</orig><reg type="trsn2">b</reg></corr>eliebige Satz „ich<lb/> mache <abbr corresp="Vorbereitungen">Vorb<corr type="tra">.</corr></abbr> für <abbr corresp="unbestimmte">u<corr type="tra">.</corr></abbr>  Jahre”.</s>
             <lb rend="hl"/>
@@ -1408,19 +1412,19 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_28v.1" n="Ms-154,28v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Damit daß gesagt wird<lb/> daß aus der unendlichen <lb/>Hypothese  <del type="dnpc"><corr type="npcn">jede</corr></del> <seg type="notation" subtype="logic_nonstandard quantificational formula" rend="literal">(u)  ∙   (∃ux) φx</seg> <lb/><add rend="iupm">wie ich sie nur der Kürze  wegen jetzt<lb/> schreiben will</add><lb/> jeder beliebige Satz  <seg type="notation" subtype="logic_nonstandard quantificational formula" rend="literal">(∃ux) φx</seg><lb/> folgt  &amp; sie selbst aus <lb/>keinem dieser Sätze ist<lb/> natürlich noch gar nichts<lb/>  über den weiteren Gebrauch<lb/> dieses Spiels gesagt.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_28v.2" n="Ms-154,28v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Denken wir gar an den Satz:<lb/> ich vermute daß das<lb/> immer so weitergehn  wird.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_28v.3et29r.1" n="Ms-154,28v[3]et29r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Der komische Klang der<lb/> Widerlegung: Du hast<lb/> gesagt die Uhr werde<lb/>  immer so weitergehen, und<lb/> sie steht jetzt schon.</s>
             <lb rend="hl"/>
@@ -1434,13 +1438,13 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_29r.2et29v.1" n="Ms-154,29r[2]et29v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Wie seltsam wenn<lb/><lb/>          <pb facs="Ms-154_29v" n="pagename_Ms-154,29v pageref_00"/> man sagen  würde: es<lb/> gehört große Kühnheit<lb/> dazu für 100 Jahre<lb/> etwas  vorauszusagen;<lb/> aber welche Kühnheit<lb/> muß dazugehören um<lb/> etwas für die  unendliche<lb/> Zeit vorauszusagen<lb/> wie es <persName key="Newton, Isaac">Newton</persName> im Träg<lb rend="shyphen0"/>heitsgesetz getan hat!</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_29v.2" n="Ms-154,29v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">„Ich glaube das wird immer<lb/> so weitergehen”.</s>
             <lb/>
@@ -1454,13 +1458,13 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_30r.1" n="Ms-154,30r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es"><seg xml:lang="en">„For all practical<lb/> purposes”</seg> ist es genug<lb/> zu  sagen, <corr type="tra">„</corr>ich glaube<lb/> <choice type="o"><orig type="o1"> …</orig><orig type="o2">es w</orig></choice>erde  …  <choice type="o"><orig type="o1">j</orig><orig type="o2">J</orig></choice>ahre<lb/> dauern”.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_30r.2et30v.1" n="Ms-154,30r[2]et30v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Wir müssen nämlich fragen:<lb/> kann es Gründe zu diesem<lb/> Glauben  geben?</s>
             <s type="es">Welches<lb/> sind sie.</s>
@@ -1471,7 +1475,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_30v.2et31r.1et31v.1" n="Ms-154,30v[2]et31r[1]et31v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Denken wir an den Satz<lb/> „dieser Komet wird sich in<lb/> einer Parabel  mit der Glei<lb rend="shyphen0"/>chung  … bewegen.”</s>
             <s type="es" rend="indl_4">Wie wird dieser Satz<lb/> gebraucht?</s>
@@ -1501,7 +1505,7 @@
           </fw>
         </ab>
         <ab xml:id="Ms-154_32r.1et32v.1" n="Ms-154,32r[1]et32v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Wenn man <choice type="em"><orig type="em1">vo<choice type="o"><orig type="o1">n</orig><orig type="o2">m</orig></choice> <add rend="im">Begriff</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">von</orig><orig type="alt2">vom  Begriff</orig></choice></orig></choice> „Unend<lb rend="shyphen0"/>lichkeit” redet muß<lb/> man sich  daran erinnern<lb/> daß dieses Wort eine Unzahl<lb/> von <add rend="i">verschiedenen</add>  Bedeutungen hat &amp;<lb/> von welcher wir jetzt<lb/> gerade reden.</s>
             <s type="es"><add rend="our">O</add>b <abbr type="abb">z.B.</abbr><lb/><del type="d">gerade</del> von der  Unendlich<lb rend="shyphen0"/>keit der Zahl<add rend="el">e</add>nreihe &amp; <lb/>der Kardinalzahlen<lb/>  insbesondere.<corr type="npc">.</corr></s>
@@ -1514,14 +1518,14 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_32v.2et33r.1" n="Ms-154,32v[2]et33r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?_seg:misc" emph="blbef_0">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">(Die besondere Beruhigung<lb/> welche eintritt wenn<lb/> wir einem Fall den wir<lb/>  für einzigartig hielten<lb/> andere ähnliche Fälle<lb/> an die <choice type="o"><orig type="o1">s</orig><orig type="o2">S</orig></choice>eite  stellen<lb/> tritt in unserer Unter<lb rend="shyphen0"/>suchung immer wieder<lb/>              <pb facs="Ms-154_33r" n="pagename_Ms-154,33r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">33</add></fw> ein w<add rend="our">en</add>n wir <emph rend="us1">zeigen</emph> daß<lb/> ein Wort  nicht nur eine <lb/>nicht nur zwei<lb/> <del type="dnpc">sondern</del> Bedeutungen hat<lb/> sondern in  5 oder 6<lb/> verschiedenen gebraucht<lb/> wird.)</s>
             <lb rend="hl"/>
           </emph>
         </ab>
         <ab xml:id="Ms-154_33r.2et33v.1et34r.1" n="Ms-154,33r[2]et33v[1]et34r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <lb rend="hl"/>
             <s type="es">Warum ist man denn<lb/> versucht das Wort<lb/>  <corr type="tra">„</corr>unendlich<corr type="tra">”</corr> ganz in<lb/> die Regeln zu  verwei<lb rend="shyphen0"/>sen?</s>
@@ -1538,7 +1542,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_34r.2et34v.1" n="Ms-154,34r[2]et34v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Denken wir uns wir<lb/> erzählten jemandem<lb/> „<c type="c">G</c>estern kaufte ich  mir<lb/> ein Lineal mit unendli<lb rend="shyphen0"/>chem  Kr<corr type="trsn"><orig type="trsn1">u</orig><reg type="trsn2">ü</reg></corr>mmungsradius”<corr type="tra">.</corr></s>
             <lb/>
@@ -1554,13 +1558,13 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_35r.1" n="Ms-154,35r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Ich meine: wenn das<lb/> Wort „<c type="c">G</c>erade” oder<lb/>  „<c type="c">P</c>arall<add rend="el">e</add>l” oder  „<corr type="trsn"><orig type="trsn1">l</orig><reg type="trsn2"><c type="c">L</c></reg></corr>ängen<lb rend="shyphen0"/>gleich”  <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr> in einem<lb/> Erfahrungssatz<lb/> stehen  darf dann<lb/> auch das Wort  „<c type="c">U</c>n<lb rend="shyphen0"/>endlich”.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_35r.2" n="Ms-154,35r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Und wie wenn ich nun<lb/> sagte: „gerade<del type="dnpc">”</del>  ist nur<lb/> die Möglichkeit, nicht<lb/> die Wirklichkeit”?</s>
             <lb rend="hl"/>
@@ -1568,7 +1572,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_35r.3et35v.1" n="Ms-154,35r[3]et35v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Unendlich ist nur die<lb/> Möglichkeit heißt:  „un<lb rend="shyphen0"/>endlich” ist ein Zusatz<lb/> vor  „<abbr type="abb">u.s.w.</abbr>”</s>
             <pb facs="Ms-154_35v" n="pagename_Ms-154,35v pageref_00"/>
@@ -1577,20 +1581,20 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_35v.2" n="Ms-154,35v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Soweit „unendlich” ein<lb/> Zusatz zu  <abbr type="abb">u.s.w.</abbr><lb/> ist gehört es in eine<lb/> Regel, ein  Gesetz.</s>
             <s type="es">Aber<lb/> doch nicht notwendig<lb/> in die Grammatik!</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_35v.3" n="Ms-154,35v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">In die Erfahrung gehört<lb/> es in<emph rend="us1">so</emph>fern nicht als<lb/> die Erfahrung die  einem<lb/> Gesetz entspricht eine<lb/> <del type="d">endli<corr type="tran">che</corr></del> <emph rend="us1">Reihe</emph> von  Erfah<lb rend="shyphen0"/>rungen sind.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_35v.4et36r.1" n="Ms-154,35v[4]et36r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es"><corr type="tra">„</corr>Das Wort  <corr type="tra">‚</corr>unendlich<corr type="tra">’</corr><lb/> ist nur die  Möglichkeit         <pb facs="Ms-154_36r" n="pagename_Ms-154,36r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">36</add></fw> nicht die Wirklich<lb rend="shyphen0"/>keit<corr type="tra">”</corr> ist  irreleitend<corr type="tra">.</corr></s>
             <lb/>
@@ -1603,7 +1607,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_36v.2" n="Ms-154,36v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Es wundert mich nicht<lb/> daß das Wort  „<seg type="p"><abbr type="abb">inf.</abbr></seg>”<lb/> das in  „<abbr type="abb">u.s.w.</abbr> <abbr type="abb">ad  inf<corr type="tra">.</corr></abbr>”<lb/> vorkommt, nirgends <lb/><choice type="s"><orig type="alt1">sonst</orig><orig type="alt2"><add rend="i">anders</add></orig></choice> vorkommt.</s>
             <lb/>
@@ -1614,7 +1618,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_36v.3et37r.1et37v.1et38r.1" n="Ms-154,36v[3]et37r[1]et37v[1]et38r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Denken wir es sagte<lb/> uns <add rend="our">e</add>in Kommis in<lb/> einem  Gesch<corr type="trsn"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>ft: „davon<lb/> können  <corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">S</reg></corr>ie jede Menge<lb/> haben” &amp; nehmen wir an<lb/>  es wäre mir erlaubt nur<lb/> einmal eine Zahl zu<lb/> nennen.</s>
             <pb facs="Ms-154_37r" n="pagename_Ms-154,37r pageref_00"/>
@@ -1633,7 +1637,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_38r.2et38v.1et39r.1et39v.1" n="Ms-154,38r[2]et38v[1]et39r[1]et39v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Man könnte das<lb/> auch so sagen:<lb/> <c type="c">W</c>enn man den Begriff<lb/> der  Unendlichkeit <choice type="dsl"><orig type="alt1"><del type="d">auf <corr type="tra">die</corr></del></orig><orig type="alt2"><lb/> in der Beschreibung  der</orig></choice><lb/> Realität anwendet so<lb/> ist in solchen Beschrei<lb rend="shyphen0"/>bungen  <add rend="i"><abbr type="abb">z.B.</abbr></add> <add rend="our">n</add>icht von unend<lb rend="shyphen0"/>lich langen  Linealen<lb/> die Rede sondern von<lb/> Linealen mit unendlichem<lb/>  Kr<corr type="trsn"><orig type="trsn1">u</orig><reg type="trsn2">ü</reg></corr>mmungsradius.</s>
             <lb/>
@@ -1651,7 +1655,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_39v.2" n="Ms-154,39v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?_seg:misc" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es"><add rend="our">W</add>enn man sagt daß<lb/> dieses Gebiet unseres<lb/> Gegenstandes  außeror<lb rend="shyphen0"/>dentlich schwer ist<lb/> so ist das insofern nicht<lb/> wahr als nicht  etwa <add rend="im">von</add><lb/> <del type="dnpc"><emph rend="uw1">außerordentlich</emph><corr type="trsn"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>ompli<lb rend="shyphen0"/>zierten <add rend="im">oder</add></del> schwer  vorstell<lb rend="shyphen0"/>baren <add rend="im">oder <corr type="trsn"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>omplizierten</add> Dingen  die Rede<lb/> ist, sondern nur insofern<lb/> als es außerordentlich<lb/> schwer ist an den  unzäh<lb rend="shyphen0"/>ligen Fallen die <add rend="im">hier</add> in der Sprache<lb/> für uns aufgestellt<lb/>  sind vorbeizukommen.</s>
             <emph rend="bl_2"/>
@@ -1662,7 +1666,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_40r.1" n="Ms-154,40r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Und es bleibt natürlich<lb/> in diesen Erfahrungssätzen<lb/>  „unendlich” die Eigenschaft<lb/> einer Regel wenn man<lb/> es so  ausdrücken will<lb/> &amp; das heißt nichts an<lb rend="shyphen0"/>deres als daß es  <add rend="our">a</add>uch<lb/> hier durch „<abbr type="abb">u.s.w.</abbr>  <abbr type="abb">ad inf.</abbr>”<lb/> wiedergegeben werden kann<lb/> &amp;  zug<add rend="our">lei</add>ch ist das<lb/> auch alles was <lb/>damit gemeint ist; die<lb/>  Unendlichkeit sei <choice type="em"><orig type="em1">ein<del type="d">e</del><lb/> <del type="d">Eigenschaft</del> <add rend="i">Produkt</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">eine Eigenschaft</orig><orig type="alt2">ein Produkt</orig></choice></orig></choice> der  M<corr type="trsn"><orig type="trsn1">o</orig><reg type="trsn2">ö</reg></corr>glich<lb rend="shyphen0"/>keit.</s>
             <lb rend="hl"/>
@@ -1683,7 +1687,7 @@
         </ab>
         <ab xml:id="Ms-154_40r.2et41v.1" n="Ms-154,40r[2]et41v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
-          <s type="es">Die Reihe der  n-Eck<corr type="tra">-</corr><corr type="npcn"> </corr>Kon<lb rend="shyphen"/>struktionen  <emph rend="us1">enthält</emph><lb/> kein 17-Eck<choice type="o"><orig type="o1">s</orig><orig type="o2">. <c type="c">S</c></orig></choice>o wie<lb/> die  Reihe der Kombinations<lb rend="shyphen"/>zahlen nicht die Zahl 3<lb/> enthält.</s>
+          <s type="es">Die Reihe der   n-Eck<corr type="trs"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>Kon<lb rend="shyphen"/>struktionen  <emph rend="us1">enthält</emph><lb/> kein 17-Eck<choice type="o"><orig type="o1">s</orig><orig type="o2">. <c type="c">S</c></orig></choice>o wie<lb/> die  Reihe der Kombinations<lb rend="shyphen"/>zahlen nicht die Zahl 3<lb/> enthält.</s>
           <s type="es">Hat man<lb/> einmal den „strengen”<lb/> Begriff der  n<add rend="i">-</add>Eckskon<lb rend="shyphen"/>struktion so gibt<lb/> es für diese keine Versuche<lb/> der  Konstruktion des n-Ecks<lb/> &amp; ehe man ihn hatte war<lb/> unser Begriff  ein <emph rend="us1">anderer</emph>.</s>
           <lb/>
           <s type="es">Denn die mathematische<lb/> Form <choice type="em"><orig type="em1">ist <add rend="i">entspielt</add> in der  Mathema<lb rend="shyphen"/>tik das <add rend="i">dem</add></orig><orig type="em2"><choice type="s"><orig type="alt1">ist in der Mathematik das</orig><orig type="alt2">entspricht in der Mathematik dem</orig></choice></orig></choice> Zeichen des Begriffs.</s>
@@ -1709,7 +1713,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_42r.2et42v.1" n="Ms-154,42r[2]et42v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Man könnte sagen: <lb rend="hl"/> <c type="c">D</c>er bewiesene mathematische<lb/> Satz hat in  seiner Grammatik<lb/> zur Wahrheit hin ein Über<lb rend="shyphen0"/>gewicht.</s>
             <s type="es">Denn wenn ich<lb/> sage: „<c type="c">W</c>enn wir seinen<lb/> Sinn verstehen  wollen<lb/> so fragen wir, wie er bewie<lb rend="shyphen"/>sen wird” so ist da<lb/> doch  ein Fehler: <c type="c">E</c>s müßte                   <pb facs="Ms-154_42v" rend="verso" n="pagename_Ms-154,42v pageref _Ms-154,86"/> ja heißen:  <add rend="el">„</add>fragen wir<lb/> ob er oder sein Gegenteil<lb/> bewiesen wird  &amp; wie<add rend="el">”</add>.</s>
@@ -2072,7 +2076,7 @@
           <emph rend="vdline">
             <seg type="wabmarks-secml"/>
             <s type="es"><abbr type="abb">D.h.</abbr><c type="c">W</c>enn mir nachgewiesen<lb/> wird daß ich mich  in der<lb/> <corr type="trsn"><orig type="trsn1">Z</orig><reg type="trsn2">z</reg></corr>weiten Gleichung geirrt<lb/> habe so bin ich damit<lb/>  nicht im Stande das Gegenteil<lb/> des Satzes <seg type="notation" subtype="logic_incomplete quantificational formula" rend="literal">~(∃)</seg>  <abbr type="abb">etc.</abbr><lb/> zu behaupten.</s>
-            <s type="es">Nun, das<lb/> könnte man freilich <lb/> auch <corr type="trs"><orig type="trs1">für</orig><reg type="trs2">von</reg></corr> einem Fehler<lb/> in  der Rechnung <lb rend="hl"/>  <seg type="notation" subtype="maths_arithmetic" rend="literal">25 × 25</seg>  <abbr type="abb">etc.</abbr> sagen<lb/> denn damit daß ein<lb/> Fehler  <choice type="dsl"><orig type="alt1"><del type="d">gemacht</del></orig><orig type="alt2"><add rend="i">nachgewiesen</add></orig></choice> wäre,<lb/> wäre das Resultat<lb/>  nicht als falsch erwiesen,<lb/> aber nur, weil vielleicht<lb/> noch ein zweiter Fehler  <pb facs="Ms-154_58v" rend="verso" n="pagename_Ms-154,58v pageref_00"/> vorliegt; <add rend="our">w</add>eil ja die<lb/> Rechnung in jedem<lb/>  Falle eine Kontrolle<lb/> des Satzes ist<choice type="o"><orig type="o1">,</orig><orig type="o2">&amp;</orig></choice> wenn<lb/> sie  vollkommen rich<lb rend="shyphen"/>tig ist den Satz oder<lb/> das Gegenteil beweist.</s>
+            <s type="es">Nun, das<lb/> könnte man freilich <lb/> auch <corr type="trs"><orig type="trs1">für</orig><reg type="trs2">von</reg></corr> einem Fehler<lb/> in  der Rechnung <lb rend="hl"/>  <seg type="notation" subtype="maths_arithmetic" rend="literal">25 × 25</seg>  <abbr type="abb">etc.</abbr> sagen<lb/> denn damit daß ein<lb/> Fehler  <choice type="dsl"><orig type="alt1"><del type="d">gemacht</del></orig><orig type="alt2"><add rend="i">nachgewiesen</add></orig></choice> wäre,<lb/> wäre das Resultat<lb/>  nicht als falsch erwiesen,<lb/> aber nur, weil vielleicht<lb/> noch ein zweiter Fehler  <pb facs="Ms-154_58v" rend="verso" n="pagename_Ms-154,58v pageref_00"/> vorliegt; <add rend="our">w</add>eil ja die<lb/> Rechnung in jedem<lb/>  Falle eine Kontrolle<lb/> des Satzes ist<choice type="o"><orig type="o1">,</orig><orig type="o2"> &amp;</orig></choice> wenn<lb/> sie  vollkommen rich<lb rend="shyphen"/>tig ist den Satz oder<lb/> das Gegenteil beweist.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_58v.2" n="Ms-154,58v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
@@ -2229,10 +2233,14 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_63r.3et63v.1" n="Ms-154,63r[3]et63v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
-            <seg type="wabmarks-secml"/>
-            <s type="es">Ich kann nicht den<lb/> Fall beschreiben wo<lb/> <emph rend="us1">diese</emph> Division ausgeht<lb/>  &amp; nicht ausgeht, aber<lb/> den Fall wo <emph rend="us1">eine</emph> Division<lb/> ausgeht  oder nicht ausgeht <pb facs="Ms-154_63v" rend="verso" n="pagename_Ms-154,63v pageref_00"/> &amp; nicht  den Fall <add rend="our">da</add>ß<lb/> diese <abbr corresp="Gleichung">Gleichg</abbr> <add rend="im">nur</add>  durch reelle<lb/> &amp; <add rend="im">nur durch</add> imaginä<add rend="our">re</add> Zahlen<lb/> lösbar  ist aber den <choice type="o"><orig type="o1">f</orig><orig type="o2">F</orig></choice>all<lb/> daß eine Gleichung  …</s>
-            <lb/>
+          <seg type="wabmarks-secml"/>
+          <s type="es">
+            <emph rend="vdline">Ich kann nicht den<lb/> Fall beschreiben wo<lb/> <emph rend="us1">diese</emph> Division ausgeht<lb/>  &amp; nicht ausgeht, aber<lb/> den Fall wo <emph rend="us1">eine</emph> Division<lb/> ausgeht  oder nicht ausgeht</emph>
+            <pb facs="Ms-154_63v" rend="verso" n="pagename_Ms-154,63v pageref_00"/>
+            <emph rend="crossed">&amp; nicht  den Fall <add rend="our">da</add>ß<lb/> diese <abbr corresp="Gleichung">Gleichg</abbr> <add rend="im">nur</add>  durch reelle<lb/> &amp; <add rend="im">nur durch</add> imaginä<add rend="our">re</add> Zahlen<lb/> lösbar     ist aber den <choice type="o"><orig type="o1">f</orig><orig type="o2">F</orig></choice>all<lb/> daß eine Gleichung  …</emph>
+          </s>
+          <lb/>
+          <emph rend="crossed">
             <s type="es">Und so müßte <lb/>ich also auch den<lb/> Fal<add rend="our">l</add> beschreiben<lb/> können wo eine  Gleichung<lb/> <add rend="our">e</add>ine oder keine Lösung<lb/> hat &amp;  <choice type="o"><orig type="o1">R</orig><orig type="o2">r</orig></choice>echnerisch<lb/> zwischen ihnen ent<lb rend="shyphen"/>scheiden können.</s>
             <lb/>
             <s type="es"><add rend="our">U</add>nd <choice type="o"><orig type="o1">A</orig><orig type="o2">ä</orig></choice>hnlich muß<lb/> der <del type="dnpc">Satz <corr type="npcn">au</corr></del>   Fall<lb/> auch für den <persName key="Fermat, Pierre de"><abbr corresp="Fermatschen">F'schen</abbr></persName><lb/> Satz  liegen.</s>
@@ -2319,9 +2327,16 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_68v.2et69r.1" n="Ms-154,68v[2]et69r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
-          <emph rend="vdline">
-            <seg type="wabmarks-secml"/>
-            <s type="es">Es hätte keinen Sinn<lb/> zu sagen <seg type="notation" subtype="logic_quantificational formula" rend="literal">~  (<seg type="notation" subtype="power">(a<del type="dnpc"/> + b)²</seg>  =   a² + 3ab + <lb/>b²)</seg> wenn man das nicht<lb/>  ausdrücklich als einen<lb/> Satz erlaubt hätte oder<lb/>  <seg type="notation" subtype="maths_arithmetic" rend="literal">25 × 25 ≠ 620</seg>  wenn man diesen<lb/> Satz nicht ausdrücklich<lb/> in den Kalkül  hineinge<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">nommen</corr><pb facs="Ms-154_69r" rend="recto" n="pagename_Ms-154,69r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">69</add></fw><corr type="npcn-pb">nommen</corr>  hätte<del type="dnpc">)</del>.</s>
+          <seg type="wabmarks-secml"/>
+          <s type="es">
+            <emph rend="vdline">Es hätte keinen Sinn<lb/> zu sagen <seg type="notation" subtype="logic_quantificational formula" rend="literal">~  (<seg type="notation" subtype="power">(a<del type="dnpc"/> + b)²</seg>  =   a² + 3ab + <lb/>b²)</seg> wenn man das nicht<lb/>  ausdrücklich als einen<lb/> Satz erlaubt hätte oder<lb/>  <seg type="notation" subtype="maths_arithmetic" rend="literal">25 × 25 ≠ 620</seg>  wenn man diesen<lb/> Satz nicht ausdrücklich<lb/> in den Kalkül    hineinge<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">nommen</corr></emph>
+            <pb facs="Ms-154_69r" rend="recto" n="pagename_Ms-154,69r pageref_00"/>
+            <fw type="pagen" place="top right">
+              <add rend="fremd">69</add>
+            </fw>
+            <emph rend="crossed"><corr type="npcn-pb">nommen</corr>  hätte<del type="dnpc">)</del>.</emph>
+          </s>
+          <emph rend="crossed">
             <s type="es">(In der<lb/> Volksschule rechnet man<lb/> mit solchen Sätzen nicht sondern<lb/>  tut<corr type="npcn">s</corr> <del type="dnpc">die </del> falsche Gleichungen<lb/> wie  <seg type="notation" subtype="maths_arithmetic" rend="literal">25 × 25 = 620</seg>  als nicht<lb/> zum Spiel gehörig ab.)</s>
           </emph>
         </ab>
@@ -2411,7 +2426,7 @@
             <s type="es">Vielmehr ist<lb/> <seg type="p">n</seg> <add rend="im">wesentlich</add> die unabhängige<lb/> Variable.</s>
             <s type="es"><add rend="our">U</add>nd w<add rend="our">or</add>in<lb/> unterscheidet sich  <pb facs="Ms-154_74r" rend="recto" n="pagename_Ms-154,74r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">74</add></fw> die Reihe<lb rend="hl"/> <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-74r.BMP" ana="field:PhilosophyOfLanguage_maths_real analysis, series expansion, power series terms" rend="bitmap">k154003</seg>  … von der<lb/>  <seg type="notation" subtype="maths_arithmetic representation graphics_Reihenfolgen; Strichnotation" rend="literal">|  ||  |||</seg> …?</s>
             <lb rend="hl"/>
-            <s type="es">Wir schreiben die Form der<lb/> ungeraden Zahlen heute <emph rend="indl_3"/>  <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal">2n + 1</seg> <lb rend="hl"/>aber die Form der   Kardinal<lb rend="shyphen"/>zahlen könnte geschrie<lb rend="shyphen0"/>ben werden <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal"><figure ana="Bruch" rend="table"><row><cell rend="column" n="1">n ‒ 1<lb rend="hl"/><emph rend="fractionbarover">2</emph><lb rend="hl"/></cell></row></figure></seg> wo <seg type="p">n</seg><lb/> die Reihe der  ungeraden Zahlen<lb/> durchläuft.</s>
+            <s type="es">Wir schreiben die Form der<lb/> ungeraden Zahlen heute <emph rend="indl_3"/>  <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal">2n + 1</seg> <lb rend="hl"/>aber die Form der   Kardinal<lb rend="shyphen"/>zahlen könnte geschrie<lb rend="shyphen0"/>ben werden <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal"><figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">n ‒ 1</emph><lb rend="hl"/>2<lb rend="hl"/></formula></figure></seg> wo <seg type="p">n</seg><lb/> die Reihe der  ungeraden Zahlen<lb/> durchläuft.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_74r.2et74v.1et75r.1" n="Ms-154,74r[2]et74v[1]et75r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1">
@@ -2442,7 +2457,7 @@
           <emph rend="vdline">
             <seg type="wabmarks-secml"/>
             <s type="es">Ich kann ja auch nicht<lb/> fragen ob <del type="dnpc"><unclear>in die</unclear></del> die<lb/> 4 unter den  Kombina<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">tionszahlen</corr><pb facs="Ms-154_75v" rend="verso" n="pagename_Ms-154,75v pageref_00"/><corr type="npcn-pb">tionszahlen</corr>  vorkommt<lb/> wenn dies mein Zahlen<lb rend="shyphen0"/>system ist.</s>
-            <s type="es">Und <add rend="our">nic</add>ht<lb/> ob <figure ana="Bruch" rend="tablem" sameAs="½"><row><cell rend="column" n="1">1<lb rend="hl"/><emph rend="fractionbarover">2</emph></cell></row></figure> unter den Kardinal<lb rend="shyphen"/>zahlen vorkommt oder<lb/>  zeigen daß es nicht unter<lb/> ihnen steht außer<lb/> in einem System in welchem<lb/>  <emph rend="uw2">sowohl die Kardinal</emph><lb/><abbr corresp="zahl">z.</abbr> als auch <figure ana="Bruch" rend="tablem" sameAs="½"><row><cell rend="column" n="1">1<lb rend="hl"/><emph rend="fractionbarover">2</emph></cell></row></figure>  vor<lb rend="shyphen"/>kommt.</s>
+            <s type="es">Und <add rend="our">nic</add>ht<lb/> ob <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure> unter den Kardinal<lb rend="shyphen"/>zahlen vorkommt oder<lb/>  zeigen daß es nicht unter<lb/> ihnen steht außer<lb/> in einem System in welchem<lb/>   <emph rend="uw2">sowohl die Kardinal</emph><abbr corresp="zahl">z.</abbr><lb/> als auch <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure>  vor<lb rend="shyphen"/>kommt.</s>
             <add rend="iupm">
               <s type="es"><corr type="trsn"><orig type="trsn1">a</orig><reg type="trsn2"><c type="c">A</c></reg></corr>ber <unclear><add rend="im">dann</add></unclear> auch nicht ob die 3  unter<lb/> den <abbr corresp="Kardinalzahlen">Kardinalz.</abbr> vorkommt.</s>
               <lb/>
@@ -2452,7 +2467,7 @@
             <s type="es">Die Frage<lb/> heißt vielmehr etwa<lb/> so: <c type="c">G</c>eht die Division<lb/>  <seg type="notation" subtype="maths_arithmetic" rend="literal"><add rend="our">4</add> : 2</seg>  <add rend="our">i</add>n ganzen Zahlen aus?<lb/> &amp; das läßt sich nur<lb/> fragen  <del type="dnpc">wenn</del> in einem<lb/> System in welchem das<lb/> Ausgehen &amp; das nicht<lb/>  <corr type="trsn"><orig type="trsn1">a</orig><reg type="trsn2">A</reg></corr>usgehen bekannt ist.</s>
             <lb/>
             <add rend="ilom">
-              <s type="es">Wir können nicht ausrechnen ob  <seg type="notation" subtype="maths_arithmetic" rend="literal"><figure ana="Bruch" rend="table"><row><cell rend="column" n="1">81<lb rend="hl"/><emph rend="fractionbarover">3</emph></cell></row></figure></seg> eine<lb/>  Kardinalzahl ist aber ob die Division <unclear>ausgeht oder nicht.</unclear></s>
+              <s type="es">Wir können nicht ausrechnen ob   <seg type="notation" subtype="maths_arithmetic" rend="literal"><figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">81</emph><lb rend="hl"/>3</formula></figure></seg> eine<lb/>  Kardinalzahl ist aber ob die Division <unclear>ausgeht oder nicht.</unclear></s>
             </add>
             <s type="es" rend="indl_5">Wenn also in     <pb facs="Ms-154_76r" rend="recto" n="pagename_Ms-154,76r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">76</add></fw> der  <choice type="dsl"><orig type="alt1"><del type="d">Rechnung</del></orig><orig type="alt2"><add rend="i">Formel</add></orig></choice> die mir angeben<lb/> soll ob die  <corr type="trs"><orig type="trs1">3-Teilg</orig><reg type="trs2">3-Teilung</reg></corr> möglich<lb/> ist 3 eingesetzt wird.</s>
           </emph>
@@ -2481,9 +2496,9 @@
         <ab xml:id="Ms-154_77r.1" n="Ms-154,77r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_0">
           <emph rend="vdline">
             <seg type="wabmarks-secml"/>
-            <s type="es" rend="indl_2">Denken wir uns der beschriebene<lb/> Konstruktionsvorgang<lb/> wäre der der  fortgesetzten<lb/> <corr type="trs"><orig type="trs1">2 Teilg</orig><reg type="trs2">2<corr type="tra">-</corr>Teilung</reg></corr> <add rend="i">einer  Strecke</add> <del type="d">mit Lineal &amp; Zirkel</del><lb/> <add rend="iupm"><c type="c">D</c>enn es  könnte ja an die Konstruk<lb rend="shyphen"/>tion mit Lineal &amp;  <abbr corresp="Zirkel">Z.</abbr> eine weitere B<add rend="our">edin</add><lb rend="shyphen"/>gung  geknüpft sein.</add>   in  der <persName key="Euklid">euklidischen</persName> Weise.</s>
+            <s type="es" rend="indl_2">Denken wir uns der beschriebene<lb/> Konstruktionsvorgang<lb/> wäre der der   fortgesetzten<lb/> <corr type="trs"><orig type="trs1">2 Teilg</orig><reg type="trs2">2<corr type="trs"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>Teilung</reg></corr> <add rend="i">einer  Strecke</add> <del type="d">mit Lineal &amp; Zirkel</del><lb/> <add rend="iupm"><c type="c">D</c>enn es  könnte ja an die Konstruk<lb rend="shyphen"/>tion mit Lineal &amp;  <abbr corresp="Zirkel">Z.</abbr> eine weitere B<add rend="our">edin</add><lb rend="shyphen"/>gung  geknüpft sein.</add>   in  der <persName key="Euklid">euklidischen</persName> Weise.</s>
             <lb/>
-            <s type="es"><corr type="trsn"><orig type="trsn1">m</orig><reg type="trsn2"><c type="c">M</c></reg></corr>an würde nun fragen<corr type="tran">:</corr><lb/> gibt es in  diesem Proze<corr type="trsn"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> eine<lb/> <corr type="trs"><orig type="trs1">3 Teilg</orig><reg type="trs2">  3<corr type="tra">-</corr>Teilung</reg></corr> der Strecke.</s>
+            <s type="es"><corr type="trsn"><orig type="trsn1">m</orig><reg type="trsn2"><c type="c">M</c></reg></corr>an würde nun fragen<corr type="tran">:</corr><lb/> gibt es in  diesem Proze<corr type="trsn"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> eine<lb/> <corr type="trs"><orig type="trs1">3 Teilg</orig><reg type="trs2">   3<corr type="trs"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>Teilung</reg></corr> der Strecke.</s>
             <s type="es" rend="indl_1">Man könnte die Reihe<lb/> der Teilungen etwa<lb/> durch Zeichen  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-77r.BMP" ana="field:PhilosophyOfLanguage_maths_arithmetic representation" rend="bitmap">154003</seg> <lb/>  <abbr type="abb">etc.</abbr> bezeichnen &amp; nun<lb/> fragen<corr type="tran">:</corr>  <choice type="o"><orig type="o1">k</orig><orig type="o2"><c type="c">K</c></orig></choice>ommt hier eine<lb/> 3 vor.</s>
             <s type="es">Man hätte dann<lb/> aber eigentlich nicht nach einer<lb/> <corr type="trs"><orig type="trs1">3  Teilg</orig><reg type="trs2">3-Teilung</reg></corr> gefragt.</s>
           </emph>
@@ -2611,7 +2626,7 @@
             <s type="es" rend="indl_4">Wenn man die Geo<lb rend="shyphen"/>metrie mit Quadratwur<lb rend="shyphen"/>zelausdrücken betriebe<lb/> so  käme man gar<lb/> nicht auf eine <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-82v-a.BMP" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis" rend="bitmap">k154006</seg><corr type="tra">.</corr></s>
             <s type="es">Wie<lb/> könnte man nun in dieser<lb/> Geometrie nach der <corr type="trs"><orig type="trs1">3  Teilung</orig><reg type="trs2">3-Teilung</reg></corr><lb/> fragen<corr type="tra">?</corr> oder nach der  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-82v-b.BMP" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis" rend="bitmap">k154006</seg><corr type="tra">?</corr></s>
             <lb/>
-            <s type="es"><corr type="trsn"><orig type="trsn1">n<lb/></orig><reg type="trsn2"><c type="c">N</c></reg></corr>un es hat natürlich<lb/> einen Sinn zu sagen<lb/> daß  wir durch Superpo<lb rend="shyphen"/>sition von <seg type="notation" subtype="maths_arithmetic, real analysis" rend="literal">²√</seg> nicht <pb facs="Ms-154_83r" rend="recto" n="pagename_Ms-154,83r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">83</add></fw>  <corr type="npc"><add rend="iupm"><seg type="notation" subtype="maths_arithmetic" rend="literal">1<figure ana="Bruch" rend="tablem" sameAs="½"><row><cell rend="column" n="1">1<lb rend="hl"/><emph rend="fractionbarover">2</emph></cell></row></figure>  <unclear>von</unclear> 7</seg></add><lb rend="hl"/></corr> zu <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-83r.BMP" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis" rend="bitmap">k154006</seg> kommen, denn ich<lb/> gliedere mein System  in<lb/> das der <add rend="im"><seg type="p">nten</seg></add> Wurzeln ein.</s>
+            <s type="es"><corr type="trsn"><orig type="trsn1">n<lb/></orig><reg type="trsn2"><c type="c">N</c></reg></corr>un es hat natürlich<lb/> einen Sinn zu sagen<lb/> daß  wir durch Superpo<lb rend="shyphen"/>sition von <seg type="notation" subtype="maths_arithmetic, real analysis" rend="literal">²√</seg> nicht <pb facs="Ms-154_83r" rend="recto" n="pagename_Ms-154,83r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">83</add></fw>  <corr type="npc"><add rend="iupm"><seg type="notation" subtype="maths_arithmetic" rend="literal">1<figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure>  <unclear>von</unclear> 7</seg></add><lb rend="hl"/></corr> zu <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-83r.BMP" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis" rend="bitmap">k154006</seg> kommen, denn ich<lb/> gliedere mein System  in<lb/> das der <add rend="im"><seg type="p">nten</seg></add> Wurzeln ein.</s>
             <lb rend="hl"/>
             <s type="es">Das ist derselbe Fall<lb/> wie der des Systems α.</s>
           </emph>
@@ -2748,7 +2763,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_87v.2" n="Ms-154,87v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_0">
-          <emph rend="vdline">
+          <emph rend="crossed">
             <seg type="wabmarks-secml"/>
             <s type="es">Man stellt sich den Ge<lb rend="shyphen"/>sichtsraum gern<lb/> als eine Art <gap extent="words_1"/><lb/> vor  den jeder <choice type="s"><orig type="alt1">mit</orig><orig type="alt2"><add rend="i">vor</add></orig></choice> sich<lb/> herumträgt.</s>
             <lb rend="hl"/>
@@ -2837,7 +2852,7 @@
           <emph rend="vdline">
             <s type="es">„<c type="k">M</c>ann” ist freilich ein Be<lb rend="shyphen"/>griffswort  &amp; nicht eine<lb/> Bezeichnung für einen Mann<lb/> &amp;  <corr type="tra">„</corr>Kreis<corr type="tra">”</corr> nicht der Name eines<lb/>  Kreises (soweit ein Kreis<lb/> überhaupt einen Namen<lb/> haben kann).</s>
           </emph>
-          <s type="es"><emph rend="vdline"><del type="dnpc">Man<lb/> spricht</del><c type="c">A</c>ber <add rend="im">roter</add> Kreis vom</emph><lb/><seg type="notation" rend="illspace" ana="field:PhilosophyOfLanguage_maths_arithmetic, linear measure"/> Radius  <seg type="notation" subtype="maths_arithmetic, linear measure" rend="literal">1</seg>  <abbr type="abb">cm</abbr> im <gap extent="words_1"/> <pb facs="Ms-154_91r" rend="recto" n="pagename_Ms-154,91r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">91</add></fw> ist auch ein  Begriff &amp;<lb/> doch ist es l<corr type="trsn"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>cherlich<lb/> von einem  Gegenstand<lb/> zu sprechen der unter<lb/> diesen Begriff fällt.<lb/>  <del type="dnpc"><gap extent="words_1"/></del></s>
+          <s type="es"><emph rend="vdline"><del type="dnpc">Man<lb/> spricht</del><c type="c">A</c>ber <add rend="im">roter</add> Kreis vom</emph><lb/><seg type="notation" rend="illspace" ana="field:PhilosophyOfLanguage_maths_arithmetic, linear measure"/> Radius  <seg type="notation" subtype="maths_arithmetic, linear measure" rend="literal">1</seg>   cm im <gap extent="words_1"/> <pb facs="Ms-154_91r" rend="recto" n="pagename_Ms-154,91r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">91</add></fw> ist auch ein  Begriff &amp;<lb/> doch ist es l<corr type="trsn"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>cherlich<lb/> von einem  Gegenstand<lb/> zu sprechen der unter<lb/> diesen Begriff fällt.<lb/>  <del type="dnpc"><gap extent="words_1"/></del></s>
           <s type="es">Die <persName key="Russell, Bertrand">Russellsche</persName><lb/> Notation hat  den<lb/> Vorteil der <corr type="trsn"><orig type="trsn1">e</orig><reg type="trsn2">E</reg></corr>inheit<lb rend="shyphen"/>lichkeit &amp; diese<lb/>  ist insofern ein Vorteil<lb/> als die Wortsprache zwar<lb/> nicht einheitlich aber  doch<lb/> nicht von der Multiplizität<lb/> ihrer Bedeutungen ist,<lb/> sodaß es schon  besser ist<lb/> man verzichtet ein für<lb/> allemal auf den Ausdruck<lb/>  <corr type="tra">„</corr>Grammatik<corr type="tra">”</corr> in der<lb/> Notation  &amp; sagt daß<lb/> man sich in jedem besonderen <pb facs="Ms-154_91v" rend="verso" n="pagename_Ms-154,91v pageref_00"/> Fall die  Grammatik über<lb rend="shyphen"/>legen muß.</s>
           <s type="es">
             <corr type="npc">

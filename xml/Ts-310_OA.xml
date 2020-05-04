@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="WS" rendition="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ts-310: so-called Brown Book, von Wright's copy (WL)</title>
+        <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ts-310: so-called Brown Book, von Wright's copy (WL)</title>
         <title xml:id="Ts-310" n="Ts-310" type="main" xml:lang="en"/>
         <author><persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>; <persName key="Ambrose, Alice">Alice Ambrose</persName>, <persName key="Skinner, Francis">Francis Skinner</persName></author>
         <editor><orgName ref="http://wab.uib.no/">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this edition: <persName>Alois Pichler</persName></editor>
@@ -40,6 +40,10 @@
         <respStmt>
           <name>Nivedita Gangopadhyay </name>
           <resp>2018: proofreading of normalized transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claus Huitfeldt</name>
+          <resp>2020: Spell-check</resp>
         </respStmt>
         <respStmt>
           <name>Michael Biggs, Hans Biesenbach</name>
@@ -1755,7 +1759,7 @@
             <s type="es">What do we call a rule?</s>
           </emph>
           <s type="es">Consider this example: <lb rend="hl"/>  <seg type="series-number">33).<emph rend="blankspace_2"/></seg> <seg type="p">B</seg> moves about according to  rules which <seg type="p">A</seg> gives him.</s>
-          <s type="es"><seg type="p">B</seg><lb/> is supplied with the following table:      <seg type="notation" xml:lang="de" subtype="graphics_Schema; Pfeile" rend="bitmap"><table rend="tableml"><row><cell rend="column" n="1">a<lb rend="hl"/>b<lb rend="hl"/>c<lb rend="hl"/>d<lb rend="hl"/></cell><cell rend="column" n="2">→    <lb rend="hl"/>←<lb rend="hl"/>↑<lb rend="hl"/>↓<lb rend="hl"/></cell></row></table></seg>      </s>
+          <s type="es"><seg type="p">B</seg><lb/> is supplied with the following table:      <seg type="notation" subtype="graphics_Schema; Pfeile" rend="bitmap"><table rend="tableml"><row><cell rend="column" n="1">a<lb rend="hl"/>b<lb rend="hl"/>c<lb rend="hl"/>d<lb rend="hl"/></cell><cell rend="column" n="2">→    <lb rend="hl"/>←<lb rend="hl"/>↑<lb rend="hl"/>↓<lb rend="hl"/></cell></row></table></seg>      </s>
           <lb rend="hl"/>
           <s type="es"><seg type="p">A</seg> gives an order made up of the letters in the table, say:<lb/>  “<seg type="p">a a c a d d d</seg>”.</s>
           <s type="es"><seg type="p">B</seg> looks up the arrow corresponding to each letter<lb/> of the order  and moves accordingly; in our example thus:   <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/310,29.jpg" subtype="graphics_Pfeile; verschiedene Orientierung" rend="bitmap">notatio310-29b</seg></emph></s>
@@ -1871,7 +1875,7 @@
             <s type="es">General trainings form a family<lb/> whose members differ greatly from one  another.</s>
           </emph>
           <s type="es">The kind of<lb/> thing I'm thinking of now mainly  consists: <del type="dnpc">9)</del> <emph rend="us1">a</emph>) of a training<lb/> in a  limited range of actions, <emph rend="us1"><seg type="p">b</seg></emph>) of giving the pupil a lead  to<lb/> extend this range, &amp; <emph rend="us1"><seg type="p">c</seg></emph>) of random exercises  and tests.</s>
-          <s type="es">After<lb/> the general training the order is now to consist in giving him<lb/>   a sign of this kind:      <seg type="notation" xml:lang="de" subtype="graphics_Schema; Pfeile mit anderen Zeichen" rend="bitmap"><table rend="tableml"><row><cell rend="column" n="1">rr<lb rend="hl"/>r<lb rend="hl"/>s<lb rend="hl"/>t<lb rend="hl"/></cell><cell rend="column" n="2">tst<lb rend="hl"/>↗    <lb rend="hl"/>↖<lb rend="hl"/>↓<lb rend="hl"/></cell></row></table></seg>     </s>
+          <s type="es">After<lb/> the general training the order is now to consist in giving him<lb/>   a sign of this kind:      <seg type="notation" subtype="graphics_Schema; Pfeile mit anderen Zeichen" rend="bitmap"><table rend="tableml"><row><cell rend="column" n="1">rr<lb rend="hl"/>r<lb rend="hl"/>s<lb rend="hl"/>t<lb rend="hl"/></cell><cell rend="column" n="2">tst<lb rend="hl"/>↗    <lb rend="hl"/>↖<lb rend="hl"/>↓<lb rend="hl"/></cell></row></table></seg>     </s>
           <s type="es">He carries out the order by moving thus:   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/310,33-2.jpg" subtype="graphics_Pfeile; verschiedene Orientierung" rend="bitmap">notatio310-33b</seg>.</s>
           <s type="es">Here I<lb/> suppose we should say the table, the rule, is <emph rend="us1">part</emph> of  the order.</s>
         </seg>
@@ -1950,7 +1954,7 @@
           <s type="es"><seg type="series-number">44).<emph rend="blankspace_2"/></seg><c type="c">I</c>magine that for some  purpose or other people use a kind<lb/> of instrument or tool; this consists  of a board with a slot in<lb/> it guiding the movement of a peg.</s>
           <s type="es">The man using the tool<lb/> slides the peg along the slot.</s>
           <s type="es">There are such boards with<lb/> straight slots, circular slots, elliptic  slots, etc.</s>
-          <s type="es">The lan<lb rend="shyphen"/>guage of the people using this instrument has expressions  for <seg type="wabmarks-secml">✓</seg>         <pb facs="Ts-310_37" n="pagename_Ts-310,37 pageref_00"/> <fw type="pagen" place="top right">37.</fw>    describing the activity of moving  the pe<choice type="o"><orig type="o1">h</orig><orig type="o2">g</orig></choice> in the slot.</s>
+          <s type="es">The lan<lb rend="shyphen"/>guage of the people using this instrument has expressions  for <seg type="wabmarks-secml">✓ </seg>         <pb facs="Ts-310_37" n="pagename_Ts-310,37 pageref_00"/> <fw type="pagen" place="top right">37.</fw>    describing the activity of moving  the pe<choice type="o"><orig type="o1">h</orig><orig type="o2">g</orig></choice> in the slot.</s>
           <s type="es">They<lb/> talk of moving it in a c<choice type="o"><orig type="o1">o</orig><orig type="o2">i</orig></choice>rcle, in a straight line,  etc.</s>
           <s type="es">They<lb/> also have a means of describing the board used.</s>
           <s type="es">They do it<lb/> in this form: “<c type="c">T</c>his is a board in which  the peg <emph rend="us1">can</emph> be moved in<lb/> a circle”.</s>
@@ -4401,7 +4405,7 @@
       <ab xml:id="Ts-310_136.5et137.1" n="Ts-310,136[5]et137[1]" ana="field:PhilosophyOfLanguage_pub:W-BBB_date:19341001?-19350531?" emph="blbef_0" xml:lang="en">
         <seg type="wabmarks-secml"/>
         <seg type="publ">
-          <s type="es" rend="indl_5">We may shed light on all these considerations if we com<lb rend="shyphen"/>pare what  happens when we remember the face of someone who<lb/> enters our room, when we  recognize him as <name key="Mr. So-and-so">Mr.   So-and<corr type="tra">-</corr>so</name>, – –<lb/> when we compare what really  happens in such cases with the<lb/> representation we are sometimes inclined  to make of the events.</s>
+          <s type="es" rend="indl_5">We may shed light on all these considerations if we com<lb rend="shyphen"/>pare what  happens when we remember the face of someone who<lb/> enters our room, when we  recognize him as <name key="Mr. So-and-so">Mr.  So-and<corr type="trs"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>so</name>, – –<lb/> when we compare what really  happens in such cases with the<lb/> representation we are sometimes inclined  to make of the events.</s>
           <pb facs="Ts-310_137" n="pagename_Ts-310,137 pageref_00"/>
           <fw type="pagen" place="top right">137.</fw>
           <s type="es">For here we are often obsessed by a primitive conception,  viz.,<lb/> that we are comparing the man we see with a memory  image in<lb/> our mind and we find the two to agree.</s>

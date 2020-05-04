@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="WS" rendition="Facsimile: CC BY-NC 4.0. Original at the Bertrand Russell Archives at McMaster University Library, Hamilton, Ontario, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB), this scan was produced.  The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and The Bertrand Russell Archives at McMaster University, Hamilton, Ontario. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The Bertrand Russell Archives at McMaster University, Hamilton, Ontario; The University of Bergen, Bergen.">Wittgenstein Nachlass Ts-201a2: Notes on Logic (BRA)</title>
+        <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Bertrand Russell Archives at McMaster University Library, Hamilton, Ontario, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB), this scan was produced.  The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and The Bertrand Russell Archives at McMaster University, Hamilton, Ontario. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The Bertrand Russell Archives at McMaster University, Hamilton, Ontario; The University of Bergen, Bergen.">Wittgenstein Nachlass Ts-201a2: Notes on Logic (BRA)</title>
         <title xml:id="Ts-201a2" n="Ts-201a2" type="main" xml:lang="en"/>
         <author><persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>; <persName key="Russell, Bertrand">Bertrand Russell</persName></author>
         <editor><orgName ref="http://wab.uib.no/">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this edition: <persName>Alois Pichler</persName></editor>
@@ -40,6 +40,10 @@
         <respStmt>
           <name>Nivedita Gangopadhyay </name>
           <resp>2018: proofreading of normalized transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claus Huitfeldt</name>
+          <resp>2020: Spell-check</resp>
         </respStmt>
         <respStmt>
           <name>Michael Biggs, Hans Biesenbach</name>

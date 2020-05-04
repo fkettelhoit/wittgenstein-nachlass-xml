@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="WS" rendition="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-149: so-called C5 (WL)</title>
+        <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-149: so-called C5 (WL)</title>
         <title xml:id="Ms-149" n="Ms-149" type="main" xml:lang="en"/>
         <author>
           <persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>
@@ -46,6 +46,10 @@
         <respStmt>
           <name>Nivedita Gangopadhyay </name>
           <resp>2018: proofreading of normalized transcription of English parts</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claus Huitfeldt</name>
+          <resp>2020: Spell-check</resp>
         </respStmt>
         <respStmt>
           <name>Michael Biggs, Hans Biesenbach</name>
@@ -456,7 +460,7 @@
               <s type="es">Was soll ich<lb/> hervorheben?</s>
               <s type="es">Soll ich sagen er sei primär<lb/> unregelmäßig aber man könne ihn als etwas<lb/>  Regelmäßiges unregelmäßig projiziert<lb/> darstellen, oder er sei primär  regelmäßig<lb/> sei aber unregelmäßig projiziert gesehen?</s>
               <emph rend="centered">
-                <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio149-1v.BMP" xml:lang="de" ana="field:PhilosophyOfLanguage_Polyeder_Würfel" rend="bitmap">149001</seg>
+                <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio149-1v.BMP" ana="field:PhilosophyOfLanguage_Polyeder_Würfel" rend="bitmap">149001</seg>
               </emph>
             </emph>
           </seg>
@@ -554,7 +558,7 @@
         <ab xml:id="Ms-149_2v.6" n="Ms-149,2v[6]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_0">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio149-2v.BMP" xml:lang="de" ana="field:PhilosophyOfLanguage_Vielecke_Sechseck" rend="bitmap">149002</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio149-2v.BMP" ana="field:PhilosophyOfLanguage_Vielecke_Sechseck" rend="bitmap">149002</seg>
             <s type="es">Hat es einen Sinn zu<lb/> sagen, der Stern bleibt<lb/> beim gleichen  Punkt?</s>
             <emph rend="bl_2"/>
             <pb facs="Ms-149_3r" n="pagename_Ms-149,3r pageref_00"/>
@@ -659,7 +663,6 @@
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <s type="es">Can't the child learn to wish for an<lb/> apple by learning to  <emph rend="us1">draw</emph> an apple?</s>
-            <emph rend="bl_1"/>
             <emph rend="conline"/>
           </seg>
         </ab>
@@ -819,7 +822,7 @@
         <ab xml:id="Ms-149_7v.2" n="Ms-149,7v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
-            <s type="es" rend="indl_3">[mi<corr type="tran">n</corr>d<corr type="tra">-</corr>reading]</s>
+            <s type="es" rend="indl_3">[mi<corr type="tran">n</corr>d<corr type="trs"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>reading]</s>
             <lb rend="hl"/>
           </seg>
         </ab>
@@ -951,18 +954,20 @@
             <s type="es">But it's a blatant error to mix up<lb/> ‘seeing  red’ with showing that you see red!</s>
             <lb/>
             <s type="es"><c type="k">I</c> know what seeing red is &amp; I know<lb/> what showing  …   is.</s>
-            <s type="es">Cou<corr type="tran">l</corr>dn't we say<lb/> that knowing what showing  …   is, is seeing <lb rend="hl"/> <pb facs="Ms-149_11r" n="pagename_Ms-149,11r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">11 </add></fw>       showing  now what is knowing what seeing is.</s>
-            <emph rend="indl_2"/>
-            <add rend="i">
-              <s type="es"> Consider the <abbr corresp="proposition">prop.</abbr>: <c type="c">H</c>e makes  sure what it<lb/> means <emph rend="us1">to him</emph> by  … . </s>
-              <s type="es">Would you say the word<lb/> had meaning to him if it ‘meant something  else’ every<lb/> time?</s>
-            </add>
-            <s type="es">
-              <add rend="i">And what is the criterion of the same colour coming twice.</add>
-              <lb/>
-            </s>
-            <s type="es" rend="indl_2"><emph rend="slilm">In knowing what seeing <add rend="im">red</add> is <choice type="dsf"><orig type="alt1">you seem<lb/> to give  yourself a sample</orig><orig type="alt2"><add rend="i">you say to yourself ‘seeing red is  this’</add></orig></choice> but you<lb/> don't because the usual criteria<lb/>  </emph> for the <emph rend="uw1">sameness</emph> of the sample<lb/> don't  apply.</s>
-            <s type="es"><c type="k">I</c> can say I call ‘red’<lb/> always the <emph rend="us1">same</emph>  colour or <del type="d">I</del> whenever<lb/> I explain red I point to a sample<lb/> of the same  colour.</s>
+            <s type="es">Cou<corr type="tran">l</corr>dn't we say<lb/> that knowing what showing  …   is, is seeing <lb rend="hl"/> <pb facs="Ms-149_11r" n="pagename_Ms-149,11r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">11 </add></fw>        <emph rend="vdline"> showing  now what is knowing what seeing is.</emph></s>
+            <emph rend="vdline">
+              <emph rend="indl_2"/>
+              <add rend="i">
+                <s type="es"> Consider the <abbr corresp="proposition">prop.</abbr>: <c type="c">H</c>e makes  sure what it<lb/> means <emph rend="us1">to him</emph> by  … . </s>
+                <s type="es">Would you say the word<lb/> had meaning to him if it ‘meant something  else’ every<lb/> time?</s>
+              </add>
+              <s type="es">
+                <add rend="i">And what is the criterion of the same colour coming twice.</add>
+                <lb/>
+              </s>
+              <s type="es" rend="indl_2"><emph rend="slilm">In knowing what seeing <add rend="im">red</add> is <choice type="dsf"><orig type="alt1">you seem<lb/> to give  yourself a sample</orig><orig type="alt2"><add rend="i">you say to yourself ‘seeing red is  this’</add></orig></choice> but you<lb/> don't because the usual criteria<lb/>  </emph> for the <emph rend="uw1">sameness</emph> of the sample<lb/> don't  apply.</s>
+              <s type="es"><c type="k">I</c> can say I call ‘red’<lb/> always the <emph rend="us1">same</emph>  colour or <del type="d">I</del> whenever<lb/> I explain red I point to a sample<lb/> of the same  colour.</s>
+            </emph>
           </seg>
         </ab>
         <ab xml:id="Ms-149_11r.2" n="Ms-149,11r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
@@ -1069,7 +1074,7 @@
         <ab xml:id="Ms-149_12r.6" n="Ms-149,12r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
-            <emph rend="vdline">
+            <emph rend="crossed">
               <s type="es">Changing the meaning of a word.</s>
               <lb/>
               <s type="es">Meaning connected with the use of<lb/> the  <abbr corresp="ostensive">ostens.</abbr>  <abbr corresp="definition">def<corr type="npc">.</corr></abbr>.</s>
@@ -1355,7 +1360,7 @@
         <ab xml:id="Ms-149_16r.2" n="Ms-149,16r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
-            <emph rend="vdline">
+            <emph rend="crossed">
               <s type="es">That we try to account for some<lb rend="shyphen"/>thing is due to the fact that we<lb/>  often can account for it.</s>
               <s type="es">If I<lb/> saw no regularity whatever I<lb/> should not be inclined to  <choice type="dsl"><orig type="alt1"><del type="d">assume</del></orig><orig type="alt2"><add rend="i">say</add></orig></choice><lb/> that there is one which I  haven't<lb/> as yet discovered.</s>
               <s type="es">What usually happens<lb/> makes me take this point of view.</s>
@@ -1365,7 +1370,7 @@
         <ab xml:id="Ms-149_16r.3" n="Ms-149,16r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_2" xml:lang="en">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
-            <emph rend="vdline">
+            <emph rend="crossed">
               <s type="es" rend="indl_2">The ‘private definition’ is not  <emph rend="us1">binding</emph>.</s>
               <emph rend="bl_1"/>
               <emph rend="sepline"/>
@@ -1409,13 +1414,15 @@
           <seg type="publ">
             <emph rend="vdline">
               <s type="es" rend="indl_2">“But do you mean that one man couldn't<lb/> play a game of  chess with himself &amp; <pb facs="Ms-149_17v" n="pagename_Ms-149,17v pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">  </add></fw> without  anyone else knowing that<lb/> he did?<corr type="tra">”</corr>–</s>
-              <s type="es">What, would you say<corr type="tra">,</corr><lb/> he should do in order <choice type="s"><orig type="alt1">that we<lb/> may say  he is playing</orig><orig type="alt2"><add rend="i">to be playing</add></orig></choice><lb/> <add rend="imb">with himself</add> a private<lb/>  game of chess?</s>
-              <lb/>
-              <s type="es"><del type="d">Any</del><c type="c">J</c>ust anything? –</s>
-              <s type="es"><del type="dnpc"><c type="k">I</c> suppose</del><lb/><c type="c">W</c>ould you <del type="d"><add rend="i">just</add></del> say he must  go<lb/> through certain private experiences<lb/> <del type="dnpc">but that's as  good</del> which<lb/> I can <del type="d">(only)</del> indirectly describe<lb/> by saying that  they are the<lb/> experiences which he has when<lb/> playing <add rend="im">a certain game</add>  chess (in the ordinary<lb/> sense of the word)?</s>
-              <lb/>
+              <emph rend="crossed">
+                <s type="es">What, would you say<corr type="tra">,</corr><lb/> he should do in order <choice type="s"><orig type="alt1">that we<lb/> may say  he is playing</orig><orig type="alt2"><add rend="i">to be playing</add></orig></choice><lb/> <add rend="imb">with himself</add> a private<lb/>  game of chess?</s>
+                <lb/>
+                <s type="es"><del type="d">Any</del><c type="c">J</c>ust anything? –</s>
+                <s type="es"><del type="dnpc"><c type="k">I</c> suppose</del><lb/><c type="c">W</c>ould you <del type="d"><add rend="i">just</add></del> say he must  go<lb/> through certain private experiences<lb/> <del type="dnpc">but that's as  good</del> which<lb/> I can <del type="d">(only)</del> indirectly describe<lb/> by saying that  they are the<lb/> experiences which he has when<lb/> playing <add rend="im">a certain game</add>  chess (in the ordinary<lb/> sense of the word)?</s>
+                <lb/>
+              </emph>
               <s type="es"><c type="k">I</c> suppose you would say <add rend="im"><abbr type="abb">e.g.</abbr></add> that<lb/> he  imagines a chessboard with the<lb/> chessmen on it,  <choice type="dsl"><orig type="alt1"><del type="d">then</del></orig><orig type="alt2"><add rend="i">that</add></orig></choice> he imagines<lb/> certain mo<corr type="npcn">o</corr>ves  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
-              <s type="es">And <choice type="dsl"><orig type="alt1"><del type="d">on being</del></orig><orig type="alt2"><add rend="i">if you were</add></orig></choice><lb/> asked what  <del type="dnpc">does</del> it means<lb/> to imagine a <emph rend="us1">chessboard</emph>, you would<lb/>  <add rend="im">explain it by pointing</add> to a <add rend="i">real</add> chessboard or,  <choice type="dsl"><orig type="alt1"><del type="d">the</del></orig><orig type="alt2"><add rend="im">say to a</add></orig></choice><lb/> picture of one and analogously if<lb/>  you were asked what does it mean<lb/> to imagine <choice type="dsl"><orig type="alt1"><del type="d">cast<corr type="npc">e</corr>ling  <abbr type="abb">etc.</abbr></del></orig><orig type="alt2"><add rend="im">the king of chess, a pawn, a  knight<corr type="tra">'</corr>s mo<corr type="npc">o</corr>ve  <abbr type="abb">etc.</abbr></add></orig></choice><corr type="npc">.</corr></s>
+              <s type="es">And <choice type="dsl"><orig type="alt1"><del type="d">on being</del></orig><orig type="alt2"><add rend="i">if you were</add></orig></choice><lb/> asked what  <del type="dnpc">does</del> it means<lb/> to imagine a <emph rend="us1">chessboard</emph>, you would<lb/>  <add rend="im">explain it by pointing</add> to a <add rend="i">real</add> chessboard or,  <choice type="dsl"><orig type="alt1"><del type="d">the</del></orig><orig type="alt2"><add rend="im">say to a</add></orig></choice><lb/> picture of one and analogously if<lb/>  you were asked what does it mean<lb/> to imagine <choice type="dsl"><orig type="alt1"><del type="d">cast<corr type="npc">e</corr>ling  <abbr type="abb">etc.</abbr></del></orig><orig type="alt2"><add rend="im">the king of chess, a pawn, a  knight<corr type="tra">'</corr>s mo<corr type="npcn">o</corr>ve  <abbr type="abb">etc.</abbr></add></orig></choice><corr type="npc">.</corr></s>
               <lb/>
               <s type="es">
                 <del type="d">But what if you explained: <c type="c">B</c>ut <corr type="npcn">shal</corr></del>
@@ -1680,11 +1687,13 @@
             <emph rend="vdline">
               <s type="es" rend="indl_2"><emph rend="slilm"> “Something clicked in my <choice type="s"><orig type="alt1">brain</orig><orig type="alt2"><add rend="i">mind</add></orig></choice> when<lb/>  </emph> I came to this colour”.</s>
               <s type="es"><add rend="im">(This is a gesture<corr type="tra">.</corr>)</add><c type="c">B</c>ut did<lb/> you know from the clicking  that<lb/> it was red.</s>
-              <s type="es">Supposing looking at<lb/> this colour your eyes opened wider<lb/> &amp; you gave  a jerk, – was it <emph rend="us1">by</emph> <add rend="im">its producing</add> this<lb/> reaction that  you recognized    <pb facs="Ms-149_21r" n="pagename_Ms-149,21r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">21  </add></fw> the colour  as being red?</s>
-              <add rend="iupm">
-                <s type="es"><c type="c">I</c> saw a particular colour concentrated on it &amp; the word red  came without ten<corr type="trsn"><orig type="trsn1">t</orig><reg type="trsn2">s</reg></corr>ion.</s>
-              </add>
-              <s type="es">Indeed this<lb/> is the phenomenon we call recog<lb rend="shyphen"/>nition but we call it  that because<lb/> it happens under circumstances<lb/> where we have other criteria for<lb/>  saying that we've recognized the<lb/> object.</s>
+              <s type="es">Supposing looking at<lb/> this colour your eyes opened wider<lb/> &amp; you gave  a jerk, – was it <emph rend="us1">by</emph> <add rend="im">its producing</add> this<lb/> reaction that  you recognized    <pb facs="Ms-149_21r" n="pagename_Ms-149,21r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">21  </add></fw>       <emph rend="crossed">the colour  as being red?</emph></s>
+              <emph rend="crossed">
+                <add rend="iupm">
+                  <s type="es"><c type="c">I</c> saw a particular colour concentrated on it &amp; the word red  came without ten<corr type="trsn"><orig type="trsn1">t</orig><reg type="trsn2">s</reg></corr>ion.</s>
+                </add>
+                <s type="es">Indeed this<lb/> is the phenomenon we call recog<lb rend="shyphen"/>nition but we call it  that because<lb/> it happens under circumstances<lb/> where we have other criteria for<lb/>  saying that we've recognized the<lb/> object.</s>
+              </emph>
             </emph>
           </seg>
         </ab>
@@ -1783,7 +1792,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_22r.4" n="Ms-149,22r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">Suppose I said “I see red” &amp; was<lb/> lying for I  <add rend="im">actually</add> saw red – but had made<lb/> a slip of the tongue.</s>
             <s type="es" rend="indl_4">But which lie was it I had said,<lb/> or (<emph rend="uw1">rather</emph>)  thought?</s>
@@ -1791,7 +1800,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_22r.5" n="Ms-149,22r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">But suppose that he felt that he<lb/> was lying but never said so, –  <del type="d">was</del><lb/> did he know that he was lying or<lb/> not?</s>
           </seg>
@@ -1828,7 +1837,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_22v.4" n="Ms-149,22v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">How do I imagine myself seeing<lb/> red?</s>
             <s type="es">
@@ -1863,7 +1872,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_23r.2" n="Ms-149,23r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1">Falsifying an account.</s>
             <s type="es"><c type="c">I</c> add up numbers<lb/> arrive at 2730 then rub out 3 &amp;<lb/> put a 5  instead.</s>
@@ -1876,19 +1885,19 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_23r.4" n="Ms-149,23r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">If I see green without saying<lb/> <del type="d"><emph rend="uw1">where</emph></del> <del type="d">“</del>I see  green<del type="d">”</del>, in what way<lb/> can these words be said to describe what  I see?</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_23r.5" n="Ms-149,23r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1">One could imagine someone constantly<lb/> lying <emph rend="us1">subjectively</emph> but not  objective<lb rend="shyphen"/>ly.</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_23r.6" n="Ms-149,23r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_0" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1">
               <add rend="i">Imagine this case: <c type="c">S</c>omeone has a particular way<corr type="tra">;</corr> if lying,  he … </add>
@@ -1902,14 +1911,14 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_23v.1" n="Ms-149,23v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_0" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1">Supposing one said: <choice type="o"><orig type="o1">t</orig><orig type="o2"><c type="c">T</c></orig></choice>o see red means<lb/> to see that  which makes me inclined<lb/> to describe it by saying  ‘ … ’.</s>
             <s type="es" rend="indl_2">“To know that I am lying means<lb/> to have  <choice type="dsl"><orig type="alt1"><del type="d">that</del></orig><orig type="alt2"><add rend="i">an</add></orig></choice> experience which<lb/> <emph rend="us1">I should</emph>  describe by the words ‘ … ’.”</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_23v.2" n="Ms-149,23v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_2" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es">[Our language on the one hand has<lb/> very much more possibilities of  ex<lb rend="shyphen"/>pression than logicians <choice type="s"><orig type="alt1">admit</orig><orig type="alt2"><add rend="i">dream  of</add></orig><orig type="alt3"><add rend="i">imagine</add></orig></choice> &amp;<lb/> on the other hand the <emph rend="us1">uses</emph> of<lb/>  <choice type="s"><orig type="alt1">its</orig><orig type="alt2"><add rend="i">these</add></orig></choice> modes of expression<del type="d">s</del> are very much<lb/>  more limited than <choice type="s"><orig type="alt1">logicians</orig><orig type="alt2"><add rend="i">they</add></orig></choice> imagine.]</s>
           </seg>
@@ -1933,13 +1942,13 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_24r.2" n="Ms-149,24r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es">Wenn ich nun sage “der lügt, der sagt<lb/> ‘ich sehe  rot’ &amp; sieht grün”, so stimmt<lb/> das nicht, denn ich  mußte sagen “der<lb/> lügt der sagt ‘ich sehe rot’  &amp; weißt (oder<lb/> <add rend="our">glaubt</add>) er sieht  grün”.</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_24r.3" n="Ms-149,24r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_4">“Der lügt, der sagt “ich sehe rot” &amp;  sieht<lb/> die Farbe, die er selbst mit dem Worte<lb/> grün <emph rend="us1">bezeichnen  würde</emph>.”</s>
             <s type="es">Aber das<lb/> heißt <emph rend="us1">doch</emph> <del type="d">(wohl)</del> <emph rend="us1">wahrheitsgemäß</emph><lb/>  so bezeichnen würde.</s>
@@ -1948,14 +1957,14 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_24r.4" n="Ms-149,24r[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">“Der weiß, welche Farbe er sieht, der es<lb/> irgendwie  <emph rend="us1">ausdrücken könnte</emph>.”</s>
             <s type="es">Was ist das<lb/> <corr type="trsn"><orig type="trsn1">c</orig><reg type="trsn2">K</reg></corr>riterium dafür daß, er  <choice type="dsl"><orig type="alt1">das</orig><orig type="alt2"><add rend="i">es</add></orig></choice> <emph rend="us1">könnte</emph>?</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_24r.5" n="Ms-149,24r[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es">Was soll es dann heißen: einen Farbenein<lb rend="shyphen"/>druck wahrheitsgemäß  mit ‘rot’ bezeichnen?</s>
             <lb/>
@@ -1968,21 +1977,21 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_24v.1" n="Ms-149,24v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">Man könnte hier auch sagen<lb/> man solle <add rend="im">gar</add> nicht von  subje<corr type="trsn"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>tiver Wahr<lb rend="shyphen"/>heit der Farben sprechen.</s>
             <s type="es">Die Wahrheit<lb/> des Satzes “Ich habe Zahnschmerzen” habe<lb/>  nur objektiv beurteilt zu werden.</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_24v.2" n="Ms-149,24v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">“Das wahre Wort kommt anders als<lb/> das falsche.”</s>
             <lb rend="hl"/>
           </seg>
         </ab>
         <ab xml:id="Ms-149_24v.3" n="Ms-149,24v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1">Man kann sagen: “<c type="c">A</c>lle diese Worte<lb/> sind in derselben  Weise gekommen.”</s>
           </seg>
@@ -2100,7 +2109,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_26r.3" n="Ms-149,26r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">“Lying when you say “I see red” con<lb rend="shyphen"/>sists  in saying these words &amp;<lb/> having a private experience which<lb/> I call  <del type="d"><corr type="npcn">un</corr></del> ‘feeling unjustified’, or<lb/>  ‘seeing green’ <abbr type="abb">etc.</abbr>” –</s>
             <s type="es">“But suppose<lb/> that I call the feeling of being<lb/> justified  “fee<add rend="our">lin</add>g  unjustified”!?” –</s>
@@ -2108,7 +2117,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_26r.4" n="Ms-149,26r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_2" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">“What you say comes to this: <del type="d">that</del><lb/> when  <choice type="dsl"><orig type="alt1"><del type="d">you</del></orig><orig type="alt2"><add rend="i">I</add></orig></choice> tru<corr type="npcn">e</corr>ly say <del type="d">that</del>  ‘I see red’<lb/> <choice type="dsl"><orig type="alt1"><del type="d">you are</del></orig><orig type="alt2"><add rend="i">I am</add></orig></choice> not  justified in saying this<lb/> by <choice type="dsl"><orig type="alt1"><del type="d"><emph rend="uw1">the</emph></del></orig><orig type="alt2"><add rend="i">a</add></orig></choice> fact  that <choice type="dsl"><orig type="alt1"><del type="d">you</del></orig><orig type="alt2"><add rend="i">I</add></orig></choice> see red”. –</s>
             <s type="es">No<lb/> I should say ‒ ‒ ‒</s>
@@ -2128,7 +2137,7 @@
         <ab xml:id="Ms-149_26v.1et27r.1" n="Ms-149,26v[1]et27r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
           <seg type="publ">
             <emph rend="vdline">
-              <seg type="wabmarks-secml">∕∕</seg>
+              <seg type="wabmarks-secml">∕∕ </seg>
               <s type="es" rend="indl_2">“But surely there is a case in<lb/> which I say ‘I see  red’ &amp; am<lb/> telling the (subjective) truth &amp;<lb/>  one in which I <del type="d">tell a</del>  l<corr type="trsn"><orig type="trsn1">y</orig><reg type="trsn2">ie</reg></corr>!” –</s>
               <s type="es">Yes,<lb/> that is, we distinguish between<lb/> <choice type="s"><orig type="alt1">telling the</orig><orig type="alt2"><add rend="i">a case of  telling the</add></orig></choice> truth &amp; <choice type="s"><orig type="alt1">not telling</orig><orig type="alt2"><add rend="i"><del type="d">a case</del> of not  telling</add></orig></choice><lb/> the truth. –</s>
               <s type="es">But what does lying<lb/> in <choice type="s"><orig type="alt1">this</orig><orig type="alt2"><add rend="i">such a</add></orig></choice> case, consist  in?</s>
@@ -2153,7 +2162,7 @@
         <ab xml:id="Ms-149_27r.2" n="Ms-149,27r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
           <seg type="publ">
             <emph rend="vdline">
-              <seg type="wabmarks-secml">∕∕</seg>
+              <seg type="wabmarks-secml">∕∕ </seg>
               <s type="es" rend="indl_2">When we talk of the <emph rend="us1">private</emph> <emph rend="us1_c">experience</emph><lb/> which the  others don't know we<lb/> <choice type="em"><orig type="em1"><emph rend="co">originally ⇄ don't</emph></orig><orig type="em2"><choice type="dsl"><orig type="alt1">originally ⇄ don't</orig><orig type="alt2">don't originally</orig></choice></orig></choice>  mean to talk of<lb/> a <add rend="i">shapeless</add> nothing but of a variable with<lb/> certain  definite values.</s>
             </emph>
           </seg>
@@ -2161,7 +2170,7 @@
         <ab xml:id="Ms-149_27r.3et27v.1" n="Ms-149,27r[3]et27v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
           <seg type="publ">
             <emph rend="vdline">
-              <seg type="wabmarks-secml">∕∕</seg>
+              <seg type="wabmarks-secml">∕∕ </seg>
               <rs type="extref" key="Driesch, Hans: [writings]">
                 <s type="es" rend="indl_2">It is said sometimes that if I<lb/> &amp; someone else are looking at some<lb/>  object I can never know what colour<lb/> the other really sees.</s>
                 <s type="es">But with what   <pb facs="Ms-149_27v" n="pagename_Ms-149,27v pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">  </add></fw> right do  we here <choice type="dsl"><orig type="alt1"><del type="d">speak of</del></orig><orig type="alt2"><add rend="i">use</add></orig></choice> ‘colour’<lb/>  &amp; seeing<corr type="tra">?</corr></s>
@@ -2179,7 +2188,7 @@
         <ab xml:id="Ms-149_27v.2et28r.1" n="Ms-149,27v[2]et28r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
           <seg type="publ">
             <emph rend="vdline">
-              <seg type="wabmarks-secml">∕∕</seg>
+              <seg type="wabmarks-secml">∕∕ </seg>
               <s type="es" rend="indl_2">“We distinguish between  …  &amp;  … ”  that<lb/> means: <c type="c">W</c>e <del type="d">some times</del> sometimes use<lb/> the expression  “I lied when I said<lb/> that I saw green”  <choice type="dsl"><orig type="alt1"><del type="d">sometimes</del></orig><orig type="alt2"><add rend="i">as opposed to</add></orig></choice> “I<lb/> told the  truth when I said ‘ … ’”.</s>
               <s type="es">But<lb/> isn't this enough? –</s>
               <s type="es">“But <emph rend="us1">under what<lb/> circumstances</emph> do you use the<lb/> expression  ‘ … ’”?</s>
@@ -2196,7 +2205,7 @@
               <s type="es" rend="indl_1">The word lying is taught us in<lb/> a <abbr corresp="particular">part</abbr> way in  which it was fastened<lb/> to a <del type="d"><corr type="npcn">gr</corr></del> certain behaviour to the use<lb/>  of a certain expression under certain<lb/> circumstances.</s>
               <s type="es">Then we use it saying<lb/> that we have been lying when <del type="d">we</del> our<lb/> <del type="d">have  noticed it</del> behaviour was not<lb/> <del type="d">the one</del> like the one which first  constituted<lb/> the meaning.</s>
               <lb rend="hl"/>
-              <seg type="wabmarks-secml">∕∕</seg>
+              <seg type="wabmarks-secml">∕∕ </seg>
               <s type="es" rend="indl_3">Just in the same way we were<lb/> taught the word  ‘red’ in a game<lb/> say like <abbr corresp="number one"><c type="c">N</c>o1</abbr> &amp; then we use it when<lb/> the conditions are different  (compare<lb/> the past in the description of a<lb/> dream) (and of course it  isn't just the word ‘red’ we use but<lb/> the whole  imagery connected with it)<corr type="tra">.</corr></s>
             </emph>
           </seg>
@@ -2204,7 +2213,7 @@
         <ab xml:id="Ms-149_28r.3" n="Ms-149,28r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
           <seg type="publ">
             <emph rend="slilm">
-              <seg type="wabmarks-secml">∕∕</seg>
+              <seg type="wabmarks-secml">∕∕ </seg>
               <s type="es" rend="indl_2">“But you talk as though there<lb/> was only the <choice type="s"><orig type="alt1">word  ‘red’</orig><orig type="alt2"><add rend="i"><abbr corresp="expression">expr.</abbr>  ‘I see red’</add></orig></choice> but not<lb/> an impression corresponding to   it.<corr type="tra">”</corr></s>
               <lb/>
               <s type="es">On the contrary I <del type="d">too distinguish<lb/> between</del> don't say that  when a man<lb/> says  …  he also has the impression.</s>
@@ -2217,7 +2226,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_28v.1" n="Ms-149,28v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1">But is all that happens that<lb/> you <emph rend="us1">say</emph> ‘I see  red’?</s>
             <s type="es">Isn't<lb/> there something else being the<lb/> case, happening, when you  say this<lb/> &amp; it is true?</s>
@@ -2229,20 +2238,20 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_28v.2" n="Ms-149,28v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1">The philosophical puzzle seems<lb/> insoluble if we are  fran<corr type="trsn"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr> <choice type="dsl"><orig type="alt1"><del type="d">to</del></orig><orig type="alt2"><add rend="i">with</add></orig></choice> ourselves,<lb/>  &amp; <emph rend="us1">is</emph>, <unclear>insoluble</unclear>.</s>
             <s type="es"><del type="dncr">That is</del><del type="dncr">1</del><add rend="ib"><c type="c">T</c>hat is</add> until<corr type="npcn">l</corr>  <add rend="im">that is</add> we change<lb/> our question.</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_28v.3et29r.1" n="Ms-149,28v[3]et29r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">‘Expression <add rend="im">can</add> always <add rend="im">be</add>  lying<corr type="tra">.</corr>’ <c type="c">H</c>ow can we<lb/> say this of the expression to which  <pb facs="Ms-149_29r" n="pagename_Ms-149,29r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">29  </add></fw> we fasten  our words?</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_29r.2" n="Ms-149,29r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">“But I always know whether I'm lying<lb/> or  not!” – You are  <choice type="dsl"><orig type="alt1"><del type="d"><add rend="i">first</add></del></orig><orig type="alt2"><add rend="im">now</add></orig></choice> obsessed with <choice type="dsl"><orig type="alt1"><emph rend="uw1">the<lb/>  word</emph></orig><orig type="alt2"><add rend="i">the use of<lb/> the word</add></orig></choice>  ‘lying’.</s>
             <s type="es"><choice type="s"><orig type="alt1">As a rule</orig><orig type="alt2"><add rend="i"><c type="c">I</c>n general</add></orig></choice> you talk without<lb/> thinking  <emph rend="uw1">of lying &amp; of whether you l<corr type="trsn"><orig type="trsn1">y</orig><reg type="trsn2">ie</reg></corr></emph><lb/> or  not.</s>
@@ -2263,7 +2272,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_29r.5" n="Ms-149,29r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">Suppose a child learnt the word<lb/> ‘toothache’ as an  equivalent for it<corr type="npcn">'</corr>s moa<lb rend="shyphen"/>ning &amp; noticed that  whenever it said<lb/> the word or moaned the grown-ups treated<lb/> it  particularly well.</s>
             <s type="es">The child then<lb/> uses moaning or the word  ‘<abbr corresp="toothache">t.</abbr>’ as a means<lb/> to bring  about the <emph rend="uw1">desired effect</emph>: is the<lb/> child lying?</s>
@@ -2288,13 +2297,13 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_29v.2et30r.1" n="Ms-149,29v[2]et30r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2"><c type="c">I</c> have taught the child to<lb/> use the expression ‘I have  toothache’   <pb facs="Ms-149_30r" n="pagename_Ms-149,30r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">30  </add></fw> under  certain circumstances <add rend="im">and now it uses the<del type="d">se</del> words under these  circumstances</add>. –</s>
             <s type="es">But<lb/> what are these circumstances?</s>
             <s type="es">Shall<lb/> <choice type="dsl"><orig type="alt1"><del type="d">we</del></orig><orig type="alt2"><add rend="i">I</add></orig></choice>  <choice type="dsf"><orig type="alt1">say</orig><orig type="alt2"><del type="d"><add rend="i">answer</add></del></orig></choice> “the circumstances under  which<lb/> it moaned”, and what are these?</s>
             <lb rend="hl"/>
-            <seg type="wabmarks-secml">∕∕</seg>
+            <seg type="wabmarks-secml">∕∕ </seg>
             <s type="es" rend="indl_4">But now I also teach the<lb/> child to moan on the stage!</s>
             <s type="es">That<lb/> is to say I <add rend="im"><emph rend="uw1">even</emph></add> <emph rend="us1">teach</emph>  <choice type="dsl"><orig type="alt1"><del type="d">him</del></orig><orig type="alt2"><add rend="i">it</add></orig></choice> to use<lb/> this expression in a different  game.</s>
             <lb/>
@@ -2305,7 +2314,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_30r.2" n="Ms-149,30r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">“But doesn't what you say come to<lb/> this that it  doesn't matter what<lb/> the persons feel as long as only<lb/> they behave a  particular way?”</s>
             <emph rend="bl_1"/>
@@ -2313,7 +2322,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_30r.3et30v.1" n="Ms-149,30r[3]et30v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2"><del type="d">“But</del> “<c type="c">D</c>o you mean that you can<lb/> define pain  in terms of behaviour?”</s>
             <s type="es" rend="indl_1">But is this what we do if we teach<lb/> the child to use the expression<lb/>  ‘I have toothache’?</s>
@@ -2334,14 +2343,14 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_30v.2" n="Ms-149,30v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1">“But aren't you neglecting some<lb rend="shyphen"/>thing – the  experience or whatever you<lb/> might call it –?</s>
             <s type="es">Almost <emph rend="us1">the world</emph><lb/> behind the mere words?”</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_30v.3et31r.1" n="Ms-149,30v[3]et31r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_3">But here solipsism <choice type="dsf"><orig type="alt1">teaches</orig><orig type="alt2"><del type="d"><add rend="i">can teach</add></del></orig></choice> us a<lb/>  lesson; <choice type="s"><orig type="alt1"><c type="c">I</c>t is the thought <emph rend="uw1">which<lb/> is</emph></orig><orig type="alt2"><add rend="i"><c type="c">I</c>t is  that thought which is</add></orig></choice> <emph rend="us1">on the way</emph> to destroy this  <choice type="dsl"><orig type="alt1"><del type="d">wrong<lb/> idea.</del></orig><orig type="alt2"><add rend="i">error.</add></orig></choice></s>
             <s type="es">For if the <emph rend="us1">world</emph> is idea it isn't<lb/> any  person<corr type="tra">'</corr>s idea.</s>
@@ -2393,7 +2402,7 @@
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <s type="es" rend="indl_1">How am I to describe the way<lb/> the child learns the word  ‘toothache’ – <lb/> like this?</s>
-            <s type="es">The child sometimes<lb/> has <abbr corresp="toothache">t.</abbr> it moans  <add rend="im">&amp; holds its cheek</add>, the  grown<corr type="tra">-</corr>up<choice type="o"><orig type="o1">p</orig><orig type="o2">s</orig></choice> say<lb/> “ … ”  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
+            <s type="es">The child sometimes<lb/> has <abbr corresp="toothache">t.</abbr> it moans  <add rend="im">&amp; holds its cheek</add>, the   grown<corr type="trs"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>up<choice type="o"><orig type="o1">p</orig><orig type="o2">s</orig></choice> say<lb/> “ … ”  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
             <s type="es">Or: <c type="c">T</c>he child sometimes<lb/> moans &amp; holds its cheek,   – the grown<lb rend="divl"/>ups <corr type="tra">“</corr> … ”?</s>
             <s type="es">Does the first description<lb/> say something superfluous <add rend="im">or false</add> or  does the<lb/> second leave out something essential?</s>
             <lb/>
@@ -2461,7 +2470,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_32v.2" n="Ms-149,32v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">“<c type="c">I</c> see so &amp; so” does not mean<lb/>  “<c type="c">T</c>he person so &amp; so <add rend="im"><abbr type="abb">e.g.</abbr><persName key="Wittgenstein, Ludwig"><abbr type="abb">L.W.</abbr></persName></add> sees so  &amp; so”.</s>
           </seg>
@@ -2524,7 +2533,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_33v.2" n="Ms-149,33v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1">Can't I say something to nobody,<lb/> neither to anybody else  <emph rend="us1">nor</emph> to<lb/> myself?</s>
             <s type="es">What is the criteri<corr type="trsn"><orig type="trsn1">um</orig><reg type="trsn2">on</reg></corr><lb/> of saying it to myself?</s>
@@ -3002,7 +3011,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_41r.1et41v.1et42r.1" n="Ms-149,41r[1]et41v[1]et42r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <emph rend="slilm">
               <s type="es" rend="indl_2">Now in order that with its normal<lb/> meaning we should teach a child the  ex<lb rend="shyphen"/>pression “I have lied” the child must be<lb rend="shyphen"/>have  in the normal way.</s>
@@ -3030,14 +3039,14 @@
             <s type="es">‘So &amp; so’ standing for some<lb/> expression verbal or  otherwise.</s>
             <s type="es">(But<lb/> remember that I don't give myself<lb/> an information by  pointing to something<lb/> I see with my finger &amp; saying to<lb/> myself I see  this.)</s>
             <s type="es">‘So &amp; so’ in fact<lb/> stands for <choice type="s"><orig type="alt1">an  expression</orig><orig type="alt2"><add rend="i">a word</add></orig></choice> of a<lb/> <abbr corresp="language">lang.</abbr>  game.</s>
-            <s type="es">And doubting what it is<lb/> I see <choice type="dsl"><orig type="alt1"><del type="d">will be</del></orig><orig type="alt2"><add rend="i">is</add></orig></choice>  doubting <corr type="npc">what</corr> <del type="d"><emph rend="uw1"><abbr corresp="language">lang.</abbr><lb/> game to  play</emph></del> <add rend="im"><abbr type="abb">e.g.</abbr> what</add> to call what I<lb/>  see.</s>
-            <del type="d">
+            <s type="es">And doubting what it is<lb/> I see <choice type="dsl"><orig type="alt1"><del type="d">will be</del></orig><orig type="alt2"><add rend="i">is</add></orig></choice>  doubting <corr type="npc">what</corr> <del type="d"><emph rend="uw1"><abbr corresp="language">lang.</abbr><lb/> game to  play</emph></del> <add rend="im"><abbr type="abb">e.g.</abbr> what</add> to call what I<lb/>   see.</s>
+            <emph rend="crossed">
               <s type="es">But there may be very different<lb/> cases of this.</s>
               <s type="es"><c type="c">I</c> may just ‘have forgotten<lb/> the name of the  colour’.</s>
               <s type="es">This means   <pb facs="Ms-149_42r" n="pagename_Ms-149,42r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">42  </add></fw> that I can  find it out by asking someone<lb/> what is this colour (pointing)  called.</s>
               <lb/>
               <s type="es"><del type="d">But</del> this isn't an interesting case.</s>
-            </del>
+            </emph>
             <s type="es" rend="indl_1">Doubting <abbr type="abb">e.g.</abbr> whether to say “I see<lb/>  red” or “I see green”.</s>
             <s type="es">“But this is<lb/> a simple doubt about the appel<corr type="tran">l</corr>ation<lb/> of a colour  &amp; <add rend="im">it</add> can be settled by asking<lb/> someone what this colour  (pointing) is called”.</s>
             <lb/>
@@ -3139,20 +3148,20 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_43v.1" n="Ms-149,43v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">/</seg>
+          <seg type="wabmarks-secml">/ </seg>
           <seg type="publ">
             <s type="es" rend="indl_1"><emph rend="wlilm">But can't the <add rend="im">old</add> game lo<corr type="npcn">o</corr>se its  point</emph><lb/> when the <abbr corresp="circumstances">circs.</abbr> change, so  that<lb/> the <choice type="dsl"><orig type="alt1"><del type="d">word</del></orig><orig type="alt2"><add rend="i">expression</add></orig></choice> ceases to have a  meaning<lb/> although of course I can still<lb/> pronounce it.</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_43v.2" n="Ms-149,43v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">/</seg>
+          <seg type="wabmarks-secml">/ </seg>
           <seg type="publ">
             <s type="es" rend="indl_3">He sticks to <del type="d"><corr type="npcn">to</corr></del> saying that he has<lb/> been lying although  none of the normal<lb/> consequences follow.</s>
             <s type="es">What is there left<lb/> of the <abbr corresp="language">lang.</abbr> game,  except that he<lb/> sa<corr type="trsn"><orig type="trsn1">i</orig><reg type="trsn2">y</reg></corr>s the expression?</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_43v.3" n="Ms-149,43v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">We learn the word ‘red’ under  <abbr corresp="particular">part.</abbr><lb/>   <abbr corresp="circumstances">circs.</abbr></s>
             <s type="es">Certain objects are usually<lb/> red &amp; keep their colour, most people<lb/>  agree with us in our colour judge<lb rend="shyphen"/>ments.</s>
@@ -3168,13 +3177,13 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_44r.1" n="Ms-149,44r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">The situation in which we are inclined<lb/> to say “I must have gone  mad!”</s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_44r.2" n="Ms-149,44r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_2">“But we could always call a colour<lb rend="divl"/>impression  ‘red’ &amp; stick to <del type="d">it</del> this  appli<lb rend="shyphen"/>cation!”</s>
           </seg>
@@ -3282,7 +3291,7 @@
           </seg>
         </ab>
         <ab xml:id="Ms-149_45v.2" n="Ms-149,45v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
-          <seg type="wabmarks-secml">∕∕</seg>
+          <seg type="wabmarks-secml">∕∕ </seg>
           <seg type="publ">
             <s type="es" rend="indl_3">Imagine a game: <del type="d">a group of people<lb/> tell each other</del> <del type="d"><seg type="p">A</seg>  tells <seg type="p">B</seg> what <seg type="p">B</seg><lb/> sees <seg type="p">B</seg> tells <seg type="p">A</seg> what <seg type="p">A</seg> sees</del>  <c type="c">O</c>ne<lb/> person tells the other what he<lb/> (the other) sees if he has  guessed<lb/> it rightly he is rewarded.</s>
             <s type="es">If <seg type="p">A</seg> hasn't<lb/> guessed correctly what <seg type="p">B</seg> sees<lb/> <seg type="p">B</seg>  corrects him &amp; says what it is<lb/> he sees.</s>
