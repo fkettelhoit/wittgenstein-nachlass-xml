@@ -54,10 +54,12 @@
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ts-207_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-207_n</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-207_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-207_f</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>

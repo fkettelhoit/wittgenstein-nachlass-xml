@@ -50,10 +50,12 @@
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ms-114_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-114_n</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-114_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-114_f</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General   Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
@@ -1814,7 +1816,7 @@
         <ab xml:id="Ms-114_25v.2et26r.1et26v.1et27r.1" n="Ms-114,25v[2]et26r[1]et26v[1]et27r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320605" emph="blbef_0">
           <seg type="wabmarks-secml"/>
           <s type="es" rend="indl_2">Denken wir uns unser Körper<lb/> würde aus unserem   Gesichtsfeld<lb/> entfernt, etwa indem man ihn<lb/> gänzlich durchsichtig mach<add rend="our">t</add>e;<lb/> er behielte aber die Fähigkeit <del type="dnpc">bei</del><lb/> in   einem geeigneten Spiegel in der<lb/> uns gewohnten Weise zu erschei<lb rend="shyphen0"/>nen so   daß wir etwa die sicht<lb rend="shyphen"/>baren Äußerungen unserer   Zahn<lb rend="shyphen"/>schmerzen wesentlich wie die<lb/> eines fremden Körpers   wahrnä<add rend="our">h</add><lb rend="shyphen"/>men.</s>
-          <s type="es">Dies ergäbe auch eine ganz<lb/> andere Koordination zwischen se<lb rend="shyphen"/>hendem <seg type="mark-ref" n="Ms-114,135r_Ms-114,25v" corresp="intRef#Ms-114#109"/>   Auge &amp; Gesichtsraum<lb/> als die uns selbstverständlich<lb/> erscheinende   alltägliche.</s>
+          <s type="es">Dies ergäbe auch eine ganz<lb/> andere Koordination zwischen se<lb rend="shyphen"/>hendem <seg type="mark-ref" n="Ms-114,135r_Ms-114,25v" ana="intRef,Ms-114,109"/>   Auge &amp; Gesichtsraum<lb/> als die uns selbstverständlich<lb/> erscheinende   alltägliche.</s>
           <s type="es">(Denke<lb/> an das Zeichnen eines Vierecks<lb/> mit seinen Diagonalen im   Spiegel.)</s>
           <lb/>
           <s type="es">Wenn wir uns aber so die M<corr type="trsn"><orig type="trsn1">o</orig><reg type="trsn2">ö</reg></corr>glichkeit<lb/> denken können, daß wir unsern <add rend="im">sichtbaren</add> Körper<lb/> nur als Bild in einem Spiegel kennten<lb rend="hl"/>   <pb facs="Ms-114_26r" rend="recto" n="pagename_Ms-114,26r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">26</add></fw> so ist einem auch denkbar daß<lb/> dieser   Spiegel wegfiele &amp; wir ihn<lb/> nicht anders sä<add rend="our">h</add>en   als irgend einen<lb/> andern menschlichen Körper.</s>
@@ -2036,7 +2038,7 @@
           <pb facs="Ms-114_31v" rend="verso" n="pagename_Ms-114,31v pageref_00"/>
           <s type="es">
             <emph rend="centered"><c type="k">U</c>marbeitung.</emph>
-            <seg type="int-ref" n="Ms-114,31v_Ms-140,1" corresp="intRef#Ms-114#111"><c type="c">Z</c>weite   Umarbeitung im großen Format</seg>
+            <seg type="int-ref" n="Ms-114,31v_Ms-140,1" ana="intRef,Ms-114,111"><c type="c">Z</c>weite   Umarbeitung im großen Format</seg>
           </s>
         </ab>
         <ab xml:id="Ms-114_31v.2" n="Ms-114,31v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19331231?" emph="blbef_1">
@@ -2673,7 +2675,7 @@
         <ab xml:id="Ms-114_41v.2" n="Ms-114,41v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19331231?" emph="blbef_1">
           <emph rend="vdline">
             <seg type="wabmarks-secml"/>
-            <seg type="mark-ref" n="Ts-213,22r_Ms-114,41v" corresp="intRef#Ts-213#26"/>
+            <seg type="mark-ref" n="Ts-213,22r_Ms-114,41v" ana="intRefTs-213,26"/>
             <s type="es">Etwas wissen <choice type="s"><orig type="alt1">ist damit zu vergleichen</orig><orig type="alt2"><add rend="i">kommt für unsere Zwecke auf das Gleiche hinaus wie</add></orig></choice>: <add rend="im">einen Zettel</add> in<lb/> meiner Tasche tragen, auf dem es   aufge<lb rend="shyphen"/>schrieben steht.</s>
           </emph>
         </ab>
@@ -2881,7 +2883,7 @@
           <emph rend="vdline">
             <seg type="wabmarks-secml"/>
             <del type="d">
-              <s type="es">Das Verständnis der Sprache – quasi des Spiels – <lb/>   scheint wie ein Hintergrun<choice type="o"><orig type="o1">g</orig><orig type="o2">d</orig></choice>, auf dem der<lb/> einzelne Satz erst Bedeutung gewinnt. <seg type="edcom">(siehe § 25)</seg><seg type="int-ref" n="Ms-114,43r_Ms-114,43v" corresp="intRef#Ms-114#110"/></s>
+              <s type="es">Das Verständnis der Sprache – quasi des Spiels – <lb/>   scheint wie ein Hintergrun<choice type="o"><orig type="o1">g</orig><orig type="o2">d</orig></choice>, auf dem der<lb/> einzelne Satz erst Bedeutung gewinnt. <seg type="edcom">(siehe § 25)</seg><seg type="int-ref" n="Ms-114,43r_Ms-114,43v" ana="intRef,Ms-114,110"/></s>
             </del>
           </emph>
         </ab>
@@ -2930,7 +2932,7 @@
         <ab xml:id="Ms-114_43v.2" n="Ms-114,43v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19331231?" emph="blbef_1">
           <emph rend="vdline">
             <seg type="wabmarks-secml"/>
-            <seg type="mark-ref" n="Ms-114,43r_Ms-114,43v" corresp="intRef#Ms-114#110"/>
+            <seg type="mark-ref" n="Ms-114,43r_Ms-114,43v" ana="intRef,Ms-114,110"/>
             <s type="es">Das Verständnis der Sprache – quasi des<lb/> Spiels –   scheint wie ein Hintergrund,<lb/> auf dem der einzelne Satz erst Be<lb rend="shyphen"/>deutung   gewinnt.</s>
           </emph>
         </ab>
@@ -3100,7 +3102,7 @@
           <seg type="wabmarks-secml"/>
           <emph rend="centered">
             <add rend="ib">
-              <seg type="int-ref" n="Ms-114,45r_Ms-140,14" corresp="intRef#Ms-114#14">
+              <seg type="int-ref" n="Ms-114,45r_Ms-140,14" ana="intRef,Ms-114,14">
                 <s type="es"><c type="k">F</c>ortsetzung von <abbr type="abb"><c type="k">S</c>.</abbr> 14 Großes Format</s>
               </seg>
             </add>
@@ -3516,7 +3518,7 @@
         <ab xml:id="Ms-114_50r.2" n="Ms-114,50r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect20_page:58_order:W-PG;2.58.1_date:19331001?-19331231?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
-            <seg type="mark-ref" n="Ts-219_Ms-114,50r" corresp="intRef#Ts-219#2"/>
+            <seg type="mark-ref" n="Ts-219_Ms-114,50r" ana="intRefTs-219,2"/>
             <s type="es">Wie <choice type="em"><orig type="em1"><add rend="im"><del type="d">mit</del><add rend="i">die</add> Handgriffe<del type="d">n</del></add> i<choice type="o"><orig type="o1">n</orig><orig type="o2">m</orig></choice>   <del type="d">dem</del>   <del type="d_h">Stellwerk</del>   <add rend="i_h">Führerstand</add> einer Lokomotive sehr<lb/> verschiedene <del type="d">Dinge ausgeführt werden</del>   <add rend="i">Arten der Betätigung haben</add>, so<lb/>   <del type="d">mit den</del>   <add rend="i">die</add> Wörter<del type="d">n</del></orig><orig type="em2"><choice type="dsl_h"><orig type="alt1">mit Handgriffen <choice type="dsl"><orig type="alt1">in dem</orig><orig type="alt2">im</orig></choice>    <del type="d_h">Stellwerk</del> einer Lokomotive sehr verschiedene Dinge    ausgeführt werden, so mit den Wörtern</orig><orig type="alt2">die Handgriffe im <add rend="i_h">Führerstand</add> einer    Lokomotive sehr verschiedene Arten der Betätigung haben, so die    Wörter</orig></choice></orig></choice> der Sprache, die in gewissem<lb/> Sinne Handgriffen <choice type="s"><orig type="alt1">entsprechen</orig><orig type="alt2"><add rend="i">gleichen</add></orig></choice>.</s>
             <s type="es"><choice type="dsl"><orig type="alt1"><del type="d">Ein Hand<lb rend="shyphen"/>griff etwa gehört zu</del></orig><orig type="alt2"><add rend="i"><c type="c">E</c>iner ist der Handgriff</add></orig></choice> einer Kurbel, <choice type="em"><orig type="em1"><del type="d">die</del><add rend="i">sie kann</add><lb/> kontinuierlich verstellt werden <del type="d">kann</del><lb/></orig><orig type="em2"><choice type="dsl"><orig type="alt1">die kontinuierlich verstellt werden kann</orig><orig type="alt2">sie kann kontinuierlich verstellt werden</orig></choice></orig></choice>, denn sie betätigt ein Ventil; ein <choice type="dsl"><orig type="alt1"><del type="d">Hand<lb rend="shyphen"/>griff</del></orig><orig type="alt2"><add rend="i">anderer</add></orig></choice>   <choice type="dsl"><orig type="alt1"><del type="d">betätigt</del></orig><orig type="alt2"><del type="d"><add rend="i">bewegt</add></del></orig><orig type="alt3"><add rend="i">betätigt</add></orig></choice> einen Schalte<add rend="our">r</add>, der <choice type="em"><orig type="em1">zwei<del type="d">er</del><lb/> Stellungen <del type="d">fähig   ist</del>   <add rend="i">hat</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">zweier Stellungen fähig ist</orig><orig type="alt2">zwei Stellungen hat</orig></choice></orig></choice>; ein dritter ist der<lb/> Handgriff einer Pumpe &amp; wirkt nur<lb/> wenn er   auf &amp; ab bewegt wird; <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
             <s type="es">Aber<lb/> alle sehen einander ähnlich, denn<lb/> sie werden mit der Hand   angefaßt.</s>
@@ -3584,14 +3586,14 @@
           <s type="es">Wie würde es<lb/> sich nun zeigen, daß das Pferdchen Schach<lb rend="shyphen"/>könig ist?</s>
           <s type="es">Kann ich hier nicht sehr gut<lb/> von einem Wechsel der Bedeutung   reden?</s>
           <lb/>
-          <seg type="mark-ref" n="Ms-14015r_Ms-114,51r" corresp="intRef#Ms-114#24:2"/>
+          <seg type="mark-ref" n="Ms-14015r_Ms-114,51r" ana="intRef,Ms-114,24-2"/>
           <emph rend="sepline"/>
         </ab>
         <ab xml:id="Ms-114_51r.4et51v.1" n="Ms-114,51r[4]et51v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19331231?" emph="blbef_1">
           <emph rend="vdline">
             <seg type="wabmarks-secml"/>
             <seg type="edcom">
-              <seg type="int-ref" n="Ms-114,51r, Ms-140,15" corresp="intRef#Ms-114#24:1">
+              <seg type="int-ref" n="Ms-114,51r, Ms-140,15" ana="intRef,Ms-114,24-1">
                 <emph rend="right">
                   <s type="es"><c type="k">F</c>ortsetzung <abbr type="abb"><c type="k">S</c>.</abbr> 15 Großes Format</s>
                 </emph>
@@ -4142,7 +4144,7 @@
           <seg type="publ">
             <emph rend="right">
               <add rend="i">
-                <seg type="int-ref" n="Ms-114, 59r_Ms-140,39" corresp="intRef#Ms-114#36">
+                <seg type="int-ref" n="Ms-114, 59r_Ms-140,39" ana="intRef,Ms-114,36">
                   <seg type="edcom">
                     <s type="es">[Bis hierher <abbr type="abb">M<corr type="trsn"><orig type="trsn1">.S</orig><reg type="trsn2">s</reg></corr>.</abbr> großes Format <abbr type="abb">S.</abbr>    39]</s>
                   </seg>
@@ -4342,7 +4344,7 @@
               <del type="d">
                 <emph rend="centered">
                   <seg type="edcom"><c type="c">Z</c>u <abbr type="abb">S.</abbr> 73</seg>
-                  <seg type="int-ref" n="Ms-114,62r_Ms-114,67v" corresp="intRef#Ms-114#39"/>
+                  <seg type="int-ref" n="Ms-114,62r_Ms-114,67v" ana="intRef,Ms-114,39"/>
                 </emph>
               </del>
             </add>
@@ -4629,7 +4631,7 @@
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <emph rend="bl_1"/>
-            <seg type="mark-ref" n="Ms-114,62r_Ms-114,67v" corresp="intRef#Ms-114#39"/>
+            <seg type="mark-ref" n="Ms-114,62r_Ms-114,67v" ana="intRef,Ms-114,39"/>
             <del type="d">
               <emph rend="centered">
                 <seg type="edcom">
@@ -5784,7 +5786,7 @@
         <ab xml:id="Ms-114_85r.3et85v.1" n="Ms-114,85r[3]et85v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect77_page:121_order:W-PG;6.121.3_date:19331001?-19331231?" emph="blbef_3">
           <seg type="wabmarks-secml">∕∕ / </seg>
           <seg type="publ">
-            <seg type="mark-ref" n="Ts-239,_Ms-114,85r" corresp="intRef#Ts-239#2"/>
+            <seg type="mark-ref" n="Ts-239,_Ms-114,85r" ana="intRefTs-239,2"/>
             <s type="es" rend="indl_4">Die Philosophie der Logik redet in kei<lb rend="shyphen"/>nem andern   Sinn von Sätzen <add rend="im">&amp; Wörtern</add>, als wir es   im<lb/> gewöhnlichen Leben tun, wenn wir sagen<lb/>   <seg type="q">“hier steht ein <add rend="im">chinesischer</add> Satz   aufgeschrieben”</seg>, oder<lb/>   <seg type="q">“nein, das sieht nur aus wie    <choice type="em"><orig type="em1"><del type="d">ein Satz</del>, <add rend="i"><add rend="el">ein</add><del type="d">W<choice type="o"><orig type="o1">ö</orig><orig type="o2">o</orig></choice>rt<del type="d">er</del> ein</del> Schriftzeichen</add>, ist<lb/> aber <del type="d">keiner</del>” <add rend="im"><del type="d">sondern</del> ein    Ornament”</add>,</orig><orig type="em2"><choice type="dsl"><orig type="alt1">ein Satz, ist aber keiner<choice type="dsl"><orig type="alt1">”</orig><orig type="alt2"><add rend="el">,</add> sondern ein Ornament”</orig></choice></orig><orig type="alt2"><choice type="dsl"><orig type="alt1"><choice type="dsl"><orig type="alt1">Wörter</orig><orig type="alt2"><add rend="el">ein</add> Wort</orig></choice></orig><orig type="alt2">ein Schriftzeichen</orig></choice>, ist<lb/> aber ein Ornament”</orig></choice></orig></choice></seg>, <abbr type="abb">etc.</abbr>   <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
             <s type="es" rend="indl_6">Wir reden von dem räumlichen &amp; zeit<lb rend="shyphen"/>lichen Phänomen der Sprache, nicht von einem<lb/>   unräumlichen &amp; unzeitlichen Unding.</s>
             <s type="es">Aber<lb/> wir reden von ihr so, wie von den Figuren des Schach<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">spiels,</corr>   <pb facs="Ms-114_85v" rend="verso" n="pagename_Ms-114,85v pageref_00"/><fw type="pagen" place="top middle">109</fw><corr type="npcn-pb">spiels,</corr> <choice type="s"><orig type="alt1">indem wir Regeln für ihren Gebrauch<lb/> angeben</orig><orig type="alt2"><seg type="edinst"> // </seg> indem wir Spielregeln für sie an<lb rend="shyphen"/>geben<seg type="edinst"> // </seg></orig></choice>, nicht ihre physikalischen Eigen<lb rend="shyphen"/>schaften   beschreiben.</s>
@@ -5803,7 +5805,7 @@
               </emph>
               <s type="es" rend="indl_4">Wir können leicht, beim Nachdenken<lb/> über <del type="d">die</del> Sprache &amp; Bedeutung, dahin kommen<lb/><choice type="dsf"><orig type="alt1">zu</orig><orig type="alt2"><del type="d"><add rend="i">, daß wir</add></del></orig></choice> denken, <choice type="em"><orig type="em1">wir <add rend="i">man</add> redeten <del type="d"><add rend="i">dürften</add></del>   <add rend="i">redete</add>   <del type="d"/>   <add rend="im">in der Philosophie</add> eigentlich nicht <del type="dnpc"><add rend="i">eigentlich nicht</add></del><lb/> von Wörtern &amp; Sätzen im ganz hausbackenen<lb/>   Sinn, <del type="d"><add rend="i">oder,</add></del></orig><orig type="em2"><choice type="s"><orig type="alt1">wir <choice type="dsf"><orig type="alt1">redeten in der Philosophie eigentlich nicht von Wörtern    &amp; Sätzen im ganz hausbackenen Sinn,</orig><orig type="alt2">dürften in der Philosophie <del type="dnpc">eigentlich     nicht</del> eigentlich nicht von Wörtern &amp; Sätzen im ganz    hausbackenen Sinn reden,</orig></choice></orig><orig type="alt2">man redete in der Philosophie eigentlich nicht von Wörtern    &amp; Sätzen im ganz hausbackenen Sinn,</orig></choice></orig></choice> sondern in einem sublimierten, ab<lb rend="shyphen"/>strakten Sinn.</s>
               <s type="es"><add rend="el">–</add> So als wäre ein bestimmter<lb/> Satz   nicht eigentlich <add rend="our">da</add>s, was irgend ein<lb/> Mensch ausspricht, sondern ein   Ideal<lb rend="shyphen"/>wesen (die <seg type="q">“Klasse aller   gleichbedeutenden<lb/> Sätze”</seg>, oder   dergleichen).</s>
-              <s type="es">Aber ist auch der<lb/> Schachkönig von dem die Schachregeln han<lb rend="shyphen"/>deln ein solches Idealding, ein abstrak<lb rend="shyphen"/>tes   Wesen? <add rend="el"><reloc type="fetch-opt" n="Ms-115,49_Ms-114,85v" corresp="relocOpt#Ms-114:68"/><seg type="edcom"> [Dazu der Satz <seg type="q">‘Spinnennetz     …’</seg>]</seg><seg type="int-ref" n="Ms-114,85v_Ms-115,49" corresp="intRef#relocOpt#Ms-114:69"> [<seg type="q">“Hier ist es schwer den<lb/> Kopf  …”</seg>]</seg></add></s>
+              <s type="es">Aber ist auch der<lb/> Schachkönig von dem die Schachregeln han<lb rend="shyphen"/>deln ein solches Idealding, ein abstrak<lb rend="shyphen"/>tes   Wesen? <add rend="el"><reloc type="fetch-opt" n="Ms-115,49_Ms-114,85v" corresp="relocOpt#Ms-114:68"/><seg type="edcom"> [Dazu der Satz <seg type="q">‘Spinnennetz     …’</seg>]</seg><seg type="int-ref" n="Ms-114,85v_Ms-115,49" ana="intRef,relocOpt#Ms-114-69"> [<seg type="q">“Hier ist es schwer den<lb/> Kopf  …”</seg>]</seg></add></s>
             </reloc>
             <lb rend="hl"/>
             <s type="es">
@@ -8749,7 +8751,7 @@
             <s type="es">Und es heißt<lb/> auch etwas <seg type="q">“in den Seiten   eines Bu<lb rend="shyphen"/>ches leben”</seg>.</s>
             <s type="es"><del type="d">(</del>Das hängt damit zusam<lb rend="shyphen"/>men,   daß <choice type="em"><orig type="em1"><del type="d"><add rend="im">das Dasein</add></del> unser<del type="d"><add rend="el">es</add></del> Körper<del type="d"><add rend="el">s</add></del> für das Dasein<lb/> unserer Erfahrung</orig><orig type="em2"><choice type="dsl"><orig type="alt1">unser Körper</orig><orig type="alt2">das Dasein unser<add rend="el">es</add> Körper<add rend="el">s</add></orig><orig type="alt3">unser Körper für das Dasein unserer Erfahrung</orig></choice></orig></choice> ganz unwesentlich<lb/> ist.</s>
             <seg type="edcom">
-              <seg type="int-ref" n="Ms-114,135r_Ms-114,25v" corresp="intRef#Ms-114#109">
+              <seg type="int-ref" n="Ms-114,135r_Ms-114,25v" ana="intRef,Ms-114,109">
                 <s type="es">(Siehe: Auge &amp; Gesichtsraum.)</s>
               </seg>
               <lb rend="hl"/>
@@ -9295,7 +9297,7 @@
               <s type="es">Denn die Beziehung die wir zu einem gemalten<lb/> Tisch haben hat zwar historisch   ihren Ursprung<lb/> in unserer Beziehung zu wirklichen Tischen, aber<lb/> diese tritt in jene    nicht ein.</s>
               <note type="editor">Continuation in Ms-115,1.</note>
             </reloc>
-            <seg type="mark-ref" n="Ms-115,V_Ms-114,145r" corresp="intRef#Ms-115#1"/>
+            <seg type="mark-ref" n="Ms-115,V_Ms-114,145r" ana="intRef,Ms-115,1"/>
             <pb facs="Ms-114_V" rend="verso" n="pagename_Ms-114,V pageref_00"/>
             <pb facs="Ms-114_BCr" rend="verso" n="pagename_Ms-114,BCr pageref_00"/>
             <pb facs="Ms-114_BCv" rend="verso" n="pagename_Ms-114,BCv pageref_00"/>

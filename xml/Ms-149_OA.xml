@@ -58,10 +58,12 @@
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ms-149_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-149_n</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-149_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-149_f</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
@@ -639,7 +641,7 @@
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <reloc type="fetch-opt" n="Ms-149,3v_Ms-149,3v" corresp="relocOpt#Ms-149:1"/>
-            <s type="es" rend="indl_4">It reminds <add rend="im">one misleadingly</add> of: “as soon as even  <pb facs="Ms-149_4r" n="pagename_Ms-149,4r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">4 </add></fw>  he had learnt enough of their language<lb/> the stranger informed his hosts of    …<corr type="tra">”</corr> <seg type="int-ref" n="Ms-149,3v_Ms-149,4r" corresp="intRef#Ms-149#2"/><seg type="edinst"><emph rend="startarrforward"/></seg></s>
+            <s type="es" rend="indl_4">It reminds <add rend="im">one misleadingly</add> of: “as soon as even  <pb facs="Ms-149_4r" n="pagename_Ms-149,4r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd">4 </add></fw>  he had learnt enough of their language<lb/> the stranger informed his hosts of    …<corr type="tra">”</corr> <seg type="int-ref" n="Ms-149,3v_Ms-149,4r" ana="intRef,Ms-149#2"/><seg type="edinst"><emph rend="startarrforward"/></seg></s>
           </seg>
         </ab>
         <ab xml:id="Ms-149_4r.2" n="Ms-149,4r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
@@ -669,7 +671,7 @@
         <ab xml:id="Ms-149_4r.5" n="Ms-149,4r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19350601?-19360531?" emph="blbef_1" xml:lang="en">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
-            <s type="es" rend="indl_8"><seg type="mark-ref" n="Ms-149,3v_Ms-149,4r" corresp="intRef#Ms-149#2"/><seg type="edinst"><emph rend="endarrforward"/></seg><c type="c">T</c>his hangs  together with the<lb/> idea that the child remembers<lb/> before it  sa<corr type="trsn"><orig type="trsn1">i</orig><reg type="trsn2">y</reg></corr>s it does.</s>
+            <s type="es" rend="indl_8"><seg type="mark-ref" n="Ms-149,3v_Ms-149,4r" ana="intRef,Ms-149,2"/><seg type="edinst"><emph rend="endarrforward"/></seg><c type="c">T</c>his hangs  together with the<lb/> idea that the child remembers<lb/> before it  sa<corr type="trsn"><orig type="trsn1">i</orig><reg type="trsn2">y</reg></corr>s it does.</s>
             <s type="es" rend="indl_6">Consider the case of the child<lb/> <choice type="s"><orig type="alt1">drawing</orig><orig type="alt2"><add rend="i">painting</add></orig></choice> its  memories.</s>
             <s type="es" rend="indl_8">It has painted a blue light<lb/> instead of a red one.</s>
             <lb rend="hl"/>

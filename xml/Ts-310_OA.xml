@@ -50,15 +50,18 @@
           <resp>1990-: the rendering of graphics makes use of Michael Biggs: "Ludwig Wittgenstein: A Visual Concordance to the Published Works", Minerva Vol. 2 (1998) [http://www.minerva.mic.ul.ie/vol2/Ver_33/index.htm], as well as work by Hans Biesenbach.</resp>
         </respStmt>
         <respStmt>
+          <name>Alois Pichler</name>
           <resp>NB: Though this specific document is     of later date, the text is dated with the date of its original dictation.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ts-310_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-310_n</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-310_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-310_f</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>

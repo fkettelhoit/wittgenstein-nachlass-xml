@@ -50,10 +50,12 @@
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ms-156a_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-156a_n</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-156a_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-156a_f</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
@@ -888,7 +890,7 @@
           <seg type="wabmarks-secml"/>
           <seg type="edcom">
             <s type="es">
-              <seg type="int-ref" n="Ms-156a,24r_Ts-213,7r" corresp="intRef#Ms-156a#2">[<c type="c">Z</c>u Seite  7/1]</seg>
+              <seg type="int-ref" n="Ms-156a,24r_Ts-213,7r" ana="intRef,Ms-156a#2">[<c type="c">Z</c>u Seite  7/1]</seg>
             </s>
           </seg>
           <s type="es"><choice type="s"><orig type="alt1">Es ist <emph rend="uw1">doch klar</emph></orig><orig type="alt2"><add rend="i"><c type="c">E</c>s ist ja  selbstverständ<lb rend="shyphen"/>lich</add></orig></choice> daß der Satz<lb/> einer deutschen oder<lb/> englischen  Erzählung<lb/> Wort für Wort andere<lb/> Reaktionen in mir her<lb rend="shyphen"/>vorruft als ein   solcher<lb/> Satz <choice type="s"><orig type="alt1">in einer chinesi<lb rend="shyphen"/>schen Erzählung</orig><orig type="alt2"><add rend="i">im  Chinesischen</add></orig></choice> der nicht viel an<lb rend="shyphen"/>ders auf mich wirkt<lb/> als ein  beliebiges <pb facs="Ms-156a_25r" rend="recto" n="pagename_Ms-156a,25r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd">25</add></fw> Muster von Strichen.</s>

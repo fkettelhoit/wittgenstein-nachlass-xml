@@ -46,10 +46,12 @@
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ts-212_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-212_n</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-212_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-212_f</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
@@ -9492,7 +9494,7 @@
             <s type="es">Also gehört diese Methode der Konstruktion noch zum Begriff der<lb/>  Sprache.</s>
             <s type="es">Aber nur, wenn ich ihn so festlege.</s>
             <lb/>
-            <seg type="mark-ref" n="Ts-212,215[3]_Ts-212,215[2]" corresp="intRef#Ts-212#1"/>
+            <seg type="mark-ref" n="Ts-212,215[3]_Ts-212,215[2]" ana="intRefTs-212,1"/>
           </ab>
           <ab xml:id="Ts-212_215.2" n="Ts-212,215[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?" emph="blbef_1">
             <seg type="212series-number-indent_h">76</seg>
@@ -9510,7 +9512,7 @@
           <ab xml:id="Ts-212_216.1" n="Ts-212,216[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?" emph="blbef_0">
             <pb facs="Ts-212_III-15-16" n="pagename_Ts-212,III-15-16 pageref_00"/>
             <fw type="fragpagen" place="top middle">248 </fw>
-            <seg type="212series-number-indent_h">59, 50, 76 <add rend="i_h"><seg type="int-ref" n="Ts-212,215[3]_Ts-212,215[2]" corresp="intRef#Ts-212#1"/><seg type="edcom">siehe <abbr type="abb">S.</abbr>  247</seg></add></seg>
+            <seg type="212series-number-indent_h">59, 50, 76 <add rend="i_h"><seg type="int-ref" n="Ts-212,215[3]_Ts-212,215[2]" ana="intRef,Ts-212#1"/><seg type="edcom">siehe <abbr type="abb">S.</abbr>  247</seg></add></seg>
             <seg type="212series-number-indent_h">4</seg>
             <seg type="wabmarks-secmr">✓ </seg>
             <s type="es" rend="indl_18">Was nenne ich “Handlung”, was  “Sinneswahrnehmung”?</s>
@@ -11827,7 +11829,7 @@
             <seg type="subhead" n="vw212:c35" rend="empty">
               <add rend="i_h">
                 <emph rend="centered">
-                  <seg n="Ts-212,403[1]_Ts-212,392[1]" type="mark-ref" corresp="intRef#Ts-212#c35"/>
+                  <seg n="Ts-212,403[1]_Ts-212,392[1]" type="mark-ref" ana="intRefTs-212,c35"/>
                   <s type="es"><c type="k">W</c>esen der Hypothese</s>
                 </emph>
               </add>
@@ -11976,7 +11978,7 @@
             <seg type="212series-number-indent_h">3</seg>
             <s type="es" rend="indl_22">
               <add rend="i_h">
-                <seg type="edcom">[Zu  „<seg n="Ts-212,403[1]_Ts-212,392[1]" type="int-ref" corresp="intRef#Ts-212#c35">Hypothese</seg>”]</seg>
+                <seg type="edcom">[Zu  „<seg n="Ts-212,403[1]_Ts-212,392[1]" type="int-ref" ana="intRef,Ts-212#c35">Hypothese</seg>”]</seg>
               </add>
             </s>
             <s type="es">Der Vorgang einer Erkenntnis in einer wissenschaftli<lb rend="shyphen"/>chen  Untersuchung (in der Experimentalphysik etwa) ist freilich nicht  der<lb/> einer Erkenntnis im Leben au<corr type="trsn"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>erhalb <choice type="em"><orig type="em1">dem  <add rend="i">des</add> <seg type="notation" subtype="logic_symbolic name" rend="literal">Laboratorium<add rend="i">s</add></seg></orig><orig type="em2"><corr type="npc">dem Laboratorium</corr> des  Laboratoriums</orig></choice>; aber er ist ein<lb/> <emph rend="space">ähnlicher</emph> und kann,  neben den andern <choice type="s"><orig type="alt1">gestellt</orig><orig type="alt2"><seg type="edinst"> // </seg>gehalten<seg type="edinst"> // </seg></orig></choice>,  diesen<lb/> beleuchten.</s>
@@ -12736,7 +12738,7 @@
           <ab xml:id="Ts-212_450.1" n="Ts-212,450[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?" emph="blbef_1">
             <pb facs="Ts-212_IV-35-2" n="pagename_Ts-212,IV-35-2 pageref_00"/>
             <fw type="fragpagen" place="top left" n="oldref_599-1">
-              <seg n="Ts-212,449[3]_Ts-211,8[4]" type="int-ref" corresp="intRef#Ts-212#3">
+              <seg n="Ts-212,449[3]_Ts-211,8[4]" type="int-ref" ana="intRef,Ts-212#3">
                 <add rend="i_h">S.  8</add>
               </seg>
             </fw>
@@ -12753,7 +12755,7 @@
             <seg type="wabmarks-secmr">\ </seg>
             <add rend="iupm_h">
               <corr type="npc">
-                <seg n="Ts-212,451[1]_Ts-211,8[4]" type="int-ref" corresp="intRef#Ts-212#3">8.</seg>
+                <seg n="Ts-212,451[1]_Ts-211,8[4]" type="int-ref" ana="intRef,Ts-212#3">8.</seg>
                 <s type="es">
                   <emph rend="uw1_h">Die Be<add rend="our_h">d</add>eutung eines Wortes Verstehen heißt es  anwenden können<corr type="tra">.</corr></emph>
                 </s>
@@ -15192,7 +15194,7 @@
             <seg type="212series-number-indent_h">77b</seg>
             <seg type="wabmarks-secmr"><del type="d">\ </del>  \ / </seg>
             <emph rend="indl_12"/>
-            <seg n="Ts-212,607[1]_Ts-212,606[1]" type="mark-ref" corresp="intRef#Ts-212#2"/>
+            <seg n="Ts-212,607[1]_Ts-212,606[1]" type="mark-ref" ana="intRefTs-212,2"/>
             <s type="es">Das Aussprechen eines Satzes wäre kein Porträtieren, wenn ich meine  Wor<lb rend="shyphen"/>te nicht aus einem System wählte, so da<corr type="trsn"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> man  sagen kann, ich wähle <emph rend="space">sie</emph> im Gegensatz zu anderen.</s>
             <add rend="el_h">
               <del type="d_h">
@@ -15212,7 +15214,7 @@
             <seg type="wabmarks-secmr">\ </seg>
             <add rend="i_h">
               <s type="es" rend="indl_12">
-                <seg n="Ts-212,607[1]_Ts-212,606[1]" type="int-ref" corresp="intRef#Ts-212#2">Zu [wählen der Worte, um zu porträtieren]</seg>
+                <seg n="Ts-212,607[1]_Ts-212,606[1]" type="int-ref" ana="intRef,Ts-212#2">Zu [wählen der Worte, um zu porträtieren]</seg>
               </s>
             </add>
             <s type="es" rend="indl_12">Warum wir ein Wort – und nicht ein anderes – an dieser Stelle  gebrauchen, erfahren wir, wenn wir jemand fragen: warum gebrauchst Du  hier das Wort <seg type="notation" subtype="logic_symbolic name" rend="literal">A</seg>.</s>
@@ -23111,7 +23113,7 @@
             <s type="es" rend="indl_20">Was der <choice type="em"><orig type="em1">And<del type="d">e</del>re</orig><orig type="em2"><choice type="dsl"><orig type="alt1">Andere</orig><orig type="alt2">Andre</orig></choice></orig></choice> anerkennt,  ist die Analogie die ich ihm darbiete, als Quelle seines Gedankens.</s>
             <add rend="el_h">
               <s type="es">
-                <seg n="Ts-212,1120[1]_Ts-211,265[2]" type="int-ref" corresp="intRef#Ts-212#??"><abbr type="abb"><c type="c">s</c>.</abbr><abbr type="abb">S.</abbr>  265/2</seg>
+                <seg n="Ts-212,1120[1]_Ts-211,265[2]" type="int-ref" ana="intRef,Ts-212#??"><abbr type="abb"><c type="c">s</c>.</abbr><abbr type="abb">S.</abbr>  265/2</seg>
               </s>
             </add>
             <pb facs="Ts-212_XII-87BCv" n="pagename_Ts-212,XII-87BCv pageref_00"/>
@@ -24686,7 +24688,7 @@
             </fw>
             <seg type="212series-number-indent_h">59, 34</seg>
             <seg type="212series-number-indent_h">1</seg>
-            <seg n="Ts-212,1298[1]_Ts-212,1238[1]" type="mark-ref" corresp="intRef#Ts-212#240-1"/>
+            <seg n="Ts-212,1298[1]_Ts-212,1238[1]" type="mark-ref" ana="intRefTs-212,240-1"/>
             <rs type="extref" key="Heraklit: [writings]">
               <s type="es" rend="indl_20">Die Verschwommenheit, Unbestimmtheit unserer Sinneseindrücke ist nicht  etwas, dem sich abhelfen lä<corr type="trsn"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>t, eine Verschwommenheit,  der auch völlige Schärfe entspricht (oder entgegensteht).</s>
               <s type="es">Vielmehr ist diese allgemeine Unbestimmtheit, Ungreifbarkeit, dieses  Schwimmen der Sinneseindrücke, das, was mit dem Worte “alles  flie<corr type="trsn"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>t” bezeichnet worden ist.</s>
@@ -24915,7 +24917,7 @@
             <seg type="212series-number-indent_h">2</seg>
             <seg type="wabmarks-secmr">✓ </seg>
             <emph rend="indl_20"/>
-            <seg n="Ts-212,1257[1]_Ts-212,1256[1]" type="mark-ref" corresp="intRef#Ts-212#216-2"/>
+            <seg n="Ts-212,1257[1]_Ts-212,1256[1]" type="mark-ref" ana="intRefTs-212,216-2"/>
             <s type="es">Im Gesichtsraum gibt es absolute Lage und daher auch absolute  Bewegung.</s>
             <s type="es">Man denke sich das Bild zweier Sterne in stockfinsterer Nacht, in der ich  nichts <del type="d">anderes</del> sehen kann als diese, und diese bewegen sich im Kreise  umeinander.</s>
           </ab>
@@ -24935,7 +24937,7 @@
           </ab>
           <ab xml:id="Ts-212_1257.2" n="Ts-212,1257[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?" emph="blbef_1">
             <seg type="wabmarks-secml"/>
-            <seg n="Ts-212,1257[1]_Ts-212,1256[1]" type="int-ref" corresp="intRef#Ts-212#216-2">
+            <seg n="Ts-212,1257[1]_Ts-212,1256[1]" type="int-ref" ana="intRef,Ts-212#216-2">
               <add rend="el_h">
                 <seg type="edcom">⋎</seg>
               </add>
@@ -25349,7 +25351,7 @@
           <ab xml:id="Ts-212_1283.2" n="Ts-212,1283[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?" emph="blbef_1">
             <seg type="wabmarks-secml"/>
             <seg type="212series-number-indent_h">92</seg>
-            <seg n="Ts-212,1284[1]_Ts-212,1283[2]" type="int-ref" corresp="intRef#Ts-212#230-2">
+            <seg n="Ts-212,1284[1]_Ts-212,1283[2]" type="int-ref" ana="intRef,Ts-212#230-2">
               <add rend="el_h">
                 <seg type="edcom">⋎</seg>
               </add>
@@ -25362,7 +25364,7 @@
             <fw type="fragpagen" place="top left" n="oldref_230-2">
               <add rend="i_h">126'</add>
             </fw>
-            <seg n="Ts-212,1284[1]_Ts-212,1283[2]" type="mark-ref" corresp="intRef#Ts-212#230-2"/>
+            <seg n="Ts-212,1284[1]_Ts-212,1283[2]" type="mark-ref" ana="intRefTs-212,230-2"/>
             <seg type="212series-number-indent_h">92</seg>
             <seg type="212series-number-indent_h">3</seg>
             <seg type="wabmarks-secmr">\ </seg>
@@ -25681,8 +25683,8 @@
               <s type="es">Was wir hier betrachten, ist eigentlich die Möglichkeit der  Bewegung.</s>
               <s type="es">Also die logische Form der Bewegung.</s>
             </del>
-            <seg n="Ts-212,1298[1]_Ts-212,1238[1]" type="int-ref" corresp="intRef#Ts-212#240-1">
-              <rs type="extref" key="Heraklit: [writings]">
+            <seg n="Ts-212,1298[1]_Ts-212,1238[1]" type="int-ref" ana="intRef,Ts-212#240-1">
+              <rs type="extref" key="Heraklit- [writings]">
                 <s type="es">
                   <add rend="i_h">
                     <seg type="edcom">[Dies gehört, glaube ich, zu „alles  fließt”<del type="dnpc">]</del> &amp; „nur die gegenwärtige  Erfahrung hat Realität”]</seg>
@@ -31462,7 +31464,7 @@
             <seg type="wabmarks-secml"/>
             <pb facs="Ts-212_XVIII-132-1" n="pagename_Ts-212,XVIII-132-1 pageref_00"/>
             <fw type="fragpagen" place="top middle" n="oldref_877-2"> </fw>
-            <seg type="int-ref" n="Ms-0_Ms-0" corresp="intRef#Ts-212#4"/>
+            <seg type="int-ref" n="Ms-0_Ms-0" ana="intRef,Ts-212#4"/>
             <s type="es" rend="indl_20">Von dem Zeichen “<seg type="notation" subtype="maths_arithmetic, expansion" rend="literal">0<corr type="trs"><orig type="trs1">,</orig><reg type="trs2">˙</reg></corr><emph rend="dotover">3</emph></seg>” kann man       sagen: <emph rend="space">es ist keine Abkürzung</emph>.</s>
           </ab>
           <ab xml:id="Ts-212_1707.1et1708.1" n="Ts-212,1707[1]et1708[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?" emph="blbef_1">
@@ -31485,7 +31487,7 @@
           </ab>
           <ab xml:id="Ts-212_1708.3et1709.1" n="Ts-212,1708[3]et1709[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?" emph="blbef_1">
             <seg type="wabmarks-secml"/>
-            <seg type="mark-ref" n="000" corresp="intRef#Ts-212#4"/>
+            <seg type="mark-ref" n="000" ana="intRefTs-212,4"/>
             <s type="es" rend="indl_20">Und das Zeichen  “<seg type="notation" subtype="maths_sequence" rend="literal"><corr type="trs"><orig type="trs1">/</orig><reg type="trs2">[</reg></corr>0<corr type="trs"><orig type="trs1">,</orig><reg type="trs2">˙</reg></corr>3, 0,<corr type="trs"><orig type="trs1">x</orig><reg type="trs2">ξ</reg></corr>,  0,<corr type="trs"><orig type="trs1">x</orig><reg type="trs2">ξ</reg></corr>3<corr type="trs"><orig type="trs1">/</orig><reg type="trs2">]</reg></corr></seg>” ist kein Ersatz für eine Extension, sondern  das vollwertige Zeichen selbst; und ebensogut ist  “<seg type="notation" subtype="maths_arithmetic, series expansion" rend="literal">0<corr type="trs"><orig type="trs1">,</orig><reg type="trs2">˙</reg></corr><emph rend="dotover">3</emph></seg>”.</s>
             <s type="es">Es sollte uns doch zu denken geben, da<corr type="trsn"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> ein Zeichen  der Art “<seg type="notation" subtype="maths_series expansion" rend="literal">0<corr type="trs"><orig type="trs1">,</orig><reg type="trs2">˙</reg></corr><emph rend="dotover">3</emph></seg>”  <emph rend="space">genügt</emph>, um damit zu machen, was wir brauchen.</s>
             <s type="es">Es ist kein Ersatz, und im Kalkül gibt es keinen Ersatz.</s>
@@ -32950,7 +32952,7 @@
             <fw type="fragpagen" place="top left" n="oldref_941-1">
               <add rend="i_h">29</add>
             </fw>
-            <seg type="int-ref" n="Ms-0_Ms-0" corresp="intRef#Ts-212#5"/>
+            <seg type="int-ref" n="Ms-0_Ms-0" ana="intRef,Ts-212#5"/>
             <s type="es" rend="indl_20">Ein Schnitt ist ein <emph rend="space">Prinzip</emph> der Teilung in   grö<corr type="trsn"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>er und kleiner.</s>
           </ab>
           <ab xml:id="Ts-212_1824.1" n="Ts-212,1824[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?" emph="blbef_1">
@@ -33027,7 +33029,7 @@
             <seg type="wabmarks-secml"/>
             <s type="es" rend="indl_20">Der “Schnitt in einem irrationalen Punkt” ist ein Bild,  und ein irre<lb rend="shyphen"/>führendes Bild.</s>
             <emph rend="bl_1"/>
-            <seg type="mark-ref" n="Ms-0_Ms-0" corresp="intRef#Ts-212#5"/>
+            <seg type="mark-ref" n="Ms-0_Ms-0" ana="intRefTs-212,5"/>
           </ab>
           <ab xml:id="Ts-212_1827.4" n="Ts-212,1827[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?" emph="blbef_1">
             <seg type="wabmarks-secml"/>

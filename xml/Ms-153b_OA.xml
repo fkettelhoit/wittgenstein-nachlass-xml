@@ -50,10 +50,12 @@
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ms-153b_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-153b_n</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-153b_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-153b_f</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
@@ -471,7 +473,7 @@
         </ab>
         <ab xml:id="Ms-153b_FCv.3et1r.1" n="Ms-153b,FCv[3]et1r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311101?-19320430?" emph="blbef_1">
           <seg type="wabmarks-secml">/ </seg>
-          <s type="es"><seg n="Ms-153a,BCr_Ms-153b,FCv" type="mark-ref" corresp="intRef#Ms-153a#3"/><note type="editor">Continuation from Ms-153a,BCr.</note><corr type="tra"> …</corr>          denn die Tabelle <lb/>zwingt mich nicht<lb/>  ihn zu machen<corr type="tra">.</corr></s>
+          <s type="es"><seg n="Ms-153a,BCr_Ms-153b,FCv" type="mark-ref" ana="intRef,Ms-153a,3"/><note type="editor">Continuation from Ms-153a,BCr.</note><corr type="tra"> …</corr>          denn die Tabelle <lb/>zwingt mich nicht<lb/>  ihn zu machen<corr type="tra">.</corr></s>
           <lb/>
           <s type="es">Ich mache ihn <unclear>bei</unclear><lb/> jeder Anwendung <lb/>immer von  neuem<corr type="tra">.</corr></s>
           <lb/>

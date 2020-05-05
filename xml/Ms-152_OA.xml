@@ -50,10 +50,12 @@
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ms-152_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-152_n</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-152_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-152_f</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
@@ -1339,7 +1341,7 @@
             </choice>
           </s>
           <add rend="i">
-            <seg type="int-ref" n="Ms-152,37_Ms-115,253" corresp="intRef#Ms-152#1">(siehe <abbr type="abb">S.</abbr>  <choice type="o"><orig type="o1">1</orig><orig type="o2">2</orig></choice>53)</seg>
+            <seg type="int-ref" n="Ms-152,37_Ms-115,253" ana="intRef,Ms-152#1">(siehe <abbr type="abb">S.</abbr>  <choice type="o"><orig type="o1">1</orig><orig type="o2">2</orig></choice>53)</seg>
           </add>
         </ab>
         <ab xml:id="Ms-152_38.2" n="Ms-152,38[2]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_2" xml:lang="de">

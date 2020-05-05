@@ -50,10 +50,12 @@
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ms-153a_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-153a_n</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-153a_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-153a_f</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
@@ -4115,7 +4117,7 @@
         <ab xml:id="Ms-153a_141r.4" n="Ms-153a,141r[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311101?-19311130?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
           <s type="es" rend="indl_2">
-            <seg n="Ms-153a,141r_Ms-0,0" type="int-ref" corresp="intRef#Ms-153a#1">
+            <seg n="Ms-153a,141r_Ms-0,0" type="int-ref" ana="intRef,Ms-153a#1">
               <seg type="edcom"> ˃  schwarzes  <abbr corresp="Notizbuch">Notizb.</abbr> letzte Seite</seg>
             </seg>
           </s>
@@ -4514,7 +4516,7 @@
           <s type="es">Die einzig würdevolle<lb/> Aufgabe der Philosophie<lb/> ist: den alten Götzen<lb/>  (<emph rend="uw1">der</emph>) <choice type="s"><orig type="alt1">Ultraphysik</orig><orig type="alt2"><add rend="i">Philosophie</add></orig></choice> zu<lb/>  zerstören.</s>
           <s type="es"><choice type="em"><orig type="em1">(<add rend="im">D.h.</add> <choice type="o"><orig type="o1">I</orig><orig type="o2">i</orig></choice>hre</orig><orig type="em2"><choice type="dsl"><orig type="alt1">(<c type="c">I</c>hre</orig><orig type="alt2">(<add rend="im"><c type="c">D</c>.h.</add>  ihre</orig></choice></orig></choice> einzige<lb/> Verbindung mit         <pb facs="Ms-153a_164v" n="pagename_Ms-153a,164v pageref_00"/>   <choice type="dsl"><orig type="alt1"><emph rend="uw1"><del type="dnpc">Götzen</del></emph></orig><orig type="alt2"><del type="d"><add rend="i">Ersatzgöttern</add></del></orig><orig type="alt3"><add rend="i">Göttern</add></orig></choice><corr type="tra">.</corr>)</s>
           <s type="es" rend="indl_15">
-            <seg n="Ms-153a,164v_Ms-0,0" type="int-ref" corresp="intRef#Ms-153a#2">
+            <seg n="Ms-153a,164v_Ms-0,0" type="int-ref" ana="intRef,Ms-153a#2">
               <seg type="edcom"> ˂  <c type="k">k</c>leines <unclear>Notizbuch</unclear></seg>
             </seg>
           </s>
@@ -4595,7 +4597,7 @@
         </ab>
         <ab xml:id="Ms-153a_BCr.2" n="Ms-153a,BCr[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311101?-19311130?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
-          <s type="es">D.h. ich mache den<lb/> Übergang von dem<lb/>   <choice type="em"><orig type="em1"><seg type="edinst">•</seg>primären Zeichen zum<lb/> sekundären<seg type="edinst">•</seg>  (der von<lb/> der gleichen Art ist wie<lb/> der vom <del type="d">primären</del>  <add rend="i">sekundären</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1"><corr type="npc">primären Zeichen<lb/> zum sekundären (der von  der gleichen Art ist wie der vom primären</corr></orig><orig type="alt2">sekundären Zeichen zum  primären (der von der gleichen Art ist wie der vom sekundären</orig></choice></orig></choice>   Zeichen<lb/> zu dem was das primä<lb rend="shyphen0"/>re bezeichnet) unver<lb rend="shyphen0"/>mittelt <corr type="tra"> …</corr>   <note type="editor">Continuation in Ms-153b,FCv.</note>  <seg n="Ms-153a,BCr_Ms-153b,FCv" type="int-ref" corresp="intRef#Ms-153a#3"/>         </s>
+          <s type="es">D.h. ich mache den<lb/> Übergang von dem<lb/>   <choice type="em"><orig type="em1"><seg type="edinst">•</seg>primären Zeichen zum<lb/> sekundären<seg type="edinst">•</seg>  (der von<lb/> der gleichen Art ist wie<lb/> der vom <del type="d">primären</del>  <add rend="i">sekundären</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1"><corr type="npc">primären Zeichen<lb/> zum sekundären (der von  der gleichen Art ist wie der vom primären</corr></orig><orig type="alt2">sekundären Zeichen zum  primären (der von der gleichen Art ist wie der vom sekundären</orig></choice></orig></choice>   Zeichen<lb/> zu dem was das primä<lb rend="shyphen0"/>re bezeichnet) unver<lb rend="shyphen0"/>mittelt <corr type="tra"> …</corr>   <note type="editor">Continuation in Ms-153b,FCv.</note>  <seg n="Ms-153a,BCr_Ms-153b,FCv" type="int-ref" ana="intRef,Ms-153a#3"/>         </s>
           <lb rend="hl"/>
           <pb facs="Ms-153a_BCv" n="pagename_Ms-153a,BCv pageref_00"/>
         </ab>

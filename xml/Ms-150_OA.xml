@@ -58,10 +58,12 @@
       </titleStmt>
       <publicationStmt>
         <idno type="URL">http://wab.uib.no/cost-a32_xml/Ms-150_OA.xml</idno>
+        <publisher>Wittgenstein Archives at the University of Bergen (WAB)</publisher>
+        <pubPlace>Bergen</pubPlace>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-150_n</idno>
-        <idno type="URL">http://wab.uib.no/wab_hw.page/</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-150_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-150_f</idno>
+        <idno type="URL">http://wittgensteinonline.no/</idno>
         <availability xml:lang="en">
           <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
@@ -2411,7 +2413,7 @@
         <ab xml:id="Ms-150_68.7" n="Ms-150,68[7]" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_0" xml:lang="en">
           <emph rend="vdline">
             <seg type="wabmarks-secml"/>
-            <s type="es" rend="indl_2">Suppose I said “I see this s<choice type="o"><orig type="o1">k</orig><orig type="o2">c</orig></choice>ribble<lb/> like  <emph rend="us1">this</emph>”, – this would mean<lb/> something like:  <c type="c">W</c>hat at one time<lb/> appears to me like this, at another<lb/> appeared to me  like that<corr type="tra">.</corr> <seg type="int-ref" n="Ms-150,68_Ms-150,69" corresp="intRef#Ms-150#4"><seg type="edinst"><emph rend="startarrforward"/></seg></seg></s>
+            <s type="es" rend="indl_2">Suppose I said “I see this s<choice type="o"><orig type="o1">k</orig><orig type="o2">c</orig></choice>ribble<lb/> like  <emph rend="us1">this</emph>”, – this would mean<lb/> something like:  <c type="c">W</c>hat at one time<lb/> appears to me like this, at another<lb/> appeared to me  like that<corr type="tra">.</corr> <seg type="int-ref" n="Ms-150,68_Ms-150,69" ana="intRef,Ms-150#4"><seg type="edinst"><emph rend="startarrforward"/></seg></seg></s>
             <lb rend="hl"/>
           </emph>
         </ab>
@@ -2426,7 +2428,7 @@
         </ab>
         <ab xml:id="Ms-150_69.3" n="Ms-150,69[3]" ana="field:PhilosophyOfLanguage_date:19341231?-19350531?" emph="blbef_0" xml:lang="en">
           <seg type="wabmarks-secml"/>
-          <seg type="mark-ref" n="Ms-150,68_Ms-150,69" corresp="intRef#Ms-150#4">
+          <seg type="mark-ref" n="Ms-150,68_Ms-150,69" ana="intRef,Ms-150,4">
             <seg type="edinst">
               <emph rend="endarrforward"/>
             </seg>
