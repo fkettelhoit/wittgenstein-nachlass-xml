@@ -1229,7 +1229,7 @@
           <s type="es">And “meaning” here is to be some sort of process  tak<lb rend="shyphen"/>ing place while we point.</s>
           <s type="es">What particularly tempts us to this<lb/> view is that a man on being asked  whether he pointed to the<lb/> colour or the shape is, at least in most cases,  able to answer<lb/> this &amp; to be certain that his answer is  correct.</s>
           <s type="es">If on the<lb/> other hand, we look for two such characteristic mental acts  as<lb/> meaning the colour and meaning the shape, etc., we  aren't able<lb/> to find any, or at least none which must always  accompany point<lb rend="shyphen"/>ing to colour, pointing to shape,  respectively.</s>
-          <s type="es">We have only<lb/> a <emph rend="us1">rough</emph> idea of what it means to concentrate  one's attention<lb/> on the colour as opposed to the shape, or  <seg xml:lang="la">vice versa</seg>.</s>
+          <s type="es">We have only<lb/> a <emph rend="us1">rough</emph> idea of what it means to concentrate  one's attention<lb/> on the colour as opposed to the shape, or  <seg type="ct">vice versa</seg>.</s>
           <emph rend="slilm_h">
             <s type="es">The<lb/> difference one might say does not lie in the act of  demonstrat<lb rend="shyphen"/>ion, but rather in the surrounding of    <choice type="dsl_h"><orig type="alt1"><del type="d_h">the</del></orig><orig type="alt2"><add rend="i_h">that</add></orig></choice>    act in the use of the<lb/>   language.)</s>
           </emph>
@@ -1639,7 +1639,7 @@
           <pb facs="Ts-310_24" n="pagename_Ts-310,24 pageref_00"/>
           <fw type="pagen" place="top right">24.</fw>
           <s type="es">The unbounded game is opened with the question, “<c type="c">H</c>ow  high<lb/> shall we go?”</s>
-          <s type="es">If the players look up the rules of this game<lb/> in a book of rules, they  will find the phrase “&amp; so on” or<lb/>   “&amp; so on <seg xml:lang="la">ad inf.</seg>” at  the end of certain series of rules.</s>
+          <s type="es">If the players look up the rules of this game<lb/> in a book of rules, they  will find the phrase “&amp; so on” or<lb/>  “&amp; so on <abbr type="abb">ad inf.</abbr>” at  the end of certain series of rules.</s>
           <s type="es">So<lb/> the difference between the two hands <emph rend="us1">a</emph>) &amp;  <emph rend="us1"><seg type="p">b</seg></emph>) lies in the tools<lb/> we use, though admittedly not in  the cards they are played<lb/> with.</s>
           <s type="es">But this difference seems trivial and not the essential<lb/>   difference between the games.</s>
           <emph rend="slilm_h">
@@ -2605,7 +2605,7 @@
           <s type="es">In our figure a row of dots with large intervals succeeds a row<lb/> of dots  with small intervals.</s>
           <s type="es">Which is the last dot in the<lb/> first sequence and which the first dot in  the second?</s>
           <s type="es">Imagine<lb/> our dots were holes in the revolving disc of a siren.</s>
-          <s type="es">Then we<lb/> should hear a tone of low pitch following a tone of high  pitch<lb/> (or <seg xml:lang="la">vice versa</seg>).</s>
+          <s type="es">Then we<lb/> should hear a tone of low pitch following a tone of high  pitch<lb/> (or <seg type="ct">vice versa</seg>).</s>
           <s type="es">Ask yourself: <c type="c">A</c>t which moment does the tone<lb/> of low pitch  begin and the other end?)</s>
         </seg>
       </ab>

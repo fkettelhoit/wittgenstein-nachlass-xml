@@ -534,7 +534,11 @@
               <s type="es">The foundations we <lb/>mean <emph rend="us1">pervade</emph> rather <lb/>than  <emph rend="us1">underl<corr type="trsn"><orig type="trsn1">y</orig><reg type="trsn2">ie</reg></corr></emph> mathe<lb rend="shyphen"/>matics &amp; the  sciences.</s>
             </seg>
             <lb/>
-            <s type="es">(siehe <persName key="Augustinus, Aurelius">Augustinus</persName> <seg xml:lang="la"><seg xml:lang="la">et <lb/>cum effunderis super <lb/>nos, non tu iaces, <lb/>sed erigis  nos</seg>.) <seg type="edcom"> ❘ </seg></seg><lb/></s>
+            <s type="es">
+              <seg xml:lang="de">(siehe <persName key="Augustinus, Aurelius">Augustinus</persName></seg>
+              <seg xml:lang="la"><seg xml:lang="la">et <lb/>cum effunderis super <lb/>nos, non tu iaces, <lb/>sed erigis  nos</seg>.) <seg type="edcom"> ❘ </seg></seg>
+              <lb/>
+            </s>
           </rs>
           <emph rend="bl_1"/>
           <pb facs="Ms-153b_3r" rend="recto" n="pagename_Ms-153b,3r  pageref_00"/>

@@ -161,7 +161,7 @@
           <pb facs="Ms-139a_1r" n="pagename_Ms-139a,1r pageref_00"/>
           <fw type="pagen" place="top right">I</fw>
           <s type="ees">
-            <seg type="salutation"><choice type="o"><orig type="o1">Ge</orig><orig type="o2">Mr<corr type="tran">.</corr></orig></choice><c type="c">C</c>hairman, <c type="c">L</c>adies &amp; <c type="c">G</c>entlemen!</seg>
+            <seg type="salutation"><choice type="o"><orig type="o1">Ge</orig><orig type="o2">Mr<corr type="tra">.</corr></orig></choice><c type="c">C</c>hairman, <c type="c">L</c>adies &amp; <c type="c">G</c>entlemen!</seg>
             <lb/>
           </s>
         </seg>
@@ -570,8 +570,10 @@
             <add rend="ilm">
               <rs type="extref" key="Galton, Francis: Memories of my Life">
                 <s type="es">
-                  <persName key="Galton, Francis">Gal<corr type="npcn">s</corr>tonsche</persName>
-                  <abbr corresp="Photographie">Photogr.</abbr>
+                  <seg xml:lang="de">
+                    <persName key="Galton, Francis">Gal<corr type="npcn">s</corr>tonsche</persName>
+                    <abbr corresp="Photographie">Photogr.</abbr>
+                  </seg>
                 </s>
               </rs>
               <lb rend="hl"/>

@@ -671,7 +671,7 @@
           <rs type="extref" key="Descartes, Rene: Discours de la Methode">
             <s type="es">Wie wenn ich sagte, <pb facs="Ms-156a_12v" rend="verso" n="pagename_Ms-156a,12v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> die Welt könnte<lb/>  vor 3 Minuten unter<lb rend="shyphen"/>gegangen sein &amp;<lb/> meine Vorstellungen<lb/>  &amp; Erinnerungen    <corr type="tra">die gleichen</corr>      ge<lb rend="shyphen"/>blieben die nun<lb/> ganz täuschend<lb/>  <del type="dnpc">sind</del> wären.</s>
             <s type="es">Hier<lb/> haben wir eben <persName key="Descartes, Rene">Des<add rend="our">c</add>ar<lb rend="shyphen"/>tes</persName>  Teufel.</s>
-            <s type="es">Aber ein<lb/> Betrug auf den wir<lb/> <seg xml:lang="la">ex hypothesi</seg> nicht<lb/> kommen können,  ist<lb/> kein Betrug.</s>
+            <s type="es">Aber ein<lb/> Betrug auf den wir<lb/> <seg type="ct">ex hypothesi</seg> nicht<lb/> kommen können,  ist<lb/> kein Betrug.</s>
           </rs>
           <rs type="extref" key="Goethe, Johann Wolfgang von: Gott, Gemüt und Welt">
             <s type="es">(“Wen<lb/> <choice type="o"><orig type="o1">g</orig><orig type="o2">G</orig></choice>ott  betrügt, der ist gut<lb/> betrogen”.)</s>

@@ -270,7 +270,7 @@
         <seg type="publ">
           <s type="es" rend="indl_5">The idea that propositions are names of complexes <del type="dnpc_h">between</del>   <add rend="ib_h"><seg type="edinst"><corr type="tra">[</corr><persName key="Wittgenstein, Ludwig"><abbr>L.W.</abbr></persName><corr type="tra">]</corr></seg></add><lb/>  <choice type="em"><orig type="em1"><emph rend="qmlm_h">suggest<del type="d_h">ions<add rend="el_h">s</add></del></emph><add rend="ib_h"><seg type="edinst"><corr type="tra">[</corr><persName key="Wittgenstein, Ludwig"><abbr>L.W.</abbr></persName><corr type="tra">[</corr></seg></add></orig><orig type="em2"><corr type="npc">suggestions</corr> suggests</orig></choice> that whatever is not a proper name is a  sign for a<lb/> relation.</s>
           <s type="es">
-            <add rend="el_h">Bec<add rend="our">a</add>use spatial      complexes             <seg type="edinst" corresp="Ts-201a1:1">*</seg>   <add rend="ilomm_h"><seg type="edinst" corresp="Ts-201a1:1">*</seg><corr type="tran">–</corr><emph rend="us1_h">you</emph><corr type="npcn">–</corr> for instance imagine every fact as a<lb/> spatial    complex<corr type="npcn">.</corr></add><lb/> <corr type="tra">–</corr> cons<add rend="our">i</add>st of <c type="c">T</c>hings<lb/> &amp;  <c type="c">R</c>elations only &amp; the idea of a complex is taken <lb/>from  <unclear>spa<corr type="tran">ce</corr><corr type="tra">.</corr></unclear></add>
+            <add rend="el_h">Bec<add rend="our">a</add>use spatial      complexes             <seg type="edinst" corresp="Ts-201a1:1">*</seg>   <add rend="ilomm_h"><seg type="edinst" corresp="Ts-201a1:1">*</seg><corr type="tra">–</corr><emph rend="us1_h">you</emph><corr type="npcn">–</corr> for instance imagine every fact as a<lb/> spatial    complex<corr type="npcn">.</corr></add><lb/> <corr type="tra">–</corr> cons<add rend="our">i</add>st of <c type="c">T</c>hings<lb/> &amp;  <c type="c">R</c>elations only &amp; the idea of a complex is taken <lb/>from  <unclear>spa<corr type="tran">ce</corr><corr type="tra">.</corr></unclear></add>
           </s>
           <lb rend="hl"/>
           <seg type="intref" n="201a2:9_201a3:9"/>
@@ -946,7 +946,7 @@
               </seg>
             </s>
             <s type="es">
-              <seg type="edcom"><emph rend="us1"><abbr type="abb">3<emph rend="sup"><emph rend="us1"><abbr type="abb">rd</abbr></emph></emph></abbr><abbr type="abb">MS</abbr></emph>.</seg>
+              <seg type="edcom"><emph rend="us1"><abbr type="abb">3<emph rend="sup"><emph rend="us1">rd</emph></emph></abbr><abbr type="abb">MS</abbr></emph>.</seg>
             </s>
           </seg>
           <lb rend="hl"/>
@@ -1349,7 +1349,7 @@
             </s>
             <s type="es">
               <seg type="edcom">
-                <emph rend="us1"><abbr type="abb">4<emph rend="sup"><emph rend="us1"><abbr type="abb">th</abbr></emph></emph></abbr><abbr type="abb">MS</abbr>.</emph>
+                <emph rend="us1"><abbr type="abb">4<emph rend="sup"><emph rend="us1">th</emph></emph></abbr><abbr type="abb">MS</abbr>.</emph>
               </seg>
             </s>
           </seg>
@@ -1558,7 +1558,7 @@
           <lb/>
           <s type="es">We cannot therefore introduce it first for one combination, then for  another;<lb/> <abbr type="abb">e.g.</abbr>, if the form  <seg type="notation" subtype="logic_quantificational formula" rend="literal">xRy</seg> has  been introduced, it must henceforth be<lb/> understood in propositions of the  form <seg type="notation" subtype="logic_quantificational formula" rend="literal">aRb</seg>  just in the same way as in<lb/> propositions such as  <seg type="notation" subtype="logic_quantificational formula" rend="literal">(∃x, y).xRy</seg> &amp;  others.</s>
           <s type="es">We must not introduce it<lb/> first for one class of cases, then for the other;  for it would remain doubtful if<lb/> its meaning was the same in both cases,  &amp; there would be no ground for<lb/> using the same manner of combining  symbols in both cases.</s>
-          <s type="es">In short, for<lb/> the introduction of indefinable symbols &amp;  <choice type="dsl"><orig type="alt1"><del type="d">classes</del></orig><orig type="alt2"><add rend="i">combinations</add></orig></choice> of symbols the same holds,<lb/>  <seg xml:lang="la">mutatis mutandis</seg>, that <persName key="Frege, Gottlob">Frege</persName> has said for the introduction of symbols<lb/> by  definitions.</s>
+          <s type="es">In short, for<lb/> the introduction of indefinable symbols &amp;  <choice type="dsl"><orig type="alt1"><del type="d">classes</del></orig><orig type="alt2"><add rend="i">combinations</add></orig></choice> of symbols the same holds,<lb/>  <seg type="ct">mutatis mutandis</seg>, that <persName key="Frege, Gottlob">Frege</persName> has said for the introduction of symbols<lb/> by  definitions.</s>
           <lb rend="hl"/>
           <seg type="intref" n="201a2:111_201a3:111"/>
         </seg>

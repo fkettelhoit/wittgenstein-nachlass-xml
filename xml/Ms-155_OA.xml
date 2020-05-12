@@ -700,7 +700,7 @@
           <lb rend="hl"/>
           <s type="es">Ja aber ist es denn so <lb/>daß er nun tatsächlich <lb/>nur diese Züge an dem Ding<lb/>  sieht?</s>
           <s type="es">Etwa am Blatt<lb/> nur das was allen Blättern <lb/>gemeinsam ist?</s>
-          <s type="es">Das wäre <lb/>so als sähe er alles <lb/>übrige „<seg xml:lang="la">in  blanco</seg>”.</s>
+          <s type="es">Das wäre <lb/>so als sähe er alles <lb/>übrige „<seg type="ct">in  blanco</seg>”.</s>
           <s type="es">Also <lb/>gleichsam ein <del type="dnpc"><corr type="npcn">Form</corr></del> unaus<lb rend="shyphen"/>gefülltes  Formular in <lb/>dem <choice type="dsl"><orig type="alt1"><del type="d">aber jene</del></orig><orig type="alt2"><add rend="i">die wesentlichen</add></orig></choice> Züge  vorge<lb rend="shyphen"/>druckt sind.</s>
           <s type="es">(Aber <lb/>die Funktion „<seg type="notation" subtype="logic_incomplete inquantificational formula" rend="literal">f( … )</seg>” ist <lb/>ja so  ein Formular.)</s>
         </ab>
@@ -1130,7 +1130,7 @@
         </ab>
         <ab xml:id="Ms-155_27r.3et27v.1" n="Ms-155,27r[3]et27v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_1">
           <seg type="wabmarks-secml"/>
-          <s type="es"><choice type="s"><orig type="alt1">Was</orig><orig type="alt2"><add rend="im"><c type="c">W</c>elche Operationen</add></orig></choice> immer  <choice type="em"><orig type="em1">d<choice type="o"><orig type="o1">en</orig><orig type="o2">ie</orig></choice> <del type="d">Satz</del><lb/> Regel</orig><orig type="em2"><choice type="dsl"><orig type="alt1">den Satz</orig><orig type="alt2">die  Regel</orig></choice></orig></choice> <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal">a + (b + c) = (a + b) + c</seg>  <lb/>rechtfertigt kann<lb/> auch der Induktions<corr type="tra">-</corr>      <pb facs="Ms-155_27v" rend="verso" n="pagename_Ms-155,27v pageref_00"/>Beweis rechtfertigen.</s>
+          <s type="es"><choice type="s"><orig type="alt1">Was</orig><orig type="alt2"><add rend="im"><c type="c">W</c>elche Operationen</add></orig></choice> immer  <choice type="em"><orig type="em1">d<choice type="o"><orig type="o1">en</orig><orig type="o2">ie</orig></choice> <del type="d">Satz</del><lb/> Regel</orig><orig type="em2"><choice type="dsl"><orig type="alt1">den Satz</orig><orig type="alt2">die  Regel</orig></choice></orig></choice> <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal">a + (b + c) = (a + b) + c</seg>   <lb/>rechtfertigt kann<lb/> auch der Induktions<corr type="tran-pb">-Beweis</corr><pb facs="Ms-155_27v" rend="verso" n="pagename_Ms-155,27v pageref_00"/><corr type="npcn-pb">Beweis</corr> rechtfertigen.</s>
         </ab>
         <ab xml:id="Ms-155_27v.2" n="Ms-155,27v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_2">
           <seg type="wabmarks-secml"/>
@@ -1896,7 +1896,7 @@
         <ab xml:id="Ms-155_62v.1" n="Ms-155,62v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_1">
           <emph rend="crossed">
             <seg type="wabmarks-secml"/>
-            <s type="es"><seg xml:lang="la">Onus probandi</seg> (auf<lb/> <choice type="o"><orig type="o1">s</orig><orig type="o2">S</orig></choice>ei<add rend="our">ten</add> des  Mathematikers <add rend="im"><abbr type="abb">etc.</abbr></add>).</s>
+            <s type="es"><seg type="ct">Onus probandi</seg> (auf<lb/> <choice type="o"><orig type="o1">s</orig><orig type="o2">S</orig></choice>ei<add rend="our">ten</add> des  Mathematikers <add rend="im"><abbr type="abb">etc.</abbr></add>).</s>
           </emph>
         </ab>
         <ab xml:id="Ms-155_62v.2" n="Ms-155,62v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_1">

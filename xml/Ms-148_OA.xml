@@ -818,7 +818,7 @@
         <ab xml:id="Ms-148_6v.3" n="Ms-148,6v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en">
           <seg type="wabmarks-secml"/>
           <seg type="publ">
-            <s type="es" rend="indl_2"><seg xml:lang="en">Als</seg> negation: “<c type="c">T</c>he deuce he  is ….”</s>
+            <s type="es" rend="indl_2"><seg xml:lang="de">Als</seg> negation: “<c type="c">T</c>he deuce he  is ….”</s>
           </seg>
         </ab>
         <ab xml:id="Ms-148_6v.4" n="Ms-148,6v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de">
@@ -1223,7 +1223,9 @@
         </ab>
         <ab xml:id="Ms-148_16r.3" n="Ms-148,16r[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en">
           <seg type="wabmarks-secml"/>
-          <s type="es" rend="indl_2">Die mathematische Frage.</s>
+          <s type="es" rend="indl_2">
+            <seg xml:lang="de">Die mathematische Frage.</seg>
+          </s>
           <lb rend="hl"/>
           <s type="es">
             <seg xml:lang="en">Could the  <persName key="Pythagoras von Samos"><abbr corresp="Pythagorean">Pythag.</abbr></persName>  <corr type="tra">theorem</corr> be <emph rend="us1">assumed</emph> instead<lb/> of being  deduced?</seg>
@@ -1324,7 +1326,7 @@
           <seg type="wabmarks-secml"/>
           <s type="es" rend="indl_2">If I made an experiment with a certain<lb/> figure we can <add rend="im"><gap extent="words_1"/></add>  imagine this or that result.</s>
           <lb/>
-          <s type="es">But if I draw your attention to a<lb/> feature <corr type="tran"> …</corr></s>
+          <s type="es">But if I draw your attention to a<lb/> feature <corr type="tra"> …</corr></s>
         </ab>
         <ab xml:id="Ms-148_18r.3" n="Ms-148,18r[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en">
           <seg type="wabmarks-secml"/>
@@ -1643,16 +1645,16 @@
             <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-23r-b.BMP" subtype="graphics_Klammern; Klammernotation (mehrfach oben)" rend="bitmap">148068</seg>
           </s>
           <s type="es" rend="indl_2">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-23r-c.BMP" ana="field:PhilosophyOfLanguage_check_put all dots and dashes into one bitmap" rend="bitmap">k148008</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-23r-c.BMP" ana="field:PhilosophyOfLanguage_check_put all dots and dashes into    one bitmap" rend="bitmap">k148008</seg>
           </s>
-          <s type="es" rend="indl_2">“Die Form ‘1 2 3 4 5’ <add rend="our">p</add>aßt auf die   Form<lb/> <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-23r-d.BMP" subtype="graphics_Schema; ohne Linien" rend="bitmap">148069</seg><corr type="tra">.</corr>”</s>
-          <s type="es" rend="indl_2">Was für ein Faktum ist das, daß die Reihen<lb rend="shyphen"/>folge das Resultat nicht  ändert.</s>
-          <lb rend="hl"/>
-          <seg xml:lang="en">
-            <s type="es">The process we are going through just<lb/> <emph rend="us1">does</emph> <del type="dnpc">to</del> lead  to the same result; – but<lb/> so far as it “leads to the same  result<corr type="tra">”</corr> we<lb/> could imagine it to lead to a different <lb rend="pb"/>  <pb facs="Ms-148_23v" rend="verso" n="pagename_Ms-148,23v pageref_00"/><fw type="pagen" place="top left">33</fw> result.</s>
-            <s type="es">And so far as we couldn<corr type="tra">'</corr>t<lb/> imagine it to lead to a  different<lb/> result it doesn<corr type="tra">'</corr>t lead to any<lb/> result but shows  what it's<lb/> like to lead to the same<lb/> result.</s>
-            <s type="es" rend="indl_4"><abbr type="abb">I.e.</abbr>: <c type="c">I</c>f we look at the  <emph rend="us2"><c type="c">F</c>orms</emph><lb/><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-23v-a.BMP" subtype="graphics_Schema; ohne Linien" rend="bitmap">148070</seg> &amp; 12345 as  equivalent<lb/> there ceases to be a question of<lb/> whether the two processes lead<lb/>  to the same or to different<lb/> results &amp; the apparent experi<lb rend="shyphen"/>ment  <del type="dnpc"/> serves only to show<lb/> what sort of fact we take<lb/> as the standard  of our expression.</s>
+          <seg xml:lang="de">
+            <s type="es" rend="indl_2">“Die Form ‘1 2 3 4 5’ <add rend="our">p</add>aßt auf die   Form<lb/> <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-23r-d.BMP" subtype="graphics_Schema; ohne Linien" rend="bitmap">148069</seg><corr type="tra">.</corr>”</s>
+            <s type="es" rend="indl_2">Was für ein Faktum ist das, daß die Reihen<lb rend="shyphen"/>folge das Resultat nicht  ändert.</s>
+            <lb rend="hl"/>
           </seg>
+          <s type="es">The process we are going through just<lb/> <emph rend="us1">does</emph> <del type="dnpc">to</del> lead  to the same result; – but<lb/> so far as it “leads to the same  result<corr type="tra">”</corr> we<lb/> could imagine it to lead to a different <lb rend="pb"/>  <pb facs="Ms-148_23v" rend="verso" n="pagename_Ms-148,23v pageref_00"/><fw type="pagen" place="top left">33</fw> result.</s>
+          <s type="es">And so far as we couldn<corr type="tra">'</corr>t<lb/> imagine it to lead to a  different<lb/> result it doesn<corr type="tra">'</corr>t lead to any<lb/> result but shows  what it's<lb/> like to lead to the same<lb/> result.</s>
+          <s type="es" rend="indl_4"><abbr type="abb">I.e.</abbr>: <c type="c">I</c>f we look at the  <emph rend="us2"><c type="c">F</c>orms</emph><lb/><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-23v-a.BMP" subtype="graphics_Schema; ohne Linien" rend="bitmap">148070</seg> &amp; 12345 as  equivalent<lb/> there ceases to be a question of<lb/> whether the two processes lead<lb/>  to the same or to different<lb/> results &amp; the apparent experi<lb rend="shyphen"/>ment  <del type="dnpc"/> serves only to show<lb/> what sort of fact we take<lb/> as the standard  of our expression.</s>
         </ab>
         <ab xml:id="Ms-148_23v.2" n="Ms-148,23v[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_2" xml:lang="de">
           <seg type="wabmarks-secml"/>
@@ -1820,7 +1822,7 @@
         </ab>
         <ab xml:id="Ms-148_26v.2" n="Ms-148,26v[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en">
           <seg type="wabmarks-secml"/>
-          <s type="es" rend="indl_2">In mathematics we <unclear>object</unclear> to say<lb/> these processes have the  <del type="dnpc">end in<lb/> <corr type="npcn">com</corr></del> <corr type="tran"> …</corr></s>
+          <s type="es" rend="indl_2">In mathematics we <unclear>object</unclear> to say<lb/> these processes have the  <del type="dnpc">end in<lb/> <corr type="npcn">com</corr></del> <corr type="tra"> …</corr></s>
         </ab>
         <ab xml:id="Ms-148_26v.3" n="Ms-148,26v[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en">
           <seg type="wabmarks-secml"/>
@@ -1907,7 +1909,7 @@
         </ab>
         <ab xml:id="Ms-148_28r.2" n="Ms-148,28r[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_2" xml:lang="en">
           <seg type="wabmarks-secml"/>
-          <s type="es" rend="indl_2">They are resolved to write<lb/> this: <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-28r-a.BMP" ana="field:PhilosophyOfLanguage_check_is bitmap of mathlog stuff here OK, bearing in mind the comparison with the next line" rend="bitmap"> k148012</seg> instead   of <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-28r-b.BMP" ana="field:PhilosophyOfLanguage_check_is bitmap of mathlog stuff here OK, bearing in mind the comparison with the line above" rend="bitmap"> k148013</seg></emph><corr type="tran">.</corr></s>
+          <s type="es" rend="indl_2">They are resolved to write<lb/> this: <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-28r-a.BMP" ana="field:PhilosophyOfLanguage_check_is bitmap of mathlog stuff here OK, bearing in mind the comparison with the next line" rend="bitmap"> k148012</seg> instead   of <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-28r-b.BMP" ana="field:PhilosophyOfLanguage_check_is bitmap of mathlog stuff here OK, bearing in mind the comparison with the line above" rend="bitmap"> k148013</seg></emph><corr type="tra">.</corr></s>
         </ab>
         <ab xml:id="Ms-148_28r.3" n="Ms-148,28r[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en">
           <seg type="wabmarks-secml"/>
@@ -1954,7 +1956,7 @@
         </ab>
         <ab xml:id="Ms-148_29r.1" n="Ms-148,29r[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en">
           <seg type="wabmarks-secml"/>
-          <s type="es" rend="indl_2">“<c type="k">I</c> have found 777 somewhere in<lb/> π<corr type="tran">.</corr>”  <del type="dnpc"><c type="c">T</c>his leaves</del> <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-29r-a.BMP" subtype="graphics_Kurven; Spirale" rend="bitmap">148078</seg></s>
+          <s type="es" rend="indl_2">“<c type="k">I</c> have found 777 somewhere in<lb/> π<corr type="tra">.</corr>”  <del type="dnpc"><c type="c">T</c>his leaves</del> <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-29r-a.BMP" subtype="graphics_Kurven; Spirale" rend="bitmap">148078</seg></s>
         </ab>
         <ab xml:id="Ms-148_29r.2" n="Ms-148,29r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0">
           <seg type="wabmarks-secml"/>
@@ -2383,7 +2385,7 @@
           <seg type="wabmarks-secml"/>
           <seg type="publ">
             <emph rend="vdline">
-              <s type="es" rend="indl_2">Example<emph rend="bl_1"/> [“I have a peculiar feeling of pastness in my   wrist<corr type="tran">.</corr>”]</s>
+              <s type="es" rend="indl_2">Example<emph rend="bl_1"/> [“I have a peculiar feeling of pastness in my   wrist<corr type="tra">.</corr>”]</s>
               <lb rend="hl"/>
               <pb facs="Ms-148_35r" rend="recto" n="pagename_Ms-148,35r pageref_00"/>
               <fw type="pagen">19.</fw>
@@ -3067,7 +3069,7 @@
             <s type="es" rend="indl_2">“What I show <emph rend="us1">reveals</emph> what I see”; – <lb/> in  what sense does it do that?</s>
             <s type="es">The<lb/> idea is that now you can so to speak<lb/> look inside me.</s>
             <s type="es">Whereas I only reveal<lb/> to you what I see in a game of<lb/> revealing &amp;  hi<choice type="o"><orig type="o1">dd</orig><orig type="o2">di</orig></choice>ng which is altogether<lb/> pla<corr type="trsn"><orig type="trsn1">i</orig><reg type="trsn2">y</reg></corr>ed with   signs of one category<corr type="tra">.</corr><lb/> <del type="dnpc"><gap extent="words_1"/></del></s>
-            <s type="es">“<choice type="o"><orig type="o1">d</orig><orig type="o2"><c type="c">D</c></orig></choice>ire<corr type="trsn"><orig type="trsn1">k</orig><reg type="trsn2">c</reg></corr>t-indirect”.</s>
+            <s type="es">“<choice type="o"><orig type="o1">d</orig><orig type="o2"><c type="c">D</c></orig></choice>irect – indirect”.</s>
           </seg>
         </ab>
         <ab xml:id="Ms-148_45v.4" n="Ms-148,45v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en">
