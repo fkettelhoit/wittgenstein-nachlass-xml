@@ -10,7 +10,13 @@ final String _wabOAUrl = 'http://wab.uib.no/cost-a32_xml/';
 
 Future<void> _fetchNachlass() async {
   final docs = await _fetchXmlNames(_wabOAUrl);
-  await Future.wait(docs.map(_fetchDocument).map(_formatDocument));
+  if (docs.isNotEmpty) {
+    await Future.wait(docs.map(_fetchDocument).map(_formatDocument));
+  } else {
+    io.stderr.writeln('Could not find any XML docs at $_wabOAUrl');
+    io.exitCode = 1;
+    return;
+  }
 }
 
 Future<io.File> _fetchDocument(String name, {bool skipExisting = false}) async {
