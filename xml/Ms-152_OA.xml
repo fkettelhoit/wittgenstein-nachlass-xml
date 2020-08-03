@@ -388,7 +388,7 @@
           <fw type="pagen" place="top right">
             <add rend="fremd" instant="false" status="unremarkable">1.</add>
           </fw>
-          <note type="editor" anchored="true">Pages 1-4 contain calculations and formulas which don't seem related to the subsequent text. Their transcription will be added later.</note>
+          <note type="editor" anchored="true">Ms-152, pages 1-4 contain calculations and formulas which don't seem related to the subsequent text. Their transcription will be added later.</note>
           <pb facs="Ms-152_2" rend="verso" n="pagename_Ms-152,2 pageref_00"/>
           <fw type="pagen" place="top right">
             <add rend="fremd" instant="false" status="unremarkable">2.</add>
@@ -1352,7 +1352,7 @@
             <s type="es" rend="indl_1" part="N">Das Lernen der Sprache stellte sich<lb/> ihm also dar als <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">ein</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><add rend="our" instant="false" status="unremarkable">das</add></add></orig></choice> Lernen der<lb/> Benennungen von Dingen.</s>
             <s type="es" part="N">Und seine<lb/> Worte sind <add rend="im" instant="false" status="unremarkable"><emph rend="uw1">daher</emph></add> ein Bild der  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Auffassung</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Betrachtungsweise</add></orig></choice>, die<lb/> <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">in  der Bedeutung</del></orig><orig type="alt2"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">im Begriff</del> der</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">in der</add></orig></choice>  ‘<emph rend="us1">Bedeu<lb rend="shyphen"/>tung</emph></orig></choice> <choice type="s"><orig type="alt1"><del type="d_c" instant="false" status="unremarkable">des</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">eines</add></orig></choice> Wort<add rend="our" instant="false" status="unremarkable">es</add>’ das Fundament der<lb/> Sprache  sieht.</s>
           </rs>
-          <note type="editor" anchored="true">The lower part of page 38 contains calculations, formulas and figures which don't seem related to the surrounding text.</note>
+          <note type="editor" anchored="true">The lower part of Ms-152, page 38 contains calculations, formulas and figures which don't seem related to the surrounding text and are not included in the transcription.</note>
           <emph rend="bl_1"/>
           <pb facs="Ms-152_39" rend="recto" n="pagename_Ms-152,39 pageref_00"/>
           <fw type="pagen" place="top right">
@@ -1487,7 +1487,7 @@
             <del type="dnpc" instant="false" status="unremarkable">Dabei<lb/> zeigt der</del>
             <add rend="i" instant="false" status="unremarkable">
               <abbr type="abb">u.s.f.</abbr>
-              <note type="editor" anchored="true">The lower part of page 42 contains some figures which don't seem related to the surrounding text.</note>
+              <note type="editor" anchored="true">The lower part of Ms-152, page 42 contains some figures which don't seem related to the surrounding text and  are not included in the transcription.</note>
             </add>
             <emph rend="bl_1"/>
           </s>
@@ -1629,7 +1629,7 @@
             <s type="es" part="N"><c type="k" part="N">B</c>egriff der Familie der Sprachspiele.</s>
             <lb rend="hl"/>
             <s type="es" part="N"><c type="k" part="N">F</c>amilie der Spiele<corr type="tra" instant="false">.</corr></s>
-            <note type="editor" anchored="true">The lower part of page 45 contains some figures which don't seem related to the surrounding text.</note>
+            <note type="editor" anchored="true">The lower part of Ms-152, page 45 contains some figures which don't seem related to the surrounding text and  are not included in the transcription.</note>
             <lb rend="hl"/>
             <s type="es" part="N"><c type="k" part="N">U</c>nterschied dieser &amp; meiner früheren Betrachtungsweise<lb/></s>
           </add>
@@ -2056,7 +2056,7 @@
           <s type="es" rend="indl_4" part="N">
             <emph rend="us1"><c type="k" part="N">E</c>xistenz.</emph>
           </s>
-          <note type="editor" anchored="true">The upper part of page 56 contains phrases and figures which are difficult to interpret and don't seem related to the surrounding text.</note>
+          <note type="editor" anchored="true">The upper part of Ms-152, page 56 contains phrases and figures which are difficult to interpret and don't seem related to the surrounding text and  are not included in the transcription.</note>
         </ab>
         <ab xml:id="Ms-152_56.3" n="Ms-152,56[3]" ana="field:PhilosophyOfLanguage_date:19360801?-19361231?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -2289,7 +2289,7 @@
           <s type="es" part="N">Inwiefern ist es nun eine Analyse<lb/> des Sinns eines Befehls mir einen  bestimmten<lb/> Besen zu bringen wenn ich sage der Befehl<lb/>  <choice type="s"><orig type="alt1">befie<corr type="tran" instant="false">h</corr>lt</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><unclear instant="false">beordnet</unclear></add></orig></choice> den Stiel mit der  bestimmten Bürste<lb/> zu bringen?</s>
           <s type="es" part="N">Ich habe allerdings diesen beiden<lb/> Teilen Namen geben können &amp; den  Befehl<lb/> mit <add rend="our" instant="false" status="unremarkable">H</add>ilfe dieser Namen geben können; aber<lb/> <del type="dnpc" instant="false" status="unremarkable">ist</del>  kann ich sagen ich hätte mit dem unana<lb rend="shyphen"/>lysierten Befehl eigentlich den  analysierten<lb/> gemeint?</s>
           <add rend="el" instant="false" status="unremarkable">
-            <s type="es" part="N"><seg type="edcom" part="N">⋎</seg><c type="k" part="N">B</c>eispiel<note type="editor" anchored="true">The lower part of page 66 contains some figures which don't seem related to the surrounding text.</note></s>
+            <s type="es" part="N"><seg type="edcom" part="N">⋎</seg><c type="k" part="N">B</c>eispiel<note type="editor" anchored="true">The lower part of Ms-152, page 66 contains some figures which don't seem related to the surrounding text and  are not included in the transcription.</note></s>
           </add>
           <s type="es" rend="indl_3" part="N">
             <choice type="s">

@@ -510,7 +510,19 @@
         <ab xml:id="Ms-148_2r.5" n="Ms-148,2r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
-            <s type="es" rend="indl_2" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-2r.BMP" subtype="graphics_Zeichen; Handschrift" rend="bitmap" part="N">148001</seg><corr type="trsn" instant="false"><orig type="trsn1">d</orig><reg type="trsn2">D</reg></corr>as <corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">A</reg></corr>uge  &amp; der <corr type="trsn" instant="false"><orig type="trsn1">w</orig><reg type="trsn2">W</reg></corr>ald</s>
+            <s type="es" rend="indl_2" part="N">
+              <seg type="notation" subtype="graphics_Zeichen; Handschrift" rend="bitmap" part="N">
+                <table>
+                  <row role="data" rows="1" cols="1">
+                    <cell role="data" rows="1" cols="1"><emph rend="large">A</emph><lb rend="hl"/><emph rend="blankspace_5"/>A</cell>
+                    <cell role="data" rows="1" cols="1">
+                      <emph rend="blankspace_4"/>
+                    </cell>
+                    <cell role="data" rows="1" cols="1">das auge     &amp; der wald<lb rend="hl"/><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/></cell>
+                  </row>
+                </table>
+              </seg>
+            </s>
             <lb rend="hl"/>
             <s type="es" part="N">Das männliche <emph rend="us1"><seg type="p" part="N">a</seg></emph> &amp; das weibliche  <emph rend="us1"><seg type="p" part="N">a</seg></emph>.</s>
           </seg>
@@ -557,7 +569,7 @@
           <seg type="publ" part="N">
             <s type="es" part="N">
               <emph rend="centered">
-                <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-2v.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148002</seg>
+                <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,02v.jpg" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148002</seg>
               </emph>
             </s>
             <emph rend="bl_2"/>
@@ -638,9 +650,9 @@
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">
-              <emph rend="slilm"><c type="k" part="N">I</c> note down a word <add rend="im" instant="false" status="unremarkable">in my diary</add> which serves<lb/> to bring back a  taste.</emph>
+              <emph rend="slilm"><c type="k" part="N">I</c> note down a word <add rend="im" instant="false" status="unremarkable">in my diary</add> which serves<lb/> to bring back a   taste.</emph>
               <emph rend="centered">
-                <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-3v.BMP" subtype="graphics_Kreise; Kreis" rend="bitmap" part="N">148003</seg>
+                <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,03v.jpg" subtype="graphics_Kreise; Kreis" rend="bitmap" part="N">148003</seg>
               </emph>
             </s>
             <emph rend="bl_2"/>
@@ -650,28 +662,72 @@
         <ab xml:id="Ms-148_4r.1" n="Ms-148,4r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
-            <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-4r-a.BMP" subtype="graphics_Fäden; zweigeteilt" rend="bitmap" part="N">148004</seg>
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-4r-b.BMP" subtype="graphics_Vierecke; eingerahmter Text" rend="bitmap" part="N">148005</seg>
-            </emph>
+            <table rend="tablem">
+              <row role="data" rows="1" cols="1">
+                <cell role="data" rows="1" cols="1">I<lb rend="hl"/>I <lb rend="hl"/>H <lb rend="hl"/>H</cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1">believe<lb rend="hl"/>״ <lb rend="hl"/> … <lb rend="hl"/> <lb rend="hl"/></cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1"><add rend="our" instant="false" status="unremarkable">H</add><lb rend="hl"/>I <lb rend="hl"/>H <lb rend="hl"/>I</cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1"><abbr rend="abb">h. p.</abbr><lb rend="hl"/>I <lb rend="hl"/>H <lb rend="hl"/>I</cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1"><abbr rend="abb">s.</abbr><lb rend="hl"/><abbr rend="abb">n.</abbr><lb rend="hl"/>n <lb rend="hl"/>s</cell>
+              </row>
+            </table>
+            <lb rend="hl"/>
+            <table rend="tablem">
+              <row role="data" rows="1" cols="1">
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1">L<lb rend="hl"/><lb rend="hl"/>bl <lb rend="hl"/><lb rend="hl"/>r <lb rend="hl"/><lb rend="hl"/>r <lb rend="hl"/><lb rend="hl"/>b</cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_30"/>
+                </cell>
+                <cell role="data" rows="1" cols="1">R<lb rend="hl"/><lb rend="hl"/>r <lb rend="hl"/><lb rend="hl"/>r <lb rend="hl"/><lb rend="hl"/>b <lb rend="hl"/><lb rend="hl"/>b</cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1"><lb rend="hl"/>g<lb rend="hl"/><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/></cell>
+              </row>
+            </table>
+            <note type="editor" anchored="true">Ms-148, pages 4r-4v contain a number of figures and tables which are not included in the transcription.</note>
           </s>
-          <s type="es" part="N">
-            <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-4r-c.BMP" ana="field:PhilosophyOfLanguage_check_this could be transcribed I believe H etc" rend="bitmap" part="N">k148001</seg>
-            </emph>
-          </s>
-          <s type="es" part="N">
-            <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-4r-d.BMP" subtype="graphics_Schema; mit horizontalen und vertikalen Linien" rend="bitmap" part="N">148006</seg>
-            </emph>
-          </s>
+          <emph rend="centered">
+            <seg type="notation" subtype="graphics_Fäden; zweigeteilt" rend="bitmap" part="N"/>
+            <seg type="notation" subtype="graphics_Vierecke; eingerahmter Text" rend="bitmap" part="N"/>
+          </emph>
+          <emph rend="centered">
+            <seg type="notation" ana="field:PhilosophyOfLanguage_check_this could be transcribed I believe H etc" rend="bitmap" part="N"/>
+          </emph>
+          <emph rend="centered">
+            <seg type="notation" subtype="graphics_Schema; mit horizontalen und vertikalen Linien" rend="bitmap" part="N"/>
+          </emph>
           <pb facs="Ms-148_4v" rend="verso" n="pagename_Ms-148,4v pageref_00"/>
         </ab>
         <ab xml:id="Ms-148_4v.1" n="Ms-148,4v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_2" part="N">
             <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-4v.BMP" subtype="graphics_Schema; mit horizontalen und vertikalen Linien" rend="bitmap" part="N">148007</seg>
+              <seg type="notation" subtype="graphics_Schema; mit horizontalen und vertikalen Linien" rend="bitmap" part="N"/>
             </emph>
           </s>
           <pb facs="Ms-148_5r" rend="recto" n="pagename_Ms-148,5r pageref_00"/>
@@ -779,7 +835,7 @@
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_5" part="N">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-6r.BMP" subtype="graphics_Abbild; Mensch(en)" rend="bitmap" part="N">148008</seg>
+              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,06r.jpg" subtype="graphics_Abbild; Mensch(en)" rend="bitmap" part="N">148008</seg>
             </s>
             <s type="es" rend="indl_2" part="N">“<c type="c" part="N">S</c><corr type="npcn" instant="false">h</corr>urely it isn't enough that he moans;<lb/>  I must be able to describe the<lb/> state when he moans &amp;  hasn't got pains<corr type="tra" instant="false">.</corr>”</s>
           </seg>
@@ -849,7 +905,9 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-7r.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">k148002</seg>
+              <seg type="notation" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">
+                <note type="editor" anchored="true">Ms-148, page 7r contains a number of geometrical proof drawings which are not included in the transcription.</note>
+              </seg>
             </emph>
           </s>
           <pb facs="Ms-148_7v" rend="verso" n="pagename_Ms-148,7v pageref_00"/>
@@ -945,10 +1003,10 @@
           <s type="es" part="N">Having the same <abbr corresp="number">N<emph rend="sup">r</emph>.</abbr> can be  interpreted<lb/> as having the same one of these<lb/> schemata.</s>
           <s type="es" part="N">Of course this aspect<lb/> too is only natural in a very limited  <choice type="o"><orig type="o1"><abbr type="abb"><c type="c" part="N">N</c><emph rend="sup">r</emph>.</abbr></orig><orig type="o2">number</orig></choice> of cases.</s>
           <s type="es" part="N"><add rend="el" instant="false" status="unremarkable">Aspect of <emph rend="us1">stars</emph></add>.</s>
-          <s type="es" rend="indl_2" part="N">The explanation, that two classes<lb/> have the same  <abbr corresp="number">N<emph rend="sup">r</emph>.</abbr> if they fall into<lb/> couples, is  really taken from <corr type="npc" instant="false">the</corr><lb/> a case like  <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-9v-b.BMP" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148014</seg><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-9v-c.BMP" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148015</seg></emph></s>
-          <s type="es" part="N"><emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-9v-d.BMP" subtype="graphics_Vielecke; Stern mit fünf Punkten" rend="bitmap" part="N">148016</seg></emph><del type="dnpc" instant="false" status="unremarkable"><c type="c" part="N">H</c>ow</del>  “<c type="c" part="N">T</c>he pentagram has twice<lb/> as many points   <corr type="trs" instant="false"><orig type="trs1">than</orig><reg type="trs2">as</reg></corr> the <lb rend="pb"/>  <pb facs="Ms-148_10r" rend="recto" n="pagename_Ms-148,10r pageref_00"/><fw type="pagen">6.</fw>  pentagon”<corr type="tra" instant="false">.</corr></s>
+          <s type="es" rend="indl_2" part="N">The explanation, that two classes<lb/> have the same  <abbr corresp="number">N<emph rend="sup">r</emph>.</abbr> if they fall into<lb/> couples, is  really taken from <corr type="npc" instant="false">the</corr><lb/> a case like   <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,09v-1.jpg" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148014</seg><seg type="notation" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"> ∙ –––––––– ∙ <lb rend="hl"/> ∙ –––––––– ∙ <lb rend="hl"/> ∙ –––––––– ∙ <lb rend="hl"/><seg type="white" part="N"> ∙ ––––––––</seg> ∙ <lb rend="hl"/></cell></row></table></seg></emph></s>
+          <s type="es" rend="indl_6" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,09v-2.jpg" subtype="graphics_Vielecke; Stern mit fünf Punkten" rend="bitmap" part="N">148016</seg><del type="dnpc" instant="false" status="unremarkable"><c type="c" part="N">H</c>ow</del>  “<c type="c" part="N">T</c>he pentagram has twice<lb/> as many points   <corr type="trs" instant="false"><orig type="trs1">than</orig><reg type="trs2">as</reg></corr> the <lb rend="pb"/>  <pb facs="Ms-148_10r" rend="recto" n="pagename_Ms-148,10r pageref_00"/><fw type="pagen">6.</fw>  pentagon”<corr type="tra" instant="false">.</corr></s>
           <s type="es" part="N">Demonstration</s>
-          <s type="es" rend="indl_2" part="N">Timelessness of the demonstrated<lb/> <abbr corresp="proposition">prop</abbr>:  <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-10r.BMP" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148017</seg></emph>   blue &amp; red  =  purple<corr type="tra" instant="false">.</corr> </s>
+          <s type="es" rend="indl_2" part="N">Timelessness of the demonstrated<lb/> <abbr corresp="proposition">prop</abbr>:   <emph rend="centered"><seg type="notation" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N"><note type="editor" anchored="true">Ms-148, page 10r contains a number of technical figures as well as a multiplication formula which are not included in the transcription.</note></seg></emph>   blue &amp; red  =  purple<corr type="tra" instant="false">.</corr> </s>
           <lb rend="pb"/>
           <pb facs="Ms-148_10v" rend="verso" n="pagename_Ms-148,10v pageref_00"/>
           <fw type="pagen" place="top left">7</fw>
@@ -963,12 +1021,12 @@
           <s type="es" part="N">This we<lb/> only forge<corr type="trs" instant="false"><orig type="trs1">tt</orig><reg type="trs2">t</reg></corr>.</s>
           <s type="es" part="N">Thinking about a very<lb/> special class of examples.</s>
           <lb rend="hl"/>
-          <s type="es" rend="indl_2" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-10v.BMP" subtype="graphics_Schema; ohne Linien" rend="bitmap" part="N">148018</seg><c type="c" part="N">T</c>he idea is that if  they<lb/> ha<choice type="o"><orig type="o1">b</orig><orig type="o2">v</orig></choice>e the right existential<lb/> structure they do fall<lb/> into  cou<choice type="o"><orig type="o1">l</orig><orig type="o2">p</orig></choice>les &amp; <emph rend="us1">this</emph> is<lb/>  <emph rend="us1">demonstrated</emph>.</s>
+          <s type="es" rend="indl_2" part="N"><seg type="notation" subtype="graphics_Schema; ohne Linien" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">–<lb rend="hl"/>–<lb rend="hl"/>–<lb rend="hl"/>–<lb rend="hl"/>–<lb rend="hl"/></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1">––<lb rend="hl"/>––<lb rend="hl"/>––<lb rend="hl"/>––<lb rend="hl"/>––<lb rend="hl"/></cell></row></table></seg><c type="c" part="N">T</c>he idea is that if  they<lb/> ha<choice type="o"><orig type="o1">b</orig><orig type="o2">v</orig></choice>e the right existential<lb/> structure they do fall<lb/> into  cou<choice type="o"><orig type="o1">l</orig><orig type="o2">p</orig></choice>les &amp; <emph rend="us1">this</emph> is<lb/>  <emph rend="us1">demonstrated</emph>.</s>
           <s type="es" part="N">The<lb/> question how we find out in the<lb/> special case that they do have<lb/> the  right s<choice type="o"><orig type="o1">p</orig><orig type="o2">t</orig></choice>ructures is neglected.</s>
           <s type="es" rend="indl_2" part="N">One could also say that a<lb/> length <add rend="i" instant="false" status="unremarkable"><seg type="p" part="N">a</seg></add> was twice another one  <seg type="p" part="N">b</seg><lb/> if <del type="dnpc" instant="false" status="unremarkable">the</del> two <add rend="i" instant="false" status="unremarkable"><seg type="p" part="N">a</seg></add> superimposed gave<lb/>  <seg type="p" part="N">b</seg>.</s>
           <s type="es" part="N">Application for wavelengths.</s>
           <s type="es" rend="indl_3" part="N">This brings me to the topic of <lb rend="pb"/>  <pb facs="Ms-148_11r" rend="recto" n="pagename_Ms-148,11r pageref_00"/><fw type="pagen">8</fw> demonstration.</s>
-          <s type="es" rend="indl_5" part="N">1) <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-11r-a.BMP" subtype="graphics_Vielecke; Stern mit fünf Punkten" rend="bitmap" part="N">148019</seg>  <abbr corresp="number">N<emph rend="sup">r</emph>.</abbr> of outer  <abbr corresp="vertices">vert<corr type="tra" instant="false">.</corr></abbr>  =   <del type="dnpc" instant="false" status="unremarkable"><abbr corresp="number">N<emph rend="sup">r</emph></abbr> of<lb/> inner  <abbr corresp="vertices">vert<corr type="tra" instant="false">.</corr></abbr></del> 5.</s>
+          <s type="es" rend="indl_5" part="N">1) <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,11r-1.jpg" subtype="graphics_Vielecke; Stern mit fünf Punkten" rend="bitmap" part="N">148019</seg>  <abbr corresp="number">N<emph rend="sup">r</emph>.</abbr> of outer  <abbr corresp="vertices">vert<corr type="tra" instant="false">.</corr></abbr>  =   <del type="dnpc" instant="false" status="unremarkable"><abbr corresp="number">N<emph rend="sup">r</emph></abbr> of<lb/> inner  <abbr corresp="vertices">vert<corr type="tra" instant="false">.</corr></abbr></del> 5.</s>
           <emph rend="bl_1"/>
           <s type="es" rend="indl_3" part="N">Compare with “the <c type="c" part="N">H</c>and has 5  <c type="c" part="N">F</c>ingers.”</s>
           <s type="es" rend="indl_2" part="N">Timelessness.</s>
@@ -979,10 +1037,7 @@
           <s type="es" rend="indl_2" part="N"><gap extent="words_1" instant="false"/> idea is that the idea of a penta<lb rend="shyphen"/>gram is bound up with a  cardinal<lb/> <abbr corresp="number">N<emph rend="sup">r</emph>.</abbr></s>
           <s type="es" part="N">Now, we could make all sorts of<lb/> connections.</s>
           <emph rend="centered">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-11r-b.BMP" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148020</seg>
-          </emph>
-          <emph rend="centered">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-11r-c.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148021</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,11r-2.jpg" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148020</seg>
           </emph>
           <s type="es" part="N">“It is the essence of these figures<lb/> to be capable of being  <choice type="s"><orig type="alt1">d<corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">i</reg></corr>vided</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">connected</add></orig></choice> in<lb/> this  way”.</s>
           <emph rend="bl_2"/>
@@ -1001,24 +1056,22 @@
           <emph rend="bl_1"/>
           <s type="es" rend="indl_2" part="N">Is the result of the process taken<lb/> as a standard or not.</s>
           <emph rend="bl_1"/>
-          <s type="es" rend="indl_5" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-11v-a.BMP" subtype="graphics_Vierecke; vertikales Rechteck" rend="bitmap" part="N">148022</seg> “<c type="c" part="N">T</c>hese two  triangles by <unclear instant="false">this</unclear><lb/> nature <emph rend="us1">give</emph> the  rectangle”.</s>
+          <s type="es" rend="indl_5" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,11v-1.jpg" subtype="graphics_Vierecke; vertikales Rechteck" rend="bitmap" part="N">148022</seg> “<c type="c" part="N">T</c>hese two  triangles by <unclear instant="false">this</unclear><lb/> nature <emph rend="us1">give</emph> the  rectangle”.</s>
           <lb rend="hl"/>
           <s type="es" part="N">
-            <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-11v-b.BMP" ana="field:PhilosophyOfLanguage_check_group of images on one bitmap, or use bitmap to direct the reader to the facsimile" rend="bitmap" part="N">m148001</seg>
-            </emph>
-            <s type="es" part="N">This aspect might never have struck<lb/> you.</s>
+            <seg type="notation" ana="field:PhilosophyOfLanguage_check_group of images on one bitmap, or use bitmap to direct the reader to the facsimile" rend="bitmap" part="N">
+              <note type="editor" anchored="true">Ms-148, page 11v contains additional drawings and formulas which are not included in the transcription.</note>
+            </seg>
+            <s type="es" rend="indl_5" part="N">This aspect might never have struck<lb/> you.</s>
             <lb rend="hl"/>
             <s type="es" part="N">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-11v-c.BMP" ana="field:PhilosophyOfLanguage_check_group of images on one bitmap, or use bitmap to direct the reader to the facsimile" rend="bitmap" part="N">m148002</seg>
+              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,11v-3.jpg" ana="field:PhilosophyOfLanguage_check_group of images on one bitmap, or use bitmap to direct the reader to the facsimile" rend="bitmap" part="N">m148002</seg>
             </s>
             <lb rend="pb"/>
             <pb facs="Ms-148_12r" rend="recto" n="pagename_Ms-148,12r pageref_00"/>
             <fw type="pagen">10</fw>
             <s type="es" part="N">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12r-a.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148023</seg>
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12r-b.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148024</seg>
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12r-c.BMP" subtype="graphics_Vierecke; vertikales Rechteck" rend="bitmap" part="N">148025</seg>
+              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,12r.jpg" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148023</seg>
               <emph rend="centered">
                 <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N">a   +  (<gap extent="words_1" instant="false"/>)  =  (<gap extent="words_1" instant="false"/> +  b)  + c</seg>
                 <lb rend="hl"/>
@@ -1056,25 +1109,26 @@
         </ab>
         <ab xml:id="Ms-148_12v.3et13r.1" n="Ms-148,12v[3]et13r[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_2" part="N">Does <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12v-a.BMP" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N">148026</seg> consist of  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12v-b.BMP" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N">148027</seg> &amp;  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12v-c.BMP" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N">148028</seg>?</s>
+          <s type="es" rend="indl_2" part="N">Does <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,12v-1a.jpg" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N">148026</seg> consist of   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,12v-1b.jpg" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N">148027</seg> &amp;   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,12v-1c.jpg" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N">148028</seg>?</s>
           <lb/>
           <s type="es" part="N">It depends what kind of dispute<lb/> it is.</s>
           <s type="es" part="N">You could say it con<lb rend="shyphen"/>sisted of <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12v-d.BMP" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N">148029</seg> &amp;  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12v-e.BMP" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N">148030</seg>.</s>
           <s type="es" part="N">Is the <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false"><gap extent="words_1" instant="false"/></corr></del> dispute<lb/> one about facts or mode<lb/> of   description?</s>
           <lb rend="hl"/>
-          <s type="es" part="N">Counting  <s type="es" part="N"><emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12v-f.BMP" subtype="graphics_Kreise; Kreis" rend="bitmap" part="N">148031</seg></emph></s>   <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12v-g.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">k148004</seg></emph>  <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12v-h.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">k148005</seg></emph>  <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-12v-i.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">k148006</seg></emph> <lb rend="pb"/></s>
+          <s type="es" part="N">Counting<note type="editor" anchored="true">Ms-148, page 12v contains one additonal figure which doesn't seem related to the surrounding text and is not included in the transcription.</note>  <s type="es" part="N"><emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,12v-2.jpg" subtype="graphics_Kreise; Kreis" rend="bitmap" part="N">148031</seg></emph></s>           <lb rend="pb"/></s>
           <s type="es" part="N">
             <pb facs="Ms-148_13r" rend="recto" n="pagename_Ms-148,13r pageref_00"/>
             <fw type="pagen">12</fw>
             <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-13r-0.BMP" ana="field:PhilosophyOfLanguage_check_this bitmap should contain the four figures in lines 1 through 5" rend="bitmap" part="N">m148000</seg>
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-13r-a.BMP" ana="field:PhilosophyOfLanguage_check_this bitmap should contain the four figures in lines 1 through 5" rend="bitmap" part="N">m148003</seg>
+              <seg type="notation" ana="field:PhilosophyOfLanguage_check_this bitmap should contain the four figures in lines 1 through 5" rend="bitmap" part="N">
+                <note type="editor" anchored="true">Ms-148, page 13r contains a number of figures which are not included in the transcription.</note>
+              </seg>
             </emph>
-            <s type="es" part="N"><emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-13r-b.BMP" ana="field:PhilosophyOfLanguage_check_this bitmap should contain only the figure to the right of the text and that looks like two aligned rulers" rend="bitmap" part="N">m148004</seg></emph><c type="c" part="N">T</c>his  doesn<corr type="tra" instant="false">'</corr>t<lb/> show that<lb/> <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N">a + b</seg> fits but<lb rend="hl"/> it shows that it  looks like it does<corr type="tra" instant="false">.</corr></s>
+            <s type="es" part="N"><emph rend="centered"><seg type="notation" ana="field:PhilosophyOfLanguage_check_this bitmap should contain only the figure to the right of the text and that looks like two aligned rulers" rend="bitmap" part="N"/></emph><c type="c" part="N">T</c>his  doesn<corr type="tra" instant="false">'</corr>t<lb/> show that<lb/> <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N">a + b</seg> fits but<lb rend="hl"/> it shows that it  looks like it does<corr type="tra" instant="false">.</corr></s>
             <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-13r-c.BMP" ana="field:PhilosophyOfLanguage_check_the bitmap contains only the pentagon within a star" rend="bitmap" part="N">m148005</seg>
+              <seg type="notation" ana="field:PhilosophyOfLanguage_check_the bitmap contains only the pentagon within a star" rend="bitmap" part="N"/>
             </emph>
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-13r-d.BMP" ana="field:PhilosophyOfLanguage_check_the bitmap contains the star in a pentagon and the figure that overlaps with it" rend="bitmap" part="N">m148006</seg>
+            <seg type="notation" ana="field:PhilosophyOfLanguage_check_the bitmap contains the star in a pentagon and the figure that overlaps with it" rend="bitmap" part="N"/>
             <s type="es" part="N">“What kind of figure do you<lb/> get if you draw the diago<lb rend="shyphen"/>nals  in a <c type="c" part="N">P</c>entagon?”</s>
             <lb/>
             <s type="es" part="N">
@@ -1086,7 +1140,7 @@
             <s type="es" rend="indl_2" part="N">What kind of <corr type="trs" instant="false"><orig type="trs1">coulour</orig><reg type="trs2">colour</reg></corr> do you get<lb/> if you  <choice type="o"><orig type="o1">wet</orig><orig type="o2">mix</orig></choice> red with yellow?</s>
             <emph rend="bl_1"/>
             <s type="es" rend="indl_7" part="N">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-13r-e.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148032</seg>
+              <seg type="notation" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N"/>
             </s>
             <s type="es" part="N">“The figure shows him that a pentagram<lb/> fits into a  pentagon”.</s>
             <lb/>
@@ -1110,8 +1164,7 @@
           <s type="es" rend="indl_2" part="N">We are talking of the star of which<lb/> I did <emph rend="us1">not</emph> know whether it  fitted<lb/> the pentagon or not<corr type="tra" instant="false">.</corr></s>
           <emph rend="bl_2"/>
           <s type="es" rend="indl_2" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-13v-a.BMP" subtype="graphics_Vielecke; Fünfeck" rend="bitmap" part="N">148033</seg>
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-13v-b.BMP" subtype="graphics_Vielecke; Stern mit fünf Punkten" rend="bitmap" part="N">148034</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,13v.jpg" subtype="graphics_Vielecke; Fünfeck" rend="bitmap" part="N">148033</seg>
           </s>
           <lb rend="hl"/>
           <s type="es" part="N">Then I try &amp; find that they<lb/> fit.</s>
@@ -1126,12 +1179,16 @@
           <s type="es" rend="indl_2" part="N"><del type="dnpc" instant="false" status="unremarkable"/> “I never knew that I could<lb/> see the <c type="c" part="N">P</c>entagon  &amp; its diagonals<lb/> in <emph rend="us1">this</emph> aspect.”</s>
           <lb rend="hl"/>
           <s type="es" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-14r-a.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148035</seg>
+            <seg type="notation" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">
+              <note type="editor" anchored="true">Ms-148, page 14r contains a number of figures which are not included in the transcription.</note>
+            </seg>
           </s>
           <s type="es" rend="indl_4" part="N">“Oh, that's how it fits!”</s>
           <s type="es" rend="indl_4" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-14r-b.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148036</seg>
+            <seg type="notation" subtype="graphics_Abbild; Varia" rend="bitmap" part="N"/>
           </s>
+          <emph rend="bl_1"/>
+          <s type="es" part="N">T<add rend="our" instant="false" status="unremarkable">w</add>o tunes fi<add rend="our" instant="false" status="unremarkable">tt</add>ing together.</s>
           <lb rend="pb"/>
           <pb facs="Ms-148_14v" rend="verso" n="pagename_Ms-148,14v pageref_00"/>
           <fw type="pagen" place="top left">15</fw>
@@ -1139,15 +1196,17 @@
         <ab xml:id="Ms-148_14v.1" n="Ms-148,14v[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-14v-a.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148037</seg>
+            <seg type="notation" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">
+              <note type="editor" anchored="true">Ms-148, page 14v contains figures and calculations which are not included in the transcription.</note>
+            </seg>
           </s>
           <lb rend="hl"/>
           <s type="es" part="N">“<c type="c" part="N">I</c> don<corr type="tra" instant="false">'</corr>t know whether the  <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">dra</corr></del> penta<lb rend="shyphen"/>gram fits the pentagon.</s>
           <s type="es" part="N">If so the<lb/> diagonals of a pentagon must give<lb/> a pentagram.</s>
           <s type="es" part="N">Let's try it.”</s>
           <emph rend="bl_2"/>
-          <s type="es" rend="indl_4" part="N">Is to see<del type="dn" instant="false" status="unremarkable"><gap extent="characters_1" instant="false"/></del> the figure <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-14v-b.BMP" subtype="graphics_Vielecke; Fünfeck" rend="bitmap" part="N">148038</seg> an experiment?</s>
-          <s type="es" part="N">Or to<lb/> see side by side the figures<lb rend="hl"/>  <emph rend="slilm"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-14v-c.BMP" subtype="graphics_Vielecke; Fünfeck" rend="bitmap" part="N">148039</seg></emph>?   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-14v-d.BMP" subtype="graphics_Vierecke; Quadrat mit Punkt oben" rend="bitmap" part="N">148040</seg><lb rend="hl"/>  <s type="es" part="N">But doesn't it teach us something?</s><emph rend="bl_1"/>    <s type="es" rend="indl_2" part="N"><emph rend="us1">“It never struck me<corr type="tra" instant="false">.</corr>”</emph></s> </s>
+          <s type="es" rend="indl_4" part="N">Is to see<del type="dn" instant="false" status="unremarkable"><gap extent="characters_1" instant="false"/></del> the figure <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,14v-1.jpg" subtype="graphics_Vielecke; Fünfeck" rend="bitmap" part="N"/> an experiment?</s>
+          <s type="es" part="N">Or to<lb/> see side by side the figures<lb rend="hl"/>   <emph rend="slilm"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,14v-2.jpg" subtype="graphics_Vielecke; Fünfeck" rend="bitmap" part="N">148039</seg></emph>?   <lb rend="hl"/>  <s type="es" part="N">But doesn't it teach us something?</s><emph rend="bl_1"/>    <s type="es" rend="indl_2" part="N"><emph rend="us1">“It never struck me<corr type="tra" instant="false">.</corr>”</emph></s> </s>
         </ab>
         <ab xml:id="Ms-148_14v.2" n="Ms-148,14v[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1165,7 +1224,7 @@
         </ab>
         <ab xml:id="Ms-148_15r.3" n="Ms-148,15r[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_2" part="N"><del type="dnpc" instant="false" status="unremarkable">This</del><c type="c" part="N">W</c>e feel that <del type="dnpc" instant="false" status="unremarkable">the</del> here are two  <add rend="im" instant="false" status="unremarkable">visual</add> indivi<lb rend="shyphen"/>dualities which <del type="dnpc" instant="false" status="unremarkable">we see</del> in the third  <choice type="o"><orig type="o1"><unclear instant="false">indiv</unclear></orig><orig type="o2">picture</orig></choice><lb/> we see <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">p</corr></del> combined  &amp; that we see that<lb/> they are capable of this particular  combi<lb rend="shyphen"/>nation. <lb rend="hl"/><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-15r.BMP" subtype="graphics_Dreiecke; Eckpunkt unten" rend="bitmap" part="N">148041</seg><lb rend="hl"/>  <s type="es" part="N">The fact is that the combination (not<lb/> meaning <c type="c" part="N">R</c>elation but  <c type="c" part="N">C</c>omplex) strongly<lb/> strikes us.</s> </s>
+          <s type="es" rend="indl_2" part="N"><del type="dnpc" instant="false" status="unremarkable">This</del><c type="c" part="N">W</c>e feel that <del type="dnpc" instant="false" status="unremarkable">the</del> here are two  <add rend="im" instant="false" status="unremarkable">visual</add> indivi<lb rend="shyphen"/>dualities which <del type="dnpc" instant="false" status="unremarkable">we see</del> in the third  <choice type="o"><orig type="o1"><unclear instant="false">indiv</unclear></orig><orig type="o2">picture</orig></choice><lb/> we see <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">p</corr></del> combined  &amp; that we see that<lb/> they are capable of this particular   combi<lb rend="shyphen"/>nation. <lb rend="hl"/><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,15r-1.jpg" subtype="graphics_Dreiecke; Eckpunkt unten" rend="bitmap" part="N">148041</seg><lb rend="hl"/>   <s type="es" part="N">The fact is that the combination (not<lb/> meaning <c type="c" part="N">R</c>elation but  <c type="c" part="N">C</c>omplex) strongly<lb/> strikes us.</s> </s>
         </ab>
         <ab xml:id="Ms-148_15r.4" n="Ms-148,15r[4]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1184,7 +1243,7 @@
           <s type="es" part="N">“If you draw the diagonals in <seg type="p" part="N">P</seg> you<lb/> get  <seg type="p" part="N">p</seg>.”</s>
           <lb rend="hl"/>
           <rs type="extref" key="Busch, Wilhelm: Dideldum; Anleitung zu historischen Porträts">
-            <s type="es" rend="indl_7" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-15v.BMP" subtype="graphics_Abbild; Gesicht(er)" rend="bitmap" part="N">148042</seg>  “<c type="c" part="N">I</c>f you do this &amp; this &amp; this &amp;  this<lb/> you get <persName key="Bonaparte, Napoleon" instant="false" full="yes">Napoleon</persName>.”</s>
+            <s type="es" rend="indl_7" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,15v-1.jpg" subtype="graphics_Abbild; Gesicht(er)" rend="bitmap" part="N">148042</seg>  “<c type="c" part="N">I</c>f you do this &amp; this &amp; this &amp;  this<lb/> you get <persName key="Bonaparte, Napoleon" instant="false" full="yes">Napoleon</persName>.”</s>
           </rs>
         </ab>
         <ab xml:id="Ms-148_15v.2" n="Ms-148,15v[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
@@ -1211,13 +1270,13 @@
           <pb facs="Ms-148_16r" rend="recto" n="pagename_Ms-148,16r pageref_00"/>
           <fw type="pagen">18</fw>
         </ab>
-        <ab xml:id="Ms-148_16r.1" n="Ms-148,16r[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N"><seg type="wabmarks-secml" part="N"/><s type="es" rend="indl_4" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-16r-a.BMP" ana="field:PhilosophyOfLanguage_check_this bitmap could contain some of the text, thus allowing for permanent alignement of the arrows with the images" rend="bitmap" part="N">m148007</seg></s><add rend="iupm" instant="false" status="unremarkable"><c type="c" part="N">D</c>emonstrating that this is contained</add><lb rend="hl"/> in this  <s type="es" part="N">“It is in the nature of this to contain this.”</s>  </ab>
+        <ab xml:id="Ms-148_16r.1" n="Ms-148,16r[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N"><seg type="wabmarks-secml" part="N"/><s type="es" rend="indl_4" part="N"/><add rend="iupm" instant="false" status="unremarkable"><c type="c" part="N">D</c>emonstrating that this <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,16r-1.jpg" ana="field:PhilosophyOfLanguage_check_this bitmap could contain some of the text, thus allowing for permanent alignement of the arrows with the images" rend="bitmap" part="N">m148007</seg><hi ana="facs">arrows</hi> is contained</add><lb rend="hl"/> in this <emph rend="bl_1"/>  <s type="es" part="N">“It is in the nature of this to contain this.”</s>  </ab>
         <ab xml:id="Ms-148_16r.2" n="Ms-148,16r[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Busch, Wilhelm: Dideldum; Anleitung zu historischen Porträts">
-            <s type="es" rend="indl_4" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-16r-b.BMP" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra" rend="bitmap" part="N">m148008</seg><corr type="trsn" instant="false"><orig type="trsn1">i</orig><reg type="trsn2">I</reg></corr>f you  do this &amp; this <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> you get  55<corr type="tra" instant="false">.</corr></s>
+            <s type="es" rend="indl_4" part="N"><seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">17<lb rend="hl"/>38<lb rend="hl"/><emph rend="barover">55</emph></cell></row></table></seg><corr type="trsn" instant="false"><orig type="trsn1">i</orig><reg type="trsn2">I</reg></corr>f you  do this &amp; this <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> you get  55<corr type="tra" instant="false">.</corr></s>
             <s type="es" rend="indl_4" part="N">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-16r-c.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148043</seg>
+              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,16r-2.jpg" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148043</seg>
             </s>
           </rs>
         </ab>
@@ -1243,12 +1302,14 @@
         </ab>
         <ab xml:id="Ms-148_16v.1" n="Ms-148,16v[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_2" part="N">“It never struck me that this <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-16v-a.BMP" ana="field:PhilosophyOfLanguage_check_arrow and pentagon included in bitmao" rend="bitmap" part="N">m148009</seg> was this  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-16v-b.BMP" ana="field:PhilosophyOfLanguage_check_arrow and star included in bitmao" rend="bitmap" part="N">m148010</seg><corr type="tra" instant="false">.”</corr></s>
+          <s type="es" rend="indl_2" part="N">“It never struck me that this <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,16v-1.jpg" ana="field:PhilosophyOfLanguage_check_arrow and pentagon included in bitmao" rend="bitmap" part="N">m148009</seg> was this   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,16v-2.jpg" ana="field:PhilosophyOfLanguage_check_arrow and star included in bitmao" rend="bitmap" part="N">m148010</seg><corr type="tra" instant="false">.”</corr></s>
           <s type="es" part="N">Something timeless seems to have<lb/> struck us: <c type="c" part="N">H</c>ow can the  identity<lb/> of these entities strike us<corr type="tra" instant="false">?</corr></s>
           <lb rend="hl"/>
           <s type="es" part="N">
             <emph rend="centered">
-              <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-16v-c.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148045</seg>
+              <seg type="notation" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">
+                <note type="editor" anchored="true">Ms-148, page 16v contains a figure which doesn't seem related to the surrounding text and is not included in the transcription.</note>
+              </seg>
             </emph>
           </s>
           <s type="es" part="N">It never struck me that 5 consisted<lb/> of <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N">3  +  2</seg><corr type="tra" instant="false">.</corr></s>
@@ -1257,27 +1318,64 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_2" part="N">To see five figures as 3  <abbr corresp="figures">F.</abbr>  +  2 <abbr corresp="figures">F<corr type="npc" instant="false">.</corr></abbr>.</s>
           <s type="es" part="N">I<corr type="trsn" instant="false"><orig type="trsn1">t</orig><reg type="trsn2">f</reg></corr> 5<lb/> <emph rend="us1">is</emph>  =   <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">2  +  3</seg> it  can't mean anything to<lb/> see 5 as  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">2  +   3</seg><corr type="tra" instant="false">.</corr></s>
-          <s type="es" rend="indl_2" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-16v-e.BMP" subtype="graphics_Reihenfolgen; Strichnotation" rend="bitmap" part="N">148046</seg>
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-16v-f.BMP" subtype="graphics_Klammern; Klammernotation (mehrfach unten)" rend="bitmap" part="N">148047</seg>
-          </s>
-          <lb rend="hl"/>
-          <s type="es" rend="indl_2" part="N">You could <corr type="trs" instant="false"><orig type="trs1">devid</orig><reg type="trs2">divide</reg></corr> 5 into  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">2  +  3</seg> but not<lb/> into  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">3  +  <unclear instant="false">3</unclear></seg> as  you could 6<corr type="tra" instant="false">.</corr></s>
           <emph rend="bl_1"/>
-          <s type="es" rend="indl_4" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-16v-g.BMP" subtype="graphics_Reihenfolgen; Strichnotation" rend="bitmap" part="N">148048</seg><c type="c" part="N">O</c>bstacle</s>
+          <s type="es" rend="indl_4" part="N">
+            <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="bitmap" part="N">
+              <table>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">| | | | | </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="blankspace_4"/>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="barunder">| |</emph>
+                    <emph rend="barunder">| | |</emph>
+                    <hi ana="facs">klammer</hi>
+                  </cell>
+                </row>
+              </table>
+            </seg>
+            <emph rend="bl_1"/>
+            <s type="es" rend="indl_2" part="N">You could <corr type="trs" instant="false"><orig type="trs1">devid</orig><reg type="trs2">divide</reg></corr> 5 into  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">2  +  3</seg> but not<lb/> into  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">3  +  <unclear instant="false">3</unclear></seg> as  you could 6<corr type="tra" instant="false">.</corr></s>
+            <emph rend="bl_1"/>
+            <seg type="notation" subtype="graphics_Klammern; Klammernotation (mehrfach unten)" rend="bitmap" part="N">
+              <table>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">| | | | | |<lb rend="hl"/>| | | | | </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="blankspace_4"/>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">Obstacle<lb rend="hl"/><lb rend="hl"/></cell>
+                </row>
+              </table>
+            </seg>
+          </s>
           <lb rend="pb"/>
           <pb facs="Ms-148_17r" rend="recto" n="pagename_Ms-148,17r pageref_00"/>
           <fw type="pagen">20</fw>
-          <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-17r-a.BMP" subtype="graphics_Reihenfolgen; Strichnotation" rend="bitmap" part="N">148049</seg>
+          <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="bitmap" part="N">
+            <table>
+              <row role="data" rows="1" cols="1">
+                <cell role="data" rows="1" cols="1">| | | | | |<lb rend="hl"/><lb rend="hl"/>| | | <emph rend="large">|</emph>| | |</cell>
+                <cell role="data" rows="1" cols="1">
+                  <emph rend="blankspace_4"/>
+                </cell>
+                <cell role="data" rows="1" cols="1">| | | | | <lb rend="hl"/><lb rend="hl"/></cell>
+              </row>
+            </table>
+          </seg>
         </ab>
         <ab xml:id="Ms-148_17r.2et17v.1" n="Ms-148,17r[2]et17v[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_2" part="N">The whole question is really: “can it<lb/> <emph rend="us1">strike</emph> you  what a thing <emph rend="us1">is</emph>?”</s>
           <lb rend="hl"/>
           <s type="es" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-17r-b.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148050</seg>
+            <seg type="notation" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">
+              <note type="editor" anchored="true">Ms-148, page 17r contains a figure which doesn't seem related to the surrounding text and is not included in the transcription.</note>
+            </seg>
           </s>
           <lb rend="hl"/>
+          <emph rend="bl_1"/>
           <s type="es" part="N">It seems you can find out some<lb rend="shyphen"/>thing about the <emph rend="us1">nature</emph> of a  thing<lb/> by experience.</s>
           <s type="es" part="N">About its internal nature.</s>
           <s type="es" rend="indl_4" part="N">
@@ -1338,7 +1436,7 @@
         </ab>
         <ab xml:id="Ms-148_18r.5" n="Ms-148,18r[5]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_2" part="N">Tribe <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">describ</corr></del> describing  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18r-a.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148055</seg> as  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18r-b.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148056</seg><lb/> or  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18r-c.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148057</seg><corr type="tra" instant="false">.</corr></s>
+          <s type="es" rend="indl_2" part="N">Tribe <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">describ</corr></del> describing   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,18r-1.jpg" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148055</seg> as   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,18r-2.jpg" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148056</seg><lb/> or   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,18r-3.jpg" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148057</seg><corr type="tra" instant="false">.</corr></s>
         </ab>
         <ab xml:id="Ms-148_18r.6" n="Ms-148,18r[6]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1353,9 +1451,9 @@
         </ab>
         <ab xml:id="Ms-148_18r.8et18v.1" n="Ms-148,18r[8]et18v[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" part="N">“<seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18r-d.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148058</seg> consists of  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18r-e.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148059</seg>  &amp; <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18r-f.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148060</seg>”<corr type="tra" instant="false">.</corr></s>
+          <s type="es" part="N">“<seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,18r-1.jpg" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148058</seg> consists of   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,18r-5.jpg" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148059</seg>   &amp; <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,18r-4.jpg" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148060</seg>”<corr type="tra" instant="false">.</corr></s>
           <lb rend="hl"/>
-          <s type="es" part="N">“<seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18r-g.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148061</seg> consists of  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18r-h.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148062</seg>  &amp; <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18r-i.BMP" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148063</seg>”<corr type="tra" instant="false">.</corr></s>
+          <s type="es" part="N">“<seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,18r-1.jpg" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148061</seg> consists of   <add rend="our" instant="false" status="unremarkable"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,18r-5.jpg" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148062</seg></add>   &amp; <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,18r-4.jpg" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">148063</seg>”<corr type="tra" instant="false">.</corr></s>
           <s type="es" rend="indl_2" part="N">In one case you say that it <lb rend="pb"/>  <pb facs="Ms-148_18v" rend="verso" n="pagename_Ms-148,18v pageref_00"/><fw type="pagen" place="top left">23</fw> consists if it is  d<corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">i</reg></corr>vided.</s>
           <s type="es" part="N">In the<lb/> other case you <add rend="im" instant="false" status="unremarkable">seem to</add> say that the<lb/>  und<corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">i</reg></corr>vided <unclear instant="false">object</unclear> consists  (time<lb rend="shyphen"/>lessly) if you have seen a<lb/> similar object  d<corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">i</reg></corr>vided.</s>
           <s type="es" rend="indl_2" part="N">Or you say that the object is<lb/> d<corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">i</reg></corr>vided if you have  d<corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">i</reg></corr>vided its<lb/> picture.</s>
@@ -1365,11 +1463,11 @@
           <s type="es" rend="indl_2" part="N"><c type="k" part="N">I</c> dispose about 5 soldiers<corr type="tra" instant="false">,</corr> I imagine<lb/> them &amp; say:  I'll sen<corr type="trsn" instant="false"><orig type="trsn1">t</orig><reg type="trsn2">d</reg></corr> <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘ ❘ ❘</seg> to this<lb/> place  <corr type="tra" instant="false">and</corr> <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘ ❘</seg> to that.</s>
           <s type="es" part="N">Have I<lb/> thereby d<corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">i</reg></corr>vided them into  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">2  +  3</seg><lb/>  <c type="c" part="N">S</c>oldiers &amp; seen that it's possible.</s>
           <lb/>
-          <s type="es" part="N">What if I had imagined<lb/> this picture <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18v-a.BMP" subtype="graphics_Klammern; Klammernotation (mehrfach unten)" rend="bitmap" part="N">148064</seg>  &amp; said<lb/> I'll send <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘ ❘ ❘</seg> to this place<lb/>  &amp; <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘ ❘ ❘</seg> to  that?</s>
+          <s type="es" part="N">What if I had imagined<lb/> this picture <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18v-a.BMP" subtype="graphics_Klammern; Klammernotation (mehrfach unten)" rend="bitmap" part="N">         148064</seg>  &amp; said<lb/> I'll send <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘ ❘ ❘</seg> to this place<lb/>  &amp; <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘ ❘ ❘</seg> to  that?</s>
         </ab>
         <ab xml:id="Ms-148_18v.3" n="Ms-148,18v[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_2" part="N">What happens if our attention is drawn<lb/> to something.   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18v-b.BMP" ana="field:PhilosophyOfLanguage" rend="bitmap" part="N">113ML12</seg>  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18v-c.BMP" ana="field:PhilosophyOfLanguage" rend="bitmap" part="N">K148007</seg>    </s>
+          <s type="es" rend="indl_2" part="N">What happens if our attention is drawn<lb/> to something.   <seg type="notation" ana="field:PhilosophyOfLanguage" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"><emph rend="barunder">1</emph>  :  3  =  0˙3<lb rend="hl"/><emph rend="blankspace_2"/><emph rend="barunder">1</emph></cell></row></table><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">1˙0  :  7  =  0˙142857<lb rend="hl"/><emph rend="blankspace_2"/>30     <lb rend="hl"/><emph rend="blankspace_4"/>20     <lb rend="hl"/><emph rend="blankspace_6"/>60     <lb rend="hl"/><emph rend="blankspace_8"/>40     <lb rend="hl"/><emph rend="blankspace_10"/>50    <lb rend="hl"/><emph rend="blankspace_12"/>1</cell></row></table></seg>  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18v-c.BMP" ana="field:PhilosophyOfLanguage" rend="bitmap" part="N">K148007</seg>    </s>
         </ab>
         <ab xml:id="Ms-148_18v.4" n="Ms-148,18v[4]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1460,15 +1558,106 @@
         <ab xml:id="Ms-148_20r.4" n="Ms-148,20r[4]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_2" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-20r.BMP" subtype="graphics_Schema; ohne Linien" rend="bitmap" part="N">148065</seg>
-            <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">29  ×  34  =  34   ×  29</seg>
-            <emph rend="bl_2"/>
-            <emph rend="us1">
-              <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">3102  ×   2331</seg>
-            </emph>
-            <emph rend="us1">
-              <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">2331  ×  3102</seg>
-            </emph>
+            <seg type="notation" subtype="graphics_Schema; ohne Linien" rend="bitmap" part="N">
+              <table>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="blankspace_10"/>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">29  ×  34  =  34       ×  29</cell>
+                </row>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                </row>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                </row>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                </row>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                </row>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="blankspace_10"/>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="us1">3102  ×       2331</emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="blankspace_4"/>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="us1">2331  ×  3102</emph>
+                  </cell>
+                </row>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                </row>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="large"> ∙ </emph>
+                  </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                  <cell role="data" rows="1" cols="1"> ∙ </cell>
+                </row>
+              </table>
+            </seg>
           </s>
         </ab>
         <ab xml:id="Ms-148_20r.5" n="Ms-148,20r[5]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_3" xml:lang="de" part="N">
@@ -1495,7 +1684,7 @@
         <ab xml:id="Ms-148_20v.1" n="Ms-148,20v[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_2" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-20v-a.BMP" ana="field:PhilosophyOfLanguage_check_put both the large and small graphic into one bitmap" rend="bitmap" part="N">m148012</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,20v.jpg" ana="field:PhilosophyOfLanguage_check_put both the large and small graphic into one bitmap" rend="bitmap" part="N">m148012</seg>
             <seg type="notation" subtype="maths_arithmetic representation" rend="literal" part="N"/>
           </s>
           <emph rend="bl_1"/>
@@ -1520,7 +1709,7 @@
         <ab xml:id="Ms-148_21r.1" n="Ms-148,21r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_4" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-21r.BMP" ana="field:PhilosophyOfLanguage_check_I recommend one bitmap for all this stuff" rend="bitmap" part="N">m148014</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,21r.jpg" ana="field:PhilosophyOfLanguage_check_I recommend one bitmap for all this stuff" rend="bitmap" part="N">m148014</seg>
           </s>
         </ab>
         <ab xml:id="Ms-148_21r.2" n="Ms-148,21r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" part="N">
@@ -1598,7 +1787,7 @@
         <ab xml:id="Ms-148_22v.1" n="Ms-148,22v[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_2" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-22v.BMP" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148066</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,22v.jpg" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148066</seg>
           </s>
         </ab>
         <ab xml:id="Ms-148_22v.2" n="Ms-148,22v[2]" xml:lang="en" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" part="N">
@@ -1632,7 +1821,7 @@
           <s type="es" part="N">“<emph rend="us1">You</emph> <emph rend="us2">see</emph> it just leads to the same<lb/>  result!”</s>
           <emph rend="bl_1"/>
           <s type="es" rend="indl_6" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-23r-a.BMP" subtype="graphics_Kurven; Spirale" rend="bitmap" part="N">148067</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,23r.jpg" subtype="graphics_Kurven; Spirale" rend="bitmap" part="N">148067</seg>
           </s>
         </ab>
         <ab xml:id="Ms-148_23r.2" n="Ms-148,23r[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
@@ -1697,7 +1886,7 @@
           <s type="es" rend="indl_2" part="N">If you first see that the two <abbr corresp="calculations">calc.</abbr><lb/>  <emph rend="us2">must</emph> lead to the same result<lb/> is it a confirmation to find that<lb/>  they do?</s>
           <emph rend="bl_1"/>
           <s type="es" rend="indl_6" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-24v.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148071</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,24v.jpg" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148071</seg>
           </s>
         </ab>
         <ab xml:id="Ms-148_24v.2" n="Ms-148,24v[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
@@ -1724,7 +1913,7 @@
         <ab xml:id="Ms-148_25r.1" n="Ms-148,25r[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_4" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-25r-a.BMP" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148072</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,25r-1.jpg" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148072</seg>
           </s>
           <emph rend="indl_2"/>
           <emph rend="slilm">
@@ -1737,7 +1926,7 @@
           <s type="es" rend="indl_2" part="N">Can <choice type="s"><orig type="alt1">we</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">I</add></orig></choice> try whether the result is the<lb/>  same? –</s>
           <s type="es" part="N">It se<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">e</reg></corr>ms, yes.</s>
           <s type="es" rend="indl_2" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-25r-b.BMP" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148073</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,25r-2.jpg" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148073</seg>
           </s>
           <emph rend="bl_1"/>
           <s type="es" part="N">“Can you imagine the calculation  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">16 × 34</seg><lb/> to  lead to something else  …?” –</s>
@@ -1765,7 +1954,7 @@
         </ab>
         <ab xml:id="Ms-148_25v.3" n="Ms-148,25v[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_4" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-25v-a.BMP" ana="field:PhilosophyOfLanguage_check_image difficult to read" rend="bitmap" part="N">m148017</seg><emph rend="indl_2"/>  “<c type="c" part="N">W</c>enn die Überlegung richtig ist”, so<lb/> muß diese  Rechnung zu demsel<lb rend="shyphen"/>ben Resultat führen.</s>
+          <s type="es" rend="indl_4" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,25v.jpg" ana="field:PhilosophyOfLanguage_check_image difficult to read" rend="bitmap" part="N">m148017</seg><emph rend="indl_2"/>  “<c type="c" part="N">W</c>enn die Überlegung richtig ist”, so<lb/> muß diese  Rechnung zu demsel<lb rend="shyphen"/>ben Resultat führen.</s>
         </ab>
         <ab xml:id="Ms-148_25v.4" n="Ms-148,25v[4]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1909,7 +2098,7 @@
         </ab>
         <ab xml:id="Ms-148_28r.2" n="Ms-148,28r[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_2" part="N">They are resolved to write<lb/> this: <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-28r-a.BMP" ana="field:PhilosophyOfLanguage_check_is bitmap of mathlog stuff here OK, bearing in mind the comparison with the next line" rend="bitmap" part="N"> k148012</seg> instead   of <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-28r-b.BMP" ana="field:PhilosophyOfLanguage_check_is bitmap of mathlog stuff here OK, bearing in mind the comparison with the line above" rend="bitmap" part="N"> k148013</seg></emph><corr type="tra" instant="false">.</corr></s>
+          <s type="es" rend="indl_2" part="N">They are resolved to write<lb/> this: <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,28r.jpg" ana="field:PhilosophyOfLanguage_check_is bitmap of mathlog stuff here OK, bearing in mind the comparison with the next line" rend="bitmap" part="N"> k148012</seg> instead   of <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-28r-b.BMP" ana="field:PhilosophyOfLanguage_check_is bitmap of mathlog stuff here OK, bearing in mind the comparison with the line above" rend="bitmap" part="N"> k148013</seg></emph><corr type="tra" instant="false">.</corr></s>
         </ab>
         <ab xml:id="Ms-148_28r.3" n="Ms-148,28r[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1928,7 +2117,7 @@
         </ab>
         <ab xml:id="Ms-148_28v.1" n="Ms-148,28v[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
-          <s type="es" rend="indl_2" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-28v-a.BMP" ana="field:PhilosophyOfLanguage_check_include the strichnotation and the 1234,4321 number correlation" rend="bitmap" part="N">k148014</seg><seg type="edinst" part="N"><emph rend="endarrback"/></seg><seg type="edinst" part="N"><emph rend="endarrback"/></seg><seg type="edinst" part="N"><emph rend="endarrback"/></seg><c type="c" part="N">A</c>m  I to be guided by this<seg type="edinst" part="N"><emph rend="startarrback"/></seg><lb/> or by this<seg type="edinst" part="N"><emph rend="startarrback"/></seg>?</s>
+          <s type="es" rend="indl_2" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,28v.jpg" ana="field:PhilosophyOfLanguage_check_include the strichnotation and the 1234,4321 number correlation" rend="bitmap" part="N">k148014</seg><seg type="edinst" part="N"><emph rend="endarrback"/></seg><seg type="edinst" part="N"><emph rend="endarrback"/></seg><seg type="edinst" part="N"><emph rend="endarrback"/></seg><c type="c" part="N">A</c>m  I to be guided by this<seg type="edinst" part="N"><emph rend="startarrback"/></seg><lb/> or by this<seg type="edinst" part="N"><emph rend="startarrback"/></seg>?</s>
           <s type="es" part="N">And how<lb/> do I know that they will<lb/> guide me to the same result?</s>
           <lb rend="hl"/>
           <s type="es" part="N">We have a general kind of idea<lb/> of how it goes on; but can't<lb/>  this after all be contradicted<lb/> by the actual detailed  calcula<lb rend="shyphen"/>tion?</s>
@@ -1962,7 +2151,7 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_2" part="N">“The calculation guides you to<lb/> the result.”</s>
           <lb rend="hl"/>
-          <s type="es" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-29r-b.BMP" subtype="graphics_Kurven; Spirale" rend="bitmap" part="N">148079</seg> “<c type="c" part="N">Y</c>ou know  that the<lb/> two rules <emph rend="us1">must</emph> <add rend="i" instant="false" status="unremarkable">always</add> lead you<lb/> to the same  result.”</s>
+          <s type="es" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,29r-2.jpg" subtype="graphics_Kurven; Spirale" rend="bitmap" part="N">148079</seg> “<c type="c" part="N">Y</c>ou know  that the<lb/> two rules <emph rend="us1">must</emph> <add rend="i" instant="false" status="unremarkable">always</add> lead you<lb/> to the same  result.”</s>
         </ab>
         <ab xml:id="Ms-148_29r.3" n="Ms-148,29r[3]" xml:lang="en" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1971,7 +2160,7 @@
         <ab xml:id="Ms-148_29r.4" n="Ms-148,29r[4]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
-            <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-29r-c.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148080</seg> Rösselsprung</emph>
+            <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,29r-3.jpg" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148080</seg> Rösselsprung</emph>
           </s>
           <lb rend="pb"/>
           <pb facs="Ms-148_29v" rend="verso" n="pagename_Ms-148,29v pageref_00"/>
@@ -2788,7 +2977,7 @@
           <seg type="publ" part="N">
             <emph rend="vdline">
               <s type="es" rend="indl_2" part="N">“A rod has one length or another<lb/> how ever we find it  out.”</s>
-              <s type="es" part="N">Here again<lb/> the picture <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-42v.BMP" subtype="graphics_Fäden; ungeteilt" rend="bitmap" part="N">148083</seg>.</s>
+              <s type="es" part="N">Here again<lb/> the picture <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,42v.jpg" subtype="graphics_Fäden; ungeteilt" rend="bitmap" part="N">148083</seg>.</s>
             </emph>
           </seg>
         </ab>
@@ -3218,7 +3407,7 @@
             <lb rend="hl"/>
             <s type="es" part="N">
               <emph rend="centered">
-                <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-47v.BMP" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148084</seg>
+                <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,47v.jpg" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148084</seg>
               </emph>
             </s>
             <s type="es" part="N"><c type="k" part="N">I</c><emph rend="us1">express</emph> things  a<corr type="npcn" instant="false">s</corr>symmetri<choice type="o"><orig type="o1">l</orig><orig type="o2">c</orig></choice>ally &amp; could<lb/> express them  symmetrically; only then one<lb/> would see what facts prompt us to<lb/> the  a<corr type="npcn" instant="false">s</corr>symmetrical expression.</s>
