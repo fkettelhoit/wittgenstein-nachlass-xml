@@ -2338,8 +2338,8 @@
           <s type="es" part="N">
             <table rend="table">
               <row role="data" rows="1" cols="1">
-                <cell rend="column" n="1" role="data" rows="1" cols="1">Schwarz  &amp; Weiß<lb rend="hl"/> Weiß &amp; Gelb<lb rend="hl"/> Weiß &amp; Blau<lb rend="hl"/></cell>
-                <cell rend="column" n="2" role="data" rows="1" cols="1"> Weiß <add rend="our" instant="false" status="unremarkable">S</add>chwarz<lb rend="hl"/> Rot Schwarz<lb rend="hl"/> Weiß Blau<lb rend="hl"/></cell>
+                <cell rend="column" n="1" role="data" rows="1" cols="1">Schwarz  &amp; Weiß<milestone unit="br"/> Weiß &amp; Gelb<milestone unit="br"/> Weiß &amp; Blau<milestone unit="br"/></cell>
+                <cell rend="column" n="2" role="data" rows="1" cols="1"> Weiß <add rend="our" instant="false" status="unremarkable">S</add>chwarz<milestone unit="br"/> Rot Schwarz<milestone unit="br"/> Weiß Blau<milestone unit="br"/></cell>
               </row>
             </table>
           </s>

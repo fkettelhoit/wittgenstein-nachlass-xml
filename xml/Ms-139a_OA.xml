@@ -155,7 +155,7 @@
   </facsimile>
   <text xml:lang="en">
     <body>
-      <ab xml:id="Ms-139a_1r.1" n="Ms-139a,1r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_1" part="N">
+      <ab xml:id="Ms-139a_1r.1" n="Ms-139a,1r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_1" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <pb facs="Ms-139a_1r" n="pagename_Ms-139a,1r pageref_00"/>
@@ -166,7 +166,7 @@
           </s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_1r.2et1v.1et2r.1" n="Ms-139a,1r[2]et1v[1]et2r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_1r.2et1v.1et2r.1" n="Ms-139a,1r[2]et1v[1]et2r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <seg type="introduction" part="N">
@@ -185,7 +185,7 @@
           <s type="es" part="N">– Now let me begin.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_2r.2" n="Ms-139a,2r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_2r.2" n="Ms-139a,2r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <rs type="extref" key="Moore, George Edward: Principia Ethica">
@@ -196,7 +196,7 @@
           <s type="es" part="N">The reason<lb/>  for this will perhaps get cl<add rend="el" instant="false" status="unremarkable">e</add>ar<lb/>    later on.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_2r.3et2v.1" n="Ms-139a,2r[3]et2v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_2r.3et2v.1" n="Ms-139a,2r[3]et2v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now let me point out first<lb/>  of all that in our <corr type="trsn" instant="false"><orig type="trsn1">D</orig><reg type="trsn2">d</reg></corr>efinition of <c type="c" part="N">E</c>thics<lb/>  I might have substituted many<lb/>   other words for the word <q><corr type="tra" instant="false">“</corr>valuable<corr type="tra" instant="false">”</corr></q>.<lb/></s>
@@ -212,7 +212,7 @@
           </s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_2v.2" n="Ms-139a,2v[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_2v.2" n="Ms-139a,2v[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <seg type="definition" part="N">
@@ -222,7 +222,7 @@
           <s type="es" part="N">you will I believe see<lb/>  what it is <choice type="em"><orig type="em1">I<choice type="o"><orig type="o1">'m</orig><orig type="o2">am</orig></choice></orig><orig type="em2"><choice type="dsl"><orig type="alt1">I'm</orig><orig type="alt2">I am</orig></choice></orig></choice> concerned with.<lb/></s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_2v.3et3r.1" n="Ms-139a,2v[3]et3r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_2v.3et3r.1" n="Ms-139a,2v[3]et3r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now the first thing I want you to<lb/>  notice about all these expressions<lb/>  is that t<add rend="our" instant="false" status="unremarkable">h</add>ey can all be used in t<add rend="our" instant="false" status="unremarkable">wo</add>        <pb facs="Ms-139a_3r" n="pagename_Ms-139a,3r pageref_00"/> <fw type="pagen" place="top right">V.</fw>     <del type="d" instant="false" status="unremarkable">very</del> different senses:</s>
@@ -245,7 +245,7 @@
           <s type="es" part="N">are easily understood<lb/>  &amp; p<corr type="tran" instant="false">r</corr>esent no g<corr type="tran" instant="false">r</corr>eat problems.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_3r.2et3v.1" n="Ms-139a,3r[2]et3v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_3r.2et3v.1" n="Ms-139a,3r[2]et3v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now in <c type="c" part="N">E</c>thics<lb/>  these same words are used ap<corr type="tran" instant="false">p</corr>arently<lb/>  in a<del type="d" instant="false" status="unremarkable">n entirely</del> different sense.</s>
@@ -267,7 +267,7 @@
           <s type="es" part="N">The<lb/>  difference was that this man was making<lb/>  an <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">absolute</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">ethical</add></orig></choice> judgment whereas the<lb/>   <del type="d" instant="false" status="unremarkable">other</del> conn<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">o</reg></corr>isseur made a relative<lb/>  judgment.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_3v.2et4r.1" n="Ms-139a,3v[2]et4r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_3v.2et4r.1" n="Ms-139a,3v[2]et4r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now the essence of this<lb/>  difference seems to me to be obviously<lb/>   this: <c type="c" part="N">E</c>very <add rend="our" instant="false" status="unremarkable">judg</add>ment of relative value,<lb/>  goodnes<corr type="tran" instant="false">s</corr>, importance <abbr type="abb">etc.</abbr> <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">can be</del></orig><orig type="alt2">is a</orig></choice><lb/>  simple statement of facts &amp; can be<lb/>   put in such a form that it lo<corr type="npcn" instant="false">o</corr>ses all<lb/>  appearance of a judgment of value.</s>
@@ -283,7 +283,7 @@
           </seg>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_4r.2et4v.1" n="Ms-139a,4r[2]et4v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_4r.2et4v.1" n="Ms-139a,4r[2]et4v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <seg type="example" part="N">
@@ -297,7 +297,7 @@
           </seg>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_4v.2" n="Ms-139a,4v[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_4v.2" n="Ms-139a,4v[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now <add rend="our" instant="false" status="unremarkable">w</add>hat I wish to<lb/>   say is that all facts are as it<lb/>  were on the same level that there<lb/>  is no such thing as absolute   impor<lb rend="shyphen"/>tance or unimportance in them &amp; that<lb/>  <del type="d" instant="false" status="unremarkable">therefore</del> in the same way all propositions<lb/>   are on the same level that there<lb/>  are no propositions which <add rend="our" instant="false" status="unremarkable">ar</add>e in any<lb/>  absolute sense sublime, important or <add rend="im" instant="false" status="unremarkable">on the other hand</add><lb/>   trivial.</s>
@@ -311,7 +311,7 @@
           </rs>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_4v.3et5r.1" n="Ms-139a,4v[3]et5r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_4v.3et5r.1" n="Ms-139a,4v[3]et5r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <seg type="example" part="N">
@@ -321,7 +321,7 @@
           </seg>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_5r.2et5v.1" n="Ms-139a,5r[2]et5v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_5r.2et5v.1" n="Ms-139a,5r[2]et5v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">And now I must say<lb/>   that if I contemplate what<lb/>  <c type="c" part="N">E</c>thics real<corr type="tran" instant="false">l</corr>y would have to be if<lb/>  there were such a science <add rend="im" instant="false" status="unremarkable"><add rend="our" instant="false" status="unremarkable">this</add></add><corr type="npc" instant="false">:</corr> seems to<lb/>  me quite obvious.</s>
@@ -342,7 +342,7 @@
           </seg>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_5v.2et6r.1" n="Ms-139a,5v[2]et6r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_5v.2et6r.1" n="Ms-139a,5v[2]et6r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N"><c type="k" part="N">I</c> said that so far as<lb/>  facts &amp; propositions are concerned<lb/>  there is only relative value &amp;<lb/>  relative good, right <abbr type="abb">etc.</abbr></s>
@@ -362,7 +362,7 @@
           <s type="es" part="N">Then what do<lb/>  all of us who are, like myself, still<lb/>  tempted to use such <choice type="s"><orig type="alt1">phrases</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><corr type="trsn" instant="false"><orig type="trsn1">E</orig><reg type="trsn2">e</reg></corr>xpressions</add></orig></choice> as         <pb facs="Ms-139a_6r" n="pagename_Ms-139a,6r pageref_00"/> <fw type="pagen" place="top right">11</fw>     <corr type="tra" instant="false">“</corr>ab<corr type="trsn" instant="false"><orig type="trsn1">o</orig><reg type="trsn2">so</reg></corr><choice type="o"><orig type="o1">s</orig><orig type="o2">l</orig></choice>ute good<corr type="tra" instant="false">”</corr>, <corr type="tra" instant="false">“</corr>absolute value<corr type="tra" instant="false">”</corr> <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> what<lb/>  have they in mind &amp; what do we try<lb/>   to express?</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_6r.2et6v.1" n="Ms-139a,6r[2]et6v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_6r.2et6v.1" n="Ms-139a,6r[2]et6v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <seg type="pictorial_expression" part="N">
@@ -399,7 +399,7 @@
           </seg>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_6v.2et7r.1et7v.1" n="Ms-139a,6v[2]et7r[1]et7v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_6v.2et7r.1et7v.1" n="Ms-139a,6v[2]et7r[1]et7v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now let me consider<lb/>  these experiences because they exhibit<lb/>  I believe the very characteristics we<lb/>  want to get clear about.</s>
@@ -421,7 +421,7 @@
           <s type="es" part="N">The verbal<lb/>   expression <corr type="tra" instant="false">“</corr>do w<corr type="npcn" instant="false">h</corr>ith it what I may<corr type="tra" instant="false">”</corr><lb/>  remains nonsense &amp; I think it<lb/>   is essentia<add rend="our" instant="false" status="unremarkable">l</add> that it should do<lb/>   so.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_7v.2" n="Ms-139a,7v[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_7v.2" n="Ms-139a,7v[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now the same applies to that<lb/>  other experience which I have mentioned<lb/>  the experience of <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">being safe</del></orig><orig type="alt2">absolute<lb/>  safety</orig></choice>.</s>
@@ -432,7 +432,7 @@
           <s type="es" part="N">Again it is a<lb/>  misuse of the wo<add rend="our" instant="false" status="unremarkable">r</add>d <corr type="tra" instant="false">“</corr>safe<corr type="tra" instant="false">”</corr> as the other <add rend="im" instant="false" status="unremarkable">example</add><lb/>   was a misuse of the word <corr type="tra" instant="false">“</corr>existence<corr type="tra" instant="false">”</corr>.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_7v.3et8r.1" n="Ms-139a,7v[3]et8r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_7v.3et8r.1" n="Ms-139a,7v[3]et8r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now I want to impress on you that<lb/>  a certain characteristic misuse<lb/>  of language runs through <emph rend="us1">all</emph><lb/>   ethical &amp; religious expressions.</s>
@@ -442,7 +442,7 @@
           <s type="es" part="N">And when we say <corr type="tra" instant="false">“</corr><choice type="em"><orig type="em1">th<choice type="o"><orig type="o1">is</orig><orig type="o2">e</orig></choice></orig><orig type="em2"><choice type="dsl"><orig type="alt1">this</orig><orig type="alt2">the</orig></choice></orig></choice> <corr type="trsn" instant="false"><orig type="trsn1">L</orig><reg type="trsn2">l</reg></corr>ife of this<lb/>  man was valuable<corr type="tra" instant="false">”</corr> we don<corr type="tra" instant="false">'</corr>t mean<lb/>   it in the same sense as when we say<lb/>  <corr type="tra" instant="false">“</corr>this p<add rend="our" instant="false" status="unremarkable">ie</add>ce of j<corr type="trsn" instant="false"><orig type="trsn1">u<choice type="o"><orig type="o1">w</orig><orig type="o2">v</orig></choice></orig><reg type="trsn2">ew</reg></corr>el<corr type="tran" instant="false">l</corr><add rend="our" instant="false" status="unremarkable">er</add>y is valuable<corr type="tra" instant="false">”</corr> but<lb/>   there se<choice type="o"><orig type="o1">a</orig><orig type="o2">e</orig></choice>ms to be some sort of<lb/>  connection.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_8r.2et9r.1" n="Ms-139a,8r[2]et9r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_8r.2et9r.1" n="Ms-139a,8r[2]et9r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now all religious terms <del type="d" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable">&amp; notions</add></del><lb/>  seem in this sense to be used as<lb/>   simil<choice type="o"><orig type="o1">ei</orig><orig type="o2">e</orig></choice><add rend="our" instant="false" status="unremarkable">s</add> or al<corr type="tran" instant="false">l</corr>egorical<corr type="tran" instant="false">ly</corr>.</s>
@@ -455,7 +455,7 @@
           </del>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_9r.2" n="Ms-139a,9r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_9r.2" n="Ms-139a,9r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N"><c type="k" part="N">I</c> have said<lb/>  that whenever we describe ethical<lb/>  or religious experiences we seem to<lb/>   use language only to make up similes.</s>
@@ -465,7 +465,7 @@
           <s type="es" part="N">And so<lb/>  what at first appear<corr type="tran" instant="false">e</corr>d to be similes<lb/>   now seems to be mere nonsense.<lb/></s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_9r.3et10r.1" n="Ms-139a,9r[3]et10r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_9r.3et10r.1" n="Ms-139a,9r[3]et10r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now the three experiences which I<lb/>  mentioned before (and I could have<lb/>  added <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">many</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">some</add></orig></choice> more) seem to those<lb/>  who have experienced them <add rend="im" instant="false" status="unremarkable">for instance to me to</add> <lb/>   have <del type="dnpc" instant="false" status="unremarkable">some</del> in some sense an intrinsic<lb/>  <add rend="el" instant="false" status="unremarkable">an</add> absolute value.</s>
@@ -476,7 +476,7 @@
           <s type="es" part="N">And I will make the point still more<lb/>  <emph rend="uw2">acute</emph> by say<add rend="our" instant="false" status="unremarkable">i</add>ng, that <choice type="s"><orig type="alt1"><add rend="im" instant="false" status="unremarkable">an experience</add></orig><orig type="alt2">a fact</orig></choice> s<del type="dn" instant="false" status="unremarkable">c</del>hould<lb/>   have a supernatural <add rend="our" instant="false" status="unremarkable">v</add>alue.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_10r.2et11r.1" n="Ms-139a,10r[2]et11r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_10r.2et11r.1" n="Ms-139a,10r[2]et11r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now the<lb/>  way I would be tempted at first<lb/>   to meet this paradox is this: <c type="c" part="N">L</c>et<lb/>  me consider again the <corr type="trsn" instant="false"><orig type="trsn1">E</orig><reg type="trsn2">e</reg></corr>xperience of<lb/>   wondering at existence &amp; let me    des<lb rend="shyphen0"/>cribe it in a sligh<corr type="tran" instant="false">t</corr>ly different way: <c type="c" part="N">W</c>e all<lb/>  know what in ordinary life would<lb/>   be called a m<add rend="our" instant="false" status="unremarkable">ir</add>a<choice type="o"><orig type="o1">kal</orig><orig type="o2">cle</orig></choice>: <c type="k" part="N">I</c>t obviously is<lb/>   simply an event <del type="dnpc" instant="false" status="unremarkable">which</del> the like of which<lb/>  we have never yet seen.</s>
@@ -499,7 +499,7 @@
           <s type="es" part="N">And here we have<lb/>  the misuse of the word <corr type="trs" instant="false"><orig type="trs1">„</orig><reg type="trs2">“</reg></corr><add rend="i" instant="false" status="unremarkable">to</add> wonder” which<lb/>  w<add rend="our" instant="false" status="unremarkable">e</add> talked about previously. –</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_11r.2et11v.1" n="Ms-139a,11r[2]et11v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_11r.2et11v.1" n="Ms-139a,11r[2]et11v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">In fac<add rend="our" instant="false" status="unremarkable">t</add>            <pb facs="Ms-139a_11v" n="pagename_Ms-139a,11v pageref_00"/> <fw type="pagen" place="top right">19</fw>      what I then called to wonder at<lb/>  the existence of the world I<lb/>  might have equal<corr type="tran" instant="false">l</corr>y well described<lb/>       <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">by saying</del><del type="d" instant="false" status="unremarkable">to regard to</del><add rend="i" instant="false" status="unremarkable">as the experience of</add> look<add rend="el" instant="false" status="unremarkable">ing</add> <del type="dnpc" instant="false" status="unremarkable"><add rend="im" instant="false" status="unremarkable"><gap extent="words_1" reason="urw" instant="false"/></add></del> at<lb/>  existen<corr type="trsn" instant="false"><orig type="trsn1">s</orig><reg type="trsn2">ce</reg></corr> as a mira<choice type="o"><orig type="o1">k</orig><orig type="o2">c</orig></choice>le</orig><orig type="em2"><choice type="dsl"><orig type="alt1">by saying to regard to look at<lb/> existen<corr type="trsn" instant="false"><orig type="trsn1">s</orig><reg type="trsn2">ce</reg></corr> as a miracle</orig><orig type="alt2">as the experience of looking at<lb/> existen<corr type="trsn" instant="false"><orig type="trsn1">s</orig><reg type="trsn2">ce</reg></corr> as a miracle</orig></choice></orig></choice>.</s>
@@ -511,7 +511,7 @@
           <s type="es" part="N">For all I have said by<lb/>  shifting the expression of the miracul<add rend="our" instant="false" status="unremarkable">ous</add><lb/>  from  <choice type="em"><orig type="em1"><choice type="o"><orig type="o1">i</orig><orig type="o2">a</orig></choice>n</orig><orig type="em2"><del type="dnpc" instant="false" status="unremarkable">in</del> an</orig></choice> expression <add rend="our" instant="false" status="unremarkable">by</add> means of<lb/>   language to the expression by<lb/>  the existence of language, all<lb/>  I have said is again that w<add rend="our" instant="false" status="unremarkable">e</add><lb/>  can not express what we want to<lb/>  express &amp; that all we say about it<lb/>   <choice type="s"><orig type="alt1">is</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">remain<corr type="npcn" instant="false">e</corr>s</add></orig></choice> nonsense.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_11v.2et12r.1" n="Ms-139a,11v[2]et12r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_11v.2et12r.1" n="Ms-139a,11v[2]et12r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now the answer<lb/>  to all this will se<choice type="o"><orig type="o1">a</orig><orig type="o2">e</orig></choice>m <add rend="im" instant="false" status="unremarkable">perfectly</add> cl<add rend="our" instant="false" status="unremarkable">ea</add>r to<lb/>    ma<corr type="tran" instant="false">n</corr>y of you.</s>
@@ -521,13 +521,13 @@
           </seg>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_12r.2" n="Ms-139a,12r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_12r.2" n="Ms-139a,12r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">That is to say: I see now that<lb/>  these no<add rend="our" instant="false" status="unremarkable">n</add>sensical expressions were<lb/>   not nonsensical be<add rend="our" instant="false" status="unremarkable">c</add><choice type="o"><orig type="o1">o</orig><orig type="o2">a</orig></choice>use I had not<lb/>  <corr type="trsn" instant="false"><orig type="trsn1">j</orig><reg type="trsn2">y</reg></corr>et found the significant <choice type="s"><orig type="alt1">explana<lb rend="shyphen0"/>tion</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">expression</add></orig></choice>   but that the<corr type="trsn" instant="false"><orig type="trsn1">re</orig><reg type="trsn2">ir</reg></corr> nonsensi<lb rend="shyphen0"/>cality   was the<corr type="trsn" instant="false"><orig type="trsn1">re</orig><reg type="trsn2">ir</reg></corr> very essence<lb/>  for all I wanted to do <add rend="i" instant="false" status="unremarkable">with them</add> was just<lb/>   to go <emph rend="us1">beyond the world</emph> &amp; that<lb/>  is to say beyond language.</s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_12r.3et12v.1" n="Ms-139a,12r[3]et12v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_12r.3et12v.1" n="Ms-139a,12r[3]et12v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">But<lb/>  this is just <corr type="trsn" instant="false"><orig type="trsn1"><unclear instant="false">☐</unclear></orig><reg type="trsn2">i</reg></corr>mpossible.</s>
@@ -541,7 +541,7 @@
           <fw type="pagen" place="top right"> </fw>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_8v.1" n="Ms-139a,8v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_8v.1" n="Ms-139a,8v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <emph rend="vdline">
@@ -563,7 +563,7 @@
           <fw type="pagen" place="top right"> </fw>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_9v.1et10r.3" n="Ms-139a,9v[1]et10r[3]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_9v.1et10r.3" n="Ms-139a,9v[1]et10r[3]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <emph rend="vdline">
@@ -604,10 +604,12 @@
           <fw type="pagen" place="top right"> </fw>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_10v.1" n="Ms-139a,10v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE(1993)_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_10v.1" n="Ms-139a,10v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
-          <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/139a/Ms-139a,10v.jpg" ana="field:PhilosophyOfLanguage.Ethics_pos_114ml1" rend="bitmap" part="N">Cf. facsimile: Drawing with text, possibly:"The order of even[ts]","Will","Fr[eedom]".</seg>
+          <seg type="notation" ana="field:PhilosophyOfLanguage.Ethics_pos_114ml1" rend="bitmap" part="N">
+            <note type="editor" anchored="true">Ms-139a, page 10v contains a sketchy drawing which is not included in the transcription. The drawing is accompanied by text that is difficult to decipher, possibly: "The order of even[ts]","Will","Fr[eedom]".</note>
+          </seg>
         </seg>
       </ab>
     </body>

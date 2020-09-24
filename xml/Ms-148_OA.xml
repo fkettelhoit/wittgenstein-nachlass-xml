@@ -388,7 +388,7 @@
   <text xml:lang="en">
     <body>
       <div n="OUP_Notebooks_13_Ms-148" part="N" org="uniform" sample="complete">
-        <ab xml:id="Ms-148_1r.1" n="Ms-148,1r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1r.1" n="Ms-148,1r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <pb facs="Ms-148_FCr" rend="recto" n="pagename_Ms-148,FCr pageref_00"/>
@@ -399,31 +399,31 @@
             <lb rend="hl"/>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1r.2" n="Ms-148,1r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1r.2" n="Ms-148,1r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">All I want to say is that it is<lb/>  misleading to say that the word<lb/>  “fright” signifies something which goes<lb/>  along with the <add rend="im" instant="false" status="unremarkable">experience of</add> expressing <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">of</corr></del> fright.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1r.3" n="Ms-148,1r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1r.3" n="Ms-148,1r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">There is here <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">as</corr></del> <add rend="i" instant="false" status="unremarkable">again</add> the queer case of<lb/>  <del type="dnpc" instant="false" status="unremarkable">that there is</del> a difference between<lb/>  what we say, when we actually<lb/>  <del type="dnpc" instant="false" status="unremarkable"/> try to see what happens, &amp; what<lb/>  we say when we think about it<lb/>   (giving over the r<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">e</reg></corr>ins to  language).</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1r.4" n="Ms-148,1r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1r.4" n="Ms-148,1r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">The ‘far away’ look, the dreamy voice<lb/>  seem to be only means for conveying<lb/>  the real inner feeling.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1r.5" n="Ms-148,1r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1r.5" n="Ms-148,1r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“Therefore there must be something<lb/>   else” means nothing unless it expresses<lb/>  a resolution to <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">exp</corr></del> use a certain<lb/>  mode of expression.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1r.6" n="Ms-148,1r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1r.6" n="Ms-148,1r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Suppose you tried to separate the feeling<lb/>  which musi<corr type="trsn" instant="false"><orig type="trsn1">k</orig><reg type="trsn2">c</reg></corr>  gives you from hearing musi<corr type="trsn" instant="false"><orig type="trsn1">k</orig><reg type="trsn2">c</reg></corr>.</s>
@@ -432,7 +432,7 @@
             <fw type="pagen" place="top left">2.</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1v.1" n="Ms-148,1v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1v.1" n="Ms-148,1v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <rs type="extref" key="Bayly, Thomas Haynes: Long, long ago">
@@ -446,19 +446,19 @@
             </rs>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1v.2" n="Ms-148,1v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1v.2" n="Ms-148,1v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><seg xml:lang="la" part="N"><add rend="el" instant="false" status="unremarkable">Puell<emph rend="us1">a</emph></add>, <c type="c" part="N">P</c>oet<emph rend="us1">a</emph></seg>  “‘masculine’ &amp;  ‘feminine’ <emph rend="us1">feeling</emph>”  <del type="dnpc" instant="false" status="unremarkable">“</del> <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">of</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">‘attached’  to</add></orig></choice> <emph rend="us1">a</emph>.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1v.3" n="Ms-148,1v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1v.3" n="Ms-148,1v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Aren't there two (or<del type="dn" instant="false" status="unremarkable"><gap extent="characters_1" instant="false"/></del> more) ways to<lb/>  any event I might describe?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1v.4" n="Ms-148,1v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_1v.4" n="Ms-148,1v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">We say “making this gesture isn't  all”.</s>
@@ -468,7 +468,7 @@
             <s type="es" part="N">Secondly: it is true that different<lb/>  experiences can be described by<lb/>  the same gesture; but not in the<lb/>  sense that one is the pure one<lb/>  &amp; the others consist  ….</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_1v.5" n="Ms-148,1v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_1v.5" n="Ms-148,1v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Wie ist es wenn man einmal die<lb/>  besondere Klangfarbe eines Tones<lb/>  <choice type="s"><orig type="alt1">merkt</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">hört</add></orig></choice> ein andermal nur den Klang als<lb/>  solchen?</s>
@@ -478,7 +478,7 @@
             <fw type="pagen">3.</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2r.1" n="Ms-148,2r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_0" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_2r.1" n="Ms-148,2r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_0" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">
@@ -489,36 +489,36 @@
             <s type="es" rend="indl_2" part="N">“Ich nenne diesen Eindruck  ‘blau’”.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2r.2" n="Ms-148,2r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_2r.2" n="Ms-148,2r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Wie kann man denn die genaue Erfah<lb rend="shyphen"/>rung in   ‘<seg xml:lang="la" part="N">Poet<emph rend="us1">a</emph></seg>’ <abbr type="abb">etc.</abbr>  beschreiben?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2r.3" n="Ms-148,2r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_2r.3" n="Ms-148,2r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">The philosophical problem is:<lb/>  “<c type="c" part="N">W</c>hat is it that  puzzles me<del type="dnpc" instant="false" status="unremarkable">?”</del><lb/>  <emph rend="uw1"><choice type="s"><orig type="alt1">about</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">in</add></orig></choice> this matter</emph>?”</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2r.4" n="Ms-148,2r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_2r.4" n="Ms-148,2r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">To give names is to lab<corr type="trsn" instant="false"><orig type="trsn1">le</orig><reg type="trsn2">el</reg></corr> things;<lb/>   but how does one lab<corr type="trsn" instant="false"><orig type="trsn1">le</orig><reg type="trsn2">el</reg></corr> impressions.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2r.5" n="Ms-148,2r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_2r.5" n="Ms-148,2r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">
               <seg type="notation" subtype="graphics_Zeichen; Handschrift" rend="bitmap" part="N">
                 <table>
                   <row role="data" rows="1" cols="1">
-                    <cell role="data" rows="1" cols="1"><emph rend="large">A</emph><lb rend="hl"/><emph rend="blankspace_5"/>A</cell>
+                    <cell role="data" rows="1" cols="1"><emph rend="large">A</emph><milestone unit="br"/><emph rend="blankspace_5"/>A</cell>
                     <cell role="data" rows="1" cols="1">
                       <emph rend="blankspace_4"/>
                     </cell>
-                    <cell role="data" rows="1" cols="1">das auge     &amp; der wald<lb rend="hl"/><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/></cell>
+                    <cell role="data" rows="1" cols="1">das auge     &amp; der wald<milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell>
                   </row>
                 </table>
               </seg>
@@ -527,13 +527,13 @@
             <s type="es" part="N">Das männliche <emph rend="us1"><seg type="p" part="N">a</seg></emph> &amp; das weibliche  <emph rend="us1"><seg type="p" part="N">a</seg></emph>.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2r.6" n="Ms-148,2r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_2r.6" n="Ms-148,2r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Es läßt sich über die <choice type="s"><orig type="alt1">besondere</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">bestimmte</add></orig></choice> Erfah<lb rend="shyphen"/>rung einiges sagen &amp; außerdem<lb/>   scheint es etwas, &amp; zwar das  <corr type="trsn" instant="false"><orig type="trsn1">w</orig><reg type="trsn2">W</reg></corr>esentlich<lb rend="shyphen"/>ste, zu geben was sich nicht beschreiben<lb/>   läßt.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2r.6et2v.1" n="Ms-148,2r[6]et2v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_2r.6et2v.1" n="Ms-148,2r[6]et2v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Man sagt hier, daß ein bestimmter<lb/>  Eindruck benannt wird.</s>
@@ -542,7 +542,7 @@
             <s type="es" part="N">(Den Reichtum einer Frau<lb/> heiraten.)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2v.2" n="Ms-148,2v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_2v.2" n="Ms-148,2v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Du sagst Du hast einen ungreifbaren<lb/> Eindruck.</s>
@@ -550,21 +550,21 @@
             <s type="es" part="N"><abbr type="abb">D.h.</abbr> wozu hast Du<lb/> diese Worte geäußert, in welchem  Spiel.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2v.3" n="Ms-148,2v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_2v.3" n="Ms-148,2v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">It is as though, <choice type="s"><orig type="alt1">if</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">although</add></orig></choice> you can't tell<lb/> me  exactly what happens inside you,<lb/> you can nevertheless tell me<lb/> something  general about it.</s>
             <s type="es" part="N">By saying<lb/> <abbr type="abb">e.g.</abbr> that you <add rend="i" instant="false" status="unremarkable">are</add> having an  impression<lb/> which can't be further described.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2v.4" n="Ms-148,2v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_2v.4" n="Ms-148,2v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">As it were: <c type="c" part="N">T</c>here <emph rend="us1">is</emph> something further<lb/> about it,  only you <emph rend="us1">can't</emph> <emph rend="us1">say</emph> it; you<lb/> can only make the  general statement.</s>
             <s type="es" rend="indl_5" part="N">It is this <choice type="s"><orig type="alt1">idea</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">form of expression</add></orig></choice> which plays hell with<lb/>  us.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_2v.5" n="Ms-148,2v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_2v.5" n="Ms-148,2v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">
@@ -577,7 +577,7 @@
             <fw type="pagen">5</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3r.1" n="Ms-148,3r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3r.1" n="Ms-148,3r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="slilm">
@@ -588,7 +588,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3r.2" n="Ms-148,3r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3r.2" n="Ms-148,3r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="slilm">
@@ -597,19 +597,19 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3r.3" n="Ms-148,3r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3r.3" n="Ms-148,3r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">What does one call “describing<lb/> a feeling to  someone”?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3r.4" n="Ms-148,3r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3r.4" n="Ms-148,3r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“Never mind the shape, – look at the  <emph rend="us1">colour</emph>!”</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3r.5" n="Ms-148,3r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3r.5" n="Ms-148,3r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“Was there a feeling of pastness<lb/> when you said you remembered   …?”</s>
@@ -617,13 +617,13 @@
             <s type="es" part="N">‘<c type="k" part="N">I</c> know of none’.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3r.6" n="Ms-148,3r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3r.6" n="Ms-148,3r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">How does one point to a number, draw<lb/> attention to a number, <emph rend="us1">mean</emph>  a number?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3r.7et3v.1" n="Ms-148,3r[7]et3v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3r.7et3v.1" n="Ms-148,3r[7]et3v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">How do I call a taste    “lemon<corr type="trs" instant="false"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>taste”?</s>
@@ -633,20 +633,20 @@
             <s type="es" part="N">Is it by having that taste &amp; saying<lb/> the words: “I  call the taste  …”?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3v.2" n="Ms-148,3v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3v.2" n="Ms-148,3v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">And can I give a name to any <emph rend="us1">one</emph><lb/>   taste<corr type="trs" instant="false"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>experience <del type="dnpc" instant="false" status="unremarkable">as</del> without giving<lb/> the  taste<del type="dn" instant="false" status="unremarkable">t</del> a common name <lb/> which <del type="dn" instant="false" status="unremarkable">aug</del> is to be used in common langu<lb rend="shyphen"/>age? –</s>
             <s type="es" part="N">“<c type="k" part="N">I</c> give my feeling a name,<lb/> nobody else can know what the<lb/>  name means.”</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3v.3" n="Ms-148,3v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3v.3" n="Ms-148,3v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">A <choice type="o"><orig type="o1"><unclear instant="false"/></orig><orig type="o2">s<corr type="npcn" instant="false">c</corr></orig></choice>lave has to remind me of<lb/> something  &amp; isn't to know what<lb/> he reminds me of.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_3v.4" n="Ms-148,3v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_3v.4" n="Ms-148,3v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">
@@ -664,26 +664,26 @@
           <s type="es" part="N">
             <table rend="tablem">
               <row role="data" rows="1" cols="1">
-                <cell role="data" rows="1" cols="1">I<lb rend="hl"/>I <lb rend="hl"/>H <lb rend="hl"/>H</cell>
+                <cell role="data" rows="1" cols="1">I<milestone unit="br"/>I <milestone unit="br"/>H <milestone unit="br"/>H</cell>
                 <cell role="data" rows="1" cols="1">
                   <emph rend="blankspace_4"/>
                 </cell>
-                <cell role="data" rows="1" cols="1">believe<lb rend="hl"/>״ <lb rend="hl"/> … <lb rend="hl"/> <lb rend="hl"/></cell>
+                <cell role="data" rows="1" cols="1">believe<milestone unit="br"/>״ <milestone unit="br"/> … <milestone unit="br"/> <milestone unit="br"/></cell>
                 <cell role="data" rows="1" cols="1">
                   <emph rend="blankspace_4"/>
                 </cell>
-                <cell role="data" rows="1" cols="1"><add rend="our" instant="false" status="unremarkable">H</add><lb rend="hl"/>I <lb rend="hl"/>H <lb rend="hl"/>I</cell>
+                <cell role="data" rows="1" cols="1"><add rend="our" instant="false" status="unremarkable">H</add><milestone unit="br"/>I <milestone unit="br"/>H <milestone unit="br"/>I</cell>
                 <cell role="data" rows="1" cols="1">
                   <emph rend="blankspace_4"/>
                 </cell>
-                <cell role="data" rows="1" cols="1"><abbr rend="abb">h. p.</abbr><lb rend="hl"/>I <lb rend="hl"/>H <lb rend="hl"/>I</cell>
+                <cell role="data" rows="1" cols="1"><abbr rend="abb">h. p.</abbr><milestone unit="br"/>I <milestone unit="br"/>H <milestone unit="br"/>I</cell>
                 <cell role="data" rows="1" cols="1">
                   <emph rend="blankspace_4"/>
                 </cell>
                 <cell role="data" rows="1" cols="1">
                   <emph rend="blankspace_4"/>
                 </cell>
-                <cell role="data" rows="1" cols="1"><abbr rend="abb">s.</abbr><lb rend="hl"/><abbr rend="abb">n.</abbr><lb rend="hl"/>n <lb rend="hl"/>s</cell>
+                <cell role="data" rows="1" cols="1"><abbr rend="abb">s.</abbr><milestone unit="br"/><abbr rend="abb">n.</abbr><milestone unit="br"/>n <milestone unit="br"/>s</cell>
               </row>
             </table>
             <lb rend="hl"/>
@@ -698,15 +698,15 @@
                 <cell role="data" rows="1" cols="1">
                   <emph rend="blankspace_4"/>
                 </cell>
-                <cell role="data" rows="1" cols="1">L<lb rend="hl"/><lb rend="hl"/>bl <lb rend="hl"/><lb rend="hl"/>r <lb rend="hl"/><lb rend="hl"/>r <lb rend="hl"/><lb rend="hl"/>b</cell>
+                <cell role="data" rows="1" cols="1">L<milestone unit="br"/><milestone unit="br"/>bl <milestone unit="br"/><milestone unit="br"/>r <milestone unit="br"/><milestone unit="br"/>r <milestone unit="br"/><milestone unit="br"/>b</cell>
                 <cell role="data" rows="1" cols="1">
                   <emph rend="blankspace_30"/>
                 </cell>
-                <cell role="data" rows="1" cols="1">R<lb rend="hl"/><lb rend="hl"/>r <lb rend="hl"/><lb rend="hl"/>r <lb rend="hl"/><lb rend="hl"/>b <lb rend="hl"/><lb rend="hl"/>b</cell>
+                <cell role="data" rows="1" cols="1">R<milestone unit="br"/><milestone unit="br"/>r <milestone unit="br"/><milestone unit="br"/>r <milestone unit="br"/><milestone unit="br"/>b <milestone unit="br"/><milestone unit="br"/>b</cell>
                 <cell role="data" rows="1" cols="1">
                   <emph rend="blankspace_4"/>
                 </cell>
-                <cell role="data" rows="1" cols="1"><lb rend="hl"/>g<lb rend="hl"/><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/></cell>
+                <cell role="data" rows="1" cols="1"><milestone unit="br"/>g<milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell>
               </row>
             </table>
             <note type="editor" anchored="true">Ms-148, pages 4r-4v contain a number of figures and tables which are not included in the transcription.</note>
@@ -733,51 +733,51 @@
           <pb facs="Ms-148_5r" rend="recto" n="pagename_Ms-148,5r pageref_00"/>
           <fw type="pagen">7</fw>
         </ab>
-        <ab xml:id="Ms-148_5r.1" n="Ms-148,5r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-148_5r.1" n="Ms-148,5r[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“<c type="k" part="N">I</c> use the name for the impression<lb/>  <unclear instant="false">direct<corr type="npcn" instant="false">a</corr>ly</unclear> &amp; not in such a way<lb/> that anyone  else can under<lb rend="shyphen"/>stand it.”</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5r.2" n="Ms-148,5r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-148_5r.2" n="Ms-148,5r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Buying something from oneself.</s>
             <s type="es" part="N">Going<lb/> through the operations of buying.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5r.3" n="Ms-148,5r[3]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-148_5r.3" n="Ms-148,5r[3]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">My right hand selling to my left<lb/> hand.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5r.4" n="Ms-148,5r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_5r.4" n="Ms-148,5r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><c type="k" part="N">G</c>efühls-<corr type="x" instant="false">übertragung</corr> (Gedanken<corr type="tra" instant="false">-</corr><corr type="x" instant="false">übertragung</corr>) <add rend="our" instant="false" status="unremarkable">Ü</add>bertragung.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5r.5" n="Ms-148,5r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_5r.5" n="Ms-148,5r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Eine gute <corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">A</reg></corr>rt eine Farbe zu<lb/> benennen wäre, in einer  entsprechend<lb/> gefärbten Tinte den Namen schreiben.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5r.6" n="Ms-148,5r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_5r.6" n="Ms-148,5r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“<c type="k" part="N">I</c> name the feeling”– I  don<corr type="tra" instant="false">'</corr>t quite<lb/> know how you do this, what use you<lb/> are  making of the <choice type="s"><orig type="alt1">word</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">name</add></orig></choice><corr type="tra" instant="false">.</corr></s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5r.7" n="Ms-148,5r[7]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_5r.7" n="Ms-148,5r[7]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“<c type="k" part="N">I</c>'m giving the feeling, which <choice type="s"><orig type="alt1">I  have</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">I'm having</add></orig></choice> just<lb/> now a  name”. –</s>
             <s type="es" part="N"><c type="k" part="N">I</c> don't quite know<lb/> what you are doing.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5r.8et5v.1" n="Ms-148,5r[8]et5v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_3" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_5r.8et5v.1" n="Ms-148,5r[8]et5v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_3" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">One might say: “<c type="c" part="N">W</c>hat is the use<lb/> of talking of our  feeling at all.</s>
@@ -786,7 +786,7 @@
             <s type="es" part="N">Thus I am not to say “I have a<lb/> feeling of  pastness”: <c type="c" part="N">B</c>ut</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5v.2" n="Ms-148,5v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_4" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_5v.2" n="Ms-148,5v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_4" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="slilm">
@@ -794,7 +794,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5v.3" n="Ms-148,5v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_5v.3" n="Ms-148,5v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="indl_2"/>
@@ -803,13 +803,13 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5v.4" n="Ms-148,5v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_5v.4" n="Ms-148,5v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">For what does it mean that this <choice type="s"><orig type="alt1">pain</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">feeling</add></orig></choice><lb/> is the  meaning of this name?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_5v.5et6r.1" n="Ms-148,5v[5]et6r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_5v.5et6r.1" n="Ms-148,5v[5]et6r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Or, that the pain is the b<corr type="tran" instant="false">e</corr>arer of the<lb/> name?</s>
@@ -822,7 +822,7 @@
             <s type="es" part="N">Or,<lb/> if I really have a <emph rend="us1">feeling</emph>?‒ ‒ ‒</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6r.2" n="Ms-148,6r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_6r.2" n="Ms-148,6r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="indl_2"/>
@@ -831,7 +831,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6r.3" n="Ms-148,6r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_6r.3" n="Ms-148,6r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_5" part="N">
@@ -840,14 +840,14 @@
             <s type="es" rend="indl_2" part="N">“<c type="c" part="N">S</c><corr type="npcn" instant="false">h</corr>urely it isn't enough that he moans;<lb/>  I must be able to describe the<lb/> state when he moans &amp;  hasn't got pains<corr type="tra" instant="false">.</corr>”</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6r.4" n="Ms-148,6r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_6r.4" n="Ms-148,6r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“He has pains, says he has pains &amp; saying<lb/>  ‘pains’ <emph rend="us1">he means his</emph> pains.”</s>
             <s type="es" part="N">How does he<lb/> <emph rend="us1">mean</emph> his pains by the word ‘pain’  or<lb/> ‘toothache’?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6r.5" n="Ms-148,6r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_6r.5" n="Ms-148,6r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“He sa<corr type="trsn" instant="false"><orig type="trsn1">i</orig><reg type="trsn2">y</reg></corr>s ‘I see green’  &amp; means the colour<lb/> he sees.” –</s>
@@ -857,7 +857,7 @@
             <fw type="pagen" place="top left">10</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6v.1" n="Ms-148,6v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_6v.1" n="Ms-148,6v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“In my own <choice type="o"><orig type="o1">k</orig><orig type="o2">c</orig></choice>ase I know that when<lb/> I say ‘I  have pain’ this utterance<lb/> is accompanied by something;– but<lb/> is it also accompanied by something<lb/> in another man?”</s>
@@ -865,25 +865,25 @@
             <s type="es" part="N"><c type="k" part="N">I</c> may<lb/> say that it isn't accompanied by<lb/> anything.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6v.2" n="Ms-148,6v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_6v.2" n="Ms-148,6v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“<c type="k" part="N">I</c> know what I mean by ‘toothache’<lb/> but  the other person can't <emph rend="us1">know</emph> it.”</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6v.3" n="Ms-148,6v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_6v.3" n="Ms-148,6v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><seg xml:lang="de" part="N">Als</seg> negation: “<c type="c" part="N">T</c>he deuce he  is ….”</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6v.4" n="Ms-148,6v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_6v.4" n="Ms-148,6v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Die Philosophie eines Stammes der<lb/> als Negation <add rend="i" instant="false" status="unremarkable">nur</add> den  Ausdruck<del type="dnpc" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></add></del> <choice type="s"><orig type="alt1">benützt</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">kennt</add></orig></choice>:<lb/>  “<seg xml:lang="en" part="N"><c type="k" part="N">I</c>'ll be damned  if …”.</seg></s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6v.5" n="Ms-148,6v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_6v.5" n="Ms-148,6v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">
@@ -893,7 +893,7 @@
             </s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_6v.6" n="Ms-148,6v[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_6v.6" n="Ms-148,6v[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“Man kann nie einen <add rend="im" instant="false" status="unremarkable">ganzen</add> Körper sehen<lb/> sondern nur  <add rend="im" instant="false" status="unremarkable">immer</add> einen Teil seiner Ober<lb rend="shyphen"/>fläche.”</s>
@@ -1003,7 +1003,7 @@
           <s type="es" part="N">Having the same <abbr corresp="number">N<emph rend="sup">r</emph>.</abbr> can be  interpreted<lb/> as having the same one of these<lb/> schemata.</s>
           <s type="es" part="N">Of course this aspect<lb/> too is only natural in a very limited  <choice type="o"><orig type="o1"><abbr type="abb"><c type="c" part="N">N</c><emph rend="sup">r</emph>.</abbr></orig><orig type="o2">number</orig></choice> of cases.</s>
           <s type="es" part="N"><add rend="el" instant="false" status="unremarkable">Aspect of <emph rend="us1">stars</emph></add>.</s>
-          <s type="es" rend="indl_2" part="N">The explanation, that two classes<lb/> have the same  <abbr corresp="number">N<emph rend="sup">r</emph>.</abbr> if they fall into<lb/> couples, is  really taken from <corr type="npc" instant="false">the</corr><lb/> a case like   <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,09v-1.jpg" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148014</seg><seg type="notation" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"> ∙ –––––––– ∙ <lb rend="hl"/> ∙ –––––––– ∙ <lb rend="hl"/> ∙ –––––––– ∙ <lb rend="hl"/><seg type="white" part="N"> ∙ ––––––––</seg> ∙ <lb rend="hl"/></cell></row></table></seg></emph></s>
+          <s type="es" rend="indl_2" part="N">The explanation, that two classes<lb/> have the same  <abbr corresp="number">N<emph rend="sup">r</emph>.</abbr> if they fall into<lb/> couples, is  really taken from <corr type="npc" instant="false">the</corr><lb/> a case like   <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,09v-1.jpg" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N">148014</seg><seg type="notation" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"> ∙ –––––––– ∙ <milestone unit="br"/> ∙ –––––––– ∙ <milestone unit="br"/> ∙ –––––––– ∙ <milestone unit="br"/><seg type="white" part="N"> ∙ ––––––––</seg> ∙ <milestone unit="br"/></cell></row></table></seg></emph></s>
           <s type="es" rend="indl_6" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,09v-2.jpg" subtype="graphics_Vielecke; Stern mit fünf Punkten" rend="bitmap" part="N">148016</seg><del type="dnpc" instant="false" status="unremarkable"><c type="c" part="N">H</c>ow</del>  “<c type="c" part="N">T</c>he pentagram has twice<lb/> as many points   <corr type="trs" instant="false"><orig type="trs1">than</orig><reg type="trs2">as</reg></corr> the <lb rend="pb"/>  <pb facs="Ms-148_10r" rend="recto" n="pagename_Ms-148,10r pageref_00"/><fw type="pagen">6.</fw>  pentagon”<corr type="tra" instant="false">.</corr></s>
           <s type="es" part="N">Demonstration</s>
           <s type="es" rend="indl_2" part="N">Timelessness of the demonstrated<lb/> <abbr corresp="proposition">prop</abbr>:   <emph rend="centered"><seg type="notation" subtype="graphics_Technische Darstellung; Korrelation" rend="bitmap" part="N"><note type="editor" anchored="true">Ms-148, page 10r contains a number of technical figures as well as a multiplication formula which are not included in the transcription.</note></seg></emph>   blue &amp; red  =  purple<corr type="tra" instant="false">.</corr> </s>
@@ -1021,7 +1021,7 @@
           <s type="es" part="N">This we<lb/> only forge<corr type="trs" instant="false"><orig type="trs1">tt</orig><reg type="trs2">t</reg></corr>.</s>
           <s type="es" part="N">Thinking about a very<lb/> special class of examples.</s>
           <lb rend="hl"/>
-          <s type="es" rend="indl_2" part="N"><seg type="notation" subtype="graphics_Schema; ohne Linien" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">–<lb rend="hl"/>–<lb rend="hl"/>–<lb rend="hl"/>–<lb rend="hl"/>–<lb rend="hl"/></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1">––<lb rend="hl"/>––<lb rend="hl"/>––<lb rend="hl"/>––<lb rend="hl"/>––<lb rend="hl"/></cell></row></table></seg><c type="c" part="N">T</c>he idea is that if  they<lb/> ha<choice type="o"><orig type="o1">b</orig><orig type="o2">v</orig></choice>e the right existential<lb/> structure they do fall<lb/> into  cou<choice type="o"><orig type="o1">l</orig><orig type="o2">p</orig></choice>les &amp; <emph rend="us1">this</emph> is<lb/>  <emph rend="us1">demonstrated</emph>.</s>
+          <s type="es" rend="indl_2" part="N"><seg type="notation" subtype="graphics_Schema; ohne Linien" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">–<milestone unit="br"/>–<milestone unit="br"/>–<milestone unit="br"/>–<milestone unit="br"/>–<milestone unit="br"/></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1">––<milestone unit="br"/>––<milestone unit="br"/>––<milestone unit="br"/>––<milestone unit="br"/>––<milestone unit="br"/></cell></row></table></seg><c type="c" part="N">T</c>he idea is that if  they<lb/> ha<choice type="o"><orig type="o1">b</orig><orig type="o2">v</orig></choice>e the right existential<lb/> structure they do fall<lb/> into  cou<choice type="o"><orig type="o1">l</orig><orig type="o2">p</orig></choice>les &amp; <emph rend="us1">this</emph> is<lb/>  <emph rend="us1">demonstrated</emph>.</s>
           <s type="es" part="N">The<lb/> question how we find out in the<lb/> special case that they do have<lb/> the  right s<choice type="o"><orig type="o1">p</orig><orig type="o2">t</orig></choice>ructures is neglected.</s>
           <s type="es" rend="indl_2" part="N">One could also say that a<lb/> length <add rend="i" instant="false" status="unremarkable"><seg type="p" part="N">a</seg></add> was twice another one  <seg type="p" part="N">b</seg><lb/> if <del type="dnpc" instant="false" status="unremarkable">the</del> two <add rend="i" instant="false" status="unremarkable"><seg type="p" part="N">a</seg></add> superimposed gave<lb/>  <seg type="p" part="N">b</seg>.</s>
           <s type="es" part="N">Application for wavelengths.</s>
@@ -1274,7 +1274,7 @@
         <ab xml:id="Ms-148_16r.2" n="Ms-148,16r[2]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Busch, Wilhelm: Dideldum; Anleitung zu historischen Porträts">
-            <s type="es" rend="indl_4" part="N"><seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">17<lb rend="hl"/>38<lb rend="hl"/><emph rend="barover">55</emph></cell></row></table></seg><corr type="trsn" instant="false"><orig type="trsn1">i</orig><reg type="trsn2">I</reg></corr>f you  do this &amp; this <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> you get  55<corr type="tra" instant="false">.</corr></s>
+            <s type="es" rend="indl_4" part="N"><seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">17<milestone unit="br"/>38<milestone unit="br"/><emph rend="barover">55</emph></cell></row></table></seg><corr type="trsn" instant="false"><orig type="trsn1">i</orig><reg type="trsn2">I</reg></corr>f you  do this &amp; this <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> you get  55<corr type="tra" instant="false">.</corr></s>
             <s type="es" rend="indl_4" part="N">
               <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,16r-2.jpg" subtype="graphics_Technische Darstellung; geometrischer Beweis" rend="bitmap" part="N">148043</seg>
             </s>
@@ -1341,11 +1341,11 @@
             <seg type="notation" subtype="graphics_Klammern; Klammernotation (mehrfach unten)" rend="bitmap" part="N">
               <table>
                 <row role="data" rows="1" cols="1">
-                  <cell role="data" rows="1" cols="1">| | | | | |<lb rend="hl"/>| | | | | </cell>
+                  <cell role="data" rows="1" cols="1">| | | | | |<milestone unit="br"/>| | | | | </cell>
                   <cell role="data" rows="1" cols="1">
                     <emph rend="blankspace_4"/>
                   </cell>
-                  <cell role="data" rows="1" cols="1">Obstacle<lb rend="hl"/><lb rend="hl"/></cell>
+                  <cell role="data" rows="1" cols="1">Obstacle<milestone unit="br"/><milestone unit="br"/></cell>
                 </row>
               </table>
             </seg>
@@ -1356,11 +1356,11 @@
           <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="bitmap" part="N">
             <table>
               <row role="data" rows="1" cols="1">
-                <cell role="data" rows="1" cols="1">| | | | | |<lb rend="hl"/><lb rend="hl"/>| | | <emph rend="large">|</emph>| | |</cell>
+                <cell role="data" rows="1" cols="1">| | | | | |<milestone unit="br"/><milestone unit="br"/>| | | <emph rend="large">|</emph>| | |</cell>
                 <cell role="data" rows="1" cols="1">
                   <emph rend="blankspace_4"/>
                 </cell>
-                <cell role="data" rows="1" cols="1">| | | | | <lb rend="hl"/><lb rend="hl"/></cell>
+                <cell role="data" rows="1" cols="1">| | | | | <milestone unit="br"/><milestone unit="br"/></cell>
               </row>
             </table>
           </seg>
@@ -1467,7 +1467,7 @@
         </ab>
         <ab xml:id="Ms-148_18v.3" n="Ms-148,18v[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_2" part="N">What happens if our attention is drawn<lb/> to something.   <seg type="notation" ana="field:PhilosophyOfLanguage" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"><emph rend="barunder">1</emph>  :  3  =  0˙3<lb rend="hl"/><emph rend="blankspace_2"/><emph rend="barunder">1</emph></cell></row></table><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">1˙0  :  7  =  0˙142857<lb rend="hl"/><emph rend="blankspace_2"/>30     <lb rend="hl"/><emph rend="blankspace_4"/>20     <lb rend="hl"/><emph rend="blankspace_6"/>60     <lb rend="hl"/><emph rend="blankspace_8"/>40     <lb rend="hl"/><emph rend="blankspace_10"/>50    <lb rend="hl"/><emph rend="blankspace_12"/>1</cell></row></table></seg>  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18v-c.BMP" ana="field:PhilosophyOfLanguage" rend="bitmap" part="N">K148007</seg>    </s>
+          <s type="es" rend="indl_2" part="N">What happens if our attention is drawn<lb/> to something.   <seg type="notation" ana="field:PhilosophyOfLanguage" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"><emph rend="barunder">1</emph>  :  3  =  0˙3<milestone unit="br"/><emph rend="blankspace_2"/><emph rend="barunder">1</emph></cell></row></table><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">1˙0  :  7  =  0˙142857<milestone unit="br"/><emph rend="blankspace_2"/>30     <milestone unit="br"/><emph rend="blankspace_4"/>20     <milestone unit="br"/><emph rend="blankspace_6"/>60     <milestone unit="br"/><emph rend="blankspace_8"/>40     <milestone unit="br"/><emph rend="blankspace_10"/>50    <milestone unit="br"/><emph rend="blankspace_12"/>1</cell></row></table></seg>  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-18v-c.BMP" ana="field:PhilosophyOfLanguage" rend="bitmap" part="N">K148007</seg>    </s>
         </ab>
         <ab xml:id="Ms-148_18v.4" n="Ms-148,18v[4]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1684,7 +1684,7 @@
         <ab xml:id="Ms-148_20v.1" n="Ms-148,20v[1]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_2" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,20v.jpg" ana="field:PhilosophyOfLanguage_check_put both the large and small graphic into one bitmap" rend="bitmap" part="N">m148012</seg>
+            <seg type="notation" ana="field:PhilosophyOfLanguage_check_put both the large and small graphic into one bitmap" rend="bitmap" part="N"><figure ana="uebereinander" rend="table"><formula><emph rend="small">1  2  3  4  5  6  7  8  9  10  11  12  13</emph><milestone unit="br"/><milestone unit="br"/>a  b  c  d  e   a  b  c  d  e    a     b    c    d   e<milestone unit="br"/><milestone unit="br"/><emph rend="small">1  2  3  4  5  1  2  3  4  5     1    2    3</emph></formula></figure><hi ana="facs">Incomplete representation; brackets</hi><emph rend="bl_1"/><emph rend="blankspace_17"/><emph rend="barunder">❘ ❘ ❘ ❘ ❘</emph><emph rend="barunder">❘ ❘ ❘ ❘ ❘</emph> ❘ ❘ ❘      <emph rend="bl_1"/>      13  :  5  =  2<lb rend="hl"/>   <emph rend="blankspace_2"/><emph rend="us2">3</emph><note type="editor" anchored="true">Ms-148, page 20v contains further calculations which don't seem related to the surrounding text.</note>     </seg>
             <seg type="notation" subtype="maths_arithmetic representation" rend="literal" part="N"/>
           </s>
           <emph rend="bl_1"/>
@@ -1700,7 +1700,7 @@
         <ab xml:id="Ms-148_20v.3" n="Ms-148,20v[3]" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_4" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-20v-b.BMP" ana="field:PhilosophyOfLanguage_check_put all three graphics into one bitmap" rend="bitmap" part="N">m148013</seg>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,20v.jpg" ana="field:PhilosophyOfLanguage_check_put all three graphics into one bitmap" rend="bitmap" part="N">m148013</seg>
           </s>
           <lb rend="hl"/>
           <pb facs="Ms-148_21r" rend="recto" n="pagename_Ms-148,21r pageref_00"/>
@@ -1708,9 +1708,24 @@
         </ab>
         <ab xml:id="Ms-148_21r.1" n="Ms-148,21r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_4" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,21r.jpg" ana="field:PhilosophyOfLanguage_check_I recommend one bitmap for all this stuff" rend="bitmap" part="N">m148014</seg>
+          <s type="es" part="N">
+            <seg type="notation" ana="field:PhilosophyOfLanguage" rend="literal" part="N">
+              <table>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1"><emph rend="barunder">34  ×  25</emph><milestone unit="br"/>    68<milestone unit="br"/>    <emph rend="barunder">170</emph><milestone unit="br"/>    850      </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="blankspace_10"/>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">√<add rend="our" instant="false" status="unremarkable">49</add>  = <milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell>
+                </row>
+              </table>
+            </seg>
+            <lb rend="hl"/>
+            <lb rend="hl"/>
+            <emph rend="blankspace_30"/>
+            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/148,21r.jpg" ana="field:PhilosophyOfLanguage" rend="bitmap" part="N">m148014</seg>
           </s>
+          <note type="editor" anchored="true">Ms-148, page 21r contains additional drafty calculations and figures which are not included in the transcription.</note>
         </ab>
         <ab xml:id="Ms-148_21r.2" n="Ms-148,21r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1755,8 +1770,22 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_2" part="N">“We can't imagine that <seg type="notation" subtype="maths_arithmetic, real analysis, series expansion" rend="literal" part="N">1 : 7</seg>  should<lb/> not repeat itself after the dividend<lb/> has <choice type="o"><orig type="o1">k</orig><orig type="o2">c</orig></choice>ome  back.”</s>
           <s type="es" rend="indl_4" part="N">
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-22r-a.BMP" ana="field:PhilosophyOfLanguage_maths_arithmetic" rend="bitmap" part="N">k148007</seg>
-            <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-22r-b.BMP" ana="field:PhilosophyOfLanguage_maths_arithmetic" rend="bitmap" part="N">m148015</seg>
+            <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic" rend="bitmap" part="N">
+              <table>
+                <row role="data" rows="1" cols="1">
+                  <cell role="data" rows="1" cols="1">1  :  7  =  0˙<milestone unit="br"/>     <emph rend="blankspace_1"/>30<milestone unit="br"/>     <emph rend="blankspace_2"/>20<milestone unit="br"/>     <emph rend="blankspace_3"/>60<milestone unit="br"/>     <emph rend="blankspace_4"/>40<milestone unit="br"/>     <emph rend="blankspace_5"/>50<milestone unit="br"/>     <emph rend="blankspace_7"/>1<milestone unit="br"/>                </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <emph rend="blankspace_10"/>
+                  </cell>
+                  <cell role="data" rows="1" cols="1">
+                    <figure ana="uebereinander" rend="table">
+                      <formula>1    | <seg type="white" part="N">2  3   4   5  </seg>  |  <seg type="white" part="N">,  1   2   3   4   5   6 ,  1   2   3 </seg> 2      <milestone unit="br"/><emph rend="small">1   2   3   4   5   6 ,  1   2   3   4   5   6 ,  1   2   3   4   5  6<milestone unit="br"/><milestone unit="br"/>1   2   3   4   5   6 |  7   8   9  10 11 12 | 13 14 15 16</emph>           <milestone unit="br"/>           <emph rend="blankspace_7"/> 16  :  6  =  2<milestone unit="br"/>      <emph rend="blankspace_10"/><emph rend="us1">4</emph> <emph rend="blankspace_20"/> <emph rend="us1">13</emph></formula>
+                    </figure>
+                  </cell>
+                </row>
+              </table>
+              <hi ana="facs">Position</hi>
+            </seg>
           </s>
         </ab>
         <ab xml:id="Ms-148_22r.2" n="Ms-148,22r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage_date:19341001?-19350531?" emph="blbef_0" part="N">
@@ -2266,7 +2295,7 @@
           <pb facs="Ms-148_31r" rend="recto" n="pagename_Ms-148,31r pageref_00"/>
           <fw type="pagen">11</fw>
         </ab>
-        <ab xml:id="Ms-148_31r.1" n="Ms-148,31r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_31r.1" n="Ms-148,31r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="slilm">
@@ -2276,7 +2305,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_31r.2" n="Ms-148,31r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_31r.2" n="Ms-148,31r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2289,7 +2318,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_31r.3" n="Ms-148,31r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_31r.3" n="Ms-148,31r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2299,7 +2328,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_31r.4" n="Ms-148,31r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_31r.4" n="Ms-148,31r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2311,7 +2340,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_31v.1" n="Ms-148,31v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_31v.1" n="Ms-148,31v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2319,7 +2348,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_31v.2" n="Ms-148,31v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_31v.2" n="Ms-148,31v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2329,7 +2358,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_31v.3" n="Ms-148,31v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_31v.3" n="Ms-148,31v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2337,7 +2366,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_31v.4" n="Ms-148,31v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_31v.4" n="Ms-148,31v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2346,7 +2375,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_31v.5" n="Ms-148,31v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_31v.5" n="Ms-148,31v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2355,7 +2384,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_31v.6et32r.1" n="Ms-148,31v[6]et32r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_31v.6et32r.1" n="Ms-148,31v[6]et32r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2367,7 +2396,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_32r.2" n="Ms-148,32r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_32r.2" n="Ms-148,32r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2378,7 +2407,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_32r.3et32r.1" n="Ms-148,32r[3]et32r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_32r.3et32r.1" n="Ms-148,32r[3]et32r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2388,7 +2417,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_32v.2" n="Ms-148,32v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_32v.2" n="Ms-148,32v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2403,7 +2432,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_32v.3" n="Ms-148,32v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_0" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_32v.3" n="Ms-148,32v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_0" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2413,7 +2442,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_32v.4" n="Ms-148,32v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_32v.4" n="Ms-148,32v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2425,7 +2454,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_33r.1" n="Ms-148,33r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_33r.1" n="Ms-148,33r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2435,7 +2464,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_33r.2" n="Ms-148,33r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_33r.2" n="Ms-148,33r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2445,7 +2474,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_33r.3" n="Ms-148,33r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_33r.3" n="Ms-148,33r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2453,7 +2482,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_33r.4" n="Ms-148,33r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_33r.4" n="Ms-148,33r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2464,7 +2493,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_33v.1" n="Ms-148,33v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_33v.1" n="Ms-148,33v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2474,7 +2503,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_33v.2" n="Ms-148,33v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_33v.2" n="Ms-148,33v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2488,7 +2517,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_33v.3et34r.1" n="Ms-148,33v[3]et34r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_33v.3et34r.1" n="Ms-148,33v[3]et34r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2496,7 +2525,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_34r.2" n="Ms-148,34r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_34r.2" n="Ms-148,34r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2504,7 +2533,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_34r.3" n="Ms-148,34r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_34r.3" n="Ms-148,34r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2513,7 +2542,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_34r.4" n="Ms-148,34r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_34r.4" n="Ms-148,34r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2526,7 +2555,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_34r.5" n="Ms-148,34r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_34r.5" n="Ms-148,34r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2537,7 +2566,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_34r.6et34v.1" n="Ms-148,34r[6]et34v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_34r.6et34v.1" n="Ms-148,34r[6]et34v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2547,7 +2576,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_34v.2" n="Ms-148,34v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_34v.2" n="Ms-148,34v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2555,7 +2584,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_34v.3" n="Ms-148,34v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_34v.3" n="Ms-148,34v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2570,7 +2599,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_34v.4et35r.1et35v.1et36r.1et36v.1" n="Ms-148,34v[4]et35r[1]et35v[1]et36r[1]et36v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_34v.4et35r.1et35v.1et36r.1et36v.1" n="Ms-148,34v[4]et35r[1]et35v[1]et36r[1]et36v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2635,7 +2664,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_36v.2et37r.1" n="Ms-148,36v[2]et37r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_36v.2et37r.1" n="Ms-148,36v[2]et37r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2670,11 +2699,11 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_37v.1et38r.1" n="Ms-148,37v[1]et38r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_37v.1et38r.1" n="Ms-148,37v[1]et38r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N"><emph rend="vdline"><emph rend="indl_2"/><emph rend="slilm"><s type="es" part="N">13) <add rend="im" instant="false" status="unremarkable"><c type="c" part="N">W</c>e imagine that</add> <corr type="trsn" instant="false"><orig type="trsn1">T</orig><reg type="trsn2">t</reg></corr>he expression  “I can't see what you see”<lb/> has been given sense  by explaining it<lb/> to mean: “<c type="k" part="N">I</c> can't see what  you see being<lb/> in a different position relative to the object<lb/> we are looking  at”, or “ …  having not as<lb/> good eyes as  you”, or “ …  having found<lb/> as in  …  that  <seg type="p" part="N">B</seg> sees something which<lb/> we don't though we look at the same  <c type="c" part="N">O</c>bject.<corr type="tra" instant="false">”</corr></s><lb/><s type="es" part="N"><abbr type="abb">etc.</abbr></s><s type="es" part="N"><c type="k" part="N">I</c> can't see your afterimage might<lb/> be explained to mean I  can't see what<lb/> you see if I close my eyes meaning<lb/> <del type="dnpc" instant="false" status="unremarkable">when</del>  you say you see a red circle<corr type="tra" instant="false">,</corr> I see<lb/> a yellow one.</s><s type="es" rend="indl_2" part="N">14) <c type="c" part="N">I</c>dentity of physical objects, of shapes,<lb/> colours, dreams,  toothache.</s><s type="es" rend="indl_2" part="N">15) (<c type="c" part="N">T</c>he <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">thing</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">object</add></orig></choice> we see)  <c type="c" part="N">T</c>he physical <c type="c" part="N">O</c>bject &amp;<lb/> its appearance.</s><s type="es" part="N">Form of expression: different<lb/> views of the same  <abbr corresp="physical">phys.</abbr> object are different<lb/> objects  seen.</s><s type="es" part="N">We ask “<c type="c" part="N">W</c>hat do you see”<lb/> &amp; he can either  answer “a chair”, or<lb/> „this”  (&amp; draw the particular view of the<lb/> chair).</s><s type="es" part="N">So we are now inclined to say<lb/> that each man sees a different object<lb/>  &amp; one which no other person sees, for<lb/> even if they look at the same  chair from<lb/> the same spot it may appear different<lb/> to them &amp; the   objects before the other<lb/> mind<corr type="tra" instant="false">'</corr>s eye I can't look at.</s></emph></emph><s type="es" rend="indl_2" part="N"><emph rend="vdline">16) (<c type="k" part="N">I</c> can't know whether he sees  anything</emph></s><lb rend="pb"/><pb facs="Ms-148_38r" rend="recto" n="pagename_Ms-148,38r pageref_00"/><fw type="pagen">25</fw>     at all or  only behaves as I do when I see<lb/> something.)  <s type="es" part="N">There seems to be an undoubted<lb/> asym<corr type="tran" instant="false">m</corr>etry in the use of the  word “<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">I</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">to</add></orig></choice> see” (&amp;  all<lb/> words relating to personal experience).</s>   <s type="es" part="N">One<lb/> <choice type="s"><orig type="alt1">can</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">is inclined to</add></orig></choice> state this in the way that  “I know when<lb/> I see something by just seeing it, without hearing<lb/>  what I say or observing the rest of my behaviour<lb/> whereas I know  <emph rend="us1">that</emph> he sees &amp; <emph rend="us1">what</emph> he sees<lb/> only by observing  his behaviour, <abbr type="abb">i.e.</abbr> indirectly”.</s>     <s type="es" rend="indl_2" part="N">a) <c type="c" part="N">T</c>here is a mistake in this <gap extent="words_1" instant="false"/>: <c type="k" part="N">I</c> know  what<lb/> I see because I see it”.</s>   <s type="es" part="N">What does it mean to<lb/> know that.</s>   <s type="es" rend="indl_2" part="N"><seg type="p" part="N">b</seg>) <c type="c" part="N">I</c>t is true<del type="dn" instant="false" status="unremarkable">t</del> to say that my reason for saying<lb/>  that I see is not the observation of my<lb/> behaviour.</s>   <s type="es" part="N">But this is a <abbr corresp="grammatical proposition">gramm.prop.</abbr></s>   <s type="es" rend="indl_2" part="N"><seg type="p" part="N">c</seg>) <c type="c" part="N">I</c>t seems to be an imperfection that I<lb/> can only know  ‒ ‒ ‒.</s>   <s type="es" part="N">But this is just<lb/> the way we use the word ‒ ‒ ‒. –</s>   <s type="es" part="N">Could we then<lb/> <del type="dnpc" instant="false" status="unremarkable"/>  …  if we could?</s>   <s type="es" part="N">Certainly.</s></seg>
         </ab>
-        <ab xml:id="Ms-148_38r.2et38v.1" n="Ms-148,38r[2]et38v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_38r.2et38v.1" n="Ms-148,38r[2]et38v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><emph rend="vdline"><choice type="em"><orig type="em1">Does the person <add rend="i" instant="false" status="unremarkable"><c type="c" part="N">S</c>hould we say that the  person … </add> who has not learnt <add rend="i" instant="false" status="unremarkable">the</add> language<lb/>  know<del type="dn" instant="false" status="unremarkable"><gap extent="characters_1" instant="false"/></del><add rend="i" instant="false" status="unremarkable">s</add></orig><orig type="em2"><choice type="s"><orig type="alt1"><c type="c" part="N">D</c>oes the person who has not learnt  language<lb/> know</orig><orig type="alt2"><c type="c" part="N">S</c>hould we say that the person who has not learnt the  language<lb/> knows</orig></choice></orig></choice><del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">wh</corr></del> that he sees red but  can't express</emph><lb/> it? –</s>
@@ -2686,7 +2715,7 @@
             <s type="es" rend="indl_5" part="N">This case is quite straightforward &amp; there <choice type="s"><orig type="alt1">is<lb/> no problem  about it.</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">seems<lb/> to be nothing problematic in it.</add></orig></choice></s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_38v.2" n="Ms-148,38v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_38v.2" n="Ms-148,38v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2695,7 +2724,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_38v.3" n="Ms-148,38v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_38v.3" n="Ms-148,38v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2704,7 +2733,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_38v.4" n="Ms-148,38v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_38v.4" n="Ms-148,38v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2715,7 +2744,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_39r.1" n="Ms-148,39r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_39r.1" n="Ms-148,39r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2724,7 +2753,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_39r.2" n="Ms-148,39r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_39r.2" n="Ms-148,39r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2734,7 +2763,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_39r.3" n="Ms-148,39r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_39r.3" n="Ms-148,39r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2743,7 +2772,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_39r.4" n="Ms-148,39r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_39r.4" n="Ms-148,39r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2759,7 +2788,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_39r.5et39v.1" n="Ms-148,39r[5]et39v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_39r.5et39v.1" n="Ms-148,39r[5]et39v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2778,7 +2807,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_39v.2et40r.1" n="Ms-148,39v[2]et40r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_39v.2et40r.1" n="Ms-148,39v[2]et40r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_5" part="N">But couldn't we imagine some kind<lb/> of perversity in a child which  made it<lb/> say red when it saw green &amp; <abbr corresp="vice versa">v&amp;  v&amp;</abbr> &amp; at the <lb rend="pb"/><pb facs="Ms-148_40r" rend="recto" n="pagename_Ms-148,40r pageref_00"/><fw type="pagen">29</fw>       <emph rend="vdline">same time this not being discovered because<lb/>  it happened to see red <add rend="im" instant="false" status="unremarkable">in those cases</add> when we say green?</emph></s>
@@ -2796,7 +2825,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_40r.2" n="Ms-148,40r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_40r.2" n="Ms-148,40r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="crossed">
@@ -2807,7 +2836,7 @@
             <fw type="pagen" place="top left">30</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_40v.1" n="Ms-148,40v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_40v.1" n="Ms-148,40v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2815,7 +2844,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_40v.2" n="Ms-148,40v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_40v.2" n="Ms-148,40v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2823,7 +2852,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_40v.3" n="Ms-148,40v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_40v.3" n="Ms-148,40v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2839,7 +2868,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_40v.4" n="Ms-148,40v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_40v.4" n="Ms-148,40v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2848,7 +2877,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_40v.5et41r.1" n="Ms-148,40v[5]et41r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_40v.5et41r.1" n="Ms-148,40v[5]et41r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2860,7 +2889,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_41r.2" n="Ms-148,41r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_41r.2" n="Ms-148,41r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2871,7 +2900,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_41r.3" n="Ms-148,41r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_41r.3" n="Ms-148,41r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2883,7 +2912,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_41v.1" n="Ms-148,41v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_41v.1" n="Ms-148,41v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2893,7 +2922,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_41v.2" n="Ms-148,41v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_41v.2" n="Ms-148,41v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2903,7 +2932,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_41v.3" n="Ms-148,41v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_41v.3" n="Ms-148,41v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2918,7 +2947,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_41v.4" n="Ms-148,41v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_41v.4" n="Ms-148,41v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2927,7 +2956,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_41v.5et42r.1" n="Ms-148,41v[5]et42r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_41v.5et42r.1" n="Ms-148,41v[5]et42r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2935,7 +2964,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42r.2" n="Ms-148,42r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42r.2" n="Ms-148,42r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2947,7 +2976,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42r.3" n="Ms-148,42r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42r.3" n="Ms-148,42r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2956,7 +2985,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42r.4" n="Ms-148,42r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42r.4" n="Ms-148,42r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2964,7 +2993,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42r.5et42v.1" n="Ms-148,42r[5]et42v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42r.5et42v.1" n="Ms-148,42r[5]et42v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2972,7 +3001,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42v.2" n="Ms-148,42v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42v.2" n="Ms-148,42v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2981,7 +3010,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42v.3" n="Ms-148,42v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42v.3" n="Ms-148,42v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -2991,7 +3020,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42v.4" n="Ms-148,42v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42v.4" n="Ms-148,42v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3000,7 +3029,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42v.5" n="Ms-148,42v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42v.5" n="Ms-148,42v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3008,7 +3037,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42v.6" n="Ms-148,42v[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42v.6" n="Ms-148,42v[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3017,7 +3046,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_42v.7et43r.1" n="Ms-148,42v[7]et43r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_42v.7et43r.1" n="Ms-148,42v[7]et43r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3025,7 +3054,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43r.2" n="Ms-148,43r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43r.2" n="Ms-148,43r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3033,7 +3062,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43r.3" n="Ms-148,43r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43r.3" n="Ms-148,43r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3041,7 +3070,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43r.4" n="Ms-148,43r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43r.4" n="Ms-148,43r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3050,7 +3079,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43r.5" n="Ms-148,43r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43r.5" n="Ms-148,43r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3058,7 +3087,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43r.6" n="Ms-148,43r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43r.6" n="Ms-148,43r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3066,7 +3095,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43r.7" n="Ms-148,43r[7]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43r.7" n="Ms-148,43r[7]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3074,7 +3103,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43r.8et43v.1" n="Ms-148,43r[8]et43v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43r.8et43v.1" n="Ms-148,43r[8]et43v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3082,7 +3111,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43v.2" n="Ms-148,43v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43v.2" n="Ms-148,43v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3091,7 +3120,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43v.3" n="Ms-148,43v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43v.3" n="Ms-148,43v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3101,7 +3130,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43v.4" n="Ms-148,43v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43v.4" n="Ms-148,43v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3111,7 +3140,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43v.5" n="Ms-148,43v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43v.5" n="Ms-148,43v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3121,7 +3150,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43v.6" n="Ms-148,43v[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43v.6" n="Ms-148,43v[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3129,7 +3158,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_43v.7et44r.1" n="Ms-148,43v[7]et44r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_43v.7et44r.1" n="Ms-148,43v[7]et44r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3137,7 +3166,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_44r.2" n="Ms-148,44r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_44r.2" n="Ms-148,44r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3145,7 +3174,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_44r.3" n="Ms-148,44r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_44r.3" n="Ms-148,44r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3153,7 +3182,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_44r.4" n="Ms-148,44r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_44r.4" n="Ms-148,44r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_2" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3161,13 +3190,13 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_44r.5" n="Ms-148,44r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_44r.5" n="Ms-148,44r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“He'll tell us later what it was he saw”<lb/> means  that we'll get to know in a (compara<lb rend="shyphen"/>tively) direct  <add rend="im" instant="false" status="unremarkable">&amp; a sure</add> way what he saw as opposed<lb/> to the guesses we could  make before.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_44r.6" n="Ms-148,44r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_44r.6" n="Ms-148,44r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3178,7 +3207,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_44v.1" n="Ms-148,44v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_44v.1" n="Ms-148,44v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3194,7 +3223,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_44v.2et45r.1" n="Ms-148,44v[2]et45r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_44v.2et45r.1" n="Ms-148,44v[2]et45r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3204,7 +3233,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45r.2" n="Ms-148,45r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45r.2" n="Ms-148,45r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3214,19 +3243,19 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45r.3" n="Ms-148,45r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45r.3" n="Ms-148,45r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Compare lying &amp; telling the truth in the<lb/> case of telling what  colour you see<lb/> with the case of describing a picture which<lb/> you saw or  telling the right number<lb/> of things you had to count.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45r.4" n="Ms-148,45r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45r.4" n="Ms-148,45r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Collating what you say &amp; what you see.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45r.5" n="Ms-148,45r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45r.5" n="Ms-148,45r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Is there always a collating?</s>
@@ -3235,7 +3264,7 @@
             <fw type="pagen" place="top left">40</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45v.1" n="Ms-148,45v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45v.1" n="Ms-148,45v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3244,7 +3273,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45v.2" n="Ms-148,45v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45v.2" n="Ms-148,45v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3252,7 +3281,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45v.3" n="Ms-148,45v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45v.3" n="Ms-148,45v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“What I show <emph rend="us1">reveals</emph> what I see”; – <lb/> in  what sense does it do that?</s>
@@ -3261,13 +3290,13 @@
             <s type="es" part="N">“<choice type="o"><orig type="o1">d</orig><orig type="o2"><c type="c" part="N">D</c></orig></choice>irect – indirect”.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45v.4" n="Ms-148,45v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45v.4" n="Ms-148,45v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">We are thinking of a game in which<lb/> there is an inside in the normal  sense.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45v.5" n="Ms-148,45v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45v.5" n="Ms-148,45v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3278,7 +3307,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_45v.6et46r.1" n="Ms-148,45v[6]et46r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_45v.6et46r.1" n="Ms-148,45v[6]et46r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3288,7 +3317,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_46r.2" n="Ms-148,46r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_46r.2" n="Ms-148,46r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3297,7 +3326,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_46r.3" n="Ms-148,46r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_46r.3" n="Ms-148,46r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“If he had learnt to show me (or tell me)<lb/> what he sees, he  could now show me.”</s>
@@ -3309,7 +3338,7 @@
             <s type="es" part="N"><c type="k" part="N">I</c> say yes, but<lb/> remember what opening up in this<lb/> case is  like.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_46r.4et46v.1" n="Ms-148,46r[4]et46v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_46r.4et46v.1" n="Ms-148,46r[4]et46v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">But what about the criteri<corr type="trsn" instant="false"><orig type="trsn1">um</orig><reg type="trsn2">on</reg></corr> <unclear instant="false">whether</unclear><lb/> there  is anything inside or not?</s>
@@ -3335,7 +3364,7 @@
             </s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_46v.2" n="Ms-148,46v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_46v.2" n="Ms-148,46v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“So if I say ‘he has toothache’ I am<lb/> supposing  that he has what I<lb/> have if I have toothache.”</s>
@@ -3344,7 +3373,7 @@
             <s type="es" part="N"><c type="k" part="N">I</c><lb/> wished to say that talking about<lb/> his toothache at all was based<lb/>  upon a supposition, a supposition which<lb/> <add rend="im" instant="false" status="unremarkable">by its very  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">nature</del></orig><orig type="alt2">essence</orig></choice></add> could not be  ver<corr type="trsn" instant="false"><orig type="trsn1">y</orig><reg type="trsn2">i</reg></corr>fied.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_46v.3" n="Ms-148,46v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_46v.3" n="Ms-148,46v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="vdline">
@@ -3355,7 +3384,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_47r.1" n="Ms-148,47r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_47r.1" n="Ms-148,47r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_0" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="bl_1"/>
@@ -3363,7 +3392,7 @@
             <s type="es" rend="indl_2" part="N">Can two people have the same<lb/> afterimage?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_47r.2" n="Ms-148,47r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_47r.2" n="Ms-148,47r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">
@@ -3376,13 +3405,13 @@
             </s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_47r.3" n="Ms-148,47r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_47r.3" n="Ms-148,47r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Can two <del type="dnpc" instant="false" status="unremarkable">people</del> persons have the<lb/> same picture before their   mind's eye.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_47r.4" n="Ms-148,47r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_47r.4" n="Ms-148,47r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">In which case would we say that<lb/> they had two images exactly alike but<lb/> not  identical?</s>
@@ -3390,7 +3419,7 @@
             <emph rend="sepline"/>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_47r.5et47v.1" n="Ms-148,47r[5]et47v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_47r.5et47v.1" n="Ms-148,47r[5]et47v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">The fact that two ideas seem here<lb/> inseparably bound up suggests to<lb/> us that  we are dealing with one idea<lb/> only &amp; not with two &amp; that by a<lb/>  queer trick our language suggests a<lb/> totally different  stru<corr type="trsn" instant="false"><orig type="trsn1">k</orig><reg type="trsn2">c</reg></corr>ture of grammar<lb/> than the one actually  used.</s>
@@ -3399,7 +3428,7 @@
             <s type="es" part="N">It is<lb/> as though I had used the 4 letters<lb rend="pb"/>   <pb facs="Ms-148_47v" rend="verso" n="pagename_Ms-148,47v pageref_00"/><fw type="pagen" place="top left">44</fw> <seg type="p" part="N">a b c d</seg> to denote two objects only<lb/> but  by my notation somehow<lb/> suggesting <del type="dnpc" instant="false" status="unremarkable">the <corr type="npcn" instant="false">pre</corr></del> that I am  tal<lb rend="shyphen"/>king of 4.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_47v.2" n="Ms-148,47v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_47v.2" n="Ms-148,47v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">It seems as though I w<choice type="o"><orig type="o1">a</orig><orig type="o2">i</orig></choice>shed to<lb/> say that <del type="dnpc" instant="false" status="unremarkable">I</del> <add rend="im" instant="false" status="unremarkable">to  me</add> <persName key="Wittgenstein, Ludwig" instant="false" full="yes"><abbr type="abb">L.W.</abbr></persName> something applied<lb/>  which does not apply to other<lb/> people.</s>
@@ -3413,13 +3442,13 @@
             <s type="es" part="N"><c type="k" part="N">I</c><emph rend="us1">express</emph> things  a<corr type="npcn" instant="false">s</corr>symmetri<choice type="o"><orig type="o1">l</orig><orig type="o2">c</orig></choice>ally &amp; could<lb/> express them  symmetrically; only then one<lb/> would see what facts prompt us to<lb/> the  a<corr type="npcn" instant="false">s</corr>symmetrical expression.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_47v.3" n="Ms-148,47v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_47v.3" n="Ms-148,47v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><c type="k" part="N">I</c> do this by spreading the <add rend="im" instant="false" status="unremarkable">use of the</add> word I<lb/> over all  <unclear instant="false">hu<choice type="o"><orig type="o1">p</orig><orig type="o2">m</orig></choice>an</unclear> bodies as opposed to<lb/>  <persName key="Wittgenstein, Ludwig" instant="false" full="yes"><abbr type="abb">L.W.</abbr></persName>  al<corr type="npcn" instant="false">l</corr>one.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_47v.4et48r.1" n="Ms-148,47v[4]et48r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_47v.4et48r.1" n="Ms-148,47v[4]et48r[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><c type="k" part="N">I</c> want to <del type="dnpc" instant="false" status="unremarkable">bring</del> describe a situation<lb/> in which I should  not be tempted to<lb/> say that I assumed or believed that<lb/> the other had what I  have.</s>
@@ -3427,32 +3456,32 @@
             <s type="es" part="N">And in which the idea would not<lb rend="pb"/> <pb facs="Ms-148_48r" rend="recto" n="pagename_Ms-148,48r pageref_00"/><fw type="pagen">45</fw> occur to  us that we could only be<lb/> conscious of our own consciousness.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48r.2" n="Ms-148,48r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_48r.2" n="Ms-148,48r[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">The idea of the ego inhabiting a<lb/> body to be abolished.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48r.3" n="Ms-148,48r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_48r.3" n="Ms-148,48r[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">If what any consciousness <corr type="npc" instant="false">✓</corr> spreads over<lb/> all human bodies then  the<corr type="trsn" instant="false"><orig type="trsn1">ir</orig><reg type="trsn2">re</reg></corr> won<corr type="tra" instant="false">'</corr>t be<lb/> any temptation to  use the word ‘ego’<corr type="tra" instant="false">.</corr></s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48r.4" n="Ms-148,48r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_48r.4" n="Ms-148,48r[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Let's assume that hearing was<lb/> done by no organ of the body we  know<lb/> of<corr type="tra" instant="false">.</corr></s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48r.5" n="Ms-148,48r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_48r.5" n="Ms-148,48r[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Let us imagine the following arrangement:<emph rend="bl_4"/></s>
             <s type="es" rend="indl_2" part="N">If it is absurd to say that I only<lb/> know that <emph rend="us1">I</emph> see  <del type="dnpc" instant="false" status="unremarkable">&amp;</del> but not that the<lb/> others do, – isn't this  at any rate less<lb/> absurd than to say the opposite?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48r.6" n="Ms-148,48r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_48r.6" n="Ms-148,48r[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="indl_2"/>
@@ -3468,7 +3497,7 @@
             <fw type="pagen" place="top left">46.</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48v.1" n="Ms-148,48v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_48v.1" n="Ms-148,48v[1]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="indl_2"/>
@@ -3478,7 +3507,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48v.2" n="Ms-148,48v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
+        <ab xml:id="Ms-148_48v.2" n="Ms-148,48v[2]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <rs type="extref" key="Lichtenberg, Georg Christoph: Sudelbuch K 76">
@@ -3487,24 +3516,24 @@
             <s type="es" part="N">Ist dieser Satz wahr &amp; “ich<lb/> denke”  falsch?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48v.3" n="Ms-148,48v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_48v.3" n="Ms-148,48v[3]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><abbr corresp="Language-game"><c type="c" part="N">L</c>ang.game</abbr>: I  paint, for myself, what I<lb/> see.</s>
             <s type="es" part="N">The picture doesn't contain <emph rend="us1">me</emph>.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48v.4" n="Ms-148,48v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_48v.4" n="Ms-148,48v[4]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N"><s type="es" part="N"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio148-48v.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">148086</seg></s><s type="es" part="N">A board game <del type="dnpc" instant="false" status="unremarkable">exactly like</del><lb/> in fact chess but the<lb/> board has a  square<lb/> which must never be<lb/> used.</s><s type="es" part="N">This may be</s><lb/> misleading.  </seg>
         </ab>
-        <ab xml:id="Ms-148_48v.5" n="Ms-148,48v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_48v.5" n="Ms-148,48v[5]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">A board game in which only one man<lb/> <del type="dnpc" instant="false" status="unremarkable">plays with</del> is said to play  the other<lb/> to ‘answer’.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-148_48v.6" n="Ms-148,48v[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE(1993)_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-148_48v.6" n="Ms-148,48v[6]" ana="field:PhilosophyOfLanguage_pub:W-LPE_date:19341001?-19350531?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">What if the other person always<lb/> correct<corr type="npcn" instant="false">e</corr>ly described what I  saw,<lb/> &amp; imagined, would I not say he knows<lb/> what I  see? –</s>

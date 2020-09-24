@@ -961,12 +961,12 @@
           <s type="es" part="N">
             <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra" rend="bitmap" part="N">
               <figure ana="uebereinander" rend="table">
-                <formula>1 2<emph rend="blankspace_6"/>3 4<emph rend="blankspace_6"/>5 6<hi ana="facs">See facsimile; connecting lines to formula.</hi><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/>(x + y)²  =     ∙  ∙  ∙  ∙   =  x²  +  2xy <add rend="our" instant="false" status="unremarkable"> + </add> y²</formula>
+                <formula>1 2<emph rend="blankspace_6"/>3 4<emph rend="blankspace_6"/>5 6<hi ana="facs">See facsimile; connecting lines to formula.</hi><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/>(x + y)²  =     ∙  ∙  ∙  ∙   =  x²  +  2xy <add rend="our" instant="false" status="unremarkable"> + </add> y²</formula>
               </figure>
             </seg>
           </s>
           <emph rend="bl_1"/>
-          <s type="es" part="N"><choice type="s"><orig type="alt1">Der Beweis</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><c type="c" part="N">D</c>as Zeichen des Beweises</add></orig></choice> daß  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N"><seg type="notation" subtype="power" part="N">(3  +   4)²</seg>  =  3²  +  2 ∙ 3 ∙ 4  +   4²</seg><lb/> bestünde dann in<lb/> meiner Sprachen in<lb/>  <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra" rend="bitmap" part="N"><figure ana="uebereinander" rend="table"><formula>3<emph rend="blankspace_6"/> 4<hi ana="facs">See facsimile; connecting lines to formula.</hi><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/>(x + y)²</formula></figure>   =   … </seg><lb/> &amp;   könnte auch<lb/> in <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic" rend="bitmap" part="N"><figure ana="uebereinander" rend="table"><formula>3<del type="dnpc" instant="false" status="unremarkable"> + </del><emph rend="blankspace_6"/> 4<hi ana="facs">See facsimile; connecting lines to formula.</hi><lb rend="hl"/><lb rend="hl"/><lb rend="hl"/>(5 + 6)²</formula></figure>   =   …</seg><lb/>  bestehen.</s>
+          <s type="es" part="N"><choice type="s"><orig type="alt1">Der Beweis</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><c type="c" part="N">D</c>as Zeichen des Beweises</add></orig></choice> daß  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N"><seg type="notation" subtype="power" part="N">(3  +   4)²</seg>  =  3²  +  2 ∙ 3 ∙ 4  +   4²</seg><lb/> bestünde dann in<lb/> meiner Sprachen in<lb/>  <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra" rend="bitmap" part="N"><figure ana="uebereinander" rend="table"><formula>3<emph rend="blankspace_6"/> 4<hi ana="facs">See facsimile; connecting lines to formula.</hi><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/>(x + y)²</formula></figure>   =   … </seg><lb/> &amp;   könnte auch<lb/> in <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic" rend="bitmap" part="N"><figure ana="uebereinander" rend="table"><formula>3<del type="dnpc" instant="false" status="unremarkable"> + </del><emph rend="blankspace_6"/> 4<hi ana="facs">See facsimile; connecting lines to formula.</hi><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/>(5 + 6)²</formula></figure>   =   …</seg><lb/>  bestehen.</s>
         </ab>
         <ab xml:id="Ms-155_18v.3et19r.1" n="Ms-155,18v[3]et19r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -1173,7 +1173,7 @@
           </fw>
           <s type="es" rend="indl_2" part="N">Ich möchte sagen:<lb/> Ich konnte doch<lb/> nicht darauf aus<lb rend="shyphen"/>gehen die  <emph rend="ringed">Periodi<lb rend="shyphen"/>zität</emph> i<choice type="o"><orig type="o1">m</orig><orig type="o2">n</orig></choice> der Rechnung<lb/> zu finden,  – außer<lb/> wenn ich schon<lb/> eine habe &amp; eine<lb/> Methode <emph rend="uw1"><choice type="s"><orig type="alt1">mit  ihrer<lb/> Hilfe</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">mittels ihrer</add></orig></choice></emph> andere zu erzeu<lb rend="shyphen"/>gen.</s>
         </ab>
-        <ab xml:id="Ms-155_29r.2et29v.1" n="Ms-155,29r[2]et29v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;58.1_date:19310901?-19311130?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-155_29r.2et29v.1" n="Ms-155,29r[2]et29v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;58.1_date:19310901?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1206,7 +1206,7 @@
         </ab>
         <ab xml:id="Ms-155_31r.2et31v.1" n="Ms-155,31r[2]et31v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" part="N">Daß man die Gleichung<lb/> <seg type="p" part="N">A</seg> dem Komplex <seg type="p" part="N">B</seg><lb/> zuordnet,  <seg type="notation" subtype="graphics_Klammern; Klammernotation (Varia)" rend="bitmap" part="N"><table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_4"/>B<lb rend="hl"/>    ‒ ‒ ‒<lb rend="hl"/>    ‒ ‒ ‒<lb rend="hl"/>   ‒ ‒ ‒</cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/>A<lb rend="hl"/><emph rend="large">}</emph> ‒ ‒ ‒ <lb rend="hl"/>    </cell></row></table></seg> heißt  <del type="d" instant="false" status="unremarkable">soviel<lb/> als</del> daß eine<lb/> Gleichung von der Art <seg type="p" part="N">A</seg><lb/> die Multiplizität<lb/>  hat, die man in dem<lb/> Komplex <seg type="p" part="N">B</seg> sieht,<lb rend="hl"/>      <pb facs="Ms-155_31v" rend="verso" n="pagename_Ms-155,31v pageref_00"/>  <abbr type="abb">d.h.</abbr> daß man so viel<lb/> an dieser Gleichung<lb/> unterscheiden  kann<lb/> (oder soviele Unterschie<lb rend="shyphen"/>de <add rend="imw" instant="false" status="unremarkable"><emph rend="uw1">an ihr</emph></add> machen   kann) wie<lb/> an dem Komplex.</s>
+          <s type="es" part="N">Daß man die Gleichung<lb/> <seg type="p" part="N">A</seg> dem Komplex <seg type="p" part="N">B</seg><lb/> zuordnet,  <seg type="notation" subtype="graphics_Klammern; Klammernotation (Varia)" rend="bitmap" part="N"><table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_4"/>B<milestone unit="br"/>    ‒ ‒ ‒<milestone unit="br"/>    ‒ ‒ ‒<milestone unit="br"/>   ‒ ‒ ‒</cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/>A<milestone unit="br"/><emph rend="large">}</emph> ‒ ‒ ‒ <milestone unit="br"/>    </cell></row></table></seg> heißt  <del type="d" instant="false" status="unremarkable">soviel<lb/> als</del> daß eine<lb/> Gleichung von der Art <seg type="p" part="N">A</seg><lb/> die Multiplizität<lb/>  hat, die man in dem<lb/> Komplex <seg type="p" part="N">B</seg> sieht,<lb rend="hl"/>      <pb facs="Ms-155_31v" rend="verso" n="pagename_Ms-155,31v pageref_00"/>  <abbr type="abb">d.h.</abbr> daß man so viel<lb/> an dieser Gleichung<lb/> unterscheiden  kann<lb/> (oder soviele Unterschie<lb rend="shyphen"/>de <add rend="imw" instant="false" status="unremarkable"><emph rend="uw1">an ihr</emph></add> machen   kann) wie<lb/> an dem Komplex.</s>
           <emph rend="centered">––––––––|––––––––</emph>
         </ab>
         <ab xml:id="Ms-155_31v.2et32r.1" n="Ms-155,31v[2]et32r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_0" part="N">
@@ -1281,7 +1281,7 @@
             <emph rend="bl_1"/>
             <seg type="notation" subtype="maths_Description" rend="literal" part="N">a + (b + 1) = (a + b) + 1<lb rend="hl"/>  ((b + 1) + a) = (b + a) + 1</seg>
             <emph rend="bl_3"/>
-            <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N">(b + 1) + a <table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">II<lb rend="hl"/> = </cell></row></table> (1 + b) + a<table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">I<lb rend="hl"/> = </cell></row></table> 1 + (b + a)   <table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">II<lb rend="hl"/> = </cell></row></table> (b + a) + 1  <emph rend="centered">1 + (b + a) = (1 + b) + a</emph></seg>
+            <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N">(b + 1) + a <table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">II<milestone unit="br"/> = </cell></row></table> (1 + b) + a<table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">I<milestone unit="br"/> = </cell></row></table> 1 + (b + a)   <table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">II<milestone unit="br"/> = </cell></row></table> (b + a) + 1  <emph rend="centered">1 + (b + a) = (1 + b) + a</emph></seg>
           </s>
         </ab>
         <ab xml:id="Ms-155_34r.2" n="Ms-155,34r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_1" part="N">
@@ -1338,7 +1338,7 @@
                   <cell role="data" rows="1" cols="1">
                     <emph rend="blankspace_4"/>
                   </cell>
-                  <cell role="data" rows="1" cols="1"><lb rend="hl"/><emph rend="large">}</emph> α  +  (β  +  γ)  = <lb/> (α  +  β)  +  γ<lb rend="hl"/></cell>
+                  <cell role="data" rows="1" cols="1"><milestone unit="br"/><emph rend="large">}</emph> α  +  (β  +  γ)  = <milestone unit="br"/> (α  +  β)  +  γ<milestone unit="br"/></cell>
                 </row>
               </table>
             </seg>
@@ -1347,7 +1347,7 @@
         <ab xml:id="Ms-155_36v.2" n="Ms-155,36v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_4" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
-            <seg type="notation" subtype="logic_Description" rend="bitmap" part="N">   (b  +  1)  + a   <figure ana="uebereinander"><formula>I<lb rend="hl"/> = </formula></figure> <del type="dnpc" instant="false" status="unremarkable">(</del>b  +  (1 + a) <figure ana="uebereinander"><formula>II<lb rend="hl"/> = </formula></figure> b  +  (a + 1) <figure ana="uebereinander"><formula>I<lb rend="hl"/> = </formula></figure> (b  +  a)  + 1</seg>
+            <seg type="notation" subtype="logic_Description" rend="bitmap" part="N">   (b  +  1)  + a   <figure ana="uebereinander"><formula>I<milestone unit="br"/> = </formula></figure> <del type="dnpc" instant="false" status="unremarkable">(</del>b  +  (1 + a) <figure ana="uebereinander"><formula>II<milestone unit="br"/> = </formula></figure> b  +  (a + 1) <figure ana="uebereinander"><formula>I<milestone unit="br"/> = </formula></figure> (b  +  a)  + 1</seg>
           </s>
         </ab>
         <ab xml:id="Ms-155_36v.3et37r.1" n="Ms-155,36v[3]et37r[1]" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_1" xml:lang="en" part="N">
@@ -1399,10 +1399,10 @@
                     <emph rend="blankspace_4"/>
                   </cell>
                   <cell role="data" rows="1" cols="1">
-                    <lb rend="hl"/>
+                    <milestone unit="br"/>
                     <emph rend="large">}</emph>
-                    <lb rend="hl"/>
-                    <lb rend="hl"/>
+                    <milestone unit="br"/>
+                    <milestone unit="br"/>
                   </cell>
                 </row>
               </table>
@@ -1577,7 +1577,7 @@
             <s type="es" part="N">Woher dieser Konflikt:<lb/> „<choice type="o"><orig type="o1">D</orig><orig type="o2">d</orig></choice>as ist doch kein  Beweis”<del type="dn" instant="false" status="unremarkable">.</del><lb/> – „<choice type="o"><orig type="o1">D</orig><orig type="o2">d</orig></choice>as ist doch ein  Beweis!”<add rend="our" instant="false" status="unremarkable">.</add></s>
           </emph>
         </ab>
-        <ab xml:id="Ms-155_46r.2" n="Ms-155,46r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;59.1_date:19310901?-19311130?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-155_46r.2" n="Ms-155,46r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;59.1_date:19310901?-19311130?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="VB" part="N">
             <seg type="publ" part="N">
@@ -2268,7 +2268,7 @@
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">„Aber es hat doch<lb/> gewiß etwas zu bedeu<lb rend="shyphen"/>ten daß ich hier bei  der<lb/> Erklärung eines Namens<lb/> gerade auf dessen Träger<lb/>  zeige”.</s>
-            <s type="es" part="N">Zeigen ist doch<lb/> wohl etwas was geo<lb rend="shyphen"/>metrisch bestimmt ist<lb/> also der  Pfe<add rend="el" instant="false" status="unremarkable">i</add>l <seg type="p" part="N">P</seg> zeigt auf <seg type="notation" subtype="graphics_Pfeile; nach unten-links" rend="bitmap" part="N"><emph rend="large"><table rend="tablem"><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"><emph rend="sup">P</emph>↙<lb rend="hl"/>     <figure ana="uebereinander"><formula>•<lb rend="hl"/>A</formula></figure><figure ana="uebereinander"><formula>•<lb rend="hl"/>B</formula></figure>    </cell></row></table></emph></seg> <seg type="p" part="N">A</seg> &amp;  nicht auf <seg type="p" part="N">B</seg>.</s>
+            <s type="es" part="N">Zeigen ist doch<lb/> wohl etwas was geo<lb rend="shyphen"/>metrisch bestimmt ist<lb/> also der  Pfe<add rend="el" instant="false" status="unremarkable">i</add>l <seg type="p" part="N">P</seg> zeigt auf <seg type="notation" subtype="graphics_Pfeile; nach unten-links" rend="bitmap" part="N"><emph rend="large"><table rend="tablem"><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"><emph rend="sup">P</emph>↙<milestone unit="br"/>     <figure ana="uebereinander"><formula>•<milestone unit="br"/>A</formula></figure><figure ana="uebereinander"><formula>•<milestone unit="br"/>B</formula></figure>    </cell></row></table></emph></seg> <seg type="p" part="N">A</seg> &amp;  nicht auf <seg type="p" part="N">B</seg>.</s>
             <lb/>
             <s type="es" part="N">Aber ich könnte sehr wohl auf <lb/>  <seg type="p" part="N">A</seg> zeigen &amp; sagen dieser<lb/> Punkt  heißt „<seg type="p" part="N">B</seg>” &amp;<lb/> den Anderen könnte<lb/> man doch  richtig ver<lb rend="shyphen"/>stehen und wenn ich      <pb facs="Ms-155_79v" rend="verso" n="pagename_Ms-155,79v pageref_00"/> etwa sagte, wische <seg type="p" part="N">B</seg><lb/> weg <seg type="p" part="N">B</seg>  wegwischen &amp; nicht<lb/> <seg type="p" part="N">A</seg> –</s>
             <s type="es" part="N">Freilich, aber dann<lb/> mußte er eben meine<lb/> Worte anders <emph rend="us1">verstehen</emph><lb/>  als <add rend="our" instant="false" status="unremarkable">sie</add> normaler Weise<lb/> verstanden werden.</s>
@@ -2302,7 +2302,7 @@
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Der Unterschied den<lb/> man festhalten will<lb/> ist der zwischen einem<lb/> Bild  &amp; einem (‚willkürlichen’)<lb/> Zeichen.</s>
             <lb rend="hl"/>
-            <s type="es" part="N">Und ich will also sagen<lb/> daß, wenn das Zeichen ein<lb/> Zeichen ist, es als Bild<lb/>       <pb facs="Ms-155_83r" rend="recto" n="pagename_Ms-155,83r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">83</add></fw> <corr type="npc" instant="false"><emph rend="indl_10"/><seg type="notation" subtype="maths_arithmetic" rend="literal" part="N"><figure ana="Bruch" rend="table"><formula>5<lb rend="hl"/><emph rend="fractionbarover">6</emph></formula></figure>     = ~    <emph rend="indl_10"/><figure ana="Bruch" rend="table"><formula>5<lb rend="hl"/><emph rend="fractionbarover">6</emph></formula></figure></seg>!! <emph rend="indl_8"/><seg type="p" part="N">Undwort</seg><emph rend="indl_7"/><seg type="p" part="N">fingierte</seg>!</corr><emph rend="bl_2"/> funktionieren muß.</s>
+            <s type="es" part="N">Und ich will also sagen<lb/> daß, wenn das Zeichen ein<lb/> Zeichen ist, es als Bild<lb/>       <pb facs="Ms-155_83r" rend="recto" n="pagename_Ms-155,83r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">83</add></fw> <corr type="npc" instant="false"><emph rend="indl_10"/><seg type="notation" subtype="maths_arithmetic" rend="literal" part="N"><figure ana="Bruch" rend="table"><formula>5<milestone unit="br"/><emph rend="fractionbarover">6</emph></formula></figure>     = ~    <emph rend="indl_10"/><figure ana="Bruch" rend="table"><formula>5<milestone unit="br"/><emph rend="fractionbarover">6</emph></formula></figure></seg>!! <emph rend="indl_8"/><seg type="p" part="N">Undwort</seg><emph rend="indl_7"/><seg type="p" part="N">fingierte</seg>!</corr><emph rend="bl_2"/> funktionieren muß.</s>
             <s type="es" part="N">Und<lb/> daß das Bild (<emph rend="uw1">wie es<lb/> gewöhnlich verstanden  wird</emph>)<lb/> auch in <emph rend="us1">einem</emph> Sinn will<lb rend="shyphen"/>kürlich sein  muß.</s>
             <lb rend="hl"/>
             <s type="es" part="N">Das alte Argument: <c type="c" part="N">I</c>ch<lb/> kann nach einem Bild<lb/> den Befehl  ausführen &amp;<lb/> nach Worten &amp; nach<lb/> Worten das Bild  herstellen.</s>
@@ -2584,14 +2584,14 @@
             <lb/>
             <s type="es" part="N">Denn sonst verliert<lb/> ja die Tabelle ihren      <pb facs="Ms-155_94r" rend="recto" n="pagename_Ms-155,94r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">94</add></fw>  Sinn.</s>
             <lb rend="hl"/>
-            <s type="es" part="N">Ist es aber gesetzlos<lb/> wenn die Tabelle <seg type="notation" subtype="graphics_Schema; ohne Linien" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">a<lb rend="hl"/>b<lb rend="hl"/>c</cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1">A<lb rend="hl"/>B<lb rend="hl"/>C</cell></row></table></seg> so verstanden<lb/> wird:  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio155-94r-b.BMP" subtype="graphics_Schema; Pfeile" rend="bitmap" part="N">k155025</seg>?</s>
+            <s type="es" part="N">Ist es aber gesetzlos<lb/> wenn die Tabelle <seg type="notation" subtype="graphics_Schema; ohne Linien" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">a<milestone unit="br"/>b<milestone unit="br"/>c</cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1">A<milestone unit="br"/>B<milestone unit="br"/>C</cell></row></table></seg> so verstanden<lb/> wird:  <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio155-94r-b.BMP" subtype="graphics_Schema; Pfeile" rend="bitmap" part="N">k155025</seg>?</s>
             <s type="es" part="N">Aber muß dann<lb/> nicht eben das Schema <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/155,94r.jpg" subtype="graphics_Schema; Pfeile" rend="bitmap" part="N">k155026</seg> früher gegeben<lb/>  werden?</s>
           </emph>
         </ab>
         <ab xml:id="Ms-155_94r.2et94v.1et94v.2" n="Ms-155,94r[2]et94v[1]et94v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_1" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
-            <s type="es" part="N">Und, wenn auch eine<lb/> andere als die gewöhnliche<lb/>  Erkl<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>rung möglich ist,<lb/> so ist doch immer        <pb facs="Ms-155_94v" rend="verso" n="pagename_Ms-155,94v pageref_00"/>     <reloc type="relocate-nec" n="Ms-155,94v_Ms-155,95r" corresp="relocNec#Ms-155:1" instant="false" status="unremarkable"><gap extent="lines_2" instant="false"/><emph rend="sepline"/><emph rend="bl_3"/><del type="d" instant="false" status="unremarkable"><figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure>3   <name key="Paul" full="yes" instant="false">Paul</name><name key="Kundmanngasse" full="yes" instant="false"><abbr type="abb">Kundmg.</abbr></name></del><emph rend="bl_1"/></reloc>     die  gewöhnliche Erklä<lb rend="shyphen"/>rung <emph rend="us1">auch</emph> möglich<lb/> &amp; man kann immer<lb/>  (<emph rend="uw1">auch</emph>) in sie zurücküber<lb rend="shyphen"/>setzen.</s>
+            <s type="es" part="N">Und, wenn auch eine<lb/> andere als die gewöhnliche<lb/>  Erkl<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>rung möglich ist,<lb/> so ist doch immer        <pb facs="Ms-155_94v" rend="verso" n="pagename_Ms-155,94v pageref_00"/>     <reloc type="relocate-nec" n="Ms-155,94v_Ms-155,95r" corresp="relocNec#Ms-155:1" instant="false" status="unremarkable"><gap extent="lines_2" instant="false"/><emph rend="sepline"/><emph rend="bl_3"/><del type="d" instant="false" status="unremarkable"><figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure>3   <name key="Paul" full="yes" instant="false">Paul</name><name key="Kundmanngasse" full="yes" instant="false"><abbr type="abb">Kundmg.</abbr></name></del><emph rend="bl_1"/></reloc>     die  gewöhnliche Erklä<lb rend="shyphen"/>rung <emph rend="us1">auch</emph> möglich<lb/> &amp; man kann immer<lb/>  (<emph rend="uw1">auch</emph>) in sie zurücküber<lb rend="shyphen"/>setzen.</s>
             <emph rend="bl_2"/>
             <pb facs="Ms-155_95r" rend="recto" n="pagename_Ms-155,95r pageref_00"/>
             <fw type="pagen" place="top right">
@@ -2606,10 +2606,10 @@
               <gap extent="lines_2" instant="false"/>
               <emph rend="sepline"/>
               <emph rend="bl_3"/>
-              <del type="d" instant="false" status="unremarkable"><figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure>3    <name key="Paul" full="yes" instant="false">Paul</name><name key="Kundmanngasse" full="yes" instant="false"><abbr type="abb">Kundmg.</abbr></name></del>
+              <del type="d" instant="false" status="unremarkable"><figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure>3    <name key="Paul" full="yes" instant="false">Paul</name><name key="Kundmanngasse" full="yes" instant="false"><abbr type="abb">Kundmg.</abbr></name></del>
               <lb rend="hl"/>
             </reloc>
-            <s type="es" part="N"><persName key="Komisch N.N." instant="false" full="yes"><c type="k" part="N">D</c>r. Komisch</persName><lb rend="hl"/><emph rend="us2">Dienstag 4 – 6</emph><lb rend="hl"/><emph rend="us2">Mittwoch <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure>10 –</emph><emph rend="bl_1"/>  Morgen <seg type="p" part="N">K</seg> um 10<lb/> anrufen.</s>
+            <s type="es" part="N"><persName key="Komisch N.N." instant="false" full="yes"><c type="k" part="N">D</c>r. Komisch</persName><lb rend="hl"/><emph rend="us2">Dienstag 4 – 6</emph><lb rend="hl"/><emph rend="us2">Mittwoch <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure>10 –</emph><emph rend="bl_1"/>  Morgen <seg type="p" part="N">K</seg> um 10<lb/> anrufen.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-155_95r.2" n="Ms-155,95r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310901?-19311130?" emph="blbef_1" part="N">

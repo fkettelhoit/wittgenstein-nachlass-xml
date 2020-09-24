@@ -1185,7 +1185,7 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die deutsche <add rend="im" instant="false" status="unremarkable">und jede</add> Sprache<lb/> legt nicht nur<lb/> Sprachformen fest<lb/>  sondern sagt auch<lb/> was sie bedeuten             <pb facs="Ms-153a_4v" n="pagename_Ms-153a,4v pageref_00"/>          sollen fixiert<lb/> ihre  Bedeutung.</s>
         </ab>
-        <ab xml:id="Ms-153a_4v.2" n="Ms-153a,4v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;37.1_date:19310510" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_4v.2" n="Ms-153a,4v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;37.1_date:19310510" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <date rend="right" when-iso="19310510" instant="false">10.5.</date>
@@ -1371,7 +1371,7 @@
           <lb rend="hl"/>
           <pb facs="Ms-153a_12v" n="pagename_Ms-153a,12v pageref_00"/>
         </ab>
-        <ab xml:id="Ms-153a_12v.1" n="Ms-153a,12v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;38.1_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_12v.1" n="Ms-153a,12v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;38.1_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1475,7 +1475,7 @@
           <lb rend="hl"/>
           <pb facs="Ms-153a_18v" n="pagename_Ms-153a,18v pageref_00"/>
         </ab>
-        <ab xml:id="Ms-153a_18v.1" n="Ms-153a,18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;39.1_date:19310510?-19310831?_seg:misc" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_18v.1" n="Ms-153a,18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;39.1_date:19310510?-19310831?_seg:misc" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1730,7 +1730,7 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wird der Ausdruck<lb/> der Beschreibung nun<lb/> von dem Beschriebenen<lb/> abgeleitet  oder <del type="dnpc" instant="false" status="unremarkable">außer<lb/> dem <unclear instant="false">man</unclear></del> aus diesem<lb/> &amp; einer Tabelle  oder<lb/> etwas <add rend="im" instant="false" status="unremarkable">dem</add> Analogem?</s>
         </ab>
-        <ab xml:id="Ms-153a_29v.4et30r.1" n="Ms-153a,29v[4]et30r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;40.1_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_29v.4et30r.1" n="Ms-153a,29v[4]et30r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;40.1_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1832,7 +1832,7 @@
             <add rend="fremd" instant="false" status="unremarkable">35</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-153a_35r.1" n="Ms-153a,35r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;41.1_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_35r.1" n="Ms-153a,35r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;41.1_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1842,7 +1842,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-153a_35r.2" n="Ms-153a,35r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;41.2_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_35r.2" n="Ms-153a,35r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;41.2_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1863,7 +1863,7 @@
           <s type="es" rend="indl_2" part="N">Wenn wir sagen<lb/> ein Bild ist dazu<lb/> nötig wir müssen<lb/> in irgend einem<lb/> Sinne  ein Bild von <lb/>  ihm herumtragen,<lb/> so <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">frage</del></orig><orig type="alt2">sage</orig></choice>  ich:<lb/> vielleicht, aber<lb/> was hat es für einen<lb/> Sinn zu sagen es<lb/> sei ein  Bild von<lb/> <emph rend="us1">ihm</emph>.</s>
           <s type="es" part="N">Das hat also<lb/> auch nur einen<lb/> Sinn wenn ich ein<lb/> weiteres Bild von<lb/> ihm habe,  das dem<lb/> Wort „ihm” entspricht.</s>
         </ab>
-        <ab xml:id="Ms-153a_35v.2et36r.1" n="Ms-153a,35v[2]et36r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;42.1_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_35v.2et36r.1" n="Ms-153a,35v[2]et36r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;42.1_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -2749,7 +2749,7 @@
         </ab>
         <ab xml:id="Ms-153a_80v.2" n="Ms-153a,80v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" part="N">Die Zuordnung von<lb/> Gegenstand &amp; Namen<lb/> ist keine andere als<lb/> die  durch die Worte<lb/> „das ist  … ” oder<lb/> eine Tabelle     <seg type="notation" subtype="graphics_Schema; mit horizontalen und vertikalen Linien" rend="literal" part="N"><table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">     a<lb rend="hl"/>     b<lb rend="hl"/>     c<lb rend="hl"/>     </cell><cell rend="column" n="2" role="data" rows="1" cols="1">     A<lb rend="hl"/>     B<lb rend="hl"/>     C<lb rend="hl"/>     </cell></row></table></seg>     erzeugte<lb/>  etc.</s>
+          <s type="es" part="N">Die Zuordnung von<lb/> Gegenstand &amp; Namen<lb/> ist keine andere als<lb/> die  durch die Worte<lb/> „das ist  … ” oder<lb/> eine Tabelle     <seg type="notation" subtype="graphics_Schema; mit horizontalen und vertikalen Linien" rend="literal" part="N"><table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">     a<milestone unit="br"/>     b<milestone unit="br"/>     c<milestone unit="br"/>     </cell><cell rend="column" n="2" role="data" rows="1" cols="1">     A<milestone unit="br"/>     B<milestone unit="br"/>     C<milestone unit="br"/>     </cell></row></table></seg>     erzeugte<lb/>  etc.</s>
           <s type="es" part="N">Sie ist ein<lb/> Teil des<lb/> Symbolismus.</s>
           <s type="es" part="N">Es ist<lb/> daher <choice type="s"><orig type="alt1">Unsinn</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">unsinnig</add></orig></choice> zu<lb/> sagen die <choice type="s"><orig type="alt1">Zuordnung</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Beziehung</add></orig></choice><lb/> von Name &amp; Gegenstand<lb/> sei eine  psychologische.</s>
           <lb rend="hl"/>
@@ -2891,7 +2891,7 @@
         <ab xml:id="Ms-153a_86r.3et86v.1" n="Ms-153a,86r[3]et86v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Von der Erwartung<lb/> zur Erfüllung ist<lb/> ein Schritt einer  Kal<lb rend="shyphen0"/>kulation.</s>
-          <s type="es" part="N">Ja die<lb/> Rechnung    <seg type="notation" rend="literal" ana="field:PhilosophyOfLanguage_maths_arithmetic" part="N"><table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="barunder">25 × 25</emph><lb rend="hl"/><add rend="our" instant="false" status="unremarkable">5</add>0<lb rend="hl"/><emph rend="barunder">12<add rend="our" instant="false" status="unremarkable">5</add></emph></cell></row></table></seg>    steht<lb/>           <pb facs="Ms-153a_86v" n="pagename_Ms-153a,86v pageref_00"/> zu ihrem Resultat<lb/> 625 genau im Ver<lb rend="shyphen0"/>hältnis der  Erwar<lb rend="shyphen0"/>tung zur Erfüllung.</s>
+          <s type="es" part="N">Ja die<lb/> Rechnung    <seg type="notation" rend="literal" ana="field:PhilosophyOfLanguage_maths_arithmetic" part="N"><table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="barunder">25 × 25</emph><milestone unit="br"/><add rend="our" instant="false" status="unremarkable">5</add>0<milestone unit="br"/><emph rend="barunder">12<add rend="our" instant="false" status="unremarkable">5</add></emph></cell></row></table></seg>    steht<lb/>           <pb facs="Ms-153a_86v" n="pagename_Ms-153a,86v pageref_00"/> zu ihrem Resultat<lb/> 625 genau im Ver<lb rend="shyphen0"/>hältnis der  Erwar<lb rend="shyphen0"/>tung zur Erfüllung.</s>
         </ab>
         <ab xml:id="Ms-153a_86v.2" n="Ms-153a,86v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
@@ -2991,7 +2991,7 @@
           <s type="es" part="N">„<c type="k" part="N">S</c>atz” ist offenbar die<lb/> Überschrift der  Gram<lb rend="shyphen0"/>matik der Sätze.</s>
           <s type="es" part="N">In<lb/> einem Sinne aber<lb/> auch die <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">Gram</corr></del> Über<lb rend="shyphen0"/>schrift  der Grammatik<lb/> überhaupt also äqui<lb rend="shyphen0"/>valent den Wörtern  „Gram<lb rend="shyphen0"/>matik” &amp;  „Sprache”.</s>
         </ab>
-        <ab xml:id="Ms-153a_90v.2" n="Ms-153a,90v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;43.1_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_90v.2" n="Ms-153a,90v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;43.1_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -3738,7 +3738,7 @@
               <seg type="notation" subtype="graphics_Abbild; Varia" ana="field:PhilosophyOfLanguage_music_nicht konventionell" rend="literal" part="N">
                 <table rend="table">
                   <row role="data" rows="1" cols="1">
-                    <cell rend="column" n="1" role="data" rows="1" cols="1">––<lb rend="hl"/>Gang<lb rend="hl"/>––</cell>
+                    <cell rend="column" n="1" role="data" rows="1" cols="1">––<milestone unit="br"/>Gang<milestone unit="br"/>––</cell>
                     <cell rend="column" n="1" role="data" rows="1" cols="1"/>
                     <cell rend="column" n="1" role="data" rows="1" cols="1"/>
                     <cell rend="column" n="1" role="data" rows="1" cols="1"/>
@@ -3758,13 +3758,13 @@
                     <cell rend="column" n="1" role="data" rows="1" cols="1"> • </cell>
                     <cell rend="column" n="1" role="data" rows="1" cols="1"/>
                     <cell rend="column" n="1" role="data" rows="1" cols="1"/>
-                    <cell rend="column" n="1" role="data" rows="1" cols="1"> • <lb rend="hl"/><lb rend="hl"/> • </cell>
+                    <cell rend="column" n="1" role="data" rows="1" cols="1"> • <milestone unit="br"/><milestone unit="br"/> • </cell>
                     <cell rend="column" n="1" role="data" rows="1" cols="1"/>
                     <cell rend="column" n="1" role="data" rows="1" cols="1"/>
                     <cell rend="column" n="1" role="data" rows="1" cols="1">
                       <emph rend="sup">Horen</emph>
-                      <lb rend="hl"/>
-                      <lb rend="hl"/>
+                      <milestone unit="br"/>
+                      <milestone unit="br"/>
                     </cell>
                   </row>
                 </table>
@@ -3799,7 +3799,7 @@
             <s type="es" part="N">Der 5<emph rend="sup">te</emph> Akt <choice type="s"><orig type="alt1">ist</orig><orig type="alt2"><add rend="im" instant="false" status="unremarkable">kann</add></orig></choice> dann  <add rend="i" instant="false" status="unremarkable">nur</add><lb/> ein <emph rend="us1">Nachspiel</emph> sein.)</s>
           </rs>
         </ab>
-        <ab xml:id="Ms-153a_127v.2et128r.1" n="Ms-153a,127v[2]et128r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;44.1_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_127v.2et128r.1" n="Ms-153a,127v[2]et128r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;44.1_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -3812,7 +3812,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-153a_128v.1" n="Ms-153a,128v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;45.1_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_128v.1" n="Ms-153a,128v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;45.1_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -3820,7 +3820,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-153a_128v.2" n="Ms-153a,128v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;45.1_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_128v.2" n="Ms-153a,128v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;45.1_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -3828,7 +3828,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-153a_128v.3" n="Ms-153a,128v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;45.2_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_128v.3" n="Ms-153a,128v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;45.2_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -3841,7 +3841,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-153a_129r.1et129v.1" n="Ms-153a,129r[1]et129v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;45.3_date:19310510?-19310831?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_129r.1et129v.1" n="Ms-153a,129r[1]et129v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;45.3_date:19310510?-19310831?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -4018,7 +4018,7 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">„Indirekter Beweis”</s>
         </ab>
-        <ab xml:id="Ms-153a_137r.3et137v.1" n="Ms-153a,137r[3]et137v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;46.2_date:19311101?-19311130?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_137r.3et137v.1" n="Ms-153a,137r[3]et137v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;46.2_date:19311101?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -4044,7 +4044,7 @@
           <s type="es" part="N">Ja, wie weiß man es denn<lb/> heute?</s>
           <s type="es" part="N">Die Zeichenerklä<lb rend="shyphen0"/>rungen haben doch <choice type="s"><orig type="alt1">irgend <lb/>einmal</orig><orig type="alt2"><seg type="edinst" part="N"> [ </seg><emph rend="uw1">irgendwo</emph><seg type="edinst" part="N"> ] </seg></orig></choice> ein<lb/> Ende<corr type="tra" instant="false">.</corr></s>
         </ab>
-        <ab xml:id="Ms-153a_138r.2et138v.1" n="Ms-153a,138r[2]et138v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;46.6_date:19311101?-19311130?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_138r.2et138v.1" n="Ms-153a,138r[2]et138v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;46.6_date:19311101?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -4098,7 +4098,7 @@
           <lb/>
           <s type="es" part="N">(<c type="k" part="N">g</c>leichsam von einem<lb/> Marsstandpunkt).</s>
         </ab>
-        <ab xml:id="Ms-153a_141r.2" n="Ms-153a,141r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;47.1_date:19311101?-19311130?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_141r.2" n="Ms-153a,141r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;47.1_date:19311101?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -4106,7 +4106,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-153a_141r.3" n="Ms-153a,141r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;47.2_date:19311101?-19311130?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_141r.3" n="Ms-153a,141r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;47.2_date:19311101?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -4412,7 +4412,7 @@
         </ab>
         <ab xml:id="Ms-153a_157v.3et158r.1" n="Ms-153a,157v[3]et158r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311101?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N">∫ </seg>
-          <s type="es" part="N">Man könnte sich<lb/> doch aber zu jeder<lb/> Proje<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>tion einer  Reihe<lb/> von Wörtern etwa <seg type="p" part="N">a a b c c</seg><lb/> die Beschreibung der<lb/>  Proje<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>tionsart gegeben<lb/> denken <del type="dnpc" instant="false" status="unremarkable">oder</del> von der<lb/>  Art der Tabelle<lb/> <seg type="notation" subtype="graphics_Schema; Pfeile" rend="literal" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">a<lb rend="hl"/>b<lb rend="hl"/></cell><cell rend="column" n="2" role="data" rows="1" cols="1"><add rend="our" instant="false" status="unremarkable">→</add><lb rend="hl"/><add rend="our" instant="false" status="unremarkable">↑</add><lb rend="hl"/></cell></row></table></seg> &amp; so das  Be<lb rend="shyphen0"/>fo<corr type="tran" instant="false">l</corr>gen einer Reihe         <pb facs="Ms-153a_158r" n="pagename_Ms-153a,158r pageref_00"/> <fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">158</add></fw> se<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>undärer Zeichen<lb/>  immer zurückführen<lb/> auf das Kopieren<lb/> primärer Zeichen.</s>
+          <s type="es" part="N">Man könnte sich<lb/> doch aber zu jeder<lb/> Proje<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>tion einer  Reihe<lb/> von Wörtern etwa <seg type="p" part="N">a a b c c</seg><lb/> die Beschreibung der<lb/>  Proje<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>tionsart gegeben<lb/> denken <del type="dnpc" instant="false" status="unremarkable">oder</del> von der<lb/>  Art der Tabelle<lb/> <seg type="notation" subtype="graphics_Schema; Pfeile" rend="literal" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">a<milestone unit="br"/>b<milestone unit="br"/></cell><cell rend="column" n="2" role="data" rows="1" cols="1"><add rend="our" instant="false" status="unremarkable">→</add><milestone unit="br"/><add rend="our" instant="false" status="unremarkable">↑</add><milestone unit="br"/></cell></row></table></seg> &amp; so das  Be<lb rend="shyphen0"/>fo<corr type="tran" instant="false">l</corr>gen einer Reihe         <pb facs="Ms-153a_158r" n="pagename_Ms-153a,158r pageref_00"/> <fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">158</add></fw> se<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>undärer Zeichen<lb/>  immer zurückführen<lb/> auf das Kopieren<lb/> primärer Zeichen.</s>
           <s type="es" rend="indl_2" part="N">Aber warum soll<lb/> ich denn nicht die<lb/> Figur nach <seg type="p" part="N">a a b c c</seg><lb/> hervorbringen  können<lb/> ohne auf die Tabelle<lb/> zu sehen und ander<lb rend="shyphen0"/>seits, wenn ich <choice type="s"><orig type="alt1">auf<lb/>  sie sehe</orig><orig type="alt2">[auf die Tabelle<lb/> sehe]</orig></choice> <emph rend="us1">muß</emph> ich denn<lb/> dann den  Übergang<lb/> machen &amp; muß ich ihn<lb/> gerade in der gewöhnlichen<lb/> Weise  machen?</s>
         </ab>
         <ab xml:id="Ms-153a_158r.2et158v.1" n="Ms-153a,158r[2]et158v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311101?-19311130?" emph="blbef_1" part="N">
@@ -4450,7 +4450,7 @@
         </ab>
         <ab xml:id="Ms-153a_160r.2et160v.1" n="Ms-153a,160r[2]et160v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311101?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
-          <s type="es" part="N">Aber wenn ich nun<lb/> gleichgültig ob die<lb/> Regel  <seg type="notation" subtype="graphics_Schema; Pfeile" rend="literal" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1"><add rend="our" instant="false" status="unremarkable">a</add><lb rend="hl"/>b<lb rend="hl"/>c<lb rend="hl"/></cell><cell rend="column" n="2" role="data" rows="1" cols="1">    →<lb rend="hl"/>←<lb rend="hl"/>↑<lb rend="hl"/></cell></row></table></seg> als Spiel<lb rend="shyphen0"/>regel  benützt wird oder<lb/> nicht, sie als Beschrei<lb rend="shyphen0"/>bung des Spiels  <choice type="s"><orig type="alt1">be<lb rend="shyphen0"/>nütze</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">verwende</add></orig></choice> wie es  tats<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>chlich<lb/> gespielt wird?</s>
+          <s type="es" part="N">Aber wenn ich nun<lb/> gleichgültig ob die<lb/> Regel  <seg type="notation" subtype="graphics_Schema; Pfeile" rend="literal" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1"><add rend="our" instant="false" status="unremarkable">a</add><milestone unit="br"/>b<milestone unit="br"/>c<milestone unit="br"/></cell><cell rend="column" n="2" role="data" rows="1" cols="1">    →<milestone unit="br"/>←<milestone unit="br"/>↑<milestone unit="br"/></cell></row></table></seg> als Spiel<lb rend="shyphen0"/>regel  benützt wird oder<lb/> nicht, sie als Beschrei<lb rend="shyphen0"/>bung des Spiels  <choice type="s"><orig type="alt1">be<lb rend="shyphen0"/>nütze</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">verwende</add></orig></choice> wie es  tats<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>chlich<lb/> gespielt wird?</s>
           <s type="es" part="N">So daß<lb/> man also von dem<lb/> Spiel zum <corr type="trsn" instant="false"><orig type="trsn1">M</orig><reg type="trsn2">m</reg></corr>indesten<lb/> sagen  könnte es könne<lb/> durch eine Tabelle<lb/> <del type="dnpc" instant="false" status="unremarkable">mit</del> die <del type="dnpc" instant="false" status="unremarkable">primären</del>  se<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>un<corr type="npcn-pb" instant="false"><lb rend="shyphen0-pb"/></corr><corr type="tran-pb" instant="false">däre</corr><pb facs="Ms-153a_160v" n="pagename_Ms-153a,160v pageref_00"/>  <corr type="npcn-pb" instant="false">däre</corr> Zeichen  primären<lb/> zuordnet beschrie<lb rend="shyphen0"/>ben werden? –</s>
           <s type="es" part="N">Auch<lb/> dann muß ich in<lb/> der Tabelle diesen<lb/> Übergang machen sie<lb/> macht ihn  nicht <lb/> selbst, sie ebnet<lb/> nur dem Weg<add rend="el" instant="false" status="unremarkable">.</add> <del type="d" instant="false" status="unremarkable"> des   Über<lb rend="shyphen0"/>gangs.</del></s>
         </ab>
@@ -4458,7 +4458,7 @@
           <seg type="wabmarks-secml" part="N">/ </seg>
           <s type="es" part="N"><seg type="edcom" part="N"> ❘ </seg>  Die Einfachheit der  Diffe<lb rend="shyphen0"/>rentialrechnung<corr type="tra" instant="false">.</corr> <seg type="edcom" part="N"> ❘ </seg></s>
         </ab>
-        <ab xml:id="Ms-153a_160v.3" n="Ms-153a,160v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;48.1_date:19311101?-19311130?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153a_160v.3" n="Ms-153a,160v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;48.1_date:19311101?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -4578,7 +4578,7 @@
         </ab>
         <ab xml:id="Ms-153a_168r.2" n="Ms-153a,168r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311101?-19311130?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" part="N"><emph rend="centered"><seg type="notation" subtype="set_one-one correspondence" rend="literal" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">Tabelle</cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_10"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_10"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1">Anwendung</cell></row></table><lb rend="hl"/><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">❘<lb rend="hl"/>-</cell><cell rend="column" n="1" role="data" rows="1" cols="1"> = <lb rend="hl"/> = </cell><cell rend="column" n="2" role="data" rows="1" cols="1">⚬<lb rend="hl"/><emph rend="small">x</emph></cell><cell rend="column" n="2" role="data" rows="1" cols="1"><lb rend="hl"/><emph rend="blankspace_10"/><lb rend="hl"/></cell><cell rend="column" n="2" role="data" rows="1" cols="1"><lb rend="hl"/><emph rend="blankspace_10"/><lb rend="hl"/></cell><cell rend="column" n="2" role="data" rows="1" cols="1">❘❘<lb rend="hl"/>⚬⚬</cell><cell rend="column" n="2" role="data" rows="1" cols="1">- -<lb rend="hl"/><emph rend="small">x</emph> <emph rend="small">x</emph></cell><cell rend="column" n="2" role="data" rows="1" cols="1">❘<lb rend="hl"/>⚬</cell><cell rend="column" n="2" role="data" rows="1" cols="1">-<lb rend="hl"/> <emph rend="small">x</emph></cell><cell rend="column" n="2" role="data" rows="1" cols="1">❘❘❘<lb rend="hl"/>⚬⚬⚬</cell></row></table></seg></emph><lb/>und wie wenn ich die<lb/>  Tabelle schriebe <lb/> <seg type="notation" subtype="graphics_Schema; ohne Linien" rend="literal" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">❘<lb rend="hl"/>⚬</cell><cell rend="column" n="1" role="data" rows="1" cols="1">-<lb rend="hl"/> <emph rend="small">x</emph></cell></row></table></seg> <corr type="tra" instant="false">?</corr></s>
+          <s type="es" part="N"><emph rend="centered"><seg type="notation" subtype="set_one-one correspondence" rend="literal" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">Tabelle</cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_10"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_10"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1">Anwendung</cell></row></table><lb rend="hl"/><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">❘<milestone unit="br"/>-</cell><cell rend="column" n="1" role="data" rows="1" cols="1"> = <milestone unit="br"/> = </cell><cell rend="column" n="2" role="data" rows="1" cols="1">⚬<milestone unit="br"/><emph rend="small">x</emph></cell><cell rend="column" n="2" role="data" rows="1" cols="1"><milestone unit="br"/><emph rend="blankspace_10"/><milestone unit="br"/></cell><cell rend="column" n="2" role="data" rows="1" cols="1"><milestone unit="br"/><emph rend="blankspace_10"/><milestone unit="br"/></cell><cell rend="column" n="2" role="data" rows="1" cols="1">❘❘<milestone unit="br"/>⚬⚬</cell><cell rend="column" n="2" role="data" rows="1" cols="1">- -<milestone unit="br"/><emph rend="small">x</emph> <emph rend="small">x</emph></cell><cell rend="column" n="2" role="data" rows="1" cols="1">❘<milestone unit="br"/>⚬</cell><cell rend="column" n="2" role="data" rows="1" cols="1">-<milestone unit="br"/> <emph rend="small">x</emph></cell><cell rend="column" n="2" role="data" rows="1" cols="1">❘❘❘<milestone unit="br"/>⚬⚬⚬</cell></row></table></seg></emph><lb/>und wie wenn ich die<lb/>  Tabelle schriebe <lb/> <seg type="notation" subtype="graphics_Schema; ohne Linien" rend="literal" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">❘<milestone unit="br"/>⚬</cell><cell rend="column" n="1" role="data" rows="1" cols="1">-<milestone unit="br"/> <emph rend="small">x</emph></cell></row></table></seg> <corr type="tra" instant="false">?</corr></s>
           <s type="es" part="N">Dann sähe sie<lb/> ganz wie die An<lb rend="shyphen0"/>wendung aus.</s>
         </ab>
         <ab xml:id="Ms-153a_168r.3et168v.1" n="Ms-153a,168r[3]et168v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311101?-19311130?" emph="blbef_1" part="N">

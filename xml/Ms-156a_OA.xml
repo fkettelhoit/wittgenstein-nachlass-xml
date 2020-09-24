@@ -581,7 +581,7 @@
         <ab xml:id="Ms-156a_7r.2" n="Ms-156a,7r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Für jedes δ gibt es<lb/> ein <seg type="p" part="N"><c type="c" part="N">E</c></seg>, so daß   … ”<lb/> <abbr type="abb">z.B.</abbr>: <choice type="o"><orig type="o1">F</orig><orig type="o2">f</orig></choice>ür  jedes δ gibt<lb/> es ein <seg type="p" part="N">ε</seg>, so daß<lb/> <seg type="notation" subtype="maths_real analysis" rend="literal" part="N">ε ˂ δ</seg>.</s>
-          <s type="es" part="N">Der Beweis<lb/> hiervon ist eine <emph rend="us1">Lösung</emph><lb/> der Ungleichung etwa<lb/>  <seg type="notation" subtype="maths_real analysis, limit verification" rend="literal" part="N"><c type="c" part="N">ε</c> = <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure>δ</seg><corr type="tra" instant="false">.</corr></s>
+          <s type="es" part="N">Der Beweis<lb/> hiervon ist eine <emph rend="us1">Lösung</emph><lb/> der Ungleichung etwa<lb/>  <seg type="notation" subtype="maths_real analysis, limit verification" rend="literal" part="N"><c type="c" part="N">ε</c> = <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure>δ</seg><corr type="tra" instant="false">.</corr></s>
           <pb facs="Ms-156a_7v" rend="verso" n="pagename_Ms-156a,7v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
@@ -851,7 +851,7 @@
         </ab>
         <ab xml:id="Ms-156a_23r.3" n="Ms-156a,23r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" part="N">Wenn <seg type="p" part="N">n</seg> größer wird<lb/> so wird <figure ana="Bruch" rend="tablem"><formula>1<lb rend="hl"/><emph rend="fractionbarover">n</emph></formula></figure> immer<lb/> kleiner.</s>
+          <s type="es" part="N">Wenn <seg type="p" part="N">n</seg> größer wird<lb/> so wird <figure ana="Bruch" rend="tablem"><formula>1<milestone unit="br"/><emph rend="fractionbarover">n</emph></formula></figure> immer<lb/> kleiner.</s>
           <s type="es" part="N">Wie tritt <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">hier<lb/> der</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">dieser</add></orig></choice> neue Gedanke<lb/> in die  Arithmetik <add rend="im" instant="false" status="unremarkable">ein</add><corr type="tra" instant="false">?</corr></s>
           <s type="es" part="N"><c type="k" part="N">I</c>n<lb rend="shyphen"/>duktion.</s>
           <emph rend="bl_2"/>
@@ -900,7 +900,7 @@
           <s type="es" part="N">Wie es auch klar ist, daß<lb/> es ganz andere Reakti<lb rend="shyphen"/>onen in uns  hervorrufen<lb/> muß den Zügen eines<lb/> uns bekannten Spiels<lb/> zuzuschauen, als<lb/> wenn  wir einem Spiel<lb/> zusehen das wir nicht<lb/> “verstehen”.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_25r.2" n="Ms-156a,25r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;92.1_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_25r.2" n="Ms-156a,25r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;92.1_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Erinnere dich an den Eindruck<lb/> guter Architektur, daß<lb/> sie einen Gedanken  aus<lb rend="shyphen"/>drückt.</s>
@@ -1022,7 +1022,7 @@
             <emph rend="bl_2"/>
           </emph>
         </ab>
-        <ab xml:id="Ms-156a_30v.2" n="Ms-156a,30v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;93.1_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_30v.2" n="Ms-156a,30v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;93.1_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1505,7 +1505,7 @@
           <s type="es" part="N">Ich<lb/> charakterisiere ein Erleb<lb rend="shyphen"/>ni<corr type="trsn" instant="false"><orig type="trsn1">ß</orig><reg type="trsn2">s</reg></corr>.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_49r.3" n="Ms-156a,49r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;94.1_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_49r.3" n="Ms-156a,49r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;94.1_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1521,7 +1521,7 @@
           <s type="es" part="N">Der Tonfall der Überzeu<lb rend="shyphen"/>gung &amp; die Überzeugung<lb/> aber auch der  Tonfall<lb/> des Glaubens &amp; der Glaube<lb/> &amp; der <corr type="npc" instant="false">der</corr>  Tonfall der<lb/> Hoffnung &amp; die Hoffnung.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_49v.2" n="Ms-156a,49v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;95.2_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_49v.2" n="Ms-156a,49v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;95.2_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Man kann den eigenen<lb/> Charakter sowenig<lb/> von Außen <choice type="s"><orig type="alt1">betrachten</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">erkennen</add></orig></choice><lb/> wie die <emph rend="us1">eigene Schrift</emph>.</s>
@@ -1736,7 +1736,7 @@
           <s type="es" part="N">Es ist <add rend="im" instant="false" status="unremarkable">natürlich</add> nicht<lb/> wahr daß er uns <emph rend="us1">nichts</emph><lb/>  mitteilt<corr type="tra" instant="false">.</corr></s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_57r.2" n="Ms-156a,57r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;96.1_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_57r.2" n="Ms-156a,57r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;96.1_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="indl_4"/>
@@ -1750,7 +1750,7 @@
         <ab xml:id="Ms-156a_57v.1et58r.1" n="Ms-156a,57v[1]et58r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_4" part="N">
-            <seg type="notation" subtype="logic_quantificational formula list, type-theoretic formula list, self-reference, Russellian diagonalisation" rend="literal" part="N">αεα  <emph rend="indl_4"/>f(f)  =  F(f)  <emph rend="indl_4"/>ξ(ξ) <emph rend="bl_2"/>  <emph rend="indl_6"/>F(F)﹖ <emph rend="bl_1"/>        <emph rend="indl_6"/>~f(f)  =  F(f) <emph rend="bl_1"/>   <emph rend="indl_6"/>F(F)﹖ <emph rend="bl_2"/>        <emph rend="indl_4"/>~ _ ( – ) <emph rend="bl_2"/>       <emph rend="indl_4"/>   <seg type="notation" subtype="graphics_Zeichen; Struktur" rend="bitmap" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">(f)<lb rend="hl"/><lb rend="hl"/>      <emph rend="large">^</emph><lb rend="hl"/>      ~ _ ( – ) </cell></row></table></seg><emph rend="bl_1"/>               <pb facs="Ms-156a_58r" rend="verso" n="pagename_Ms-156a,58r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">58 </add></fw>  <emph rend="indl_6"/>~(αεα) <emph rend="bl_1"/>  <emph rend="indl_4"/>ξ<choice type="o"><orig type="o1">(</orig><orig type="o2">{</orig></choice>~(ξεξ)ξ  <emph rend="bl_2"/>  ~[ξ<choice type="o"><orig type="o1">(</orig><orig type="o2">{</orig></choice>~(ξεξ)ξε]  <emph rend="bl_2"/> <emph rend="indl_3"/>[f(ξ,n)]'a = f(a,a)  <emph rend="bl_5"/>  ~([~ξ(ξ)]'<del type="dn" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>([~ξ(ξ)]'( )))  <emph rend="bl_2"/>  ~<choice type="o"><orig type="o1">(</orig><orig type="o2">{</orig></choice>~[~ξ(ξ]'([~ξ(ξ)]'( ))}</seg>
+            <seg type="notation" subtype="logic_quantificational formula list, type-theoretic formula list, self-reference, Russellian diagonalisation" rend="literal" part="N">αεα  <emph rend="indl_4"/>f(f)  =  F(f)  <emph rend="indl_4"/>ξ(ξ) <emph rend="bl_2"/>  <emph rend="indl_6"/>F(F)﹖ <emph rend="bl_1"/>        <emph rend="indl_6"/>~f(f)  =  F(f) <emph rend="bl_1"/>   <emph rend="indl_6"/>F(F)﹖ <emph rend="bl_2"/>        <emph rend="indl_4"/>~ _ ( – ) <emph rend="bl_2"/>       <emph rend="indl_4"/>   <seg type="notation" subtype="graphics_Zeichen; Struktur" rend="bitmap" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">(f)<milestone unit="br"/><milestone unit="br"/>      <emph rend="large">^</emph><milestone unit="br"/>      ~ _ ( – ) </cell></row></table></seg><emph rend="bl_1"/>               <pb facs="Ms-156a_58r" rend="verso" n="pagename_Ms-156a,58r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">58 </add></fw>  <emph rend="indl_6"/>~(αεα) <emph rend="bl_1"/>  <emph rend="indl_4"/>ξ<choice type="o"><orig type="o1">(</orig><orig type="o2">{</orig></choice>~(ξεξ)ξ  <emph rend="bl_2"/>  ~[ξ<choice type="o"><orig type="o1">(</orig><orig type="o2">{</orig></choice>~(ξεξ)ξε]  <emph rend="bl_2"/> <emph rend="indl_3"/>[f(ξ,n)]'a = f(a,a)  <emph rend="bl_5"/>  ~([~ξ(ξ)]'<del type="dn" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>([~ξ(ξ)]'( )))  <emph rend="bl_2"/>  ~<choice type="o"><orig type="o1">(</orig><orig type="o2">{</orig></choice>~[~ξ(ξ]'([~ξ(ξ)]'( ))}</seg>
           </s>
           <pb facs="Ms-156a_58v" rend="recto" n="pagename_Ms-156a,58v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
@@ -1766,7 +1766,7 @@
           </emph>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_58v.2" n="Ms-156a,58v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;97.1_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_58v.2" n="Ms-156a,58v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;97.1_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">

@@ -662,7 +662,7 @@
   <text xml:lang="de">
     <body>
       <div n="OUP_Notebooks_8_Ms-154" part="N" org="uniform" sample="complete">
-        <ab xml:id="Ms-154_1r.1" n="Ms-154,1r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;52.1_date:19320401?-19320531?_seg:fm" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_1r.1" n="Ms-154,1r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;52.1_date:19320401?-19320531?_seg:fm" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <pb facs="Ms-154_FCr" n="pagename_Ms-154,FCr pageref_00"/>
@@ -703,7 +703,7 @@
             </s>
           </emph>
         </ab>
-        <ab xml:id="Ms-154_1v.1" n="Ms-154,1v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;53.1_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_1v.1" n="Ms-154,1v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;53.1_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1045,7 +1045,7 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Ich verliere mich<lb/> jetzt leicht in einem<lb/> Wald möglicher Nota<lb rend="shyphen0"/>tionen  &amp; Kalküle in<lb/> dem ich mich im Kreis<lb/><lb/>         <pb facs="Ms-154_15v" n="pagename_Ms-154,15v pageref_00"/> oder Kreisen  herumzu<lb rend="shyphen0"/>bewegen scheine.</s>
         </ab>
-        <ab xml:id="Ms-154_15v.2" n="Ms-154,15v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.1_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_15v.2" n="Ms-154,15v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;54.1_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1056,7 +1056,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_15v.3et16r.1" n="Ms-154,15v[3]et16r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.2_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_15v.3et16r.1" n="Ms-154,15v[3]et16r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;54.2_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1090,7 +1090,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_16r.2et16v.1" n="Ms-154,16r[2]et16v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.3_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_16r.2et16v.1" n="Ms-154,16r[2]et16v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;54.3_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1102,7 +1102,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_16v.2" n="Ms-154,16v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.4_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_16v.2" n="Ms-154,16v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;54.4_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1114,7 +1114,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_16v.3et17r.1et17v.1" n="Ms-154,16v[3]et17r[1]et17v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.5_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_16v.3et17r.1et17v.1" n="Ms-154,16v[3]et17r[1]et17v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;54.5_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1130,7 +1130,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_17v.2et18r.1et18v.1" n="Ms-154,17v[2]et18r[1]et18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.7_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_17v.2et18r.1et18v.1" n="Ms-154,17v[2]et18r[1]et18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;54.7_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1143,7 +1143,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_18v.2et19r.1" n="Ms-154,18v[2]et19r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.8_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_18v.2et19r.1" n="Ms-154,18v[2]et19r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;54.8_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1156,7 +1156,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_19r.2" n="Ms-154,19r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;54.9_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_19r.2" n="Ms-154,19r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;54.9_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1211,7 +1211,7 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">‒ ‒ ‒ Aber dieses Vor<lb rend="shyphen0"/>kommen des Paradigmas<lb/> der <unclear instant="false">&amp; der  Klasse im</unclear><lb/> Symbolismus bedeutet<lb/> nicht, daß ein bestimmter<lb/> Satz des  Symbolismus<lb/> wahr sein muß.</s>
         </ab>
-        <ab xml:id="Ms-154_20v.3" n="Ms-154,20v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;55.1_date:19320401?-19320531?_seg:misc" emph="blbef_0" part="N">
+        <ab xml:id="Ms-154_20v.3" n="Ms-154,20v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;55.1_date:19320401?-19320531?_seg:misc" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1238,7 +1238,7 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Oder kann man<lb/> sagen der Satz <emph rend="indl_4"/>  <seg type="notation" subtype="logic_quantificational formula, type-theoretic formula" rend="literal" part="N"><add rend="our" instant="false" status="unremarkable">(∃φ)</add>:(Еx) φx</seg>  ist sein<lb/> eigener Beweis, da <lb/><choice type="s"><orig type="alt1">der Satz</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">das Zeichen</add></orig></choice> selber so  ein Ding<lb/> enthält.</s>
         </ab>
-        <ab xml:id="Ms-154_21v.3et22r.1" n="Ms-154,21v[3]et22r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.1_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_21v.3et22r.1" n="Ms-154,21v[3]et22r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;56.1_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1247,7 +1247,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_20r.2" n="Ms-154,20r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.2_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_20r.2" n="Ms-154,20r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;56.2_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1260,7 +1260,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_22v.1et23r.1et23v.1" n="Ms-154,22v[1]et23r[1]et23v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.3_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_22v.1et23r.1et23v.1" n="Ms-154,22v[1]et23r[1]et23v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;56.3_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1276,7 +1276,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_23v.2et24r.1" n="Ms-154,23v[2]et24r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.6_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_23v.2et24r.1" n="Ms-154,23v[2]et24r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;56.6_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1288,7 +1288,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_23r.2et24v.1" n="Ms-154,23r[2]et24v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.7_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_23r.2et24v.1" n="Ms-154,23r[2]et24v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;56.7_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1306,7 +1306,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_25r.1" n="Ms-154,25r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;56.8_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_25r.1" n="Ms-154,25r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;56.8_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1328,7 +1328,7 @@
             <s type="es" part="N">Wenn das so<lb/> wäre so würde ich diese<lb/> Verwirrung studieren,<lb/> sie wäre sehr  interessant.</s>
           </rs>
         </ab>
-        <ab xml:id="Ms-154_25v.2et26r.1" n="Ms-154,25v[2]et26r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;57.1_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_25v.2et26r.1" n="Ms-154,25v[2]et26r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;57.1_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1340,7 +1340,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_26r.2et26v.1" n="Ms-154,26r[2]et26v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;57.2_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_26r.2et26v.1" n="Ms-154,26r[2]et26v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;57.2_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1354,7 +1354,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-154_26v.2et27r.1" n="Ms-154,26v[2]et27r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB(1998)_order:W-VB;57.3_date:19320401?-19320531?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-154_26v.2et27r.1" n="Ms-154,26v[2]et27r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;57.3_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1645,7 +1645,7 @@
             <lb/>
             <s type="es" part="N">Und <del type="dnpc" instant="false" status="unremarkable"><add rend="el" instant="false" status="unremarkable">–</add> wenn wir von Kardi<lb rend="shyphen0"/>nalzahlen reden –  nicht<lb/> von unendlich vielen<lb/> Zahlen sondern</del> nicht        <pb facs="Ms-154_38v" n="pagename_Ms-154,38v pageref_00"/> von unendlich vielen<lb/> Goldstücken sondern <lb/> von der  unendlichen<lb/> Freiheit <add rend="i" instant="false" status="unremarkable">die mir die Fee <unclear instant="false">läßt</unclear></add> mir Goldstücke<lb/> zu  wünschen.</s>
             <lb rend="hl"/>
-            <s type="es" part="N">Wenn wir sagen: die<lb/> Möglichkeit der Bildung<lb/> von Dezimalstellen in<lb/>  de<add rend="our" instant="false" status="unremarkable">r</add> Division <seg type="notation" ana="field:PhilosophyOfLanguage_maths_real analysis, series expansion" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">1  :  3  =  0˙3<lb rend="hl"/><emph rend="blankspace_2"/>1</cell></row></table></seg><lb/> ist unendlich so stellen<lb/>  <add rend="our" instant="false" status="unremarkable">w</add>ir <emph rend="uw1">hier</emph> keine <choice type="o"><orig type="o1">n</orig><orig type="o2">N</orig></choice>aturtat<lb rend="shyphen0"/>sache fest  sondern<lb/> geben eine Regel.</s>
+            <s type="es" part="N">Wenn wir sagen: die<lb/> Möglichkeit der Bildung<lb/> von Dezimalstellen in<lb/>  de<add rend="our" instant="false" status="unremarkable">r</add> Division <seg type="notation" ana="field:PhilosophyOfLanguage_maths_real analysis, series expansion" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">1  :  3  =  0˙3<milestone unit="br"/><emph rend="blankspace_2"/>1</cell></row></table></seg><lb/> ist unendlich so stellen<lb/>  <add rend="our" instant="false" status="unremarkable">w</add>ir <emph rend="uw1">hier</emph> keine <choice type="o"><orig type="o1">n</orig><orig type="o2">N</orig></choice>aturtat<lb rend="shyphen0"/>sache fest  sondern<lb/> geben eine Regel.</s>
             <s type="es" part="N">Ebenso<lb/> wenn wir sagen: <add rend="our" instant="false" status="unremarkable">d</add>iese<lb/> Division kommt nie zu<lb/> einem  Ende.</s>
             <s type="es" part="N">Denn sie kommt<lb/> tatsächlich zu einem Ende<lb/> wenn wir sie abschließen.</s>
             <lb/>
@@ -2412,7 +2412,7 @@
         <ab xml:id="Ms-154_72r.3et72v.1et73r.1et73v.1" n="Ms-154,72r[3]et72v[1]et73r[1]et73v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1" part="N">
           <emph rend="vdline">
             <seg type="wabmarks-secml" part="N"/>
-            <s type="es" part="N">Denken wir uns es<lb/> hätten sich <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Menschen</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Leute</add></orig></choice><lb/>  <del type="dnpc" instant="false" status="unremarkable">über</del> darüber gestritten<lb/> ob die Division <emph rend="indl_4"/>  <seg type="notation" subtype="maths_arithmetic, real analysis, series expansion" rend="literal" part="N">1 : 3</seg> lauter Dreier  <pb facs="Ms-154_72v" rend="verso" n="pagename_Ms-154,72v pageref_00"/> ergebe <lb rend="hl"/> plötzlich fällt<lb/> dem <choice type="o"><orig type="o1">e</orig><orig type="o2">E</orig></choice>inen  die <unclear instant="false">induktive</unclear><lb/> Beziehung in der Divi<lb rend="shyphen"/>sion   <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis, series expansion" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">1  :  3  =  0˙3<lb rend="hl"/><emph rend="blankspace_2"/>1</cell></row></table></seg> auf<lb/> &amp; er sagt:  „ich <add rend="our" instant="false" status="unremarkable">w</add>eiß<lb/> wie es ist: es werden<lb/> lauter 3 kommen  <unclear instant="false">das<lb/> seht ihr</unclear> <abbr type="abb">etc.</abbr>”</s>
+            <s type="es" part="N">Denken wir uns es<lb/> hätten sich <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Menschen</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Leute</add></orig></choice><lb/>  <del type="dnpc" instant="false" status="unremarkable">über</del> darüber gestritten<lb/> ob die Division <emph rend="indl_4"/>  <seg type="notation" subtype="maths_arithmetic, real analysis, series expansion" rend="literal" part="N">1 : 3</seg> lauter Dreier  <pb facs="Ms-154_72v" rend="verso" n="pagename_Ms-154,72v pageref_00"/> ergebe <lb rend="hl"/> plötzlich fällt<lb/> dem <choice type="o"><orig type="o1">e</orig><orig type="o2">E</orig></choice>inen  die <unclear instant="false">induktive</unclear><lb/> Beziehung in der Divi<lb rend="shyphen"/>sion   <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis, series expansion" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">1  :  3  =  0˙3<milestone unit="br"/><emph rend="blankspace_2"/>1</cell></row></table></seg> auf<lb/> &amp; er sagt:  „ich <add rend="our" instant="false" status="unremarkable">w</add>eiß<lb/> wie es ist: es werden<lb/> lauter 3 kommen  <unclear instant="false">das<lb/> seht ihr</unclear> <abbr type="abb">etc.</abbr>”</s>
             <s type="es" part="N">Aber<lb/> die Ander<add rend="our" instant="false" status="unremarkable">n</add> hatten<lb/> ja in ihrem Streit gar<lb/> nicht an diese Art<lb/>  der Entscheidung<lb/> gedacht sondern es<lb/> hat ihnen eine exten<lb rend="shyphen"/>sive  En<add rend="our" instant="false" status="unremarkable">t</add>scheidung<lb/> vorgeschwebt.</s>
             <s type="es" part="N">Wenn<lb/> sie nun <add rend="our" instant="false" status="unremarkable">w</add>eiter an<lb/> eine Extension denken  <pb facs="Ms-154_73r" rend="recto" n="pagename_Ms-154,73r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">73</add></fw> so hat der der die Induk<lb rend="shyphen"/>tion gefunden hat  aller<lb rend="shyphen"/>dings bewiesen daß lauter<lb/> 3 folgen werden denn die<lb/> Induktion  beweist das<lb/> für jede Extension.</s>
             <lb/>
@@ -2426,9 +2426,9 @@
             <s type="es" part="N">Der Ausdruck<lb/> <seg type="p" part="N">d, a, a,</seg> <abbr type="abb">u.s.w.</abbr> ist  <unclear instant="false">der</unclear><lb/> unexa<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>te Ausdruck<lb/> nicht  unexa<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>ter als<lb/> der des allgemeinen<lb/> Gliedes.</s>
             <s type="es" part="N">Denn auch<lb/> dieses verl<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>ßt sich<lb/> auf die Kenntnis<lb/> der  Zahlenreihe &amp; diese<lb/> kann nicht durch ein<lb/> allgemeines Glied<lb/> etwa  <emph rend="us1"><seg type="p" part="N">n</seg></emph> vermittelt<lb/> werden!</s>
             <s type="es" part="N">Vielmehr ist<lb/> <seg type="p" part="N">n</seg> <add rend="im" instant="false" status="unremarkable">wesentlich</add> die unabhängige<lb/> Variable.</s>
-            <s type="es" part="N"><add rend="our" instant="false" status="unremarkable">U</add>nd w<add rend="our" instant="false" status="unremarkable">or</add>in<lb/> unterscheidet sich  <pb facs="Ms-154_74r" rend="recto" n="pagename_Ms-154,74r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">74</add></fw> die Reihe<lb rend="hl"/> <seg type="notation" ana="field:PhilosophyOfLanguage_maths_real analysis, series expansion, power series terms" rend="bitmap" part="N">         x <emph rend="blankspace_3"/>  <figure ana="Bruch" rend="table"><formula>x³<lb rend="hl"/><emph rend="fractionbarover">3!</emph></formula></figure> <emph rend="blankspace_3"/> <figure ana="Bruch" rend="table"><formula>x⁵<lb rend="hl"/><emph rend="fractionbarover">5!</emph></formula></figure>         …         </seg>  … von der<lb/>   <seg type="notation" subtype="maths_arithmetic representation graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘<emph rend="blankspace_3"/>  ❘ ❘<emph rend="blankspace_3"/> ❘ ❘ ❘  …</seg>?</s>
+            <s type="es" part="N"><add rend="our" instant="false" status="unremarkable">U</add>nd w<add rend="our" instant="false" status="unremarkable">or</add>in<lb/> unterscheidet sich  <pb facs="Ms-154_74r" rend="recto" n="pagename_Ms-154,74r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">74</add></fw> die Reihe<lb rend="hl"/> <seg type="notation" ana="field:PhilosophyOfLanguage_maths_real analysis, series expansion, power series terms" rend="bitmap" part="N">         x <emph rend="blankspace_3"/>  <figure ana="Bruch" rend="table"><formula>x³<milestone unit="br"/><emph rend="fractionbarover">3!</emph></formula></figure> <emph rend="blankspace_3"/> <figure ana="Bruch" rend="table"><formula>x⁵<milestone unit="br"/><emph rend="fractionbarover">5!</emph></formula></figure>         …         </seg>  … von der<lb/>   <seg type="notation" subtype="maths_arithmetic representation graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘<emph rend="blankspace_3"/>  ❘ ❘<emph rend="blankspace_3"/> ❘ ❘ ❘  …</seg>?</s>
             <lb rend="hl"/>
-            <s type="es" part="N">Wir schreiben die Form der<lb/> ungeraden Zahlen heute <emph rend="indl_3"/>  <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N">2n + 1</seg> <lb rend="hl"/>aber die Form der   Kardinal<lb rend="shyphen"/>zahlen könnte geschrie<lb rend="shyphen0"/>ben werden <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N"><figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">n ‒ 1</emph><lb rend="hl"/>2<lb rend="hl"/></formula></figure></seg> wo <seg type="p" part="N">n</seg><lb/> die Reihe der  ungeraden Zahlen<lb/> durchläuft.</s>
+            <s type="es" part="N">Wir schreiben die Form der<lb/> ungeraden Zahlen heute <emph rend="indl_3"/>  <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N">2n + 1</seg> <lb rend="hl"/>aber die Form der   Kardinal<lb rend="shyphen"/>zahlen könnte geschrie<lb rend="shyphen0"/>ben werden <seg type="notation" subtype="maths_arithmetic, algebra" rend="literal" part="N"><figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">n ‒ 1</emph><milestone unit="br"/>2<milestone unit="br"/></formula></figure></seg> wo <seg type="p" part="N">n</seg><lb/> die Reihe der  ungeraden Zahlen<lb/> durchläuft.</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_74r.2et74v.1et75r.1" n="Ms-154,74r[2]et74v[1]et75r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1" part="N">
@@ -2459,7 +2459,7 @@
           <emph rend="vdline">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Ich kann ja auch nicht<lb/> fragen ob <del type="dnpc" instant="false" status="unremarkable"><unclear instant="false">in die</unclear></del> die<lb/> 4 unter den  Kombina<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">tionszahlen</corr><pb facs="Ms-154_75v" rend="verso" n="pagename_Ms-154,75v pageref_00"/><corr type="npcn-pb" instant="false">tionszahlen</corr>  vorkommt<lb/> wenn dies mein Zahlen<lb rend="shyphen0"/>system ist.</s>
-            <s type="es" part="N">Und <add rend="our" instant="false" status="unremarkable">nic</add>ht<lb/> ob <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure> unter den Kardinal<lb rend="shyphen"/>zahlen vorkommt oder<lb/>  zeigen daß es nicht unter<lb/> ihnen steht außer<lb/> in einem System in welchem<lb/>   <emph rend="uw2">sowohl die Kardinal</emph><abbr corresp="zahl">z.</abbr><lb/> als auch <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure>  vor<lb rend="shyphen"/>kommt.</s>
+            <s type="es" part="N">Und <add rend="our" instant="false" status="unremarkable">nic</add>ht<lb/> ob <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure> unter den Kardinal<lb rend="shyphen"/>zahlen vorkommt oder<lb/>  zeigen daß es nicht unter<lb/> ihnen steht außer<lb/> in einem System in welchem<lb/>   <emph rend="uw2">sowohl die Kardinal</emph><abbr corresp="zahl">z.</abbr><lb/> als auch <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure>  vor<lb rend="shyphen"/>kommt.</s>
             <add rend="iupm" instant="false" status="unremarkable">
               <s type="es" part="N"><corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2"><c type="c" part="N">A</c></reg></corr>ber <unclear instant="false"><add rend="im" instant="false" status="unremarkable">dann</add></unclear> auch nicht ob die 3  unter<lb/> den <abbr corresp="Kardinalzahlen">Kardinalz.</abbr> vorkommt.</s>
               <lb/>
@@ -2469,7 +2469,7 @@
             <s type="es" part="N">Die Frage<lb/> heißt vielmehr etwa<lb/> so: <c type="c" part="N">G</c>eht die Division<lb/>  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N"><add rend="our" instant="false" status="unremarkable">4</add> : 2</seg>  <add rend="our" instant="false" status="unremarkable">i</add>n ganzen Zahlen aus?<lb/> &amp; das läßt sich nur<lb/> fragen  <del type="dnpc" instant="false" status="unremarkable">wenn</del> in einem<lb/> System in welchem das<lb/> Ausgehen &amp; das nicht<lb/>  <corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">A</reg></corr>usgehen bekannt ist.</s>
             <lb/>
             <add rend="ilom" instant="false" status="unremarkable">
-              <s type="es" part="N">Wir können nicht ausrechnen ob   <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N"><figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">81</emph><lb rend="hl"/>3</formula></figure></seg> eine<lb/>  Kardinalzahl ist aber ob die Division <unclear instant="false">ausgeht oder nicht.</unclear></s>
+              <s type="es" part="N">Wir können nicht ausrechnen ob   <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N"><figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">81</emph><milestone unit="br"/>3</formula></figure></seg> eine<lb/>  Kardinalzahl ist aber ob die Division <unclear instant="false">ausgeht oder nicht.</unclear></s>
             </add>
             <s type="es" rend="indl_5" part="N">Wenn also in     <pb facs="Ms-154_76r" rend="recto" n="pagename_Ms-154,76r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">76</add></fw> der  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Rechnung</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Formel</add></orig></choice> die mir angeben<lb/> soll ob die  3-Teil<corr type="tran" instant="false">un</corr>g  möglich<lb/> ist 3 eingesetzt wird.</s>
           </emph>
@@ -2501,7 +2501,7 @@
             <s type="es" rend="indl_2" part="N">Denken wir uns der beschriebene<lb/> Konstruktionsvorgang<lb/> wäre der der   fortgesetzten<lb/> 2<corr type="trs" instant="false"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>Teil<corr type="tran" instant="false">un</corr>g    <add rend="i" instant="false" status="unremarkable">einer  Strecke</add> <del type="d" instant="false" status="unremarkable">mit Lineal &amp; Zirkel</del><lb/> <add rend="iupm" instant="false" status="unremarkable"><c type="c" part="N">D</c>enn es  könnte ja an die Konstruk<lb rend="shyphen"/>tion mit Lineal &amp;  <abbr corresp="Zirkel">Z.</abbr> eine weitere B<add rend="our" instant="false" status="unremarkable">edin</add><lb rend="shyphen"/>gung  geknüpft sein.</add>   in  der <persName key="Euklid" instant="false" full="yes">euklidischen</persName> Weise.</s>
             <lb/>
             <s type="es" part="N"><corr type="trsn" instant="false"><orig type="trsn1">m</orig><reg type="trsn2"><c type="c" part="N">M</c></reg></corr>an würde nun fragen<corr type="tran" instant="false">:</corr><lb/> gibt es in  diesem Proze<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> eine<lb/>  3<corr type="trs" instant="false"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>Teil<corr type="tran" instant="false">un</corr>g der Strecke.</s>
-            <s type="es" rend="indl_1" part="N">Man könnte die Reihe<lb/> der Teilungen etwa<lb/> durch Zeichen   <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic representation" rend="bitmap" part="N"><figure ana="uebereinander" rend="table"><formula>2<lb rend="hl"/>❘ ❘</formula></figure>, <figure ana="uebereinander" rend="table"><formula>2 × 2<lb rend="hl"/>❘ ❘ ❘ ❘</formula></figure>, <figure ana="uebereinander" rend="tablem"><formula>2 × 2 × 2<lb rend="hl"/>❘ ❘ ❘ ❘ ❘ ❘ ❘ ❘</formula></figure></seg> <lb/>  <abbr type="abb">etc.</abbr> bezeichnen &amp; nun<lb/> fragen<corr type="tran" instant="false">:</corr>  <choice type="o"><orig type="o1">k</orig><orig type="o2"><c type="c" part="N">K</c></orig></choice>ommt hier eine<lb/> 3 vor.</s>
+            <s type="es" rend="indl_1" part="N">Man könnte die Reihe<lb/> der Teilungen etwa<lb/> durch Zeichen   <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic representation" rend="bitmap" part="N"><figure ana="uebereinander" rend="table"><formula>2<milestone unit="br"/>❘ ❘</formula></figure>, <figure ana="uebereinander" rend="table"><formula>2 × 2<milestone unit="br"/>❘ ❘ ❘ ❘</formula></figure>, <figure ana="uebereinander" rend="tablem"><formula>2 × 2 × 2<milestone unit="br"/>❘ ❘ ❘ ❘ ❘ ❘ ❘ ❘</formula></figure></seg> <lb/>  <abbr type="abb">etc.</abbr> bezeichnen &amp; nun<lb/> fragen<corr type="tran" instant="false">:</corr>  <choice type="o"><orig type="o1">k</orig><orig type="o2"><c type="c" part="N">K</c></orig></choice>ommt hier eine<lb/> 3 vor.</s>
             <s type="es" part="N">Man hätte dann<lb/> aber eigentlich nicht nach einer<lb/> 3<corr type="trs" instant="false"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>Teil<corr type="tran" instant="false">un</corr>g     gefragt.</s>
           </emph>
         </ab>
@@ -2629,7 +2629,7 @@
             <s type="es" rend="indl_4" part="N">Wenn man die Geo<lb rend="shyphen"/>metrie mit Quadratwur<lb rend="shyphen"/>zelausdrücken betriebe<lb/> so  käme man gar<lb/> nicht auf eine <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis" rend="bitmap" part="N">∛</seg><corr type="tra" instant="false">.</corr></s>
             <s type="es" part="N">Wie<lb/> könnte man nun in dieser<lb/> Geometrie nach der 3<corr type="trs" instant="false"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>Teilung<lb/> fragen<corr type="tra" instant="false">?</corr> oder nach der    <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis" rend="bitmap" part="N">∛</seg><corr type="tra" instant="false">?</corr></s>
             <lb/>
-            <s type="es" part="N"><corr type="trsn" instant="false"><orig type="trsn1">n<lb/></orig><reg type="trsn2"><c type="c" part="N">N</c></reg></corr>un es hat natürlich<lb/> einen Sinn zu sagen<lb/> daß  wir durch Superpo<lb rend="shyphen"/>sition von <seg type="notation" subtype="maths_arithmetic, real analysis" rend="literal" part="N">²√</seg> nicht <pb facs="Ms-154_83r" rend="recto" n="pagename_Ms-154,83r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">83</add></fw>  <corr type="npc" instant="false"><add rend="iupm" instant="false" status="unremarkable"><seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">1<figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure>   <unclear instant="false">von</unclear> 7</seg></add><lb rend="hl"/></corr> zu <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis" rend="bitmap" part="N">∛</seg> kommen, denn ich<lb/> gliedere mein System  in<lb/> das der <add rend="im" instant="false" status="unremarkable"><seg type="p" part="N">nten</seg></add> Wurzeln ein.</s>
+            <s type="es" part="N"><corr type="trsn" instant="false"><orig type="trsn1">n<lb/></orig><reg type="trsn2"><c type="c" part="N">N</c></reg></corr>un es hat natürlich<lb/> einen Sinn zu sagen<lb/> daß  wir durch Superpo<lb rend="shyphen"/>sition von <seg type="notation" subtype="maths_arithmetic, real analysis" rend="literal" part="N">²√</seg> nicht <pb facs="Ms-154_83r" rend="recto" n="pagename_Ms-154,83r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">83</add></fw>  <corr type="npc" instant="false"><add rend="iupm" instant="false" status="unremarkable"><seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">1<figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure>   <unclear instant="false">von</unclear> 7</seg></add><lb rend="hl"/></corr> zu <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis" rend="bitmap" part="N">∛</seg> kommen, denn ich<lb/> gliedere mein System  in<lb/> das der <add rend="im" instant="false" status="unremarkable"><seg type="p" part="N">nten</seg></add> Wurzeln ein.</s>
             <lb rend="hl"/>
             <s type="es" part="N">Das ist derselbe Fall<lb/> wie der des Systems α.</s>
           </emph>
@@ -2669,7 +2669,7 @@
           </emph>
         </ab>
         <ab xml:id="Ms-154_84v.1" n="Ms-154,84v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_0" part="N">
-          <emph rend="vdline"><seg type="wabmarks-secml" part="N"/><s type="es" part="N"><seg type="notation" ana="field:PhilosophyOfLanguage_maths_recursive definition" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">          α<lb rend="hl"/>β<lb rend="hl"/>γ<lb rend="hl"/></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1">          f(1)      =  φ(1)<lb rend="hl"/>     f(c + 1)  =      F(f(c))          <lb rend="hl"/>     φ(c + 1)  =      F(φ(c))    </cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1"><lb rend="hl"/><emph rend="large">}</emph>     f(c)  =  φ(c)     <lb rend="hl"/><lb rend="hl"/></cell></row></table></seg></s><emph rend="bl_2"/>      a  +  (b  +  c)  =  (a  +  b)  +  c</emph>
+          <emph rend="vdline"><seg type="wabmarks-secml" part="N"/><s type="es" part="N"><seg type="notation" ana="field:PhilosophyOfLanguage_maths_recursive definition" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">          α<milestone unit="br"/>β<milestone unit="br"/>γ<milestone unit="br"/></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1">          f(1)      =  φ(1)<milestone unit="br"/>     f(c + 1)  =      F(f(c))          <milestone unit="br"/>     φ(c + 1)  =      F(φ(c))    </cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1"><milestone unit="br"/><emph rend="large">}</emph>     f(c)  =  φ(c)     <milestone unit="br"/><milestone unit="br"/></cell></row></table></seg></s><emph rend="bl_2"/>      a  +  (b  +  c)  =  (a  +  b)  +  c</emph>
         </ab>
         <ab xml:id="Ms-154_84v.3" n="Ms-154,84v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_2" part="N">
           <emph rend="vdline">
@@ -2699,7 +2699,7 @@
             <s type="es" part="N"><add rend="our" instant="false" status="unremarkable">S</add><unclear instant="false">teht nun </unclear><seg type="p" part="N">A</seg> zu <seg type="p" part="N">B</seg> im<lb/>  Verh<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>ltnis von Sätzen zu<lb/> einer  <add rend="our" instant="false" status="unremarkable">A</add>usrechnung<corr type="tra" instant="false">?</corr></s>
             <lb/>
             <reloc type="fetch-opt" n="Ms-154,85r_Ms-154,85r" corresp="relocOpt#Ms-154:3" instant="false" status="unremarkable"/>
-            <s type="es" part="N">Steht es nicht im Verh<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>lt<lb rend="shyphen"/>nis von <emph rend="indl_3"/>   <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis, series expansion" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"><emph rend="barunder">1</emph>  :  3  =  0˙3<lb rend="hl"/><emph rend="blankspace_2"/><emph rend="barunder">1</emph></cell></row></table></seg> <add rend="el" instant="false" status="unremarkable">zu</add> <del type="dnpc" instant="false" status="unremarkable">0˙3</del>  <seg type="notation" subtype="maths_arithmetic, real analysis, series expansion" rend="literal" part="N">1 : 3 = <emph rend="dotover">3</emph></seg>?</s>
+            <s type="es" part="N">Steht es nicht im Verh<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>lt<lb rend="shyphen"/>nis von <emph rend="indl_3"/>   <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, real analysis, series expansion" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"><emph rend="barunder">1</emph>  :  3  =  0˙3<milestone unit="br"/><emph rend="blankspace_2"/><emph rend="barunder">1</emph></cell></row></table></seg> <add rend="el" instant="false" status="unremarkable">zu</add> <del type="dnpc" instant="false" status="unremarkable">0˙3</del>  <seg type="notation" subtype="maths_arithmetic, real analysis, series expansion" rend="literal" part="N">1 : 3 = <emph rend="dotover">3</emph></seg>?</s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_85r.4et85v.1" n="Ms-154,85r[4]et85v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1" part="N">
@@ -2719,10 +2719,10 @@
         <ab xml:id="Ms-154_85v.3et86r.1" n="Ms-154,85v[3]et86r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1" part="N">
           <emph rend="vdline">
             <seg type="wabmarks-secml" part="N"/>
-            <s type="es" part="N"><del type="dnpc" instant="false" status="unremarkable"><seg type="p" part="N">B</seg> ist ja</del><seg type="notation" ana="field:PhilosophyOfLanguage_logic_recursive definition" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">          α<lb rend="hl"/>β<lb rend="hl"/>γ<lb rend="hl"/></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1"><emph rend="large">}</emph></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1"><lb rend="hl"/>A<lb rend="hl"/><lb rend="hl"/></cell></row></table></seg> ist ja eine <emph rend="us1">Bestimmung</emph>  keine Aus<lb rend="shyphen"/>rechnung, denn nach<lb/> welchen <emph rend="us1">Prinzipien</emph>  wäre<lb/> denn die Ausrechnung<lb/> erfolgt.</s>
+            <s type="es" part="N"><del type="dnpc" instant="false" status="unremarkable"><seg type="p" part="N">B</seg> ist ja</del><seg type="notation" ana="field:PhilosophyOfLanguage_logic_recursive definition" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">          α<milestone unit="br"/>β<milestone unit="br"/>γ<milestone unit="br"/></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1"><emph rend="large">}</emph></cell><cell role="data" rows="1" cols="1"><emph rend="blankspace_4"/></cell><cell role="data" rows="1" cols="1"><milestone unit="br"/>A<milestone unit="br"/><milestone unit="br"/></cell></row></table></seg> ist ja eine <emph rend="us1">Bestimmung</emph>  keine Aus<lb rend="shyphen"/>rechnung, denn nach<lb/> welchen <emph rend="us1">Prinzipien</emph>  wäre<lb/> denn die Ausrechnung<lb/> erfolgt.</s>
             <s type="es" part="N">Aber wie lautet<lb/> die Bestimmung?</s>
             <lb/>
-            <s type="es" part="N">Wenn Sätze des Sche<lb rend="shyphen"/>mas <seg type="notation" ana="field:PhilosophyOfLanguage_logic_recursive definition" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">          α<lb rend="hl"/>β<lb rend="hl"/>γ<lb rend="hl"/></cell></row></table></seg> bewiesen sind    <pb facs="Ms-154_86r" rend="recto" n="pagename_Ms-154,86r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">86</add></fw> dann sagen wir <seg type="p" part="N">A</seg> ist<lb/> bewiesen<corr type="tra" instant="false">.</corr><emph rend="bl_1"/>    <del type="d" instant="false" status="unremarkable"><seg type="notation" subtype="graphics_Kurven; Spirale" rend="bitmap" part="N"><note type="editor" anchored="true">The first of the three elastic spring drawings is deleted.</note></seg></del> Sprungfedern.<emph rend="bl_1"/>   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-86r-b.BMP" subtype="graphics_Kurven; Spirale" rend="bitmap" part="N">154008</seg> <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-86r-c.BMP" subtype="graphics_Technische Darstellung; Maschine" rend="bitmap" part="N">154009</seg></s>
+            <s type="es" part="N">Wenn Sätze des Sche<lb rend="shyphen"/>mas <seg type="notation" ana="field:PhilosophyOfLanguage_logic_recursive definition" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">          α<milestone unit="br"/>β<milestone unit="br"/>γ<milestone unit="br"/></cell></row></table></seg> bewiesen sind    <pb facs="Ms-154_86r" rend="recto" n="pagename_Ms-154,86r pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">86</add></fw> dann sagen wir <seg type="p" part="N">A</seg> ist<lb/> bewiesen<corr type="tra" instant="false">.</corr><emph rend="bl_1"/>    <del type="d" instant="false" status="unremarkable"><seg type="notation" subtype="graphics_Kurven; Spirale" rend="bitmap" part="N"><note type="editor" anchored="true">The first of the three elastic spring drawings is deleted.</note></seg></del> Sprungfedern.<emph rend="bl_1"/>   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-86r-b.BMP" subtype="graphics_Kurven; Spirale" rend="bitmap" part="N">154008</seg> <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/notatio154-86r-c.BMP" subtype="graphics_Technische Darstellung; Maschine" rend="bitmap" part="N">154009</seg></s>
           </emph>
         </ab>
         <ab xml:id="Ms-154_86r.2et86v.1" n="Ms-154,86r[2]et86v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1" part="N">
@@ -2749,7 +2749,7 @@
         <ab xml:id="Ms-154_87r.1" n="Ms-154,87r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
-            <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra" rend="bitmap" part="N">        a + (b + 1)  =     (a + b) + 1 <emph rend="blankspace_3"/><abbr type="abb">Def</abbr>   <emph rend="bl_1"/>    a + (1 + 1)  =  (a + 1) + 1    <emph rend="bl_1"/>    a + ((1 + 1) + 1)  =     ((a + <corr type="tra" instant="false"> …</corr>    <emph rend="bl_1"/>       <figure ana="Bruch" rend="table"><formula>a<lb rend="hl"/><emph rend="fractionbarover">2</emph><lb rend="hl"/></formula></figure> <add rend="our" instant="false" status="unremarkable"> ± </add>  √<emph rend="rootbarover"><figure ana="Bruch" rend="table"><formula>a³<lb rend="hl"/><emph rend="fractionbarover">4</emph><lb rend="hl"/></formula></figure>  ‒  b</emph>            <emph rend="bl_1"/>        <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>    <emph rend="bl_1"/>        x  +  iy  =  <figure ana="Bruch" rend="table"><formula>a<lb rend="hl"/><emph rend="fractionbarover">2</emph><lb rend="hl"/></formula></figure>  ±   √<emph rend="rootbarover"><figure ana="Bruch" rend="table"><formula>a²<lb rend="hl"/><emph rend="fractionbarover">4</emph><lb rend="hl"/></formula></figure>  ‒  b</emph>    <emph rend="bl_1"/>    <del type="dnpc" instant="false" status="unremarkable">x  =  <figure ana="Bruch" rend="table"><formula>a<lb rend="hl"/><emph rend="fractionbarover">2</emph></formula></figure></del> a  =  2x<lb rend="hl"/>     <del type="dnpc" instant="false" status="unremarkable">y  =  √</del>     <emph rend="bl_1"/>    √<emph rend="rootbarover"> ‒ 1y</emph>  =     √<emph rend="rootbarover"><figure ana="Bruch" rend="table"><formula>a²<lb rend="hl"/><emph rend="fractionbarover">4</emph><lb rend="hl"/></formula></figure>  ‒  b</emph>        <emph rend="bl_1"/>        y  =  √<emph rend="rootbarover">b  ‒  <figure ana="Bruch" rend="table"><formula>a²<lb rend="hl"/><emph rend="fractionbarover">4</emph><lb rend="hl"/></formula></figure></emph>        <emph rend="bl_1"/>        y²  +  <figure ana="Bruch" rend="table"><formula>a²<lb rend="hl"/><emph rend="fractionbarover">4</emph><lb rend="hl"/></formula></figure>  =  b      </seg>
+            <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra" rend="bitmap" part="N">        a + (b + 1)  =     (a + b) + 1 <emph rend="blankspace_3"/><abbr type="abb">Def</abbr>   <emph rend="bl_1"/>    a + (1 + 1)  =  (a + 1) + 1    <emph rend="bl_1"/>    a + ((1 + 1) + 1)  =     ((a + <corr type="tra" instant="false"> …</corr>    <emph rend="bl_1"/>       <figure ana="Bruch" rend="table"><formula>a<milestone unit="br"/><emph rend="fractionbarover">2</emph><milestone unit="br"/></formula></figure> <add rend="our" instant="false" status="unremarkable"> ± </add>  √<emph rend="rootbarover"><figure ana="Bruch" rend="table"><formula>a³<milestone unit="br"/><emph rend="fractionbarover">4</emph><milestone unit="br"/></formula></figure>  ‒  b</emph>            <emph rend="bl_1"/>        <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>    <emph rend="bl_1"/>        x  +  iy  =  <figure ana="Bruch" rend="table"><formula>a<milestone unit="br"/><emph rend="fractionbarover">2</emph><milestone unit="br"/></formula></figure>  ±   √<emph rend="rootbarover"><figure ana="Bruch" rend="table"><formula>a²<milestone unit="br"/><emph rend="fractionbarover">4</emph><milestone unit="br"/></formula></figure>  ‒  b</emph>    <emph rend="bl_1"/>    <del type="dnpc" instant="false" status="unremarkable">x  =  <figure ana="Bruch" rend="table"><formula>a<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure></del> a  =  2x<lb rend="hl"/>     <del type="dnpc" instant="false" status="unremarkable">y  =  √</del>     <emph rend="bl_1"/>    √<emph rend="rootbarover"> ‒ 1y</emph>  =     √<emph rend="rootbarover"><figure ana="Bruch" rend="table"><formula>a²<milestone unit="br"/><emph rend="fractionbarover">4</emph><milestone unit="br"/></formula></figure>  ‒  b</emph>        <emph rend="bl_1"/>        y  =  √<emph rend="rootbarover">b  ‒  <figure ana="Bruch" rend="table"><formula>a²<milestone unit="br"/><emph rend="fractionbarover">4</emph><milestone unit="br"/></formula></figure></emph>        <emph rend="bl_1"/>        y²  +  <figure ana="Bruch" rend="table"><formula>a²<milestone unit="br"/><emph rend="fractionbarover">4</emph><milestone unit="br"/></formula></figure>  =  b      </seg>
           </s>
           <lb rend="hl"/>
           <pb facs="Ms-154_87v" rend="verso" n="pagename_Ms-154,87v pageref_00"/>
@@ -2779,7 +2779,7 @@
                 <seg type="notation" subtype="graphics_Kreise; Kreis" rend="bitmap" part="N">
                   <table rend="tablem">
                     <row role="data" rows="1" cols="1">
-                      <cell role="data" rows="1" cols="1">⚫     <lb rend="hl"/><lb rend="hl"/>     ⚫<emph rend="blankspace_2"/>⚫<lb rend="hl"/><lb rend="hl"/>     ◯<emph rend="blankspace_2"/>◯<emph rend="blankspace_2"/>◯<emph rend="blankspace_2"/>◯        </cell>
+                      <cell role="data" rows="1" cols="1">⚫     <milestone unit="br"/><milestone unit="br"/>     ⚫<emph rend="blankspace_2"/>⚫<milestone unit="br"/><milestone unit="br"/>     ◯<emph rend="blankspace_2"/>◯<emph rend="blankspace_2"/>◯<emph rend="blankspace_2"/>◯        </cell>
                     </row>
                   </table>
                 </seg>
@@ -2871,7 +2871,7 @@
         </ab>
         <ab xml:id="Ms-154_92r.1" n="Ms-154,92r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra, real analysis, series expansion" rend="bitmap" part="N">        o, 2o, 2 ∙ 2o, 2 ∙ 2 ∙ 2o      <emph rend="bl_1"/>    <unclear instant="false"><add rend="our" instant="false" status="unremarkable">2o</add><note type="editor" anchored="true">On page 91v.</note> 22|o, 2</unclear>   <emph rend="bl_2"/>      <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">2²o</emph><lb rend="hl"/>o</formula></figure>      <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">2⁴o</emph><lb rend="hl"/>o</formula></figure>       2⁶o      <emph rend="bl_1"/>o   <emph rend="bl_1"/>   2n  +  1<lb rend="hl"/>      <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><lb rend="hl"/>o</formula></figure> o   <emph rend="bl_1"/>      <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><lb rend="hl"/>o</formula></figure>    <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><lb rend="hl"/>2o</formula></figure>    <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><lb rend="hl"/>2²o</formula></figure>       <lb rend="hl"/>   <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><lb rend="hl"/>o</formula></figure> <gap extent="characters_1" instant="false"/>      </seg>
+          <seg type="notation" ana="field:PhilosophyOfLanguage_maths_arithmetic, algebra, real analysis, series expansion" rend="bitmap" part="N">        o, 2o, 2 ∙ 2o, 2 ∙ 2 ∙ 2o      <emph rend="bl_1"/>    <unclear instant="false"><add rend="our" instant="false" status="unremarkable">2o</add><note type="editor" anchored="true">On page 91v.</note> 22|o, 2</unclear>   <emph rend="bl_2"/>      <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">2²o</emph><milestone unit="br"/>o</formula></figure>      <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">2⁴o</emph><milestone unit="br"/>o</formula></figure>       2⁶o      <emph rend="bl_1"/>o   <emph rend="bl_1"/>   2n  +  1<lb rend="hl"/>      <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><milestone unit="br"/>o</formula></figure> o   <emph rend="bl_1"/>      <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><milestone unit="br"/>o</formula></figure>    <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><milestone unit="br"/>2o</formula></figure>    <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><milestone unit="br"/>2²o</formula></figure>       <lb rend="hl"/>   <figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">o</emph><milestone unit="br"/>o</formula></figure> <gap extent="characters_1" instant="false"/>      </seg>
         </ab>
         <ab xml:id="Ms-154_92r.2et92v.1" n="Ms-154,92r[2]et92v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320401?-19320531?" emph="blbef_1" part="N">
           <emph rend="vdline">
