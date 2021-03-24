@@ -41,7 +41,7 @@
         </respStmt>
         <respStmt>
           <name full="yes" instant="false">Claus Huitfeldt</name>
-          <resp>2020: Spell-check</resp>
+          <resp>2020: spell-check</resp>
         </respStmt>
         <respStmt>
           <name full="yes" instant="false">Michael Biggs, Hans Biesenbach</name>
@@ -464,7 +464,7 @@
   <text xml:lang="de">
     <body>
       <div n="OUP_Notebooks_8a_Ms-156a" part="N" org="uniform" sample="complete">
-        <ab xml:id="Ms-156a_FCv.1" n="Ms-156a,FCv[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_FCv.1" n="Ms-156a,FCv[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <pb facs="Ms-156a_FCr" rend="recto" n="pagename_Ms-156a,FCr pageref_00"/>
           <fw place="top right" type="pagen">
@@ -481,7 +481,7 @@
             <add rend="fremd" instant="false" status="unremarkable">1</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_1r.1et1v.1" n="Ms-156a,1r[1]et1v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_1r.1et1v.1" n="Ms-156a,1r[1]et1v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wäre es richtig <lb/>zu sagen: “die Zahn<lb rend="shyphen"/>schmerzen der  Ande<lb rend="shyphen"/>ren sind ein ganz <lb/>anderes Phänomen <lb/>als meine  eigenen”?</s>
           <lb/>
@@ -490,7 +490,7 @@
           <s type="es" rend="indl_4" part="N">Was <emph rend="us1">wir</emph> sagen<lb/> kann nur eine<lb/> Bemerkung über<lb/> die gegenwärtige  Aus<lb rend="shyphen"/>drucksweise sein<lb/> nicht eine Bemer<lb rend="shyphen"/>kung über Schmer<lb rend="shyphen"/>zen in  dieser Aus<lb rend="shyphen"/>drucksweise.<del type="d" instant="false" status="unremarkable">,</del></s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_1v.2" n="Ms-156a,1v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_1v.2" n="Ms-156a,1v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Auf die Frage: wer<lb/> hat Schmerzen<lb/> wird auf einen<lb/> Körper gezeigt  &amp;<lb/> auch ich muß auf<lb/> einen Körper zeigen.</s>
           <pb facs="Ms-156a_2r" rend="recto" n="pagename_Ms-156a,2r pageref_00"/>
@@ -498,37 +498,37 @@
             <add rend="fremd" instant="false" status="unremarkable">2</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_2r.1et2v.1" n="Ms-156a,2r[1]et2v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_2r.1et2v.1" n="Ms-156a,2r[1]et2v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Kann ich sagen<lb/> „das Wort  ‘<abbr corresp="Zahnschmerzen">Z.</abbr>’ hat<lb/> eine andere  Bedeu<lb rend="shyphen"/>tung wenn ich von<lb/> meinen  <abbr corresp="Zahnschmerzen">Z.</abbr> &amp;   ander<lb rend="shyphen"/>seits von denen<lb/> des Andern rede” &amp;<lb/> <choice type="s"><orig type="alt1">kann mir<lb/>    <emph rend="uw1">Einer</emph> <del type="dnpc" instant="false" status="unremarkable">[<del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del></del><lb/> antworten <seg type="edinst" part="N">[</seg></orig><orig type="alt2">&amp; kann<lb/>  mir geantwortet<lb/> werden]</orig></choice> „nein, es<lb/> hat ganz die<lb/> gleiche  Bedeutung”?</s>
           <lb/>
           <s type="es" part="N">Was ist das<lb/> Kriterium für<lb/> die Richtigkeit   <pb facs="Ms-156a_2v" rend="verso" n="pagename_Ms-156a,2v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> dieser  Behauptungen.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_2v.2" n="Ms-156a,2v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_2v.2" n="Ms-156a,2v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Zu sagen „ich<lb/> merke daß <emph rend="us1_c">er<lb/></emph> <emph rend="us1">die</emph>  ‘<abbr corresp="Zahnschmerzen">Z.</abbr>’ hat die<lb/> ich jetzt  habe”<lb/> ist ähnlich, <emph rend="uw1">der<lb/> Aussage</emph>: ich<lb/> meine daß sich<lb/>  die <choice type="s"><orig type="alt1">Teilchen</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Elektronen</add></orig></choice> eines<lb/> Stabes in dem sel<lb rend="shyphen"/>ben  Sinn bewegen<lb/> in welchem sich<lb/> der Stab selbst<lb/> vor meinen Augen<lb/>  bewegt.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_2v.3et3r.1" n="Ms-156a,2v[3]et3r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_2v.3et3r.1" n="Ms-156a,2v[3]et3r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Man könnte auch<lb/> hier sagen: <c type="c" part="N">M</c>eine  <abbr corresp="Zahnschmerzen">Z.</abbr>   <pb facs="Ms-156a_3r" rend="recto" n="pagename_Ms-156a,3r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">3</add></fw> lassen sich als<lb/> Bild  für sein<lb/> Benehmen verwen<lb rend="shyphen"/>den.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_3r.2" n="Ms-156a,3r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_3r.2" n="Ms-156a,3r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wie weiß ich daß der<lb/> Andre <abbr corresp="Zahnschmerzen">Z.</abbr> hat  <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del> &amp;<lb/> wie weiß ich daß ich<lb/>  <abbr corresp="Zahnschmerzen">Z.</abbr> habe.</s>
           <s type="es" part="N">Wenn<lb/> aber alle Menschen<lb rend="shyphen"/>leiber auf gleiche<lb/> Weise im Spiegel<lb/> erschienen  könnte<lb/> die Frage wohl<lb/> auftreten, “hat<lb/>  <persName key="Wittgenstein, Ludwig" instant="false" full="yes"><abbr type="abb">L.W.</abbr></persName>   <abbr corresp="Zahnschmerzen">Zahnschm.</abbr><corr type="tra" instant="false">?</corr>”<corr type="tra" instant="false">.</corr></s>
           <pb facs="Ms-156a_3v" rend="verso" n="pagename_Ms-156a,3v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_3v.1" n="Ms-156a,3v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_3v.1" n="Ms-156a,3v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn wir uns ent<lb rend="shyphen"/>schlössen von nun<lb/> bewußten  <abbr corresp="Zahnschmerzen">Z.</abbr> zu reden<lb/> dann wären meine<lb/> unbewußten  <abbr corresp="Zahnschmerzen">Z.</abbr> auf<lb/> gleicher Stufe wie<lb/> seine. </s>
           <s type="es" part="N">Denn das<lb/> Kriterium dafür<lb/> daß ich unbewußte<lb/> <abbr corresp="Zahnschmerzen">Z.</abbr> habe wäre von<lb/> gleicher Art wie<lb/> das <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>  da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> er sie hat<corr type="tra" instant="false">.</corr></s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_3v.2et4r.1et4v.1" n="Ms-156a,3v[2]et4r[1]et4v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_3v.2et4r.1et4v.1" n="Ms-156a,3v[2]et4r[1]et4v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><emph rend="wlilm">Wer glaubt als<lb/> einen Satz über das<lb/> Gesichtsfeld sagen </emph><pb facs="Ms-156a_4r" rend="recto" n="pagename_Ms-156a,4r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">4</add></fw> zu können es habe<lb/> verschwommene<lb/> Ränder, denke<lb/> an das  Gesichtsfeld<lb/> wenn man durch<lb/> ein schwarzes<lb/> Rohr auf eine<lb/> beleuchtete Flä<lb rend="shyphen"/>che  schaut.</s>
           <s type="es" part="N">Das<lb/> Bild ist dann<lb/> etwa    <emph rend="centered"><seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/156a,4r.jpg" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">156001</seg><corr type="tra" instant="false">.</corr></emph></s>
@@ -537,7 +537,7 @@
           <s type="es" part="N">Wer fragt, wo <pb facs="Ms-156a_4v" rend="verso" n="pagename_Ms-156a,4v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> im  <choice type="o"><orig type="o1">s</orig><orig type="o2">S</orig></choice>chwarzen das<lb/> Gesichtsfeld auf<lb rend="shyphen"/>hört, dem muß<lb/> man sagen daß<lb/>  es nirgends aufhört.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_4v.2" n="Ms-156a,4v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_4v.2" n="Ms-156a,4v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><c type="k" part="N">G</c>leichung, Ungleichung.</s>
           <s type="es" rend="indl_4" part="N">Die Ungleichung<lb/> hat auf den ersten<lb/> Blick mehr das<lb/> Aussehen eines Satzes<lb/>  weniger das einer<lb/> Regel.</s>
@@ -547,14 +547,14 @@
             <add rend="fremd" instant="false" status="unremarkable">5</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_5r.1et5v.1" n="Ms-156a,5r[1]et5v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_5r.1et5v.1" n="Ms-156a,5r[1]et5v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><c type="k" part="N">E</c>videnz, Verifi<corr type="trsn" instant="false"><orig type="trsn1"><lb rend="shyphen"/>c</orig><reg type="trsn2">k</reg></corr>ation: insofern<lb/> ich im   Zweifel<lb/> sein kann, was<lb/> ich als Evidenz<lb/> für <seg type="p" part="N">p</seg> anerkennen<lb/> werde  <del type="dnpc" instant="false" status="unremarkable">ich</del> handelt<lb/> es sich um psycho<lb rend="shyphen"/>logische Evidenz.</s>
           <lb/>
           <s type="es" part="N">Insofern ich aber<lb/> jetzt bestimmen<lb/> kann was als<lb/> Evidenz für <seg type="p" part="N">p</seg><lb/>  anzusehen ist,<lb/> handelt es sich<lb/> um eine Bestimmung<lb/> der Grammatik<lb/> um die  Festlegung   <pb facs="Ms-156a_5v" rend="verso" n="pagename_Ms-156a,5v pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">  </add></fw> einer Regel.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_5v.2et6r.1" n="Ms-156a,5v[2]et6r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_4" part="N">
+        <ab xml:id="Ms-156a_5v.2et6r.1" n="Ms-156a,5v[2]et6r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_4" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Es gibt einen Kal<lb rend="shyphen"/>kül mit Gleichungen<lb/> &amp; einen Kalkül mit<lb/>  Ungleichungen.</s>
           <s type="es" part="N">Es<lb/> gibt Übergänge<lb/> von <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del> einer Unglei<lb rend="shyphen"/>chung zu einer<lb/> andern nur  sind<lb/> natürlich die Regeln<lb/> andere als für die<lb/> Übergänge <del type="dnpc" instant="false" status="unremarkable">von  Flächen</del><lb/> die durch Gleichun<lb rend="shyphen"/>gen erlaubt werden.</s>
@@ -562,14 +562,14 @@
           <s type="es" part="N">Die Ungleichungen<lb/> werden wie die<lb/> Gleichungen als   <pb facs="Ms-156a_6r" rend="recto" n="pagename_Ms-156a,6r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">6 </add></fw>  grammatische Regeln angewandt.</s>
           <emph rend="bl_4"/>
         </ab>
-        <ab xml:id="Ms-156a_6r.2et6v.1" n="Ms-156a,6r[2]et6v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_3" part="N">
+        <ab xml:id="Ms-156a_6r.2et6v.1" n="Ms-156a,6r[2]et6v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_3" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Eine ausgezeichnete<lb/> Frage um Einsicht<lb/> in <emph rend="uw1">d<choice type="o"><orig type="o1">e</orig><orig type="o2">a</orig></choice>s Wesen</emph>  der<lb/> Frage „was ist”<lb/> zu gewinnen, wäre <add rend="i" instant="false" status="unremarkable">die:</add><lb/>  “was, ist der Schach<lb rend="shyphen"/>könig, angenommen<lb/> daß wir das Spiel<lb/> nur  als Schreib<lb rend="shyphen"/>spiel spielen”!</s>
           <lb/>
           <s type="es" part="N">Denken wir uns hier<lb/> den Streit der Forma<lb rend="shyphen"/>listen &amp; Anhänger   <pb facs="Ms-156a_6v" rend="verso" n="pagename_Ms-156a,6v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> der inhaltlichen<lb/> Mathematik auf<lb/> das Schachspiel<lb/>  übertragen. –</s>
           <emph rend="bl_3"/>
         </ab>
-        <ab xml:id="Ms-156a_6v.2et7r.1" n="Ms-156a,6v[2]et7r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_6v.2et7r.1" n="Ms-156a,6v[2]et7r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Richtig ist die Glei<lb rend="shyphen"/>chung die nach den<lb/> Regeln erzeugt  wer<lb rend="shyphen"/>den <emph rend="us1">kann</emph>”.</s>
           <s type="es" part="N">Was ist<lb/> das Kriterium für<lb/>die<del type="dn" instant="false" status="unremarkable">se</del> Möglichkeit der<lb/>  <corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">E</reg></corr>rzeugung?</s>
@@ -578,14 +578,14 @@
           <s type="es" part="N">Und was hat<lb/> die Zeit überhaupt<lb/> in dieser Frage zu<lb/> schaffen?</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_7r.2" n="Ms-156a,7r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_7r.2" n="Ms-156a,7r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Für jedes δ gibt es<lb/> ein <seg type="p" part="N"><c type="c" part="N">E</c></seg>, so daß   … ”<lb/> <abbr type="abb">z.B.</abbr>: <choice type="o"><orig type="o1">F</orig><orig type="o2">f</orig></choice>ür  jedes δ gibt<lb/> es ein <seg type="p" part="N">ε</seg>, so daß<lb/> <seg type="notation" subtype="maths_real analysis" rend="literal" part="N">ε ˂ δ</seg>.</s>
           <s type="es" part="N">Der Beweis<lb/> hiervon ist eine <emph rend="us1">Lösung</emph><lb/> der Ungleichung etwa<lb/>  <seg type="notation" subtype="maths_real analysis, limit verification" rend="literal" part="N"><c type="c" part="N">ε</c> = <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure>δ</seg><corr type="tra" instant="false">.</corr></s>
           <pb facs="Ms-156a_7v" rend="verso" n="pagename_Ms-156a,7v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_7v.1" n="Ms-156a,7v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_7v.1" n="Ms-156a,7v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_3" part="N">
             <seg type="notation" subtype="maths_sequence limit" rend="literal" part="N"><abbr type="abb">lim</abbr>  f(n)  =  a</seg>
@@ -600,7 +600,7 @@
           <emph rend="bl_1"/>
           <lb rend="hl"/>
         </ab>
-        <ab xml:id="Ms-156a_7v.2et8r.1et8v.1" n="Ms-156a,7v[2]et8r[1]et8v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_7v.2et8r.1et8v.1" n="Ms-156a,7v[2]et8r[1]et8v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Denken wir uns, Einer<lb/> hätte <add rend="im" instant="false" status="unremarkable">für diese Rechnung</add> nur die  <persName key="Russell, Bertrand" instant="false" full="yes">Russel<corr type="tran" instant="false">l</corr><lb rend="shyphen"/>sche</persName>  Notation ge<lb rend="shyphen"/>lernt (oder gar die<lb/> <persName key="Frege, Gottlob" instant="false" full="yes">Fregesche</persName>) ohne die<lb/> Übersetzung in die<lb/> Wortsprache.</s>
           <s type="es" part="N"><del type="d" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del><lb/><emph rend="us1"><c type="c" part="N">M</c>üßte</emph> dieser Mensch<lb/> daraufkommen, daß<lb/> diese  Notation der<lb/> &amp; der Ausdrucks<lb rend="shyphen"/>weise unserer gewöhn<lb rend="shyphen"/>lichen  Sprache ent<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">spricht?</corr><pb facs="Ms-156a_8r" rend="recto" n="pagename_Ms-156a,8r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">8</add></fw><corr type="npcn-pb" instant="false">spricht?</corr></s>
@@ -612,13 +612,13 @@
           <emph rend="bl_1"/>
           <emph rend="indl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_8v.2" n="Ms-156a,8v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_8v.2" n="Ms-156a,8v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wird jener Kalkül<lb/> als ein allgemeiner<lb/> aufgefaßt so sind<lb/> seine besonderen<lb/>  Fälle die Lösungen<lb/> von besonderen Un<lb rend="shyphen"/>gleichungen.</s>
           <emph rend="bl_1"/>
           <emph rend="indl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_8v.3et9r.1" n="Ms-156a,8v[3]et9r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_8v.3et9r.1" n="Ms-156a,8v[3]et9r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Man kann hier<lb/> immer fragen: <c type="c" part="N">W</c>as <abbr type="abb">z.B.</abbr>   <pb facs="Ms-156a_9r" rend="recto" n="pagename_Ms-156a,9r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">9</add></fw> wird der Sinn der<lb/> sogenannten Theorie<lb/> der irrationalen<lb/>  Zahlen wenn die Arith<lb rend="shyphen"/>metik keine besonde<lb rend="shyphen"/>ren irrationalen  <abbr corresp="Zahlen">Z.</abbr><lb/> kennt?</s>
           <s type="es" part="N"> Der Kalkül<lb/> der allgemeine Theo<lb rend="shyphen"/>rie genannt wird<lb/> bleibt natürlich zu<lb/> Recht  bestehen.</s>
@@ -628,18 +628,18 @@
           <pb facs="Ms-156a_9v" rend="verso" n="pagename_Ms-156a,9v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_9v.1" n="Ms-156a,9v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_9v.1" n="Ms-156a,9v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="bl_1"/>
           <s type="es" part="N">Vergleichen wir nun<lb/> die Allgemeinheit<lb/> der Algebra die<lb/> etwa voraussetzt<lb/> daß  wir irgend<lb/> zwei Kardinalzah<lb rend="shyphen"/>len miteinander<lb/> multiplizieren<lb/> können mit der<lb/>  Allgemeinheit der<lb/> Theorie der irratio<lb rend="shyphen"/>nalen Zahlen oder<lb/> der  Limiten.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_9v.2et10r.1" n="Ms-156a,9v[2]et10r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_9v.2et10r.1" n="Ms-156a,9v[2]et10r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Und nun die Täu<lb rend="shyphen"/>schung als sei der<lb/> Unterschied der<lb/> daß in einem Fall   <pb facs="Ms-156a_10r" rend="recto" n="pagename_Ms-156a,10r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">10</add></fw> die Allgemeinheit<lb/> eine <emph rend="us1">größere</emph> sei,<lb/> weil die  Zahl der<lb/> Einzelfälle größer<lb/> sei als <seg type="p" part="N">ℵ<emph rend="sub">0</emph></seg>!</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_10r.2et10v.1et11r.1" n="Ms-156a,10r[2]et10v[1]et11r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_10r.2et10v.1et11r.1" n="Ms-156a,10r[2]et10v[1]et11r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Nur die gegenwärtige<lb/> Vorstellung ist real”.</s>
           <lb/>
@@ -655,7 +655,7 @@
           <s type="es" part="N">Vergleiche: “der Rand<lb/> unseres Gesichtsfeldes<lb/> ist  verschwommen”.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_11r.2et11v.1et12r.1" n="Ms-156a,11r[2]et11v[1]et12r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_11r.2et11v.1et12r.1" n="Ms-156a,11r[2]et11v[1]et12r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Zu sagen <add rend="im" instant="false" status="unremarkable">(wie <persName key="Russell, Bertrand" instant="false" full="yes">Russell</persName>)</add>: <corr type="tra" instant="false">“</corr>die Welt könnte<lb/> vor 5 Minuten so  ge<lb rend="shyphen"/>schaffen worden sein<lb/> wie sie tatsächlich vor<lb/> 5 Minuten war, mit  allen<lb/> Erinnerungen &amp; Dokumenten<lb/> die dann ganz irrefüh<lb rend="shyphen"/>rend  wären” heißt nichts<lb/> denn dann gibt es<lb/> eben eingestandenermaßen   <pb facs="Ms-156a_11v" rend="verso" n="pagename_Ms-156a,11v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> keine Verifi<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>ation dieses<lb/>  Satzes.</s>
           <s type="es" part="N">Er ist ein Bild<lb/> da<corr type="trsn" instant="false"><orig type="trsn1">ß</orig><reg type="trsn2">s</reg></corr> nicht als Bild<lb/> verwendet wird.</s>
@@ -666,7 +666,7 @@
           <s type="es" part="N">Etwas meinen heißt in<lb/> diesem Falle, ein be<lb rend="shyphen"/>kanntes Bild  ge<lb rend="shyphen"/>brauchen, nur <add rend="im" instant="false" status="unremarkable">wird es</add> eben<lb/> nicht zu einer Darstel<lb rend="shyphen"/>lung  gebraucht.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_12r.2et12v.1" n="Ms-156a,12r[2]et12v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_12r.2et12v.1" n="Ms-156a,12r[2]et12v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Descartes, Rene: Discours de la Methode">
             <s type="es" part="N">Wie wenn ich sagte, <pb facs="Ms-156a_12v" rend="verso" n="pagename_Ms-156a,12v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> die Welt könnte<lb/>  vor 3 Minuten unter<lb rend="shyphen"/>gegangen sein &amp;<lb/> meine Vorstellungen<lb/>  &amp; Erinnerungen    <corr type="tra" instant="false">die gleichen</corr>      ge<lb rend="shyphen"/>blieben die nun<lb/> ganz täuschend<lb/>  <del type="dnpc" instant="false" status="unremarkable">sind</del> wären.</s>
@@ -678,20 +678,20 @@
           </rs>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_12v.2et13r.1" n="Ms-156a,12v[2]et13r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_12v.2et13r.1" n="Ms-156a,12v[2]et13r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Jetzt”.</s>
           <s type="es" part="N">Die Physik <pb facs="Ms-156a_13r" rend="recto" n="pagename_Ms-156a,13r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">13</add></fw> <add rend="our" instant="false" status="unremarkable">e</add>nthält  nicht die<lb/> Wörter “jetzt”, “hier”,  <abbr type="abb">etc.</abbr></s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_13r.2" n="Ms-156a,13r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_13r.2" n="Ms-156a,13r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Statt “jetzt” zu sagen<lb/> könnte man in die<lb/> Hände  klatschen, wie<lb/> man zählt “1, 2, 3,<lb/> los!“.</s>
           <s type="es" part="N">Und der<lb/> Gebrauch der Wörter<lb/> “jetzt”,  “hier” <abbr type="abb">etc.</abbr><lb/> charakterisiert eben<lb/> eine Art  des Gebrauchs<lb/> der Sprache.</s>
           <s type="es" part="N">(Denke an<lb/> Sprachspiele.)</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_13r.3et13v.1" n="Ms-156a,13r[3]et13v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_13r.3et13v.1" n="Ms-156a,13r[3]et13v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn <corr type="tra" instant="false">“</corr>jetzt<corr type="tra" instant="false">”</corr> ein Zeitzei<lb rend="shyphen"/>chen ist so entspricht<lb/> es also nicht dem<lb/> 6 Uhr  Schlage einer <pb facs="Ms-156a_13v" rend="verso" n="pagename_Ms-156a,13v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> Uhr sondern  <add rend="im" instant="false" status="unremarkable">etwa</add> dem<lb/> Schlag einer Glocke<lb/> vor Beginn eines<lb/> Schauspiels.</s>
           <lb rend="hl"/>
@@ -702,7 +702,7 @@
             <add rend="fremd" instant="false" status="unremarkable">14</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_14r.1et14v.1et15r.1" n="Ms-156a,14r[1]et14v[1]et15r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_14r.1et14v.1et15r.1" n="Ms-156a,14r[1]et14v[1]et15r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="bl_2"/>
           <s type="es" part="N">Man könnte den<lb/> <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>Gedanken daß die<lb/> einzige Realität<lb/> die Erfahrung des<lb/>  gegenwärtigen Augen<lb rend="shyphen"/>blicks sei auch so<lb/> ausdrücken, daß<lb/> wir es nicht  wissen könn<lb rend="shyphen"/>ten wenn die Welt<lb/> in diesem Augenblick<lb/> mit allen  Erinnerun<lb rend="shyphen"/>gen <abbr type="abb">etc.</abbr> geschaffen<lb/> worden wäre: daß<lb/>  daraus ebe<choice type="o"><orig type="o1">b</orig><orig type="o2">n</orig></choice> folge<lb/> daß alles Andere<lb/> nur  <seg xml:lang="en" part="N">conjectur<corr type="tran" instant="false">e</corr></seg>     sei die<lb/> Erfahrung des  gegen<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">wärtigen</corr><pb facs="Ms-156a_14v" rend="verso" n="pagename_Ms-156a,14v pageref_00"/><fw add="fremd" place="top right" type="pagen"/><corr type="npcn-pb" instant="false">wärtigen</corr> Augenblicks<lb/> aber das einzige<lb/> Material, das zu<lb/>  allen    <seg xml:lang="en" part="N">conjectures</seg> <lb/> führt.</s>
@@ -712,14 +712,14 @@
           <s type="es" part="N">Man will eigentlich<lb/> sagen, daß dieses<lb/> Gleichnis <emph rend="uw1">hier</emph>  <corr type="trsn" instant="false"><orig type="trsn1">Z</orig><reg type="trsn2">z</reg></corr>usam<lb rend="shyphen"/>menbricht.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_15r.2et15v.1" n="Ms-156a,15r[2]et15v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_15r.2et15v.1" n="Ms-156a,15r[2]et15v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Das <c type="c" part="N">J</c>etzt scheint<lb/>quasi ein Bild auf<lb/> dem Filmstreifen zu<lb/> bezeichnen  (herauszu<lb rend="shyphen"/>greifen) zu <corr type="npc" instant="false">zu</corr>    sagen<lb/> dies sei das eigentlich<lb/>   <corr type="trsn" instant="false"><orig type="trsn1">r</orig><reg type="trsn2">R</reg></corr>eale.</s>
           <s type="es" part="N">Aber hier <pb facs="Ms-156a_15v" rend="verso" n="pagename_Ms-156a,15v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> ist es gerade als<lb/>  ob einer im Kino statt<lb/> auf den Film zu<lb/> zeigen <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_3" instant="false"/></del> &amp;<lb/> sagen  dies sei das<lb/> Bild welches jetzt<lb/> <del type="dnpc" instant="false" status="unremarkable">in der Laterne</del> im<lb/> Objektiv der Later<lb rend="shyphen"/>ne sich befinde<lb/>  auf die Leinwand<lb/> zeigte &amp; sagte<lb/> dies sei das eigent<lb rend="shyphen"/>liche  Bild.</s>
           <s type="es" part="N">Das<lb/> ist als ob man<lb/> sagen wollte<lb/> “jetzt ist  jetzt”.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_15v.2et16r.1" n="Ms-156a,15v[2]et16r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_15v.2et16r.1" n="Ms-156a,15v[2]et16r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Man sagt<del type="dn" instant="false" status="unremarkable">t</del>, eine Hypothe<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">se</corr><pb facs="Ms-156a_16r" rend="recto" n="pagename_Ms-156a,16r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">16</add></fw><corr type="npcn-pb" instant="false">se</corr> beschreibe nicht<lb/>  nur was wir sehen<lb/> hören <abbr type="abb">etc.</abbr> sondern <emph rend="us1">wir<lb/> drückten mit  ihr<lb/> auch gewisse Erwar<lb rend="shyphen"/>tungen aus.</emph></s>
           <s type="es" part="N">Aber<lb/> hier sieht man wie<lb/> vieldeutig der Aus<lb rend="shyphen"/>druck “Erwartung”  ist (wie “glauben”, “denken”<lb/>  <abbr type="abb">etc.</abbr>).</s>
@@ -728,13 +728,13 @@
           <pb facs="Ms-156a_16v" rend="verso" n="pagename_Ms-156a,16v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_16v.1" n="Ms-156a,16v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_3" part="N">
+        <ab xml:id="Ms-156a_16v.1" n="Ms-156a,16v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_3" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><c type="k" part="N">E</c>rfahrung als<lb/> logische Form.</s>
           <s type="es" part="N"><c type="k" part="N">E</c>rfah<lb rend="shyphen"/>rung im Gegensatz<lb/> wozu?</s>
           <emph rend="bl_3"/>
         </ab>
-        <ab xml:id="Ms-156a_16v.2et17r.1" n="Ms-156a,16v[2]et17r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_16v.2et17r.1" n="Ms-156a,16v[2]et17r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Daß in die unmittel<lb rend="shyphen"/>bare Erfahrung<lb/> kein Subjekt <choice type="s"><orig type="alt1">eintritt</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">eintritt</add></orig></choice><lb/> wird ganz klar<lb/> wenn man <del type="dnpc" instant="false" status="unremarkable">bedenkt</del><lb/>  <abbr type="abb">z.B.</abbr> im Laufe einer<lb/> Untersuchung zeich<lb rend="shyphen"/>net, was  man in<lb/> einem Mikroskop<lb/> sieht oder dies<lb/> beschreibt so daß<lb/> die Beschreibung  <pb facs="Ms-156a_17r" rend="recto" n="pagename_Ms-156a,17r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">17</add></fw> etwa einer Zeichnung<lb/> äquivalent ist.</s>
           <s type="es" part="N">Diese<lb/> Zeichnung oder Be<lb rend="shyphen"/>schreibung ist dann<lb/> ein Satz der  <del type="dnpc" instant="false" status="unremarkable">die</del><lb/> unmittelbare Erfah<lb rend="shyphen"/>rung ausdrückt<lb/> &amp; enthält  natür<lb rend="shyphen"/>lich kein Subjekt.</s>
@@ -742,7 +742,7 @@
           <s type="es" part="N">Ebenso wenn<lb/> man eine gehörte<lb/> Tonfolge etwa<lb/> durch Noten wie<lb rend="shyphen"/>dergeben  wollte; <abbr type="abb">etc.</abbr></s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_17r.2et17v.1et18r.1" n="Ms-156a,17r[2]et17v[1]et18r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_17r.2et17v.1et18r.1" n="Ms-156a,17r[2]et17v[1]et18r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Das Okular des größten<lb/> Fernrohrs nicht größer<lb/> als unser  Auge” das <pb facs="Ms-156a_17v" rend="verso" n="pagename_Ms-156a,17v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> könnte  heißen: am<lb/> Schluß müssen doch<lb/> <emph rend="us1">wir</emph> die Sache sehen, ist<lb/> alles  doch <emph rend="us1">unsere</emph><lb/> Vorstellung.</s>
           <s type="es" part="N">Oder<lb/> gar: “alles ist doch<lb/> am Ende nur in un<lb rend="shyphen"/>serem  Kopf”.</s>
@@ -754,7 +754,7 @@
           <pb facs="Ms-156a_18v" rend="verso" n="pagename_Ms-156a,18v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_18v.1" n="Ms-156a,18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_18v.1" n="Ms-156a,18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Der Begriff “Lösung”<lb/> <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del> für eine Gleichung<lb/>  &amp; der Begriff “Beweis”.</s>
           <lb/>
@@ -765,13 +765,13 @@
           </rs>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_18v.2et19r.1" n="Ms-156a,18v[2]et19r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_18v.2et19r.1" n="Ms-156a,18v[2]et19r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Inwiefern ist es nötig<lb/> sich was ein Satz <pb facs="Ms-156a_19r" rend="recto" n="pagename_Ms-156a,19r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">19</add></fw> sagt, vorstellen  zu<lb/> können?</s>
           <s type="es" part="N">(“Hast Du<lb/> an dieser Stelle Schmerzen?”)</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_19r.2" n="Ms-156a,19r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_19r.2" n="Ms-156a,19r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <choice type="s">
@@ -787,19 +787,19 @@
           <pb facs="Ms-156a_19v" rend="verso" n="pagename_Ms-156a,19v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_19v.1" n="Ms-156a,19v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_19v.1" n="Ms-156a,19v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><c type="k" part="N">S</c>inn – Unsinn: “<c type="c" part="N">I</c>ch<lb/> werfe einen Ball in<lb/>  den 4<corr type="tra" instant="false">-</corr>dimensionalen Raum<lb/> hinaus”<corr type="tra" instant="false">.</corr></s>
           <s type="es" part="N">Ist ein System<lb/> gegeben worin dieser<lb/> Satz ein Bild genannt<lb/> werden kann  &amp; <del type="dn" instant="false" status="unremarkable">ge<lb rend="shyphen"/>br</del> einen Gebrauch hat<lb/> so hat er dadurch<lb/> Sinn  erhalten.</s>
           <s type="es" part="N">Aber<lb/> wenn ihn Einer ohne<lb/> weiteres gebraucht<lb/> so werden wir mit<lb/> Recht sagen  er<lb/> sei unsinnig.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_19v.2et20r.1" n="Ms-156a,19v[2]et20r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_19v.2et20r.1" n="Ms-156a,19v[2]et20r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><choice type="o"><orig type="o1">d</orig><orig type="o2"><c type="c" part="N">D</c></orig></choice>ie Aufgabe der<lb/> Philosophie (in<lb/> meinem Sinne) ist  es <pb facs="Ms-156a_20r" rend="recto" n="pagename_Ms-156a,20r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">20</add></fw> <emph rend="us1">tatsächliche</emph> <emph rend="uw1">Irrtümer</emph><lb/>  aufzuzeigen.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_20r.2et20v.1et21r.1et21v.1" n="Ms-156a,20r[2]et20v[1]et21r[1]et21v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_20r.2et20v.1et21r.1et21v.1" n="Ms-156a,20r[2]et20v[1]et21r[1]et21v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><corr type="trsn" instant="false"><orig type="trsn1">i</orig><reg type="trsn2"><c type="c" part="N">I</c></reg></corr>m Ernst, (Spaß) meinen.</s>
           <lb/>
@@ -830,7 +830,7 @@
             <add rend="fremd" instant="false" status="unremarkable">22</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_22r.1et22v.1" n="Ms-156a,22r[1]et22v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_22r.1et22v.1" n="Ms-156a,22r[1]et22v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Ist, eine Melodie im<lb/> Ernst singen etwas<lb/> <c type="c" part="N">Ä</c>hnliches wie, eine<lb/> mit  ernstem Aus<lb rend="shyphen"/>druck gesungene<lb/> Melodie hören?</s>
           <s type="es" part="N">Und<lb/> liegt der Unter<lb rend="shyphen"/>schied in etwas an<lb rend="shyphen"/>derem als darin<lb/> daß uns  dieses Hören<lb/> nicht zwingt<lb/> uns <del type="dn" instant="false" status="unremarkable">glei</del> selbst<lb/> mit dieser Melodie<lb/> zu  bewegen.</s>
@@ -839,24 +839,24 @@
           <s type="es" rend="indl_4" part="N">Sicher ist daß es<lb/> ähnlich ist eine Melo<lb rend="shyphen"/>die <add rend="i" instant="false" status="unremarkable">mit</add> Ernst singen  &amp;<lb/> einen Satz im Ernst<lb/> meinen.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_22v.2et23r.1" n="Ms-156a,22v[2]et23r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_22v.2et23r.1" n="Ms-156a,22v[2]et23r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn man “<choice type="o"><orig type="o1">e</orig><orig type="o2"><c type="c" part="N">E</c></orig></choice>ndlos<corr type="tra" instant="false">”</corr> eine<lb/> Zahl nennt, dann ver<lb rend="shyphen"/>lange   ich daß man<lb/> auch <corr type="tra" instant="false">“</corr>Einige<corr type="tra" instant="false">”</corr> eine Zahl<lb/> nennt &amp; dann wird <pb facs="Ms-156a_23r" rend="recto" n="pagename_Ms-156a,23r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">23 </add></fw>  es sehr klar daß<lb/> eine Definition des<lb/> Zahlbegriffs über<lb rend="shyphen"/>flüssig  ist.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_23r.2" n="Ms-156a,23r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_23r.2" n="Ms-156a,23r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><c type="k" part="N">U</c>mgruppierung einer<lb/> unendlichen Reihe.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_23r.3" n="Ms-156a,23r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_23r.3" n="Ms-156a,23r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn <seg type="p" part="N">n</seg> größer wird<lb/> so wird <figure ana="Bruch" rend="tablem"><formula>1<milestone unit="br"/><emph rend="fractionbarover">n</emph></formula></figure> immer<lb/> kleiner.</s>
           <s type="es" part="N">Wie tritt <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">hier<lb/> der</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">dieser</add></orig></choice> neue Gedanke<lb/> in die  Arithmetik <add rend="im" instant="false" status="unremarkable">ein</add><corr type="tra" instant="false">?</corr></s>
           <s type="es" part="N"><c type="k" part="N">I</c>n<lb rend="shyphen"/>duktion.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_23r.4et23v.1" n="Ms-156a,23r[4]et23v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_23r.4et23v.1" n="Ms-156a,23r[4]et23v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die Umgruppierung <pb facs="Ms-156a_23v" rend="verso" n="pagename_Ms-156a,23v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> einer unendlichen<lb/>  Reihe kann man<lb/> nicht extensiv er<lb rend="shyphen"/>klären sondern nur<lb/> an einem Beispiel<lb/>  &amp; <abbr type="abb">d.h.</abbr> intensiv.</s>
           <emph rend="bl_3"/>
@@ -865,28 +865,28 @@
           </emph>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_23v.2et24r.1" n="Ms-156a,23v[2]et24r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_23v.2et24r.1" n="Ms-156a,23v[2]et24r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Man <choice type="s"><orig type="alt1">kann</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">könnte</add></orig></choice> nicht<lb/> sagen: unser Ohr<lb/> ist nicht  fein genug<lb/> um die Luftschwin<lb rend="shyphen"/>gungen einzeln wahr<lb rend="shyphen"/>zunehmen es erhält<lb/> daher nur  einen allge<lb rend="shyphen"/>meinen (verschwom<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">menen)</corr><pb facs="Ms-156a_24r" rend="recto" n="pagename_Ms-156a,24r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">24</add></fw><corr type="npcn-pb" instant="false">menen)</corr>  Eindruck.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_24r.2" n="Ms-156a,24r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_24r.2" n="Ms-156a,24r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Kann man sagen “die<lb/> Sirene kann entweder<lb/> die genaue Höhe oder<lb/> die  genaue Dauer<lb/> des Tones geben, aber<lb/> nicht beides”?</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_24r.3" n="Ms-156a,24r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_24r.3" n="Ms-156a,24r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Kann man nun<lb/> aber sagen, ein Ton<lb/> müsse sozusagen<lb/> einen verschwommenen<lb/>  Anfang haben<lb/> da die Schwingung<lb/> nicht eigentlich einen<lb/> Anfang zugleich<lb/> mit  einer Wellenlänge<lb/> habe?</s>
           <pb facs="Ms-156a_24v" rend="verso" n="pagename_Ms-156a,24v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_24v.1" n="Ms-156a,24v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_24v.1" n="Ms-156a,24v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Was macht ein<lb/> Kapitel der Mathe<lb rend="shyphen"/>matik  <emph rend="us1">interessant</emph>?</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_24v.2et25r.1" n="Ms-156a,24v[2]et25r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_24v.2et25r.1" n="Ms-156a,24v[2]et25r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="edcom" part="N">
             <s type="es" part="N">
@@ -900,7 +900,7 @@
           <s type="es" part="N">Wie es auch klar ist, daß<lb/> es ganz andere Reakti<lb rend="shyphen"/>onen in uns  hervorrufen<lb/> muß den Zügen eines<lb/> uns bekannten Spiels<lb/> zuzuschauen, als<lb/> wenn  wir einem Spiel<lb/> zusehen das wir nicht<lb/> “verstehen”.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_25r.2" n="Ms-156a,25r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;92.1_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_25r.2" n="Ms-156a,25r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;92.1_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Erinnere dich an den Eindruck<lb/> guter Architektur, daß<lb/> sie einen Gedanken  aus<lb rend="shyphen"/>drückt.</s>
@@ -909,7 +909,7 @@
             <fw add="fremd" place="top right" type="pagen"/>
           </seg>
         </ab>
-        <ab xml:id="Ms-156a_25v.1" n="Ms-156a,25v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_25v.1" n="Ms-156a,25v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Handelt also die Mathe<lb rend="shyphen"/>matik vom Zeichen   ‘4’”?</s>
           <lb/>
@@ -918,25 +918,25 @@
           <s type="es" part="N">(Etwa: daß das<lb/> Zeichen 4 leicht zu schrei<lb rend="shyphen"/>ben ist.)</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_25v.2et26r.1" n="Ms-156a,25v[2]et26r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_25v.2et26r.1" n="Ms-156a,25v[2]et26r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Geometrischer Würfel  = <lb/> <corr type="npc" instant="false"> = </corr> <choice type="o"><orig type="o1">T</orig><orig type="o2">W</orig></choice>ürfelform, geome<lb rend="shyphen"/>trischer   Kreis  =  Kreisform<lb/> geometrische Gerade  =  <pb facs="Ms-156a_26r" rend="recto" n="pagename_Ms-156a,26r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">26</add></fw> <corr type="npc" instant="false"> = </corr>  Form  <choice type="s"><orig type="alt1">der</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">einer</add></orig></choice> Geraden<corr type="tra" instant="false">.</corr></s>
           <lb/>
           <s type="es" part="N">Und nun bedenke die<lb/> Grammatik dieser beiden<lb/>  ‘Gegenstände’: des Würfels<lb/> (aus Holz)  &amp; der Würfelform<lb/> (des Holzklotzes)!</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_26r.2" n="Ms-156a,26r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_26r.2" n="Ms-156a,26r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><c type="k" part="N">K</c>apitel: “<c type="c" part="N">W</c>ie die Grammatik<lb/> gebraucht  wird”.</s>
           <emph rend="centered">––––––––|––––––––</emph>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_26r.3" n="Ms-156a,26r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_26r.3" n="Ms-156a,26r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wie lehrt man einem die<lb/> Bedeutungen der Worte<lb/> “bitte”  &amp; “danke”?</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_26r.4et26v.1" n="Ms-156a,26r[4]et26v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_26r.4et26v.1" n="Ms-156a,26r[4]et26v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wie lernt man die<lb/> Bedeutung des Wortes<lb/>  “vielleicht”?</s>
           <s type="es" part="N">Was ist die <pb facs="Ms-156a_26v" rend="verso" n="pagename_Ms-156a,26v pageref_00"/><fw add="fremd" place="top right" type="pagen"/>  ‘<emph rend="us1">Bedeutung</emph>’ dieses Wor<lb rend="shyphen"/>tes?</s>
@@ -946,26 +946,26 @@
           <s type="es" part="N">Frei<lb rend="shyphen"/>lich nicht durch eine<lb/> Definition.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_26v.2" n="Ms-156a,26v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_26v.2" n="Ms-156a,26v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wie kann man nach der<lb/> <abbr corresp="Bedeutung">Bed.</abbr>  <abbr corresp="des">d.</abbr> Wortes “vielleicht”<lb/>  fragen? –</s>
           <s type="es" part="N">“Heißt ‘<abbr corresp="vielleicht">v.</abbr>’   dasselbe<lb/> wie <seg xml:lang="en" part="N"><corr type="tra" instant="false">‘</corr>perhaps<corr type="tra" instant="false">’</corr></seg>?”, “wird es<lb/>  <emph rend="us1">so</emph> angewandt: … ?”,  “<c type="c" part="N">H</c>eißt<lb/> es so viel wie die Geste …?”</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_26v.3et27r.1" n="Ms-156a,26v[3]et27r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_26v.3et27r.1" n="Ms-156a,26v[3]et27r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wie lernt man die Bedeu<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">tung</corr><pb facs="Ms-156a_27r" rend="recto" n="pagename_Ms-156a,27r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">27</add></fw><corr type="npcn-pb" instant="false">tung</corr> eines  Wortes?</s>
           <s type="es" part="N">Da<lb/> gibt es viele Fälle.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_27r.2" n="Ms-156a,27r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_27r.2" n="Ms-156a,27r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wir nennen es “die Bedeu<lb rend="shyphen"/>tung des Wortes erklären”<lb/>  wenn wir es in eine ande<lb rend="shyphen"/>re Sprache übersetzen,<lb/> aber auch wenn wir<lb/>  <emph rend="uw1">statt seiner</emph> eine Geste<lb/> machen, oder wenn<lb/> wir auf einen Träger<lb/> des   Namens weisen; <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr></s>
           <lb/>
           <s type="es" part="N">In soviel verschiedenen<lb/> Weisen wird der Aus<lb rend="shyphen"/>druck “Erklärung  der<lb/> Bedeutung” gebraucht.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_27r.3et27v.1et28r.1" n="Ms-156a,27r[3]et27v[1]et28r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_27r.3et27v.1et28r.1" n="Ms-156a,27r[3]et27v[1]et28r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn man sagt: die <pb facs="Ms-156a_27v" rend="verso" n="pagename_Ms-156a,27v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> <emph rend="vdline"><abbr corresp="Bedeutung">Bedeutg.</abbr> eines Wortes<lb/> sei das, was die  Er<lb rend="shyphen"/>klärung der <abbr corresp="Bedeutung">B.</abbr> er<lb rend="shyphen"/>klärt,–  so denkt<lb/> man an diese Erklä<lb rend="shyphen"/>rung also an das Para<lb rend="shyphen"/>digma eines  Schrittes<lb/> in einem Kalkül.</emph></s>
           <lb/>
@@ -975,7 +975,7 @@
           <s type="es" rend="indl_4" part="N">Wenn so die Erklä<lb rend="shyphen"/>rung mit dem Zeichen<lb/> (oder statt des Zeichens)<lb/>  wiederholt wird so<lb/> ist klar daß sie nicht <pb facs="Ms-156a_28r" rend="recto" n="pagename_Ms-156a,28r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">28</add></fw> als, ein für  allemal<lb/> wirkende, Medizin<lb/> betrachtet wird (sozu<lb rend="shyphen"/>sagen als  Impfung)<lb/> sondern als Teil<lb/>       <choice type="s"><orig type="alt1">unseres fortlaufenden<lb/> Kalküls.</orig><orig type="alt2"><seg type="edinst" part="N"> [ </seg>unserer fort<lb rend="shyphen"/>laufenden Kalkulation.<seg type="edinst" part="N">]</seg></orig></choice></s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_28r.2" n="Ms-156a,28r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_28r.2" n="Ms-156a,28r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">“Was ist die Bedeutung<lb/> eines Wortes?” –</s>
@@ -983,14 +983,14 @@
             <emph rend="bl_2"/>
           </emph>
         </ab>
-        <ab xml:id="Ms-156a_28r.3et28v.1" n="Ms-156a,28r[3]et28v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_28r.3et28v.1" n="Ms-156a,28r[3]et28v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Man kann von<lb/> der Erklärung<lb/> der Bedeutung <pb facs="Ms-156a_28v" rend="verso" n="pagename_Ms-156a,28v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> sagen daß sie den<lb/>  Gebrauch des Wortes<lb/> lehrt.</s>
             <emph rend="bl_2"/>
           </emph>
         </ab>
-        <ab xml:id="Ms-156a_28v.2et29r.1et29v.1" n="Ms-156a,28v[2]et29r[1]et29v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_28v.2et29r.1et29v.1" n="Ms-156a,28v[2]et29r[1]et29v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N">X </seg>
           <s type="es" part="N">Es ist interessant<lb/> zu sehen was geschieht<lb/> wenn wir versuchen<lb/> uns zu sagen  daß<lb/> wir nicht eigentlich<lb/> die Bewegung der Finger<lb/> <emph rend="us1">wollen</emph> wenn wir<lb/>  sie etwa zur Faust<lb/> biegen wollen sondern<lb/> die Bewegung des<lb/> Muskels der rein<lb/>  mechanisch durch<lb/> den Zug an der Sehne<lb/> das Biegen der Finger <pb facs="Ms-156a_29r" rend="recto" n="pagename_Ms-156a,29r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">29 </add></fw>  bewirkt.</s>
           <s type="es" part="N">Man kann<lb/> die Bewegung des<lb/> Muskels am <choice type="o"><orig type="o1">u</orig><orig type="o2">U</orig></choice>nter<lb rend="shyphen"/>arm sehen  &amp; nun<lb/> versuchen sich zu sagen<lb/> daß was ich eigentlich<lb/> will sei, daß  sich<lb/> dieser Muskel bewege.</s>
@@ -1000,20 +1000,20 @@
           <s type="es" part="N">Das soll natürlich<lb/> nur so viel zeigen,<lb/> als daß, eine Bewegung <pb facs="Ms-156a_29v" rend="verso" n="pagename_Ms-156a,29v pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable"> </add></fw>  wollen nichts mit<lb/> der Physiologie zu tun<lb/> hat<corr type="tra" instant="false">.</corr></s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_29v.2et30r.1" n="Ms-156a,29v[2]et30r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_29v.2et30r.1" n="Ms-156a,29v[2]et30r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N">X </seg>
           <s type="es" part="N">Man frage sich einmal<lb/> ob zu jeder der vielen<lb/> kleinen Bewegungen<lb/> die man,  <choice type="o"><orig type="o1">S</orig><orig type="o2">s</orig></choice>chreibend,<lb/> lesend, oder auch<lb/> “untätig” vor  sich hin<lb rend="shyphen"/>brütend, <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">mach</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">macht</add></orig></choice> ausführt,<lb/>  <del type="dnpc" instant="false" status="unremarkable">ein</del> etwas vorgeht was<lb/> man einen Willensakt<lb/> nennt. –</s>
           <s type="es" part="N">Vielleicht<lb/> wendet man ein: <c type="c" part="N">A</c>ber<lb/> diese Bewegungen werden<lb/> doch  von mir nicht<lb/> wie etwas <corr type="trsn" instant="false"><orig type="trsn1">B</orig><reg type="trsn2">b</reg></corr>eobachtet<lb/> was unabhängig  <pb facs="Ms-156a_30r" rend="recto" n="pagename_Ms-156a,30r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">30</add></fw> von <emph rend="uw1">mir selbst</emph> geschieht<lb/> etwa wie die  Bewegun<lb rend="shyphen"/>gen der <choice type="o"><orig type="o1">b</orig><orig type="o2">B</orig></choice>lätter am<lb/> Baum vor meinem<lb/> Fenster.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_30r.2" n="Ms-156a,30r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_30r.2" n="Ms-156a,30r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secmr" part="N">✓ </seg>
             <s type="es" part="N">Das ist Eisen, das ist<lb/> g<choice type="o"><orig type="o1">e</orig><orig type="o2">r</orig></choice>au, das ist eine  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Zyl<corr type="npcn" instant="false">l</corr>in<lb rend="shyphen"/>der</del>,</orig><orig type="alt2">Stange,</orig></choice> das ist<lb/> ein  Feuerhaken.</s>
             <emph rend="bl_2"/>
           </emph>
         </ab>
-        <ab xml:id="Ms-156a_30r.3et30v.1" n="Ms-156a,30r[3]et30v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_30r.3et30v.1" n="Ms-156a,30r[3]et30v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secmr" part="N">✓ </seg>
             <s type="es" part="N">Was heiß es: man kann<lb/> nicht in dem gleichen Sinne<lb/> auf einen Körper  zeigen,<lb/> wie auf eine Farbe?</s>
@@ -1022,7 +1022,7 @@
             <emph rend="bl_2"/>
           </emph>
         </ab>
-        <ab xml:id="Ms-156a_30v.2" n="Ms-156a,30v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;93.1_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_30v.2" n="Ms-156a,30v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;93.1_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1035,12 +1035,12 @@
             </fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-156a_31r.1" n="Ms-156a,31r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_31r.1" n="Ms-156a,31r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die Sprache lernen als ein<lb/> abgerichtet werden.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_31r.2et31v.1" n="Ms-156a,31r[2]et31v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_31r.2et31v.1" n="Ms-156a,31r[2]et31v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secmr" part="N">X ∣ </seg>
           <s type="es" part="N">Überdenke diesen Satz: </s>
           <s type="es" part="N">Keiner glaubt während<lb/> eines Landregens im Herzen<lb/> daß <choice type="s"><orig type="alt1">es wieder einmal<lb/>   schön sein wird.</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">wieder einmal die Sonne scheinen  wird.</add></orig></choice></s>
@@ -1049,7 +1049,7 @@
           <s type="es" part="N">Man kann<lb/> sagen das Erlebnis<lb/> des Satzes, seine Land<lb rend="shyphen"/>schaft steht in<lb/>  anderer Beleuchtung.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_31v.2" n="Ms-156a,31v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_31v.2" n="Ms-156a,31v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="vdline">
             <s type="es" part="N">Was tut das Wort “viel<lb rend="shyphen"/>leicht” im Satz?</s>
@@ -1057,12 +1057,12 @@
           </emph>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_31v.3et32r.1" n="Ms-156a,31v[3]et32r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_31v.3et32r.1" n="Ms-156a,31v[3]et32r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Ich hätte übrigens,<lb/> was ich oben sagte,<lb/> auch so sagen können:  <pb facs="Ms-156a_32r" rend="recto" n="pagename_Ms-156a,32r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">32</add></fw> die Zuversicht ist etwas<lb/> Ähnliches wie der  zu<lb rend="shyphen"/>versichtliche Ton. –</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_32r.2et32v.1et33r.1" n="Ms-156a,32r[2]et32v[1]et33r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_32r.2et32v.1et33r.1" n="Ms-156a,32r[2]et32v[1]et33r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Soweit ein Teil meines Aus<lb rend="shyphen"/>drucks einfach dazu<lb/> bestimmt ist auf das  Ge<lb rend="shyphen"/>müt des <choice type="o"><orig type="o1">a</orig><orig type="o2">A</orig></choice>ndern eine be<lb rend="shyphen"/>stimmte Wirkung  hervor<lb rend="shyphen"/>zurufen wie etwa die laute<lb/> Stimme ihn einschüchtert<lb/> soweit  rechne ich es<lb/> nicht unter die Zeichen.</s>
           <lb/>
@@ -1075,17 +1075,17 @@
           <s type="es" part="N">Die erste Wirkung des <pb facs="Ms-156a_33r" rend="recto" n="pagename_Ms-156a,33r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">33</add></fw> Satzes auf uns  wäre dann<lb/> wie die Wirkung der Piano<lb rend="shyphen"/>larolle auf die Tastatur.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_33r.2" n="Ms-156a,33r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_33r.2" n="Ms-156a,33r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wollte man <add rend="im" instant="false" status="unremarkable">so</add> die Wirkung<lb/> eines Wortes <choice type="o"><orig type="o1">d</orig><orig type="o2">s</orig></choice>eine Bedeu<lb rend="shyphen"/>tung  nennen so müßte<lb/> man sagen daß <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">die</del><add rend="i" instant="false" status="unremarkable">welche die</add><lb/> Bedeutung  <del type="d" instant="false" status="unremarkable">des</del> <add rend="i" instant="false" status="unremarkable">eines</add> Wortes <add rend="el" instant="false" status="unremarkable">ist</add><lb/> Sache der Erfahrung  ist</orig><orig type="em2"><choice type="dsl"><orig type="alt1">die Bedeutung eines Wortes ist Sache der Erfahrung</orig><orig type="alt2">welches die Bedeutung eines Wortes ist Sache der Erfahrung  ist</orig></choice></orig></choice>.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_33r.3et33v.1" n="Ms-156a,33r[3]et33v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_33r.3et33v.1" n="Ms-156a,33r[3]et33v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Man könnte das Wort<lb/> “vielleicht” etwa durch<lb/> eine Art  hinweisende<lb/> Definition erklären<lb/> in dem man <abbr type="abb">z.B.</abbr> auf<lb/>  den grauen Himmel weist<lb/> &amp; sage “es wird vielleicht  <pb facs="Ms-156a_33v" rend="verso" n="pagename_Ms-156a,33v pageref_00"/><fw add="fremd" place="top right" type="pagen"/>   regnen”.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_33v.2" n="Ms-156a,33v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_33v.2" n="Ms-156a,33v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wir würden von einem Men<lb rend="shyphen"/>schen sagen: “er verwendet<lb/>  das Wort ‘vielleicht’ an<lb rend="shyphen"/>ders als wir; er sagt<lb/>  ‘vielleicht’ wenn wir<lb/> ‘sicher’  sagen”.</s>
           <s type="es" part="N">Oder:<lb/> “er sagt ‘<seg xml:lang="fr" part="N">à dieu</seg>’  wenn<lb/> wir ‘<c type="c" part="N">G</c>rüß Gott’  sagen”.</s>
@@ -1094,36 +1094,36 @@
           <s type="es" part="N">(Die Schweizer: “ich glaube es ist so”<corr type="tra" instant="false">.</corr>)</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_33v.3et34r.1" n="Ms-156a,33v[3]et34r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_33v.3et34r.1" n="Ms-156a,33v[3]et34r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die Erklärung der<lb/> Bedeutung eines Wortes<lb/> ist nicht die Erklärung  <pb facs="Ms-156a_34r" rend="recto" n="pagename_Ms-156a,34r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">34</add></fw> (oder Beschreibung) der<lb/> Wirkung des  Wortes.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_34r.2" n="Ms-156a,34r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_34r.2" n="Ms-156a,34r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Wenn Einer sagt ‘ich werde<lb/> vielleicht kommen’  &amp; er kommt<lb/> dann nicht, so hat er<lb/> damit nicht ein Versprechen<lb/>  gebrochen”<corr type="tra" instant="false">.</corr></s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_34r.3" n="Ms-156a,34r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_3" part="N">
+        <ab xml:id="Ms-156a_34r.3" n="Ms-156a,34r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_3" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Man gibt zur Erklärung<lb/> des Wortes “vielleicht”  <emph rend="us1">Gründe</emph><lb/> an, die uns bestimmen<lb/> können zu sagen, das &amp; das<lb/>  werde vielleicht eintreten.</s>
           <emph rend="bl_2"/>
           <pb facs="Ms-156a_34v" rend="verso" n="pagename_Ms-156a,34v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_34v.1" n="Ms-156a,34v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_34v.1" n="Ms-156a,34v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N">✓ </seg>
           <s type="es" part="N">Die <abbr corresp="Bedeutung">Bedeutg.</abbr> ist das, was die<lb/>  <abbr corresp="Erklärung">Erklärg.</abbr> der  <abbr corresp="Bedeutung">Bedeutg.</abbr> erklärt.</s>
           <lb/>
           <s type="es" part="N"><choice type="s"><orig type="alt1">Damit will ich sagen<seg type="edinst" part="N"> // </seg></orig><orig type="alt2"><c type="c" part="N">D</c>as<lb/> soll  heißen<seg type="edinst" part="N"> // </seg></orig></choice>: “<c type="c" part="N">W</c>as uns an<lb/> der Bedeutung  interessieren<lb/> soll das sei, was in einer<lb/> Erklärung der  <abbr corresp="Bedeutung">Bedeutg.</abbr><lb/> zum Ausdruck kommt.”</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_34v.2" n="Ms-156a,34v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_34v.2" n="Ms-156a,34v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Unter “Erklärung der<lb/> Bedeutung” verstehe<lb/> ich, was immer  im Kal<lb rend="shyphen"/>kül der Sprache als<lb/> solche Erklärung auf<lb rend="shyphen"/>tritt.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_34v.3et35r.1" n="Ms-156a,34v[3]et35r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_34v.3et35r.1" n="Ms-156a,34v[3]et35r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Werden uns nun die<lb/> Wörter unserer gewöhnlichen<lb/> Sprache erklärt als  <pb facs="Ms-156a_35r" rend="recto" n="pagename_Ms-156a,35r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">35</add></fw> wir die Sprache lernten?</s>
           <lb/>
@@ -1132,14 +1132,14 @@
           <s type="es" part="N">Das Wort “vielleicht”<lb/> wurde mir nie erklärt<lb/> doch habe  ich seinen<lb/> Gebrauch <del type="d" instant="false" status="unremarkable">–</del><del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del> – in<lb/> einem  gewi<corr type="trsn" instant="false"><orig type="trsn1">ß</orig><reg type="trsn2">ss</reg></corr>en Sinne – einmal<lb/> gelernt.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_35r.2et35v.1" n="Ms-156a,35r[2]et35v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_35r.2et35v.1" n="Ms-156a,35r[2]et35v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Gibt es aber <del type="dn" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable">ube</add></del> für jedes<lb/> Wort überhaupt Erklä<lb rend="shyphen"/>rungen  die man gram<lb rend="shyphen"/>matische Erklärungen<lb/> der  <abbr corresp="Bedeutung">Bedeutg.</abbr> nennen<lb/> könnte?</s>
           <s type="es" part="N">Wie, wenn ein<lb/> Wort den Zweck<lb/> hat, den Andern in eine<lb/> bestimmte Stimmung  <pb facs="Ms-156a_35v" rend="verso" n="pagename_Ms-156a,35v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> zu versetzen?</s>
           <s type="es" part="N">Denken<lb/> wir uns, dies würde<lb/> von ihm ausgesagt,<lb/> da müßte ich doch<lb/>  sagen: das ist nicht,<lb/> was ich Erklärung<lb/> einer Bedeutung nenne,<lb/> das hat  mit einer Er<lb rend="shyphen"/>klärung einer Bedeutung<lb/> nichts zu tun.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_35v.2et36r.1" n="Ms-156a,35v[2]et36r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_35v.2et36r.1" n="Ms-156a,35v[2]et36r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="vdline">
             <emph rend="wlilm">
@@ -1154,7 +1154,7 @@
           </s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_36r.2" n="Ms-156a,36r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_36r.2" n="Ms-156a,36r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <emph rend="vdline"><abbr type="abb">D.h.</abbr>: <c type="c" part="N">W</c>as eine Erklä<lb rend="shyphen"/>rung der  Bedeutung ist,<lb/> muß an Beispielen<lb/> gezeigt werden.</emph>
@@ -1163,7 +1163,7 @@
           <pb facs="Ms-156a_36v" rend="verso" n="pagename_Ms-156a,36v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_36v.1et37r.1" n="Ms-156a,36v[1]et37r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_36v.1et37r.1" n="Ms-156a,36v[1]et37r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Nun kommt mir der<lb/> Gedanke: <c type="c" part="N">I</c>ch kann<lb/> natürlich über das<lb/> Wort  vielleicht gram<lb rend="shyphen"/>matische Erklärungen<lb/> geben.</s>
           <s type="es" part="N"><c type="k" part="N">E</c>rklärungen die<lb/> den Gebrauch des Wortes<lb/> regeln.</s>
@@ -1175,13 +1175,13 @@
           <s type="es" part="N">Muß ich<lb/> hier <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del> sagen: <c type="c" part="N">N</c>ur<lb/> Beispiele können zeigen<lb/>  was die Verwendung<lb/> der Nutzen, eines Zeichens<lb/> ist? –</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_37r.2et37v.1" n="Ms-156a,37r[2]et37v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_37r.2et37v.1" n="Ms-156a,37r[2]et37v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Man könnte statt der<lb/> <abbr corresp="hinweisenden">hinw.</abbr> Definition   <corr type="tra" instant="false">“</corr>das ist<lb/> grün<corr type="tra" instant="false">”</corr> auch den Satz<lb/> gebrauchen <corr type="tra" instant="false">“</corr>dieses Blatt<lb/> ist grün;<corr type="tra" instant="false">”</corr> &amp;  analog<lb/> das Wort vielleicht<lb/> durch einen <choice type="o"><orig type="o1">h</orig><orig type="o2">H</orig></choice>inweis auf <lb/>die Wolken  <del type="dnpc" instant="false" status="unremarkable">&amp; den</del> mit dem <pb facs="Ms-156a_37v" rend="verso" n="pagename_Ms-156a,37v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> Satz “es  wird vielleicht<lb/> regnen” erklären.</s>
           <s type="es" part="N">(Und<lb/> wenn das eine Erklärung<lb/> ist, so ist es gewiß noch<lb/> am ehesten die,  durch<lb/> welche wir die Bedeutung<lb/> des Wortes <del type="dn" instant="false" status="unremarkable">Wirkl</del> tatsäch<lb rend="shyphen"/>lich  lernen.)</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_37v.2" n="Ms-156a,37v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_37v.2" n="Ms-156a,37v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="crossed">
             <s type="es" part="N">Hat das Wort “guten Tag”<lb/> Bedeutung?</s>
@@ -1189,19 +1189,19 @@
           </emph>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_37v.3et38r.1" n="Ms-156a,37v[3]et38r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_37v.3et38r.1" n="Ms-156a,37v[3]et38r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <emph rend="crossed">“Das Wort ‘vielleicht’ hat<lb/>  Bedeutung”, damit meinen<lb/> wir, es entspreche ihm<lb/> etwas in der Welt;  aber<lb/> natürlich, nicht so,<lb/> daß ihm ein Ding <pb facs="Ms-156a_38r" rend="recto" n="pagename_Ms-156a,38r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">38</add></fw> entspricht, aber  so<lb/> daß seinem Gebrauch<lb/> etwas in der Außenwelt<lb/> entspricht; daß wir<lb/> den  Tatsachen verant<lb rend="shyphen"/>wortlich sind, wenn wir<lb/> es gebrauchen; <abbr type="abb">etc.</abbr>  </emph>
           </s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_38r.2" n="Ms-156a,38r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_38r.2" n="Ms-156a,38r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wozu <choice type="s"><orig type="alt1">muß</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">soll</add></orig></choice> ich mich<lb/> auf diese Frage  einlassen?</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_38r.3et38v.1" n="Ms-156a,38r[3]et38v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_38r.3et38v.1" n="Ms-156a,38r[3]et38v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Zu sagen das Wort<lb/> habe nur im Satzzu<lb rend="shyphen"/>sammenhang Bedeutung<lb/> heißt daß  die Bedeutung<lb/> nicht das Gefühl ist welches<lb/> das Wort hervorruft.</s>
           <lb/>
@@ -1209,7 +1209,7 @@
           <s type="es" part="N">Jener Satz<lb/> heißt, daß das Wort<lb/> <choice type="s"><orig type="alt1">nur als Stein des   Kalküls<lb/><seg type="edinst" part="N"> // </seg></orig><orig type="alt2">nur im Kalkül<seg type="edinst" part="N"> // </seg></orig></choice> Bedeu<lb rend="shyphen"/>tung  habe.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_38v.2et39r.1" n="Ms-156a,38v[2]et39r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_38v.2et39r.1" n="Ms-156a,38v[2]et39r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="vdline">
             <s type="es" part="N">Wie lernt ein Kind den<lb/> Gebrauch eines Wortes,<lb/> <del type="d" instant="false" status="unremarkable">(</del> etwa des Wortes  ‘vielleicht’.</s>
@@ -1231,7 +1231,7 @@
           </emph>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_39r.2et39v.1" n="Ms-156a,39r[2]et39v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_39r.2et39v.1" n="Ms-156a,39r[2]et39v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="vdline">
             <s type="es" part="N">Wenn es in der deutschen<lb/> Sprache ein Wort gäbe<lb/> das bloß bestimmt<lb/>  wäre in dem Andern <pb facs="Ms-156a_39v" rend="verso" n="pagename_Ms-156a,39v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> eine bestimmte  Stimmung hervorzurufen, würde<lb/> ich von diesem Worte<lb/> sagen, es habe keine<lb/>  Bedeutung sondern<lb/> nur eine Wirkung?</s>
@@ -1240,7 +1240,7 @@
           </emph>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_39v.2" n="Ms-156a,39v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_39v.2" n="Ms-156a,39v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <emph rend="vdline">Denken wir uns aber,<lb/> jemand erklärte:<lb/>  “‘<seg type="coinage" part="N">h<add rend="our" instant="false" status="unremarkable">e</add> he</seg>’ heißt soviel<lb/> wie  ‘<seg type="coinage" part="N">haha</seg>’”, hat er<lb/> nun nicht eine  Erklärung <lb/> der Bedeutung gegeben?</emph>
@@ -1250,14 +1250,14 @@
             <add rend="fremd" instant="false" status="unremarkable">40</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_40r.1" n="Ms-156a,40r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_40r.1" n="Ms-156a,40r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <emph rend="vdline">Es ist offenbar daß wir<lb/> uns mit der Frage nach<lb/> der Bedeutung des<lb/>  Wortes “<seg type="coinage" part="N">hehe</seg>” der Frage<lb/> nach der Bedeutung<lb/> des  Lachens, oder <del type="d" instant="false" status="unremarkable"><add rend="im" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></add></del> des<lb/> Achselzuckens, nähern.</emph>
           </s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_40r.2et40v.1et41r.1" n="Ms-156a,40r[2]et40v[1]et41r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_40r.2et40v.1et41r.1" n="Ms-156a,40r[2]et40v[1]et41r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="vdline">
             <s type="es" part="N">Nun möchte man sagen:<lb/> <c type="c" part="N">D</c>ie Sprache dient der<lb/>  Beeinflu<corr type="trsn" instant="false"><orig type="trsn1">ß</orig><reg type="trsn2">ss</reg></corr>ung &amp; ist ein<lb/> Mechanismus der  Beeinflu<corr type="trsn" instant="false"><orig type="trsn1">ß</orig><reg type="trsn2">s<lb rend="shyphen"/>s</reg></corr>ung.</s>
@@ -1271,7 +1271,7 @@
           </emph>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_41r.2et41v.1" n="Ms-156a,41r[2]et41v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_41r.2et41v.1" n="Ms-156a,41r[2]et41v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn ich aber sagte,<lb/> die Bedeutung ist<lb/> die Wirkungsweise eines<lb/>  Wortes? –</s>
           <s type="es" part="N">[<seg xml:lang="en" part="N">The way it works</seg>]</s>
@@ -1280,7 +1280,7 @@
           <s type="es" part="N">Denn die Defini<lb rend="shyphen"/>tion, Erklärung wird <pb facs="Ms-156a_41v" rend="verso" n="pagename_Ms-156a,41v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> ja erinnert  &amp; so ge<lb rend="shyphen"/>braucht.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_41v.2et42r.1" n="Ms-156a,41v[2]et42r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_41v.2et42r.1" n="Ms-156a,41v[2]et42r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wie verhält sich aber<lb/> dieses Problem zu den<lb/> besonderen Problemen<lb/> über die  Bedeutung von<lb/> Wörtern?</s>
           <s type="es" part="N">Nun es ist selbst<lb/> ein solches besondere<del type="dn" instant="false" status="unremarkable">r</del><corr type="tran" instant="false">s</corr>  Pro<lb rend="shyphen"/>blem.</s>
@@ -1288,7 +1288,7 @@
           <s type="es" rend="indl_4" part="N">Und das ist eine klare<lb/> &amp; wichtige Einsicht wie<lb/> die daß man eine  Erkennt<lb rend="shyphen"/>nis haben kann ohne<lb/> die Frage was Erkennt<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">nis</corr><pb facs="Ms-156a_42r" rend="recto" n="pagename_Ms-156a,42r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">42  </add></fw><corr type="npcn-pb" instant="false">nis</corr> ist beantworten zu<lb/> können.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_42r.2" n="Ms-156a,42r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_42r.2" n="Ms-156a,42r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="vdline">
             <s type="es" part="N">Wenn man uns fragt<lb/> “was bedeutet das<lb/> Wort  ‘hallo’” so<lb/> werden wir antworten:<lb/>  “‘hallo’ ist ein<lb/> Ausruf.</s>
@@ -1297,7 +1297,7 @@
           </emph>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_42r.3" n="Ms-156a,42r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_42r.3" n="Ms-156a,42r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <emph rend="vdline">Die Bedeutung des<lb/> Wortes “stop” in  Tele<lb rend="shyphen"/>grammen.</emph>
@@ -1306,7 +1306,7 @@
           <pb facs="Ms-156a_42v" rend="verso" n="pagename_Ms-156a,42v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_42v.1" n="Ms-156a,42v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_42v.1" n="Ms-156a,42v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="crossed">
             <s type="es" part="N">“Die <abbr corresp="Bedeutung">Bedeutg.</abbr>, das was<lb/>   die <abbr corresp="Erklärung">Erkl.</abbr> <abbr corresp="der Bedeutung">d.B.</abbr> erklärt<lb/> damit habe ich gemeint:</s>
@@ -1320,14 +1320,14 @@
           </emph>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_42v.2" n="Ms-156a,42v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_42v.2" n="Ms-156a,42v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <emph rend="crossed">Das Wort “Tisch” &amp;<lb/> das Wort  “oho!”</emph>
           </s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_42v.3et43r.1" n="Ms-156a,42v[3]et43r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_42v.3et43r.1" n="Ms-156a,42v[3]et43r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="crossed">
             <s type="es" part="N">Daß die Erklärung<lb/> der <abbr corresp="Bedeutung">Bedeutg.</abbr> im  allge<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">meinen</corr><pb facs="Ms-156a_43r" rend="recto" n="pagename_Ms-156a,43r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">43</add></fw><corr type="npcn-pb" instant="false">meinen</corr> ‘Mißverständnisse<lb/> beseitigt’  <abbr type="abb">d.h.</abbr> zwischen<lb/> gleichberechtigten<lb/> Bedeutungen  entscheide<corr type="npcn" instant="false">n</corr>t<lb/> ist nicht wahr.</s>
@@ -1335,7 +1335,7 @@
           </emph>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_43r.2" n="Ms-156a,43r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_43r.2" n="Ms-156a,43r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Diese Handlung ist gut”<corr type="tra" instant="false">,</corr></s>
           <lb/>
@@ -1346,7 +1346,7 @@
           <pb facs="Ms-156a_43v" rend="verso" n="pagename_Ms-156a,43v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_43v.1et44r.1" n="Ms-156a,43v[1]et44r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_43v.1et44r.1" n="Ms-156a,43v[1]et44r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="crossed">
             <s type="es" part="N"><seg type="wabmarks-nl" part="N">1</seg><c type="c" part="N">D</c>ie    <abbr corresp="Bedeutung">Bed.</abbr> das, was die      <abbr corresp="Erklärung">Erkl.</abbr> der  <abbr corresp="Bedeutung">Bed.</abbr>,  <abbr corresp="erklärt">erklt<corr type="npc" instant="false">.</corr></abbr>.</s>
@@ -1366,7 +1366,7 @@
           </emph>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_44r.2et44v.1et45r.1" n="Ms-156a,44r[2]et44v[1]et45r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_44r.2et44v.1et45r.1" n="Ms-156a,44r[2]et44v[1]et45r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die Bedeutung des Wortes,<lb/> sein Nutzen, seine Wirkung.</s>
           <lb/>
@@ -1387,7 +1387,7 @@
           <pb facs="Ms-156a_45v" rend="verso" n="pagename_Ms-156a,45v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_45v.1" n="Ms-156a,45v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_45v.1" n="Ms-156a,45v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="vdline">
             <s type="es" part="N">Kann man sagen: “<c type="c" part="N">D</c>ie<lb/> Bedeutung ist der Zweck<lb/> eines  Wortes, nicht seine<lb/> Wirkung”?</s>
@@ -1395,7 +1395,7 @@
           </emph>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_45v.2" n="Ms-156a,45v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_45v.2" n="Ms-156a,45v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="edcom" part="N">
             <s type="es" part="N">[Zu dem Früheren].</s>
@@ -1404,7 +1404,7 @@
           <s type="es" part="N">Das Wort “Stein” ist verant<lb rend="shyphen"/>wortlich dafür daß  ge<lb rend="shyphen"/>rade ein <emph rend="us1">Stein</emph> aufgehoben<lb/> wurde<del type="d" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable"> der</add></del>, das Wort  “aufheben”<lb/> dafür, was mit dem Stein<lb/> geschah,  <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr></s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_45v.3et46r.1" n="Ms-156a,45v[3]et46r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_45v.3et46r.1" n="Ms-156a,45v[3]et46r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="vdline">
             <s type="es" part="N">Die Bedeutung eines<lb/> Wortes wird festgesetzt.</s>
@@ -1416,7 +1416,7 @@
           </emph>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_46r.2et46v.1" n="Ms-156a,46r[2]et46v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_3" part="N">
+        <ab xml:id="Ms-156a_46r.2et46v.1" n="Ms-156a,46r[2]et46v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_3" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Ich könnte nun sagen:<lb/> der Zweck des Befehls “heb<lb/> den Stein  auf” ist daß<lb/> er den Stein aufhebt.</s>
           <s type="es" part="N">Was<lb/> ist aber der Zweck des<lb/> Wortes “Stein”?</s>
@@ -1431,7 +1431,7 @@
           <s type="es" rend="indl_4" part="N">Es wäre ja schließlich<lb/> nur eine Hypothese<lb/> daß es das Wort  “Stein”<lb/> war, was diese Wirkung<lb/> hatte.</s>
           <emph rend="bl_3"/>
         </ab>
-        <ab xml:id="Ms-156a_46v.2et47r.1et47v.1et48r.1" n="Ms-156a,46v[2]et47r[1]et47v[1]et48r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_46v.2et47r.1et47v.1et48r.1" n="Ms-156a,46v[2]et47r[1]et47v[1]et48r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="vdline">
             <s type="es" part="N">Man möchte nun sagen:<lb/> gewiß die Bedeutung eines   <pb facs="Ms-156a_47r" rend="recto" n="pagename_Ms-156a,47r pageref_00"/><fw add="fremd" place="top right" type="pagen"/>  Wortes ist seine Wirkung.</s>
@@ -1471,7 +1471,7 @@
           <pb facs="Ms-156a_48v" rend="verso" n="pagename_Ms-156a,48v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_48v.1" n="Ms-156a,48v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_3" part="N">
+        <ab xml:id="Ms-156a_48v.1" n="Ms-156a,48v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_3" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Goethe, Johann Wolfgang von: Die Metamorphose der Pflanzen">
             <s type="es" part="N">“Und so deutet das<lb/> Chor auf ein geheimes Gesetz.”</s>
@@ -1484,7 +1484,7 @@
             <add rend="fremd" instant="false" status="unremarkable">49</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_49r.1" n="Ms-156a,49r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_49r.1" n="Ms-156a,49r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <reloc type="relocate-nec" n="Ms-156a,49r_Ms-156a,47v" corresp="relocNec#Ms-156a:1" instant="false" status="unremarkable">
             <emph rend="vdline">
@@ -1496,7 +1496,7 @@
           </reloc>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_49r.2" n="Ms-156a,49r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_49r.2" n="Ms-156a,49r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wie versteht man eine Geste?</s>
           <lb/>
@@ -1505,7 +1505,7 @@
           <s type="es" part="N">Ich<lb/> charakterisiere ein Erleb<lb rend="shyphen"/>ni<corr type="trsn" instant="false"><orig type="trsn1">ß</orig><reg type="trsn2">s</reg></corr>.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_49r.3" n="Ms-156a,49r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;94.1_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_49r.3" n="Ms-156a,49r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;94.1_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1516,12 +1516,12 @@
             <fw add="fremd" place="top right" type="pagen"/>
           </seg>
         </ab>
-        <ab xml:id="Ms-156a_49v.1" n="Ms-156a,49v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_49v.1" n="Ms-156a,49v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Der Tonfall der Überzeu<lb rend="shyphen"/>gung &amp; die Überzeugung<lb/> aber auch der  Tonfall<lb/> des Glaubens &amp; der Glaube<lb/> &amp; der <corr type="npc" instant="false">der</corr>  Tonfall der<lb/> Hoffnung &amp; die Hoffnung.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_49v.2" n="Ms-156a,49v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;95.2_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_49v.2" n="Ms-156a,49v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;95.2_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Man kann den eigenen<lb/> Charakter sowenig<lb/> von Außen <choice type="s"><orig type="alt1">betrachten</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">erkennen</add></orig></choice><lb/> wie die <emph rend="us1">eigene Schrift</emph>.</s>
@@ -1533,18 +1533,18 @@
             </fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-156a_50r.1" n="Ms-156a,50r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_3" part="N">
+        <ab xml:id="Ms-156a_50r.1" n="Ms-156a,50r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_3" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="bl_2"/>
           <s type="es" part="N">Wir verzichten auf allge<lb rend="shyphen"/>meine <emph rend="uw1">Dogmen</emph> über unsern<lb/>  Gegenstand, – die besonderen<lb/> Beispiele werfen so viel<lb/> allgemeines Licht  auf ihre<lb/> Umgebung, als ihnen<lb/> zukommt.</s>
           <emph rend="bl_3"/>
         </ab>
-        <ab xml:id="Ms-156a_50r.2" n="Ms-156a,50r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_50r.2" n="Ms-156a,50r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Was ist die richtige Art<lb/> sein Geld  auszugeben?”</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_50r.3et50v.1" n="Ms-156a,50r[3]et50v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_50r.3et50v.1" n="Ms-156a,50r[3]et50v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Das <corr type="trsn" instant="false"><orig type="trsn1">v</orig><reg type="trsn2">V</reg></corr>erstehen des verschie<lb rend="shyphen"/>denen Sinnes zweier Sätze<lb/> die aus  <choice type="s"><orig type="alt1">denselben Wörtern <pb facs="Ms-156a_50v" rend="verso" n="pagename_Ms-156a,50v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> <seg type="edinst" part="N"> // </seg></orig><orig type="alt2">derselben Wortfolge<seg type="edinst" part="N"> // </seg></orig></choice> aber<lb/> mit verschiedener Inter<lb rend="shyphen"/>punktion  bestehen.</s>
           <lb/>
@@ -1557,7 +1557,7 @@
             <add rend="fremd" instant="false" status="unremarkable">51</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_51r.1" n="Ms-156a,51r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_51r.1" n="Ms-156a,51r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Denn diese ist doch nur<lb/> <del type="d" instant="false" status="unremarkable">die</del> die Funktion der<lb/> Wörter im Satz (das  Wort<lb/> hat nur im Zusammenhang<lb/> <abbr type="abb">etc.</abbr>  <abbr corresp="Bedeutung">Bedeutg.</abbr>)<corr type="tra" instant="false">.</corr></s>
           <lb rend="hl"/>
@@ -1565,7 +1565,7 @@
           <pb facs="Ms-156a_51v" rend="verso" n="pagename_Ms-156a,51v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_51v.1" n="Ms-156a,51v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_51v.1" n="Ms-156a,51v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="centered">
             <seg type="notation" subtype="graphics_Abbild; Varia" rend="bitmap" part="N">
@@ -1578,7 +1578,7 @@
             <add rend="fremd" instant="false" status="unremarkable">52 </add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_52r.1et52v.1" n="Ms-156a,52r[1]et52v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_52r.1et52v.1" n="Ms-156a,52r[1]et52v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Sind etwa eine Wiese, eine<lb/> Blume, ein Musikstück,<lb/> ein Drama nur soviel<lb/>  verschiedene Mittel um<lb/> uns das Gefühl der Lust<lb/> zu geben?</s>
           <s type="es" part="N">Und warum<lb/> verwendet man<lb/> dann so viele verschiedene<lb/> Arten der  Lusterregung.</s>
@@ -1596,36 +1596,36 @@
             <add rend="fremd" instant="false" status="unremarkable">53</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-156a_53r.1" n="Ms-156a,53r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_53r.1" n="Ms-156a,53r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="centered">––––––––|––––––––</emph>
           <s type="es" part="N">Schafft der Künstler nur<lb/> etwas ihm Angenehmes<lb/> hervorzubringen um<lb/> etwas zu  machen was<lb/> ihm gefällt?!</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_53r.2" n="Ms-156a,53r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_53r.2" n="Ms-156a,53r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><corr type="tra" instant="false">“</corr>Dieses Gesicht ist dumm<corr type="tra" instant="false">”</corr><lb/> ist keine Aussage über<lb/> eine<del type="dn" instant="false" status="unremarkable">r</del> Erscheinung  <del type="d" instant="false" status="unremarkable">die</del> (eine<lb/> Empfindung) die dieses<lb/> Gesicht  <emph rend="us1">hervorruft</emph>.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_53r.3et53v.1" n="Ms-156a,53r[3]et53v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_53r.3et53v.1" n="Ms-156a,53r[3]et53v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn ich nun von<lb/> einer Skulptur sagte:<lb/> “dieses Gesicht hat<lb/>  einen zu dummen <pb facs="Ms-156a_53v" rend="verso" n="pagename_Ms-156a,53v pageref_00"/><fw add="fremd" place="top right" type="pagen"/>  Ausdruck”; was bedeu<lb rend="shyphen"/>tet das “zu”.</s>
           <s type="es" part="N">Zu<lb/> dumm wofür?</s>
           <s type="es" part="N">Um mir<lb/> Freude zu machen?</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_53v.2" n="Ms-156a,53v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_53v.2" n="Ms-156a,53v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Oder auch: <c type="c" part="N">W</c>as ist es<lb/> da<choice type="o"><orig type="o1">ß</orig><orig type="o2">s</orig></choice> schließlich für<lb/> sich  selbst sprechen<lb/> muß?</s>
           <s type="es" rend="indl_4" part="N">Heißt “so wollte<lb/> ich's”; so ist es<lb/> mir  angenehm??</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_53v.3et54r.1" n="Ms-156a,53v[3]et54r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_53v.3et54r.1" n="Ms-156a,53v[3]et54r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Denken wir an <choice type="o"><orig type="o1">die</orig><orig type="o2">den</orig></choice><lb/> <corr type="trsn" instant="false"><orig type="trsn1">ae</orig><reg type="trsn2">ä</reg></corr>sthetischen  Unterricht<lb/> der dadurch gegeben<lb/> würde daß man einem<lb/> die  Ski<corr type="trsn" instant="false"><orig type="trsn1">t</orig><reg type="trsn2">z</reg></corr>ze eines Meisters <pb facs="Ms-156a_54r" rend="recto" n="pagename_Ms-156a,54r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">54</add></fw> zeigt &amp;  wie er sie dann<lb/> verändert hat.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_54r.2" n="Ms-156a,54r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_54r.2" n="Ms-156a,54r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Was ist das für ein Satz:<lb/> “<c type="c" part="N">D</c>as muß in  <emph rend="us1">diesem</emph> Tempo<lb/> gespielt werden”.</s>
           <lb rend="hl"/>
@@ -1638,40 +1638,40 @@
           <emph rend="bl_1"/>
           <emph rend="indl_4"/>
         </ab>
-        <ab xml:id="Ms-156a_54r.3et54v.1" n="Ms-156a,54r[3]et54v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_54r.3et54v.1" n="Ms-156a,54r[3]et54v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">So weit die <corr type="trsn" instant="false"><orig type="trsn1">Ae</orig><reg type="trsn2">Ä</reg></corr>sthetik   <pb facs="Ms-156a_54v" rend="verso" n="pagename_Ms-156a,54v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> interessiert  ist.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_54v.2" n="Ms-156a,54v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_54v.2" n="Ms-156a,54v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><c type="k" part="N">N</c>aturgeschichte des<lb/> Menschen, nicht Psycholo<lb rend="shyphen"/>gie.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_54v.3" n="Ms-156a,54v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_54v.3" n="Ms-156a,54v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Was ist eine Begründung<lb/> eines Zuges eines Kunst<lb rend="shyphen"/>werkes? <abbr type="abb">z.B.</abbr>, eines Musik<lb rend="shyphen"/>stückes?</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_54v.4et55r.1" n="Ms-156a,54v[4]et55r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_54v.4et55r.1" n="Ms-156a,54v[4]et55r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die <corr type="trsn" instant="false"><orig type="trsn1">ae</orig><reg type="trsn2">ä</reg></corr>sthetische Kritik<lb/> eines Kunstwerkes<lb/> lenkt  unsere Aufmerk<lb rend="shyphen"/>samkeit auf gewisse<lb/> Züge.</s>
           <s type="es" part="N"><del type="dn" instant="false" status="unremarkable">St</del><c type="c" part="N">I</c>ndem sie das   <pb facs="Ms-156a_55r" rend="recto" n="pagename_Ms-156a,55r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">55</add></fw> Werk mit anderen<lb/>  zusammenstellt,<lb/> beschreibt mit<lb/> andern Vorgängen ver<lb rend="shyphen"/>gleicht  <abbr type="abb">etc.</abbr><corr type="tran" instant="false"> </corr><abbr type="abb">etc.</abbr><lb/> sie sagt etwa: gib<lb/> auf diese  Klimax<lb/> acht <abbr type="abb">etc.</abbr></s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_55r.2" n="Ms-156a,55r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_55r.2" n="Ms-156a,55r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Hier verwechselt man<lb/> wieder leicht Grund<lb/> &amp; Ursache.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_55r.3et55v.1" n="Ms-156a,55r[3]et55v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_3" part="N">
+        <ab xml:id="Ms-156a_55r.3et55v.1" n="Ms-156a,55r[3]et55v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_3" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" part="N">Wenn man einen Komponisten<lb/> gefragt hätte; warum<lb/> schreibst <del type="d" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>  <c type="c" part="N">D</c>u in der Form<lb/> der Fuge <abbr type="abb">etc.</abbr>?</s>
-          <lb/>
+          <s type="es" part="N">Wenn man einen Komponisten<lb/> gefragt hätte; warum<lb/> schreibst <del type="d" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>  <c type="c" part="N">D</c>u in der Form<lb/> der Fuge <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr>?</s>
+          <lb rend="hl"/>
           <s type="es" part="N">Oder: warum befolgst   <pb facs="Ms-156a_55v" rend="verso" n="pagename_Ms-156a,55v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> Du diese  Regel<del type="dn" instant="false" status="unremarkable">en</del> der Fuge?</s>
           <emph rend="bl_3"/>
         </ab>
-        <ab xml:id="Ms-156a_55v.2" n="Ms-156a,55v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_55v.2" n="Ms-156a,55v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die <corr type="trsn" instant="false"><orig type="trsn1">Ae</orig><reg type="trsn2">Ä</reg></corr>sthetik lehrt uns<lb/> <emph rend="us1">wesentlich</emph> ein  <emph rend="us1">System</emph><lb/> kennen.</s>
           <s type="es" part="N">
@@ -1679,53 +1679,53 @@
           </s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_55v.3et56r.1" n="Ms-156a,55v[3]et56r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_55v.3et56r.1" n="Ms-156a,55v[3]et56r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Daß uns ihre letzten<lb/> Gründe am Schluß “an<lb rend="shyphen"/>sprechen”  müssen, damit<lb/> hat sie, sozusagen,<lb/> nichts zu tun.</s>
           <s type="es" part="N"><choice type="o"><orig type="o1">L</orig><orig type="o2"><c type="c" part="N">U</c></orig></choice>nd<lb/> sie beschreibt auch nicht<lb/> diesen Zustand, oder  viel<lb rend="shyphen"/>mehr diese vielen Zustände<lb/> des seelischen  Gleichge<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">wichts.</corr><pb facs="Ms-156a_56r" rend="recto" n="pagename_Ms-156a,56r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">56</add></fw><corr type="npcn-pb" instant="false">wichts.</corr></s>
           <s type="es" part="N">Sie ist sozu<lb rend="shyphen"/>sagen axiomatisch.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_56r.2" n="Ms-156a,56r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_56r.2" n="Ms-156a,56r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Vergleiche hier die Bedeu<lb rend="shyphen"/>tungen von “gleich<lb/>  wahrscheinlich” und<lb/> “ästhetisch  befriedigend”.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_56r.3" n="Ms-156a,56r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_56r.3" n="Ms-156a,56r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wäre sie Psychologie<lb/> so wäre ihr die Systema<lb rend="shyphen"/>tik <emph rend="us1">nicht</emph>  wesentlich.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_56r.4" n="Ms-156a,56r[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_56r.4" n="Ms-156a,56r[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Verstehen der Kirchenton<lb rend="shyphen"/>arten.</s>
           <s type="es" part="N">Verstehen einer<lb/> chinesischen Darstellung.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_56r.5et56v.1" n="Ms-156a,56r[5]et56v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_56r.5et56v.1" n="Ms-156a,56r[5]et56v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Kann eine Ursache   <pb facs="Ms-156a_56v" rend="verso" n="pagename_Ms-156a,56v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> durch  Introspektion<lb/> festgestellt werden??</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_56v.2" n="Ms-156a,56v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_56v.2" n="Ms-156a,56v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><c type="k" part="N">P</c>sychoanalyse.</s>
           <s type="es" part="N">Denke<lb/> daran daß das Resul<lb rend="shyphen"/>tat der Analyse die<lb/> Anerkennung des  <c type="c" part="N">A</c>naly<lb rend="shyphen"/>sierten verlangt!</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_56v.3" n="Ms-156a,56v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_56v.3" n="Ms-156a,56v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Freud, Sigmund: Traumdeutung">
             <s type="es" part="N">Warum ist <persName key="Freud, Sigmund" instant="false" full="yes">Freuds</persName><lb/> Bedeutung  als Psycho<lb rend="shyphen"/>loge an seinen Stil<lb/> gebunden.</s>
           </rs>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_56v.4" n="Ms-156a,56v[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_56v.4" n="Ms-156a,56v[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die <corr type="trsn" instant="false"><orig type="trsn1">Ae</orig><reg type="trsn2">Ä</reg></corr>sthetik sucht<lb/> Gründe auf, nicht<lb/>  Ursachen.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_56v.5et57r.1" n="Ms-156a,56v[5]et57r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_56v.5et57r.1" n="Ms-156a,56v[5]et57r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Goethe, Johann Wolfgang von: Zur Farbenlehre">
             <s type="es" part="N"><persName key="Goethe, Johann Wolfgang von" instant="false" full="yes">Goethe</persName>, warum er  <pb facs="Ms-156a_57r" rend="recto" n="pagename_Ms-156a,57r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">57</add></fw> das Experiment <add rend="im" instant="false" status="unremarkable">in der Farbenlehre</add>  zurück<lb rend="shyphen"/>wies.</s>
@@ -1736,7 +1736,7 @@
           <s type="es" part="N">Es ist <add rend="im" instant="false" status="unremarkable">natürlich</add> nicht<lb/> wahr daß er uns <emph rend="us1">nichts</emph><lb/>  mitteilt<corr type="tra" instant="false">.</corr></s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_57r.2" n="Ms-156a,57r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;96.1_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_57r.2" n="Ms-156a,57r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;96.1_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="indl_4"/>
@@ -1747,7 +1747,7 @@
             <fw add="fremd" place="top right" type="pagen"/>
           </seg>
         </ab>
-        <ab xml:id="Ms-156a_57v.1et58r.1" n="Ms-156a,57v[1]et58r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_57v.1et58r.1" n="Ms-156a,57v[1]et58r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_4" part="N">
             <seg type="notation" subtype="logic_quantificational formula list, type-theoretic formula list, self-reference, Russellian diagonalisation" rend="literal" part="N">αεα  <emph rend="indl_4"/>f(f)  =  F(f)  <emph rend="indl_4"/>ξ(ξ) <emph rend="bl_2"/>  <emph rend="indl_6"/>F(F)﹖ <emph rend="bl_1"/>        <emph rend="indl_6"/>~f(f)  =  F(f) <emph rend="bl_1"/>   <emph rend="indl_6"/>F(F)﹖ <emph rend="bl_2"/>        <emph rend="indl_4"/>~ _ ( – ) <emph rend="bl_2"/>       <emph rend="indl_4"/>   <seg type="notation" subtype="graphics_Zeichen; Struktur" rend="bitmap" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">(f)<milestone unit="br"/><milestone unit="br"/>      <emph rend="large">^</emph><milestone unit="br"/>      ~ _ ( – ) </cell></row></table></seg><emph rend="bl_1"/>               <pb facs="Ms-156a_58r" rend="verso" n="pagename_Ms-156a,58r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">58 </add></fw>  <emph rend="indl_6"/>~(αεα) <emph rend="bl_1"/>  <emph rend="indl_4"/>ξ<choice type="o"><orig type="o1">(</orig><orig type="o2">{</orig></choice>~(ξεξ)ξ  <emph rend="bl_2"/>  ~[ξ<choice type="o"><orig type="o1">(</orig><orig type="o2">{</orig></choice>~(ξεξ)ξε]  <emph rend="bl_2"/> <emph rend="indl_3"/>[f(ξ,n)]'a = f(a,a)  <emph rend="bl_5"/>  ~([~ξ(ξ)]'<del type="dn" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>([~ξ(ξ)]'( )))  <emph rend="bl_2"/>  ~<choice type="o"><orig type="o1">(</orig><orig type="o2">{</orig></choice>~[~ξ(ξ]'([~ξ(ξ)]'( ))}</seg>
@@ -1755,7 +1755,7 @@
           <pb facs="Ms-156a_58v" rend="recto" n="pagename_Ms-156a,58v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_58v.1" n="Ms-156a,58v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_58v.1" n="Ms-156a,58v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="centered">
             <seg type="notation" subtype="graphics_Fäden; zweigeteilt" rend="bitmap" part="N">––––––––|––––––––</seg>
@@ -1766,7 +1766,7 @@
           </emph>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_58v.2" n="Ms-156a,58v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;97.1_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_58v.2" n="Ms-156a,58v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;97.1_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
@@ -1775,7 +1775,7 @@
             <emph rend="bl_2"/>
           </seg>
         </ab>
-        <ab xml:id="Ms-156a_58v.3et59r.1" n="Ms-156a,58v[3]et59r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_58v.3et59r.1" n="Ms-156a,58v[3]et59r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Carroll, Lewis: Alice's Adventures in Wonderland">
             <s type="es" part="N">Mathematisches Problem.</s>
@@ -1787,26 +1787,26 @@
           </rs>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_59r.2" n="Ms-156a,59r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_59r.2" n="Ms-156a,59r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Es ist übrigens merkwür<lb rend="shyphen"/>dig daß das Wesen des<lb/> Rätsels in der Logik<lb/> nicht  eingehend behandelt<lb/> wird.</s>
           <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-156a_59r.3" n="Ms-156a,59r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_2" part="N">
+        <ab xml:id="Ms-156a_59r.3" n="Ms-156a,59r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Mangelnde Strenge meines<lb/> Stils &amp; der  “Komposition”.</s>
           <emph rend="bl_2"/>
           <pb facs="Ms-156a_59v" rend="recto" n="pagename_Ms-156a,59v pageref_00"/>
           <fw add="fremd" place="top right" type="pagen"/>
         </ab>
-        <ab xml:id="Ms-156a_59v.1" n="Ms-156a,59v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_59v.1" n="Ms-156a,59v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="centered">
             <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/156a,59v.jpg" subtype="graphics_Vielecke; Sechseck" rend="bitmap" part="N">156008</seg>
           </emph>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_59v.2et60r.1" n="Ms-156a,59v[2]et60r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_59v.2et60r.1" n="Ms-156a,59v[2]et60r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Das <corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">A</reg></corr>llgemeine in der<lb/> Mathematik ist nicht<lb/> unbestimmter als das<lb/>   <corr type="trsn" instant="false"><orig type="trsn1">b</orig><reg type="trsn2">B</reg></corr>esondere.</s>
           <s type="es" part="N"><corr type="tra" instant="false">“</corr>Allgemein<corr type="tra" instant="false">”</corr><pb facs="Ms-156a_60r" rend="verso" n="pagename_Ms-156a,60r pageref_00"/><fw place="top right" type="pagen"><add rend="fremd" instant="false" status="unremarkable">60</add></fw> &amp;   <corr type="tra" instant="false">“</corr>besonders<corr type="tra" instant="false">”</corr> in der<lb/> Mathematik sind<lb/> relative Begriffe.</s>
@@ -1814,7 +1814,7 @@
           <s type="es" part="N">Dabei gibt es keine<lb/> Hierarchie der Typen<lb/> in der Mathematik!</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_60r.2et60v.1" n="Ms-156a,60r[2]et60v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_60r.2et60v.1" n="Ms-156a,60r[2]et60v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wir gegen nur von Kalkül<lb/> zu Kalkül.</s>
           <s type="es" part="N">Von Ornament<lb/> zu Ornament.</s>
@@ -1823,12 +1823,12 @@
           <s type="es" rend="indl_4" part="N">In der <emph rend="us1">Anwendung</emph> auf     <pb facs="Ms-156a_60v" rend="recto" n="pagename_Ms-156a,60v pageref_00"/><fw add="fremd" place="top right" type="pagen"/> <choice type="s"><orig type="alt1">die Figur</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">das Ornament</add></orig></choice> in der Ebene des<lb/> speziellen Falles liegt<lb/> die Beziehung  von Allge<lb rend="shyphen"/>meinem zu Besonderem.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_60v.2" n="Ms-156a,60v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_1" part="N">
+        <ab xml:id="Ms-156a_60v.2" n="Ms-156a,60v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Oder auch: nur im<lb/> <emph rend="us1">kombinierten</emph> Kalkül<lb/> <del type="d" instant="false" status="unremarkable">das</del> gibt es  einen <corr type="trsn" instant="false"><orig type="trsn1">A</orig><reg type="trsn2">a</reg></corr>ll<lb rend="shyphen"/>gemeinen &amp; einen beson<lb rend="shyphen"/>deren  Teil.</s>
           <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-156a_60v.3" n="Ms-156a,60v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19331130?" emph="blbef_0 blaft_0" part="N">
+        <ab xml:id="Ms-156a_60v.3" n="Ms-156a,60v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320600?-19331100?" emph="blbef_0 blaft_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Und der besondere<lb/> Fall wird dann immer<lb/> so erzeugt, daß man<lb/> sagt:    “<c type="c" part="N">S</c>etze <abbr type="abb">z.B.</abbr> statt<lb/>  <seg type="notation" subtype="maths_real analysis" rend="literal" part="N">x,  ε</seg>”,    oder “statt <seg type="notation" subtype="maths_real analysis" rend="literal" part="N">f(x) x²</seg>”<lb/> oder statt   <corr type="tra" instant="false">“</corr><seg type="notation" subtype="maths_real analysis, functional operator" rend="literal" part="N">F{fx}</seg> <seg type="notation" subtype="maths_real analysis, indefinite integral" rend="literal" part="N">∫ fx dx</seg>”<lb/>   <abbr type="abb">etc.</abbr></s>
           <corr type="tra" instant="false"> …</corr>

@@ -41,7 +41,7 @@
         </respStmt>
         <respStmt>
           <name full="yes" instant="false">Claus Huitfeldt</name>
-          <resp>2020: Spell-check</resp>
+          <resp>2020: spell-check</resp>
         </respStmt>
         <respStmt>
           <name full="yes" instant="false">Michael Biggs, Hans Biesenbach</name>
@@ -1002,25 +1002,25 @@
             <s type="es" rend="indl_4" part="N">Dieses Buch kann allerdings gekürzt werden, <lb/> aber es ist <emph rend="us1">sehr</emph>  schwer es richtig zu <lb/> kürzen.</s>
             <s type="es" part="N">Dies<add rend="our" instant="false" status="unremarkable">e</add> Bemerkung bezieht sich nicht <lb/> auf <add rend="our" instant="false" status="unremarkable">d</add>en  <del type="dnpc" instant="false" status="unremarkable">‚</del>“<seg type="int-ref" n="Ms-115,IV_Ms-115,118" ana="intRef,Ms-115#2" part="N">Vers<add rend="our" instant="false" status="unremarkable">u</add>ch  einer Umarbeitung</seg>”. </s>
           </seg>
-          <emph rend="bl_2"/>
+          <emph rend="bl_7"/>
           <pb facs="Ms-115_V" rend="recto" n="pagename_Ms-115,V pageref_00"/>
           <fw type="pagen" place="top middle">  </fw>
         </ab>
         <ab xml:id="Ms-115_V.1" n="Ms-115,V[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:fm" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
-            <seg type="fm-title" part="N"><emph rend="indl_4"/><c type="c" part="N">P</c>hilosophische <emph rend="indl_9"/> Bemerkungen  <emph rend="indl_15"/><corr type="npc" instant="false"><add rend="fremd" instant="false" status="unremarkable">3</add></corr><emph rend="bl_2"/>  <emph rend="indl_8"/><emph rend="large"><seg type="p" part="N">XI</seg>.</emph></seg>
+            <seg type="fm-title" part="N"><emph rend="indl_4"/><c type="c" part="N">P</c>hilosophische <emph rend="indl_9"/> Bemerkungen  <emph rend="indl_15"/><corr type="npc" instant="false"><add rend="fremd" instant="false" status="unremarkable">3</add></corr><emph rend="bl_1"/>  <emph rend="indl_8"/><emph rend="large"><seg type="p" part="N">XI</seg>.</emph></seg>
           </s>
           <emph rend="bl_1"/>
           <emph rend="indl_4"/>
           <seg type="edcom" part="N">
             <s type="es" part="N"><c type="k" part="N">F</c>ortsetzung von <seg type="int-ref" n="Ms-115,V_Ms-114,145r" ana="intRef,Ms-115#1" part="N">Band  <seg type="p" part="N">X</seg>.</seg></s>
           </seg>
-          <emph rend="bl_2"/>
+          <emph rend="bl_4"/>
           <pb facs="Ms-115_1" rend="verso" n="pagename_Ms-115,1 pageref_00"/>
           <fw type="pagen" place="top middle">1</fw>
         </ab>
-        <ab xml:id="Ms-115_1.1" n="Ms-115,1[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect115_page:165_order:W-PG;9.165.5_date:19331214?-19331231?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_1.1" n="Ms-115,1[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 115_page:165_order:W-PG;9.165.5_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <date rend="right" when-iso="19331214" instant="false">14.12.33.</date>
@@ -1047,7 +1047,7 @@
             </del>
           </emph>
         </ab>
-        <ab xml:id="Ms-115_2.2" n="Ms-115,2[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect115_page:165_order:W-PG;9.165.13_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_2.2" n="Ms-115,2[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 115_page:165_order:W-PG;9.165.13_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="indl_3"/>
@@ -1082,7 +1082,7 @@
             </seg>
           </emph>
         </ab>
-        <ab xml:id="Ms-115_3.2" n="Ms-115,3[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect115_page:165_order:W-PG;9.165.21_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_3.2" n="Ms-115,3[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 115_page:165_order:W-PG;9.165.21_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“Was heißt es: ‘dieser Gegenstand ist mir<lb/>  wohlbekannt?<corr type="tra" instant="false">’</corr>”</s>
@@ -1090,7 +1090,7 @@
             <s type="es" part="N">Das kann <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">u.a.</del><add rend="im" instant="false" status="unremarkable">aber alles mögliche</add> heißen<add rend="el" instant="false" status="unremarkable">,</add>  <add rend="im" instant="false" status="unremarkable">u.a.</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1"><abbr type="abb">u.a.</abbr> heißen</orig><orig type="alt2">aber  alles mögliche heißen,     <abbr type="abb">u.a.</abbr></orig></choice></orig></choice>:  “ich<lb/> weiß, wie er gebraucht wird”,  “ich weiß<lb/> <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">daß</del>, <add rend="im" instant="false" status="unremarkable">er sieht wie ein Tisch aus</add>  wenn man ihn aufklappt<del type="d" instant="false" status="unremarkable">.</del>“, <del type="d" instant="false" status="unremarkable">er wie<lb/> ein Tisch  aussieht“</del></orig><orig type="em2"><choice type="dsl"><orig type="alt1">daß, wenn man ihn aufklappt, er wie ein Tisch  aussieht”</orig><orig type="alt2">er sieht wie ein Tisch aus, wenn man ihn  aufklappt<del type="dn" instant="false" status="unremarkable">.</del>”</orig></choice></orig></choice>,  <del type="dnpc" instant="false" status="unremarkable"><abbr type="abb">etc.</abbr></del> “ich weiß, daß<lb/> man das einen  ‘Tisch’ nennt”.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_3.3" n="Ms-115,3[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect115_page:165_order:W-PG;9.165.26_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_3.3" n="Ms-115,3[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 115_page:165_order:W-PG;9.165.26_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Was ist das Wesen<del type="dn" instant="false" status="unremarkable">s</del> des ‘<corr type="trs" instant="false"><orig type="trs1">wohlbekannt  <choice type="em"><orig type="em1"><add rend="our" instant="false" status="unremarkable">S</add><add rend="i" instant="false" status="unremarkable">s</add>eins</orig><orig type="em2"><choice type="s"><orig type="alt1">Seins</orig><orig type="alt2">seins</orig></choice></orig></choice></orig><reg type="trs2">Wohlbekanntseins</reg></corr>’?</s>
@@ -1101,7 +1101,7 @@
             <s type="es" part="N">Und die Wohlbekannt<lb rend="shyphen"/>heit kann nur darin liegen, daß<lb/> ich in dem  Anblick ruhe.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_3.4" n="Ms-115,3[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect116_page:165_order:W-PG;9.165.31_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_3.4" n="Ms-115,3[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 116_page:165_order:W-PG;9.165.31_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“Ich sehe, was ich sehe”, das sage ich<lb/> darum, weil  ich nicht benennen will,<lb/> was ich sehe.</s>
@@ -1116,7 +1116,7 @@
             <s type="es" part="N">Denn<lb/> daß diese Lautverbindung das richtige<lb/> deutsche Wort ist, ja überhaupt  ein<lb/> Wort einer <choice type="s"><orig type="alt1">bestehenden</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">existierenden</add></orig></choice> Sprache, liegt<lb/>  nicht in der Erfahrung beim Aussprechen.</s>
           </emph>
         </ab>
-        <ab xml:id="Ms-115_4.2" n="Ms-115,4[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect116_page:166_order:W-PG;9.166.4_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_4.2" n="Ms-115,4[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 116_page:166_order:W-PG;9.166.4_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Das Wohlbekanntsein bestehe darin,<lb/> daß ich  erkenne<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">,</del></orig><orig type="alt2"><add rend="el" instant="false" status="unremarkable">:</add></orig></choice> was ich sehe sei<lb/> eine  Blume.</s>
@@ -1127,7 +1127,7 @@
             <fw type="pagen" place="top middle">5</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_5.1" n="Ms-115,5[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect115_page:165_order:W-PG;9.165.20_date:19331214?-19331231?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_5.1" n="Ms-115,5[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 115_page:165_order:W-PG;9.165.20_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <reloc type="relocate-opt" n="Ms-115,5_Ms-115,3" corresp="relocOpt#Ms-115:3" instant="false" status="unremarkable">
@@ -1146,21 +1146,21 @@
             </reloc>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_5.2" n="Ms-115,5[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect116_page:166_order:W-PG;9.166.13_date:19331214?-19331231?_seg:misc" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_5.2" n="Ms-115,5[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 116_page:166_order:W-PG;9.166.13_date:19331214?-19331231?_seg:misc" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Ich will alles ‘Geschichtliche’ aus<lb/> meiner  Betrachtungsweise des Bekannt<lb rend="shyphen"/>seins ausschalten.</s>
             <s type="es" part="N">Es bleiben dann<lb/> Eindrücke (Erlebnisse, Reaktionen), &amp;<lb/> auch  wo die Sprache in unsere Erfah<lb rend="shyphen0"/>rungen eintritt betrachten wir  sie nicht<lb/> als bestehende Einrichtung.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_5.3" n="Ms-115,5[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect116_page:166_order:W-PG;9.166.17_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_5.3" n="Ms-115,5[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 116_page:166_order:W-PG;9.166.17_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Die Multiplizität des Wohlbekanntseins,<lb/> wie ich es verstehe, ist also die  des Ru<lb rend="shyphen"/>hens in einem Anblick.</s>
             <s type="es" part="N">Es könnte<lb/> darin bestehen daß mein Blick auf<lb/> dem Gegenstand nicht unruhig  <add rend="el" instant="false" status="unremarkable">(suchend)</add><lb/> umherschweift, daß ich den Aspekt des<lb/> Gesehenen  nicht we<add rend="our" instant="false" status="unremarkable">c</add>hsle sondern<lb/> <choice type="s"><orig type="alt1">mich in einem Aspekt niederlasse  <emph rend="uw1">&amp;<lb/> bleibe</emph>.</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">sogleich einen Aspekt ergreife  &amp; festhalte.</add></orig></choice></s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_5.4" n="Ms-115,5[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect116_page:166_order:W-PG;9.166.22_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_5.4" n="Ms-115,5[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 116_page:166_order:W-PG;9.166.22_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Ich sehe das Bild eines dicken Rockes<lb/> &amp; habe ein Gefühl der Wärme  &amp; Behag<lb rend="shyphen"/>lichkeit, ich sehe das Bild einer winter<lb rend="shyphen"/>lichen  Landschaft &amp; friere.</s>
@@ -1170,14 +1170,14 @@
             <fw type="pagen" place="top middle">6</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_6.1" n="Ms-115,6[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect116_page:166_order:W-PG;9.166.28_date:19331214?-19331231?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_6.1" n="Ms-115,6[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 116_page:166_order:W-PG;9.166.28_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="publ" part="N">
             <emph rend="bl_2"/>
             <seg type="wabmarks-secml" part="N">∕∕ </seg>
             <s type="es" rend="indl_4" part="N">Niemand wird sagen, daß jedesmal<lb/> wenn ich in mein Zimmer komme, in<lb/> die  altgewohnte Umgebung, sich<lb/> ein Wiedererkennen alles dessen was<lb/> ich sehe,  &amp; <corr type="trs" instant="false"><orig type="trs1">hundertemale</orig><reg type="trs2"> hunderte Male</reg></corr> gesehen<lb/> habe,  abspielt.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_6.2" n="Ms-115,6[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect117_page:166_order:W-PG;9.166.32_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_6.2" n="Ms-115,6[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 117_page:166_order:W-PG;9.166.32_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><add rend="our" instant="false" status="unremarkable">W</add>enn wir an unser Verstehen eines<lb/> Bildes etwa eines Genrebildes  denken,<lb/> so sind wir vielleicht geneigt anzuneh<lb rend="shyphen"/>men, daß es da ein  bestimmtes Phäno<lb rend="shyphen"/>men des Wiedererkennens gibt &amp; wi<add rend="our" instant="false" status="unremarkable">e</add><lb/>  die gemalten Men<add rend="our" instant="false" status="unremarkable">sc</add>hen als Menschen,<lb/> die gemalten Bäume als Bäume  erken<lb rend="shyphen"/>nen,     <abbr type="abb">etc.</abbr></s>
@@ -1186,7 +1186,7 @@
             <s type="es" part="N">Und also auch die wirkli<lb rend="shyphen"/>chen Menschen als wirkliche?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_6.3" n="Ms-115,6[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect117_page:167_order:W-PG;9.167.9_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_6.3" n="Ms-115,6[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 117_page:167_order:W-PG;9.167.9_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Freilich gibt es <choice type="s"><orig type="alt1">ein</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">das</add></orig></choice> Phänomen des Er<lb rend="shyphen"/>kennens,  wenn wir, etwa nach einem Vor<lb rend="shyphen"/>gang des Suchens, eine Zeichnung als<lb/>  <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">die</del><add rend="i" instant="false" status="unremarkable">Darstellung</add> eines Menschen erkennen; aber<lb/> was sich  hier abspielt geschieht eben<lb/> nicht, wenn <add rend="our" instant="false" status="unremarkable">i</add>ch die Zeichnung  sogleich<lb/> als <del type="d" instant="false" status="unremarkable">die</del> Darstellung</orig><orig type="em2"><choice type="dsl"><orig type="alt1">die eines Menschen erkennen;  aber was sich hier abspielt geschieht eben nicht, wenn ich die Zeichnung  sogleich als die</orig><orig type="alt2">Darstellung eines Menschen erkennen; aber was sich  hier abspielt geschieht eben nicht, wenn ich die Zeichnung sogleich als  Darstellung</orig></choice></orig></choice> eines Menschen sehe.</s>
@@ -1195,7 +1195,7 @@
             <fw type="pagen" place="top middle">7</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_7.1" n="Ms-115,7[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect117_page:167_order:W-PG;9.167.14_date:19331214?-19331231?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_7.1" n="Ms-115,7[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 117_page:167_order:W-PG;9.167.14_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="bl_2"/>
@@ -1204,7 +1204,7 @@
             <s type="es" part="N">Von einem Wiedererkennen aber ist hier<lb/> keine Rede.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_7.2" n="Ms-115,7[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect118_page:167_order:W-PG;9.167.17_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_7.2" n="Ms-115,7[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 118_page:167_order:W-PG;9.167.17_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Von den Vorgängen, die man “Wiedererken<lb rend="shyphen"/>nen”  nennt haben wir leicht einen<lb/> falschen Begriff; als <choice type="em"><orig type="em1">bestünde<del type="d" instant="false" status="unremarkable">n sie</del>  <add rend="i" instant="false" status="unremarkable">das Wiedererkennen</add><lb/></orig><orig type="em2"><choice type="dsl"><orig type="alt1">bestünden sie</orig><orig type="alt2">bestünde das  Wiedererkennen</orig></choice></orig></choice> immer darin daß wir zwei <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Bilder</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Eindrücke</add></orig></choice> mit<lb/> einander   vergleichen.</s>
@@ -1212,27 +1212,27 @@
             <s type="es" part="N">Unser Gedächtnis scheint uns<lb/> so einen Vergleich zu vermitteln, indem<lb/> es  uns ein Bild des früher Gesehenen<lb/> aufbewahrt oder uns erlaubt (wie durch<lb/>  ein Rohr) in die Vergangenheit zu blicken.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_7.3et8.1" n="Ms-115,7[3]et8[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect118_page:167_order:W-PG;9.167.26_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_7.3et8.1" n="Ms-115,7[3]et8[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 118_page:167_order:W-PG;9.167.26_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">In den meisten Fällen des Wiedererkennens<lb/> findet kein solcher Vergleich  statt.</s>
             <s type="es" rend="indl_2" part="N">Jemand kommt mir auf der Gasse<lb/> entgegen dessen Gesicht meinen Blick<lb/> auf  sich zieht; vielleicht frage ich mich<lb/> “wer ist  das?”; plötzlich ändert sich der Aspekt<lb/> des Gesichtes in  bestimmter Weise, “es wird mir<lb/> bekannt”; ich lächle  gehe auf ihn zu &amp;<lb/> begrüße ihn beim Namen; jetzt reden wir<lb/> von  <add rend="im" instant="false" status="unremarkable">der</add> vergangenen Zeit &amp; dabei schwebt mir<lb/> vielleicht auch ein  Erinnerungsbild <add rend="im" instant="false" status="unremarkable">von ihm</add> vor, <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">&amp; ich   <pb facs="Ms-115_8" rend="recto" n="pagename_Ms-115,8 pageref_00"/><fw type="pagen" place="top middle">8</fw> sehe ihn</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">ich sehe ihn</add></orig></choice> in einer bestimmten  Situation.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_8.2" n="Ms-115,8[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect118_page:168_order:W-PG;9.168.1_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_8.2" n="Ms-115,8[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 118_page:168_order:W-PG;9.168.1_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_4" part="N">Man sagt vielleicht: hätte ich nicht<lb/> sein Bild in der Erinnerung  bewahrt,<lb/> so könnte ich ihn nicht erkennen.</s>
             <s type="es" part="N">Aber<lb/> hier gebraucht man eine Metapher, oder<lb/> <add rend="im" instant="false" status="unremarkable">man</add> spricht eine  Hypothese aus.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_8.3" n="Ms-115,8[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect118_page:168_order:W-PG;9.168.4_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_8.3" n="Ms-115,8[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 118_page:168_order:W-PG;9.168.4_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Man könnte sagen: “<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">sein Gesicht</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">der  Anblick</add></orig></choice> war<lb/> erinnerungsbetont”.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_8.4" n="Ms-115,8[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect118_page:168_order:W-PG;9.168.5_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_8.4" n="Ms-115,8[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 118_page:168_order:W-PG;9.168.5_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Man sagt auch: “wir könnten Worte<lb/> gar nicht gebrauchen,  wenn wir nicht<lb/> sie &amp; die Gegenstände die sie bezeichnen<lb/>  wiedererkennten”.</s>
@@ -1242,7 +1242,7 @@
             <s type="es" part="N">“<c type="c" part="N">E</c>rkennen” heißt: erkennen,<lb/> was  <emph rend="us1">ist</emph>.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_8.5" n="Ms-115,8[5]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect119_page:168_order:W-PG;9.168.15_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_8.5" n="Ms-115,8[5]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 119_page:168_order:W-PG;9.168.15_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N">Die Wohlbekanntheit bestätigt den <choice type="s"><orig type="alt1">Aspekt</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Anblick</add></orig></choice><lb/> ohne ihn  aber mit etwas <choice type="o"><orig type="o1">a</orig><orig type="o2">A</orig></choice>nderem zu<lb/> vergleichen.</s>
@@ -1253,7 +1253,7 @@
             <fw type="pagen" place="top middle">9</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_9.1" n="Ms-115,9[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect119_page:168_order:W-PG;9.168.17_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_9.1" n="Ms-115,9[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 119_page:168_order:W-PG;9.168.17_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="bl_2"/>
@@ -1261,7 +1261,7 @@
             <s type="es" part="N">Aber hier bekämpfen sich<lb/> eben zwei Ausdrucksweisen.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_9.2" n="Ms-115,9[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect119_page:168_order:W-PG;9.168.21_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_9.2" n="Ms-115,9[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 119_page:168_order:W-PG;9.168.21_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Diese Form, die ich sehe – möchte ich sa<lb rend="shyphen"/>gen – ist nicht  einfach <emph rend="us1">eine</emph> Form, sondern<lb/> sie ist eine von de<add rend="our" instant="false" status="unremarkable">n</add> mir  bekannten For<lb rend="shyphen"/>men; sie ist eine im vorhinein ausgezeich<lb rend="shyphen"/>nete  Form.</s>
@@ -1269,7 +1269,7 @@
             <s type="es" part="N">(Ich trage<lb/> gleichsam einen Katalog solcher<lb/> Formen mit mir herum  &amp; die Gegenstän<lb rend="shyphen"/>de die dort abgebildet sind, sind dann<lb/> die  wohlbekannten.)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_9.3" n="Ms-115,9[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect119_page:168_order:W-PG;9.168.29_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_9.3" n="Ms-115,9[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 119_page:168_order:W-PG;9.168.29_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Aber daß ich das Bild schon früher<lb/> mit mir herumgetragen habe wäre nur<lb/>  eine kausale Erklärung des gegenwär<lb rend="shyphen"/>tigen Eindrucks.</s>
@@ -1281,27 +1281,27 @@
             <fw type="pagen" place="top middle">10</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_10.1" n="Ms-115,10[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect120_page:169_order:W-PG;9.169.4_date:19331214?-19331231?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_10.1" n="Ms-115,10[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 120_page:169_order:W-PG;9.169.4_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Man sagt: “<choice type="o"><orig type="o1">D</orig><orig type="o2">d</orig></choice>ieses Gesicht hat<lb/> einen ganz  <emph rend="us1">bestimmten</emph> Ausdruck”, &amp;<lb/> sucht etwa nach  Worten, die ihn<lb/> charakterisieren.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_10.2" n="Ms-115,10[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect120_page:169_order:W-PG;9.169.6_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_10.2" n="Ms-115,10[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 120_page:169_order:W-PG;9.169.6_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Hier ist es leicht in jene Sackgasse des<lb/> Philosophierens zu geraten, wo  man<lb/> glaubt die Schwierigkeit der Aufgabe<lb/> liege  <del type="dnpc" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable"><corr type="npcn" instant="false">Er</corr></add></del> darin, daß schwer <choice type="s"><orig type="alt1">Erhaschba<lb rend="shyphen"/>res</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">erhaschbare Erscheinungen</add></orig></choice>, die schnell entschlüpfende  gegen<lb rend="shyphen"/>wärtige Erfahrung, oder dergleichen, von<lb/> uns beschrieben werden  <choice type="em"><orig type="em1">soll<add rend="el" instant="false" status="unremarkable">t</add>en</orig><orig type="em2"><choice type="dsl"><orig type="alt1">sollen</orig><orig type="alt2">sollten</orig></choice></orig></choice>.</s>
             <s type="es" part="N">Wo die<lb/> gewöhnliche Sprache uns zu roh erscheint;<lb/> &amp; <choice type="em"><orig type="em1"><add rend="im" instant="false" status="unremarkable">es  scheint als haben</add> wir es nicht mit den Phänomenen <add rend="im" instant="false" status="unremarkable">zu tun</add>, von  denen<lb/> der Alltag redet, <del type="d" instant="false" status="unremarkable">zu tun zu haben scheinen,<lb/></del></orig><orig type="em2"><choice type="dsl"><orig type="alt1">wir es  nicht mit den Phänomenen, von denen der Alltag redet, zu tun zu haben  scheinen,</orig><orig type="alt2">es scheint als haben wir es nicht mit den Phänomenen zu tun,  von denen der Alltag redet,</orig></choice></orig></choice> sondern “mit den leicht  entschwindenden,<lb/> die mit ihrem Auftauchen &amp; Vergehen jene<lb/> ersteren  annähernd erzeugen<del type="dn" instant="false" status="unremarkable">.</del>”.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_10.3" n="Ms-115,10[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect120_page:169_order:W-PG;9.169.15_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_10.3" n="Ms-115,10[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 120_page:169_order:W-PG;9.169.15_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Und da mu<add rend="our" instant="false" status="unremarkable">ß</add> man sich daran erin<lb rend="shyphen"/>nern, daß alle die  Phänomene, die uns<lb/> nun so merkwürdig vorkommen, die<lb/> ganz gewöhnlichen sind,  die, wenn sie<lb/> <emph rend="uw1">geschehen</emph>, uns nicht im geringsten  auf<lb rend="shyphen"/>fallen.</s>
             <s type="es" part="N">Sie kommen uns erst in der selt<lb rend="shyphen"/>samen Beleuchtung<del type="dnpc" instant="false" status="unremarkable">, die  die</del> merkwürdig<lb/> vor, die wir <add rend="im" instant="false" status="unremarkable">nun</add> auf sie werfen, wenn wir<lb/>  philosophieren.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_10.4et11.1" n="Ms-115,10[4]et11[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect121_page:169_order:W-PG;9.169.20_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_10.4et11.1" n="Ms-115,10[4]et11[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 121_page:169_order:W-PG;9.169.20_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">“Das Bild sagt mir sich selbst”,<lb/> möchte ich  sagen.</s>
@@ -1309,33 +1309,33 @@
             <s type="es" rend="indl_4" part="N">So ein Fall wäre es     <abbr type="abb">z.B.</abbr>, wenn<lb/> <del type="d" instant="false" status="unremarkable">der Satz</del>  “es sagt mir etwas” oder “es ist ein<lb/>  Bild” hieße: es <emph rend="uw1">zeigt</emph> irgend eine  Kombi<lb rend="shyphen"/>nation von Würfeln &amp; Zyl<corr type="npcn" instant="false">l</corr>indern.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_11.2" n="Ms-115,11[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect121_page:169_order:W-PG;9.169.26_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_11.2" n="Ms-115,11[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 121_page:169_order:W-PG;9.169.26_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“Es sagt mir etwas” kann heißen: es<lb/> erzählt  mir etwas, es ist eine Erzählung<corr type="tra" instant="false">.</corr></s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_11.3" n="Ms-115,11[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect121_page:169_order:W-PG;9.169.28_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_11.3" n="Ms-115,11[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 121_page:169_order:W-PG;9.169.28_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Es sagt mir sich selbst, wie ein Satz, eine<lb/> Erzählung mir sich selbst  sagt.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_11.4" n="Ms-115,11[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect121_page:169_order:W-PG;9.169.30_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_11.4" n="Ms-115,11[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 121_page:169_order:W-PG;9.169.30_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Ist denn der Begriff des erzählenden<lb/> Bildes nicht ähnlich dem des  Genrebil<lb rend="shyphen"/>des (oder Schlachtenbildes).</s>
             <s type="es" part="N">Und wenn<lb/> ich beschreiben wollte, was ein Schlach<lb rend="shyphen"/>tenbild ist, so  brauchte ich mich nicht<lb/> auf eine Realität außerhalb des Bildes<lb/> zu beziehen  sondern nur von gemalten<lb/> Menschen, gemalten Pferden, <add rend="im" instant="false" status="unremarkable">gemalten  Kanonen</add>     <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> zu<lb/> reden.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_11.5" n="Ms-115,11[5]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect121_page:170_order:W-PG;9.170.5_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_11.5" n="Ms-115,11[5]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 121_page:170_order:W-PG;9.170.5_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">“Das Bild sagt mir etwas”: es gebraucht,<lb/>  sozusagen, <emph rend="us1"><add rend="our" instant="false" status="unremarkable">W</add>orte</emph><choice type="o"><orig type="o1">.</orig><orig type="o2">;</orig></choice> <del type="dnpc" instant="false" status="unremarkable"><c type="c" part="N">I</c>ch  vergleiche das<lb/></del> <del type="dnpc" instant="false" status="unremarkable"><c type="c" part="N">H</c>ier</del> hier sind Augen, Mund, Nase,  Hände,<lb/>     <abbr type="abb">etc.</abbr>     <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr></s>
             <s type="es" part="N">Ich vergleiche das Bild mit<lb/> einer Kombination sprachlicher Formen.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_11.6et12.1" n="Ms-115,11[6]et12[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect121_page:170_order:W-PG;9.170.8_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_11.6et12.1" n="Ms-115,11[6]et12[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 121_page:170_order:W-PG;9.170.8_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <seg type="publ" part="N">
             <s type="es" part="N">Aber das System der Sprache ist nicht<lb/> von der Kategorie  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">des</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">eines</add></orig></choice> Erlebnisses<add rend="el" instant="false" status="unremarkable">.</add>  <del type="dnpc" instant="false" status="unremarkable">&amp;</del> <del type="dnpc" instant="false" status="unremarkable"><unclear instant="false"><lb/><choice type="o"><orig type="o1">e</orig><orig type="o2"><c type="c" part="N">E</c></orig></choice></unclear>in  Erlebnis</del></s>
@@ -1345,7 +1345,7 @@
             <s type="es" part="N">(Vergleiche: Bedeutung des Wortes “oder”  &amp; <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">Oder-Gef<lb/></corr></del> Oder-Gefühl.)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_12.2" n="Ms-115,12[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect121_page:170_order:W-PG;9.170.12_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_12.2" n="Ms-115,12[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 121_page:170_order:W-PG;9.170.12_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“Jetzt sagt mir diese Zeichenfolge etwas;<lb/> früher, ehe ich die  Sprache lernte, hat<lb/> sie mir nichts gesagt”.</s>
@@ -1356,7 +1356,7 @@
             <s type="es" rend="indl_3" part="N">“Etwas ist ein Satz nur in einer Sprache”,<lb/> will  ich sagen.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_12.3" n="Ms-115,12[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect122_page:170_order:W-PG;9.170.22_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_12.3" n="Ms-115,12[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 122_page:170_order:W-PG;9.170.22_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">‘<c type="k" part="N">S</c>prache’, das sind doch die  Sprachen.</s>
@@ -1364,14 +1364,14 @@
             <s type="es" part="N">Die Sprachen <emph rend="us1">sind</emph> Systeme.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_12.4" n="Ms-115,12[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect122_page:170_order:W-PG;9.170.24_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_12.4" n="Ms-115,12[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 122_page:170_order:W-PG;9.170.24_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">“Ein Satz ist ein Satz einer  Sprache”<del type="dnpc" instant="false" status="unremarkable">,</del><corr type="tra" instant="false">.</corr></s>
             <s type="es" part="N">Aber<lb/> das heißt eben<del type="dnpc" instant="false" status="unremarkable">,</del>: “Sätze”  nenne ich Glieder<lb/> der Sprachen.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_12.5et13.1" n="Ms-115,12[5]et13[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect122_page:170_order:W-PG;9.170.26_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_12.5et13.1" n="Ms-115,12[5]et13[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 122_page:170_order:W-PG;9.170.26_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Aber achten wir auf den <emph rend="us1">Gebrauch</emph> des Wortes<lb/>  “deutsche Sprache”, sonst fragen wir etwa:<lb/>  “<c type="c" part="N">W</c>as ist die Sprache? alle <add rend="im" instant="false" status="unremarkable">ihre</add> Sätze die  je   <pb facs="Ms-115_13" rend="verso" n="pagename_Ms-115,13 pageref_00"/><fw type="pagen" place="top middle">13</fw> gesprochen worden sind? <choice type="em"><orig type="em1"><add rend="im" instant="false" status="unremarkable"><choice type="o"><orig type="o1">D</orig><orig type="o2">d</orig></choice>ie  Klasse</add><choice type="o"><orig type="o1">I</orig><orig type="o2">i</orig></choice>hre<add rend="el" instant="false" status="unremarkable">r</add> Regeln <add rend="im" instant="false" status="unremarkable">&amp; Wörter</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1"><c type="c" part="N">I</c>hre Regeln</orig><orig type="alt2">die Klasse ihrer Regeln &amp;   Wörter</orig></choice></orig></choice>?<lb/>    <abbr type="abb">etc.</abbr>      <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr>”<corr type="tra" instant="false">.</corr></s>
@@ -1381,7 +1381,7 @@
             <s type="es" part="N">Das Regelverzeichnis?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_13.2" n="Ms-115,13[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect122_page:170_order:W-PG;9.170.31_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_13.2" n="Ms-115,13[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 122_page:170_order:W-PG;9.170.31_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">“<emph rend="us1"><c type="k" part="N">S</c>atz</emph> ist das Glied einer  Sprache”.<del type="dnpc" instant="false" status="unremarkable">”</del></s>
@@ -1390,13 +1390,13 @@
             <s type="es" part="N">So<lb/> betrachte ich die Sprache<corr type="tra" instant="false">.</corr></s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_13.3" n="Ms-115,13[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect122_page:171_order:W-PG;9.171.4_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_13.3" n="Ms-115,13[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 122_page:171_order:W-PG;9.171.4_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N">∫ </seg>
           <seg type="publ" part="N">
             <s type="es" part="N"><emph rend="us1">Wir</emph> wollen eben auf das System der<lb/> Sprache achten.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_13.4" n="Ms-115,13[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect123_page:171_order:W-PG;9.171.5_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_13.4" n="Ms-115,13[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 123_page:171_order:W-PG;9.171.5_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Gewiß, ich lese eine Geschichte &amp; k<add rend="our" instant="false" status="unremarkable">ü</add>mmere<lb/> mich den  Teufel um ein System der<lb/> Sprache.</s>
@@ -1405,7 +1405,7 @@
             <s type="es" part="N">(Damit<lb/> will ich natürlich nicht sagen, daß<lb/> jeder Satz in mir ein  visuelles Bild<lb/> oder mehrere hervorruft, &amp; daß das<lb/> etwa der Zweck  <choice type="s"><orig type="alt1">eines</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">des</add></orig></choice> Satzes sei.)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_13.5" n="Ms-115,13[5]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect123_page:171_order:W-PG;9.171.12_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_13.5" n="Ms-115,13[5]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 123_page:171_order:W-PG;9.171.12_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Denken wir uns eine Bildergeschichte<lb/> in <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">S</corr></del>  schematischen Bildern, also ähnlicher<lb/> der Erzählung in einer Sprache als  eine<lb/> Folge realistischer Bilder.</s>
@@ -1417,20 +1417,20 @@
             <fw type="pagen" place="top middle">14</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_14.1" n="Ms-115,14[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect123_page:171_order:W-PG;9.171.18_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_14.1" n="Ms-115,14[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 123_page:171_order:W-PG;9.171.18_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_4" part="N">Denken wir auch daran, <choice type="s"><orig type="alt1">wie</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">daß</add></orig></choice> wir uns<lb/> solche Bilder   [<seg type="notation" corresp="http://www.minerva.mic.ul.ie/vol2/Ver_33/cat/D1164.gif" subtype="graphics_Abbild; Mensch(en)" rend="bitmap" part="N">115002</seg>] nicht erst in  rea<lb rend="shyphen"/>listische übertragen, um sie zu  ‘verstehen’,<lb/> sowenig wir uns je Photographien oder  die<lb/> Bilder des Films in färbige Bilder über<lb rend="shyphen"/>tragen obwohl uns  schwarz-weiße Men<lb rend="shyphen"/>schen oder Pflanzen     <abbr type="abb">etc.</abbr> in der  Wirklich<lb rend="shyphen"/>keit unsagbar fremd &amp; schrecklich<lb/>  <emph rend="uw1">vorkämen</emph>.</s>
             <s type="es" rend="indl_4" part="N">Wie, wenn wir nun hier sagten: “ein<lb/> Bild ist etwas nur  in einer Bildersprache”?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_14.2" n="Ms-115,14[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect123_page:171_order:W-PG;9.171.26_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_14.2" n="Ms-115,14[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 123_page:171_order:W-PG;9.171.26_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Ein Satz einer Erzählung gibt uns dieselbe<lb/> Befriedigung, wie ein  Bild.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_14.3et15.1" n="Ms-115,14[3]et15[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect124_page:171_order:W-PG;9.171.28_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_14.3et15.1" n="Ms-115,14[3]et15[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 124_page:171_order:W-PG;9.171.28_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Wir können uns  <seg type="doubt" part="N"><add rend="el" instant="false" status="unremarkable">(</add><emph rend="uw1">anderseits</emph><add rend="el" instant="false" status="unremarkable">)</add></seg>  eine Sprache<lb/> denken, in deren Verwendung der Ein<lb rend="shyphen"/>druck<choice type="s"><orig type="alt1">, den ein  Zeichen uns macht,</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">, den wir von den Zeichen erhalten,</add></orig></choice>  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">in<lb/> keiner Weise eintritt</del></orig><orig type="alt2"><del type="d" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable">nicht eintritt</add></del></orig><orig type="alt3"><add rend="i" instant="false" status="unremarkable">keine Rolle spielt</add></orig></choice><choice type="s"><orig type="alt1">; in der es ein Verste<lb rend="shyphen"/>hen im Sinne  eines solchen Eindrucks nicht<lb/> gibt.</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>; in der ein  Verstehen im Sinne eines<lb/> solchen Eindrucks nicht in Frage  kommt.<seg type="edinst" part="N"> // </seg></orig></choice></s>
@@ -1448,7 +1448,7 @@
             </seg>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_15.2" n="Ms-115,15[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect124_page:172_order:W-PG;9.172.12_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_15.2" n="Ms-115,15[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 124_page:172_order:W-PG;9.172.12_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Es wäre natürlich auch den<add rend="our" instant="false" status="unremarkable">k</add>bar, daß<lb/> wir einen Satz der  Wortsprache, um von<lb/> ihm einen <emph rend="us1">Eindruck</emph> zu erhalten, nach<lb/> Regeln in  ein gezeichnetes Bild über<lb rend="shyphen"/>tragen müßten.</s>
@@ -1457,13 +1457,13 @@
             </add>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_15.3" n="Ms-115,15[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect124_page:172_order:W-PG;9.172.16_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_15.3" n="Ms-115,15[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 124_page:172_order:W-PG;9.172.16_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" part="N">(Ich könnte meinem Schüler sagen: Du<lb/> wirst anders denken, wenn Du<lb/>  durch diese Übungen gegangen bist.)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_15.4" n="Ms-115,15[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect124_page:172_order:W-PG;9.172.10_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_15.4" n="Ms-115,15[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 124_page:172_order:W-PG;9.172.10_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="arrback">
@@ -1474,7 +1474,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_15.5" n="Ms-115,15[5]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect124_page:172_order:W-PG;9.172.18_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_15.5" n="Ms-115,15[5]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 124_page:172_order:W-PG;9.172.18_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <rs type="extref" key="Frege, Gottlob: Begriffsschrift">
@@ -1484,7 +1484,7 @@
             <s type="es" part="N">(<persName key="Frege, Gottlob" instant="false" full="yes"><c type="k" part="N">F</c>rege's</persName>  Auffassung der Logik.)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_15.6" n="Ms-115,15[6]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect124_page:172_order:W-PG;9.172.21_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_15.6" n="Ms-115,15[6]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 124_page:172_order:W-PG;9.172.21_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">“Es gibt keinen alleinstehenden Satz”.</s>
@@ -1493,21 +1493,21 @@
             <fw type="pagen" place="top middle">16</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_16.1" n="Ms-115,16[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect124_page:172_order:W-PG;9.172.23_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_16.1" n="Ms-115,16[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 124_page:172_order:W-PG;9.172.23_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N">Ist das Verwirrende nicht, daß ich eine<lb/> Spielstellung betrachten kann so  ge<lb rend="shyphen"/>nau ich will, aber dadurch nicht heraus<lb rend="shyphen"/>finde, daß es eine  <del type="dnpc" instant="false" status="unremarkable">“</del><emph rend="us1">Spielstellung</emph> ist?</s>
             <s type="es" part="N">Es<lb/> verwirrt uns hier etwas <choice type="s"><orig type="alt1">in</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">an</add></orig></choice> der Gram<lb rend="shyphen"/>matik des  Wortes “Spielstellung”.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_16.2" n="Ms-115,16[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect124_page:172_order:W-PG;9.172.27_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_16.2" n="Ms-115,16[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 124_page:172_order:W-PG;9.172.27_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Das Denken heißt eine Tätigkeit, wie<lb/> das Rechnen.</s>
             <s type="es" part="N">Niemand w<corr type="trsn" instant="false"><orig type="trsn1">u</orig><reg type="trsn2">ü</reg></corr>rde <corr type="trsn" instant="false"><orig type="trsn1">r</orig><reg type="trsn2">R</reg></corr>ech<lb rend="shyphen"/>nen  einen Zustand nennen, oder<lb/> Schach spielen.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_16.3" n="Ms-115,16[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect125_page:172_order:W-PG;9.172.29_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_16.3" n="Ms-115,16[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 125_page:172_order:W-PG;9.172.29_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N">Denken wir uns eine Art Vexierbild,<lb/> worin nicht <emph rend="us1">ein</emph> bestimmter  Gegenstand<lb/> aufzufinden ist, sondern das uns<lb/> auf den ersten Blick als ein  Gewirr<lb/> nichtssagender Striche erscheint &amp; nach<lb/> ein<add rend="our" instant="false" status="unremarkable">ig</add>em  Suchen erst als, sagen wir, ein<lb/> Lan<add rend="el" instant="false" status="unremarkable">d</add>schaftsbild.</s>
@@ -1517,7 +1517,7 @@
             <s type="es" part="N">Inwiefern aber kann man nach<lb/> der Auflösung sagen, jetzt sage uns das<lb/> Bild  etwas, früher habe es uns nichts<lb/> gesagt?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_16.4" n="Ms-115,16[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect125_page:173_order:W-PG;9.173.7_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_16.4" n="Ms-115,16[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 125_page:173_order:W-PG;9.173.7_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N">Wir können diese Frage auch so stellen:<lb/> <c type="c" part="N">W</c>as ist das allgemeine  <add rend="our" instant="false" status="unremarkable">C</add>harakteristikum<lb/> dafür, daß die Lösung gefunden ist?</s>
@@ -1562,26 +1562,26 @@
           </s>
           <lb rend="hl"/>
         </ab>
-        <ab xml:id="Ms-115_18.2" n="Ms-115,18[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect125_page:174_order:W-PG;9.174.15_date:19331214?-19331231?_seg:misc" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_18.2" n="Ms-115,18[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 125_page:174_order:W-PG;9.174.15_date:19331214?-19331231?_seg:misc" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N">(Wer nicht versteht, warum wir über<lb/> diese Dinge reden, muß, was wir  sagen,<lb/> als leere Spielerei empfinden.)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_18.3et19.1" n="Ms-115,18[3]et19[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect126_page:174_order:W-PG;9.174.17_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_18.3et19.1" n="Ms-115,18[3]et19[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 126_page:174_order:W-PG;9.174.17_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Der Eindruck ist <choice type="o"><orig type="o1">e</orig><orig type="o2">E</orig></choice>ins, &amp; die Bestimmt<lb rend="shyphen"/>heit des  Eindrucks etwas Anderes.</s>
             <s type="es" rend="indl_2" part="N">Was ich den Eindruck der Wohlbekanntheit<lb/> nenne <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">ist von  der</del></orig><orig type="alt2">hat die</orig></choice> Multiplizität    <pb facs="Ms-115_19" rend="verso" n="pagename_Ms-115,19 pageref_00"/><fw type="pagen" place="top middle">19</fw> einer Bestimmtheit.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_19.2" n="Ms-115,19[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect126_page:174_order:W-PG;9.174.21_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_19.2" n="Ms-115,19[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 126_page:174_order:W-PG;9.174.21_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Wir können in ein menschliches Gesicht<lb/> schauen das wir genau kennen ohne<lb/>  irgend einen Eindruck zu <choice type="s"><orig type="alt1">erhalten</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">haben</add></orig></choice>, so<lb rend="shyphen"/>zusagen  ganz stumpfsinnig; &amp; von da<lb/> bis zu einem starken Eindruck gibt<lb/> es  alle Stufen.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_19.3" n="Ms-115,19[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect126_page:174_order:W-PG;9.174.25_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_19.3" n="Ms-115,19[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 126_page:174_order:W-PG;9.174.25_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><del type="dnpc" instant="false" status="unremarkable"/> Denken wir uns <choice type="em"><orig type="em1"><add rend="im" instant="false" status="unremarkable">der Anblick eines</add><del type="d" instant="false" status="unremarkable">ein</del>  Gesicht<add rend="el" instant="false" status="unremarkable">s</add> <del type="d" instant="false" status="unremarkable"><emph rend="uw1">machte</emph></del> <add rend="i" instant="false" status="unremarkable">brächte</add><lb/> <del type="d" instant="false" status="unremarkable">uns</del> <emph rend="uw1">einen  starken Eindruck auf uns</emph><lb/> <emph rend="uw1">hervor</emph>  <seg type="edinst" part="N"> // </seg><emph rend="uw1">ergriffe</emph> uns stark<seg type="edinst" part="N"> // </seg></orig><orig type="em2"><choice type="dsl"><orig type="alt1">ein  Gesicht <emph rend="uw1">machte</emph> <del type="dnpc" instant="false" status="unremarkable">uns</del> <emph rend="uw1">einen starken Eindruck auf  uns</emph></orig><orig type="alt2">der Anblick eines Gesichts <choice type="s"><orig type="alt1">brächte <emph rend="uw1">einen starken  Eindruck auf uns</emph> <emph rend="uw1">hervor</emph></orig><orig type="alt2"><emph rend="uw1">ergriffe</emph> uns  stark</orig></choice></orig></choice></orig></choice> <add rend="im" instant="false" status="unremarkable">es flößt uns etwa Furcht ein</add>.</s>
@@ -1591,7 +1591,7 @@
             <s type="es" part="N">Ich sagte<lb/> ja der Eindruck der Wohlbekanntheit<lb/> bestehe etwa darin daß wir  in einem An<lb rend="shyphen"/>blick ruhen, den Aspekt nicht wechseln<lb/> &amp;  dergleichen.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_19.4et20.1" n="Ms-115,19[4]et20[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect127_page:175_order:W-PG;9.175.1_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_19.4et20.1" n="Ms-115,19[4]et20[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 127_page:175_order:W-PG;9.175.1_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Kann ich mir den Eindruck der indi<lb rend="shyphen"/>viduellen Bekanntschaft wegdenken,<lb/>  wo er ist, &amp; hinzudenken wo er nicht<lb/> ist?</s>
@@ -1605,13 +1605,13 @@
             <s type="es" rend="indl_5" part="N">Ich weiß was <emph rend="us1">es heißt</emph>: “stelle<lb/> Dir diesen  Tisch vor aber schwarz, obwohl<lb/> er <choice type="em"><orig type="em1">blau<add rend="el" instant="false" status="unremarkable">n</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">blau</orig><orig type="alt2">b<corr type="trsn" instant="false"><orig type="trsn1">l</orig><reg type="trsn2">r</reg></corr>aun</orig></choice></orig></choice> ist” das heißt etwas  <choice type="o"><orig type="o1">a</orig><orig type="o2"><corr type="trsn" instant="false"><orig type="trsn1">A</orig><reg type="trsn2">Ä</reg></corr></orig></choice>hnli<lb rend="shyphen"/>ches wie:  “<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">ze<corr type="tran" instant="false">ichne</corr></del></orig><orig type="alt2">male</orig></choice> ein Bild dieses  Ti<lb rend="shyphen"/>sches aber schwarz statt braun”; <add rend="im" instant="false" status="unremarkable">oder</add>  analog:<lb/> “zeichne diesen Menschen aber mit länge<lb rend="shyphen"/>ren  Beinen als er hat”.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_20.2" n="Ms-115,20[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect127_page:175_order:W-PG;9.175.18_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_20.2" n="Ms-115,20[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 127_page:175_order:W-PG;9.175.18_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Wie, wenn man sagte: “denke Dir<lb/> diesen Schmetterling,  genau so wie er ist,<lb/> aber häßlich statt  schön”?!</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_20.3et21.1" n="Ms-115,20[3]et21[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect127_page:175_order:W-PG;9.175.28_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_20.3et21.1" n="Ms-115,20[3]et21[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 127_page:175_order:W-PG;9.175.28_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><del type="d" instant="false" status="unremarkable">Die Ausdrucksweise</del><add rend="our" instant="false" status="unremarkable">“</add><choice type="o"><orig type="o1">e</orig><orig type="o2"><c type="c" part="N">E</c></orig></choice>s  ist sehr<lb/> schwer  …   wegzudenken”<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">,</del></orig><orig type="alt2">:</orig></choice> hier<lb/> scheint es als  handle es sich<lb/> um eine <emph rend="uw1"><add rend="im" instant="false" status="unremarkable">psychologische</add> Schwierigkeit, <add rend="im" instant="false" status="unremarkable">eine  Schwierigkeit</add> der Introspektion</emph>    <pb facs="Ms-115_21" rend="verso" n="pagename_Ms-115,21 pageref_00"/><fw type="pagen" place="top middle">21<del type="dn" instant="false" status="unremarkable">9</del></fw> <del type="d" instant="false" status="unremarkable">einer Bestimmtheit</del> oder  dergleichen.</s>
@@ -1623,7 +1623,7 @@
             </add>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_21.2" n="Ms-115,21[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect127_page:176_order:W-PG;9.176.1_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_21.2" n="Ms-115,21[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 127_page:176_order:W-PG;9.176.1_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <seg type="publ" part="N">
             <s type="es" part="N"><emph rend="us1">Wir</emph> haben in diesem Fall nicht <emph rend="us1">bestimmt</emph>,<lb/> was es heißen  soll sich die Wohl<lb rend="shyphen"/>bekanntheit wegzudenken.</s>
@@ -1634,7 +1634,7 @@
             <s type="es" part="N">Fragen wir<lb/> uns: welche T<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>tigkeiten nennen wir  “ver<lb rend="shyphen"/>suchen uns an etwas zu  erinnern”<choice type="em"><orig type="em1"><choice type="o"><orig type="o1">. W</orig><orig type="o2">; w</orig></choice>as<lb/></orig><orig type="em2"><choice type="dsl"><orig type="alt1">.  <c type="c" part="N">W</c>as</orig><orig type="alt2">; was</orig></choice></orig></choice> tun wir wenn wir uns daran erinnern<lb/> wollen was  wir gestern zu Mittag geges<lb rend="shyphen"/>sen  haben<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable"><choice type="o"><orig type="o1">?</orig><orig type="o2">;</orig></choice></del></orig><orig type="alt2">;</orig></choice> gibt es <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">so  eine</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">diese</add></orig></choice> Methode<lb/> auch für die <add rend="im" instant="false" status="unremarkable">frühen</add>  Kindheitserinnerungen eines<lb/> Erwachsenen; kann man <emph rend="us1">versuchen</emph>, sich<lb/>  an <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">seine</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">die eigene</add></orig></choice> Geburt zu  erinnern?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_21.3et22.1" n="Ms-115,21[3]et22[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect127_page:176_order:W-PG;9.176.7_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_21.3et22.1" n="Ms-115,21[3]et22[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 127_page:176_order:W-PG;9.176.7_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><add rend="our" instant="false" status="unremarkable">I</add>ch sage mir: ich will versuchen ein<lb/> gedrucktes deutsches  Wort anzuschauen<lb/> und <del type="dnpc" instant="false" status="unremarkable">mir vorzu<corr type="tran" instant="false">stellen</corr></del> es so zu sehen  als<lb/> hätte ich nicht lesen gelernt &amp; a<choice type="o"><orig type="o1">s</orig><orig type="o2">l</orig></choice>s seien      <pb facs="Ms-115_22" rend="recto" n="pagename_Ms-115,22 pageref_00"/><fw type="pagen" place="top middle">2<del type="dn" instant="false" status="unremarkable">0</del>2</fw> die schwarzen Figuren auf dem  Papier sonder<lb rend="shyphen"/>bare Zeichnungen <choice type="em"><orig type="em1">de<choice type="o"><orig type="o1">sse</orig><orig type="o2">ren</orig></choice><del type="d" instant="false" status="unremarkable">n</del></orig><orig type="em2"><corr type="npc" instant="false">dessen</corr> deren</orig></choice> Zweck ich<lb/> mir nicht denken kann, oder nicht  ahne.</s>
@@ -1642,7 +1642,7 @@
             <s type="es" part="N">Da geschieht nun <emph rend="uw1">dies</emph>, daß<lb/> ich das gedruckte Wort nicht  anschauen kann<lb/> ohne da<choice type="o"><orig type="o1">s</orig><orig type="o2">ß</orig></choice> mir das Lautbild des Wortes<lb/> oder der  Buchstaben die ich gerade an<lb rend="shyphen"/>schaue vorschwebt.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_22.2" n="Ms-115,22[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect127_page:176_order:W-PG;9.176.14_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_22.2" n="Ms-115,22[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 127_page:176_order:W-PG;9.176.14_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Die</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><c type="c" part="N">E</c>ine</add></orig></choice><corr type="trsn" instant="false"><orig type="trsn1">Z</orig><reg type="trsn2">z</reg></corr>eichnerische Darstellung des In<lb rend="shyphen"/>nern eines  Radioempfängers wird<lb/> für <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">den</del></orig><orig type="alt2"><del type="d" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable">Einen</add></del></orig><orig type="alt3"><add rend="el" instant="false" status="unremarkable">den</add></orig></choice> der nicht das Geringste vom<lb/> Radio  weiß</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">den <corr type="tra" instant="false">der</corr> keine Kunde von solchen Dingen  hat,</add></orig></choice> ein Gewirr sinnloser<lb/> Striche sein.</s>
@@ -1660,7 +1660,7 @@
             <fw type="pagen" place="top middle">23</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_23.1" n="Ms-115,23[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect128_page:176_order:W-PG;9.176.29_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_23.1" n="Ms-115,23[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 128_page:176_order:W-PG;9.176.29_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <rs type="extref" key="Weininger, Otto: Geschlecht und Charakter">
@@ -1684,14 +1684,14 @@
             <fw type="pagen" place="top middle">24</fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_24.1" n="Ms-115,24[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect128_page:177_order:W-PG;9.177.16_date:19331214?-19331231?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_24.1" n="Ms-115,24[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 128_page:177_order:W-PG;9.177.16_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="publ" part="N">
             <emph rend="bl_1"/>
             <seg type="wabmarks-secml" part="N">/ </seg>
             <s type="es" rend="indl_4" part="N">Es ist ein verwandter Fall (obwohl es<lb/> vielleicht nicht so scheinen  möchte)<lb/> wenn wir uns     <abbr type="abb">z.B.</abbr> darüber wundern,<lb/> daß die  Franzosen nicht <add rend="imw" instant="false" status="unremarkable">einfach</add> sagen<lb/> “der Mann ist  gut” sondern ein attri<lb rend="shyphen"/>butives <choice type="o"><orig type="o1">a</orig><orig type="o2">A</orig></choice>djektiv  dorthin setzen, wo<lb/> ein prädikatives stehen sollte; und<lb/> wenn wir das Problem  uns dann da<lb rend="shyphen"/>durch lösen daß wir sagen sie mein<lb rend="shyphen"/>ten  “der Mensch ist <emph rend="us1">ein</emph> guter”.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_24.2et25.1" n="Ms-115,24[2]et25[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect128_page:177_order:W-PG;9.177.22_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_24.2et25.1" n="Ms-115,24[2]et25[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 128_page:177_order:W-PG;9.177.22_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_4" part="N">Könnten <add rend="our" instant="false" status="unremarkable">v</add>erschiedene Deutungen eines<lb/> Gesichtsausdrucks nicht  darin bestehen,<lb/> daß ich mir zu ihm jedesmal <choice type="s"><orig type="alt1">eine  <corr type="trsn" instant="false"><orig type="trsn1">A</orig><reg type="trsn2">a</reg></corr>ndere<lb/> Fortsetzung</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>eine andere  <choice type="s"><orig type="alt1">Art</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Weise</add></orig></choice> der Fortsetzung<seg type="edinst" part="N"> // </seg></orig></choice><lb/> denke?</s>
@@ -1714,7 +1714,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_25.2" n="Ms-115,25[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect129_page:178_order:W-PG;9.178.7_date:19331214?-19331231?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_25.2" n="Ms-115,25[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 129_page:178_order:W-PG;9.178.7_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Was heißt es: “Freundlichkeit in das<lb/> Lächeln  <emph rend="us1">h<add rend="our" instant="false" status="unremarkable">in</add>einlesen</emph>”?</s>
@@ -1722,7 +1722,7 @@
             <s type="es" part="N"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Ich nehme<lb/> etwa den gleichen Gesichtsausdruck<lb/> an</del></orig><orig type="alt2"><c type="c" part="N">I</c>ch ordne etwa dem andern<lb/><emph rend="wlilm">Gesicht meines in der Weise zu<lb/> daß es  den einen oder andern Zug<lb/> des andern übertreibt</emph></orig></choice>.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_25.3et26.1" n="Ms-115,25[3]et26[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect129_page:178_order:W-PG;9.178.13_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_25.3et26.1" n="Ms-115,25[3]et26[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 129_page:178_order:W-PG;9.178.13_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" part="N">Ein freundlicher Mund, ein freundliches<lb/> Auge.</s>
@@ -1741,7 +1741,7 @@
             <s type="es" part="N">Fragte man mich ob ich mir einen<lb/> Sessel mit freundlichem Ausdruck  den<lb rend="shyphen"/>ken kann, so <del type="dnpc" instant="false" status="unremarkable">ich</del> würde ich mir ihn<lb/> gewiß vor allem mit  einem freundlichen<lb/> <emph rend="us1">Gesichtsausdruck</emph> vorstellen wollen, ein<lb/>  freundliches <emph rend="us1">Gesicht</emph> in ihn hineinlesen.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_26.2et27.1" n="Ms-115,26[2]et27[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect129_page:179_order:W-PG;9.179.1_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_26.2et27.1" n="Ms-115,26[2]et27[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 129_page:179_order:W-PG;9.179.1_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" part="N">Ich sage: “dieses Gesicht (<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">was</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">das</add></orig></choice> <emph rend="uw1">zuerst</emph> den<lb/> Eindruck der Furchtsamkeit  macht) kann<lb/> ich mir auch als ein mutiges denken”.</s>
@@ -1754,7 +1754,7 @@
             <s type="es" part="N">(Vergleiche auch den Unterschied<lb/> Mischfarbe, Zwischenfarbe.)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_27.2" n="Ms-115,27[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect127_page:178_order:W-PG;9.178.1_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_27.2" n="Ms-115,27[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 127_page:178_order:W-PG;9.178.1_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <reloc type="relocate-opt" n="Ms-115,27_Ms-115,25" corresp="relocOpt#Ms-115:5" instant="false" status="unremarkable">
@@ -1769,7 +1769,7 @@
             </reloc>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_27.3" n="Ms-115,27[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect129_page:179_order:W-PG;9.179.15_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_27.3" n="Ms-115,27[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 129_page:179_order:W-PG;9.179.15_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Wenn wir uns fragen “welcher <choice type="em"><orig type="em1"><add rend="im" instant="false" status="unremarkable">Personen</add><choice type="o"><orig type="o1">N</orig><orig type="o2">n</orig></choice>ame<lb/></orig><orig type="em2"><choice type="dsl"><orig type="alt1">Name</orig><orig type="alt2">Personenname</orig></choice></orig></choice>  würde den Charakter dieses Menschen<lb/> treffen” – klanglich  abbilden – so <del type="dn" instant="false" status="unremarkable">ist<lb/> es gl<corr type="tran" instant="false">eichsam</corr></del> steht gleichsam die   Projek<lb rend="shyphen0"/>tionsmethode, <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable"><emph rend="uw1">mittels</emph></del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">nach</add></orig></choice> der wir abbilden,<lb/> fest<corr type="tra" instant="false">.</corr> <add rend="im" instant="false" status="unremarkable">(<c type="c" part="N">S</c>o könnte sich etwa ein  Dichter fragen welchen Namen er einer Person geben  will.)</add><corr type="npc" instant="false">.</corr></s>
@@ -1777,7 +1777,7 @@
             <s type="es" part="N">So<lb/> scheint es uns, daß die großen Meister<lb/> <del type="d" instant="false" status="unremarkable">gerade</del> die Namen haben die  einzig zu<lb/> <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">ih<corr type="tran" instant="false">ren Werken</corr></del></orig><orig type="alt2">dem Charakter ihrer  Werke</orig></choice> passen.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_27.4et28.1" n="Ms-115,27[4]et28[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect129_page:179_order:W-PG;9.179.23_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_27.4et28.1" n="Ms-115,27[4]et28[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 129_page:179_order:W-PG;9.179.23_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><c type="k" part="N">E</c>rlebnis der wirklichen Größe.</s>
@@ -1785,13 +1785,13 @@
             <s type="es" part="N">Nun<lb/> sehen wir es anders.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_28.2" n="Ms-115,28[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect129_page:179_order:W-PG;9.179.26_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_28.2" n="Ms-115,28[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 129_page:179_order:W-PG;9.179.26_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N">Was geschieht wenn wir lernen<lb/> den Schluß einer Kirchentonart<lb/> als Schluß zu  empfinden?</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_28.3" n="Ms-115,28[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect129_page:179_order:W-PG;9.179.28_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_28.3" n="Ms-115,28[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 129_page:179_order:W-PG;9.179.28_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N">Denke an die Vielgestaltigkeit dessen<lb/> was wir  “Sprache” nennen.</s>
@@ -1808,7 +1808,7 @@
             </emph>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_28.5et29.1" n="Ms-115,28[5]et29[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect130_page:179_order:W-PG;9.179.30_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_28.5et29.1" n="Ms-115,28[5]et29[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 130_page:179_order:W-PG;9.179.30_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N"><del type="d" instant="false" status="unremarkable">Ich bin versucht zu sagen:</del>  “‘<choice type="o"><orig type="o1">d</orig><orig type="o2"><c type="c" part="N">D</c></orig></choice>iesen<lb/> Gegenstand kenne ich  wohl’<del type="dnpc" instant="false" status="unremarkable">”</del>, das ist<lb/> als sagte ich:  ‘dieser Gegenstand ist<lb/> in meinem Katalog  abgebildet’”.</s>
@@ -1818,7 +1818,7 @@
             <s type="es" part="N">Wäre es uns<lb/> fremd, so würde die Tatsache daß es in die<lb rend="shyphen"/>sem Umschlag,  in dieser Lade <choice type="s"><orig type="alt1">ist</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">liegt</add></orig></choice> gar nichts<lb/> für uns  bedeuten.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_29.2" n="Ms-115,29[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect130_page:180_order:W-PG;9.180.9_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_29.2" n="Ms-115,29[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 130_page:180_order:W-PG;9.180.9_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Wenn ich nun von dem Vorbild <add rend="our" instant="false" status="unremarkable">im</add> Katalog<lb/> meines Geistes rede oder  dem Fut<corr type="tran" instant="false">t</corr>eral <del type="dnpc" instant="false" status="unremarkable">in</del><lb/> <choice type="s"><orig type="alt1">worein</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">in welches</add></orig></choice>  der <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Körper</del></orig><orig type="alt2">Gegenstand</orig></choice> paßt, wenn<lb/> er mir wohlbekannt  ist, so möchte<lb/> ich, daß das Fut<corr type="tran" instant="false">t</corr>eral in meinem Geist<lb/> sozusagen  als “Form der Vorstellung”<lb/> ist, sodaß ich nicht  sagen kann, ein<lb/> Vorbild sei in meinem Geiste, welches  <seg type="doubt" part="N"><add rend="el" instant="false" status="unremarkable">(</add><emph rend="uw1">wirk<lb rend="shyphen"/>lich</emph><add rend="el" instant="false" status="unremarkable">)</add></seg>  nicht dort ist.</s>
@@ -1827,7 +1827,7 @@
             <s type="es" part="N">(<choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">Vergleiche <add rend="im" instant="false" status="unremarkable">damit</add> die Idee<lb/></del><choice type="o"><orig type="o1">der</orig><orig type="o2">Die</orig></choice></orig><orig type="em2"><choice type="dsl"><orig type="alt1"><c type="c" part="N">V</c>ergleiche damit die Idee der</orig><orig type="alt2"><c type="c" part="N">D</c>ie</orig></choice></orig></choice>  Raumbrille die <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">man</del><add rend="i" instant="false" status="unremarkable">wir</add> nicht ablegen <del type="d" instant="false" status="unremarkable">kann.</del>  <add rend="i" instant="false" status="unremarkable">können</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">man nicht ablegen kann.</orig><orig type="alt2">wir nicht ablegen  können</orig></choice></orig></choice>.)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_29.3et30.1" n="Ms-115,29[3]et30[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect130_page:180_order:W-PG;9.180.18_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_29.3et30.1" n="Ms-115,29[3]et30[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 130_page:180_order:W-PG;9.180.18_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Wenn wir von der Wohlbekanntheit als von<lb/> einem Passen <add rend="imw" instant="false" status="unremarkable">des  Gegenstandes</add> in ein Fut<corr type="tran" instant="false">t</corr>eral reden, so ist das<lb/> nicht ganz  so als <emph rend="us1">verglichen</emph> wir das Gesehene<lb/> mit einem Abbild.</s>
@@ -1862,7 +1862,7 @@
             <lb rend="hl"/>
           </reloc>
         </ab>
-        <ab xml:id="Ms-115_30.5et31.1" n="Ms-115,30[5]et31[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect130_page:180_order:W-PG;9.180.28_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_30.5et31.1" n="Ms-115,30[5]et31[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 130_page:180_order:W-PG;9.180.28_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N"><del type="dnpc" instant="false" status="unremarkable">“</del>Es sollte eigentlich nicht heißen:  “ja,<lb/> ich erkenne es, es ist ein Gesicht”  sondern:<lb/> “ich erkenne es, ich <choice type="s"><orig type="alt1">sehe es als  Gesicht”</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">sehe ein Gesicht”</add></orig></choice>.</s>
@@ -1873,14 +1873,14 @@
             <s type="es" part="N">Denn, <add rend="el" instant="false" status="unremarkable">“</add>ein Ding als   <pb facs="Ms-115_31" rend="verso" n="pagename_Ms-115,31 pageref_00"/><fw type="pagen" place="top middle">31</fw> <choice type="s"><orig type="alt1">sich</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">es</add></orig></choice> selbst  erkennen<add rend="el" instant="false" status="unremarkable">”</add><del type="d" instant="false" status="unremarkable">,</del> heißt nichts.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_31.2" n="Ms-115,31[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect131_page:181_order:W-PG;9.181.1_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_31.2" n="Ms-115,31[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 131_page:181_order:W-PG;9.181.1_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Das Gedächtnis mit einem Noti<corr type="npcn" instant="false">t</corr>z<lb rend="shyphen"/>buch verglichen:  <c type="c" part="N">E</c>inerseits dient<lb/> dieser Vergleich als Bild dessen was<lb/> bewußt vorgeht;  anderseits gibt<lb/> er ein psychologisches Modell.</s>
             <s type="es" part="N">(Und<lb/> das Wort “bewußt” verweist hier auf<lb/> einen  Abschnitt der Grammat<add rend="el" instant="false" status="unremarkable">i</add>k &amp; ist<lb/> nicht der eine Teil des  psychologischen<lb/> Gegensatzes “bewußt” –  “unbewußt”<corr type="tra" instant="false">.</corr>)</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_31.3et32.1" n="Ms-115,31[3]et32[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect131_page:181_order:W-PG;9.181.7_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_31.3et32.1" n="Ms-115,31[3]et32[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 131_page:181_order:W-PG;9.181.7_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Die Vorgänge des Erinnerns sind sehr<lb/> mannigfach.</s>
@@ -1906,13 +1906,13 @@
             <s type="es" part="N">Aber das mußte jedenfalls nicht geschehen<lb/> sein ehe ich antwortete.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_32.2" n="Ms-115,32[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect131_page:181_order:W-PG;9.181.30_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_32.2" n="Ms-115,32[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 131_page:181_order:W-PG;9.181.30_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Wenn wir einen Vorgang aus der Erinne<lb rend="shyphen"/>rung erzählen so sehen wir wohl<lb/>  manchmal Erinnerungsbilder vor uns;<lb/> meistens aber sind sie nur in der  Erin<lb rend="shyphen"/>nerung verstreut wie Ill<add rend="our" instant="false" status="unremarkable">u</add>strationen in<lb/> einem  Märchenbuch.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_32.3et33.1" n="Ms-115,32[3]et33[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect131_page:181_order:W-PG;9.181.34_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_32.3et33.1" n="Ms-115,32[3]et33[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 131_page:181_order:W-PG;9.181.34_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Es sagt mir jemand: “stelle Dir auf<lb/> dieser weißen Wand  einen Fleck vor von<lb/> der Farbe die man ‘rot’  nennt”.</s>
@@ -1920,7 +1920,7 @@
             <s type="es" part="N">Wenn ich von diesem Tisch rede, erinne<lb rend="shyphen"/>re ich mich, daß  diese<add rend="our" instant="false" status="unremarkable">r</add> Gegenstand ‘Tisch’  ge<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">nannt</corr>   <pb facs="Ms-115_33" rend="verso" n="pagename_Ms-115,33 pageref_00"/><fw type="pagen" place="top middle">33</fw><corr type="npcn-pb" instant="false">nannt</corr> wird.</s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_33.2" n="Ms-115,33[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect131_page:182_order:W-PG;9.182.4_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_33.2" n="Ms-115,33[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 131_page:182_order:W-PG;9.182.4_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" part="N">Könnte man nicht einwenden: “<c type="c" part="N">S</c>o kann<lb/> also der  gewisse Erinnerungen nicht haben,<lb/> der keine Sprache gelernt  hat?”</s>
@@ -1936,7 +1936,7 @@
             </add>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_33.3" n="Ms-115,33[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect131_page:182_order:W-PG;9.182.11_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_33.3" n="Ms-115,33[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 131_page:182_order:W-PG;9.182.11_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="publ" part="N">
             <s type="es" part="N">Manche Menschen erinnern sich an ein<lb/> musikalisches Thema in der Weise, daß<lb/>  das Notenbild vor ihnen auftaucht &amp; sie<lb/> es herunterlesen.</s>
@@ -1946,7 +1946,7 @@
             </add>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_33.4et34.1" n="Ms-115,33[4]et34[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect131_page:182_order:W-PG;9.182.19_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_33.4et34.1" n="Ms-115,33[4]et34[1]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 131_page:182_order:W-PG;9.182.19_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N"><corr type="trsn" instant="false"><orig type="trsn1">U</orig><reg type="trsn2"><c type="c" part="N">Ü</c></reg></corr>brigens, denke ich denn, wenn ich die  Ge<lb rend="shyphen"/>genstände meiner Umgebung als wohlbekann<lb rend="shyphen"/>te behandle, an diesen  Vergleich.</s>
@@ -1967,7 +1967,7 @@
             <emph rend="sepline"/>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_34.2" n="Ms-115,34[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect134_page:186_order:W-PG;10.186.25_date:19331214?-19331231?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_34.2" n="Ms-115,34[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 134_page:186_order:W-PG;10.186.25_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <reloc type="relocate-opt" n="Ms-115,34_Ms-114,111v" corresp="relocOpt#Ms-114:93" instant="false" status="unremarkable">
@@ -1986,7 +1986,7 @@
             </reloc>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_34.3et35.1" n="Ms-115,34[3]et35[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect134_page:187_order:W-PG;10.187.3_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_34.3et35.1" n="Ms-115,34[3]et35[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 134_page:187_order:W-PG;10.187.3_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <reloc type="relocate-opt" n="Ms-115,34_Ms-114,111v" corresp="relocOpt#Ms-114:94" instant="false" status="unremarkable">
@@ -2005,7 +2005,7 @@
             </reloc>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_35.2" n="Ms-115,35[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect139_page:192_order:W-PG;10.192.6_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_35.2" n="Ms-115,35[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 139_page:192_order:W-PG;10.192.6_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <reloc type="relocate-opt" n="Ms-115,35_Ms-114,116v" corresp="relocOpt#Ms-114:97" instant="false" status="unremarkable">
@@ -2020,7 +2020,7 @@
             </reloc>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_35.3" n="Ms-115,35[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect140_page:192_order:W-PG;10.192.33_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_35.3" n="Ms-115,35[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 140_page:192_order:W-PG;10.192.33_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <reloc type="relocate-opt" n="Ms-115,35_Ms-114,117r" corresp="relocOpt#Ms-114:99" instant="false" status="unremarkable">
@@ -2037,7 +2037,7 @@
             </reloc>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_35.4et36.1" n="Ms-115,35[4]et36[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect141_page:193_order:W-PG;10.193.13_date:19331214?-19331231?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_35.4et36.1" n="Ms-115,35[4]et36[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 141_page:193_order:W-PG;10.193.13_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <reloc type="relocate-opt" n="Ms-115,35_Ms-114,118v" corresp="relocOpt#Ms-114:101" instant="false" status="unremarkable">
@@ -2058,7 +2058,7 @@
             </reloc>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_36.2" n="Ms-115,36[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Sect141_page:194_order:W-PG;10.194.3_date:19331214?-19331231?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_36.2" n="Ms-115,36[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 141_page:194_order:W-PG;10.194.3_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <reloc type="relocate-opt" n="Ms-115,36_Ms-114,118v" corresp="relocOpt#Ms-114:102" instant="false" status="unremarkable">
@@ -2200,7 +2200,7 @@
           <lb/>
           <s type="es" part="N">Was heißt es, es zu wissen &amp; es nicht sagen zu<lb/> können?</s>
           <lb rend="hl"/>
-          <rs type="extref" key="Platon: Charmides">
+          <rs type="extref" key="Plato: Charmides">
             <s type="es" rend="indl_2" part="N">(<persName key="Sokrates" instant="false" full="yes"><c type="k" part="N">S</c>o<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>rates</persName>: “Du weißt es<del type="d" instant="false" status="unremarkable">,</del> &amp; kannst  hellenisch reden,<lb/> also mußt Du es doch sagen  können.”)</s>
           </rs>
         </ab>
@@ -4418,7 +4418,7 @@
             <del type="d" instant="false" status="unremarkable">
               <s type="es" part="N">Etwa, wie<lb/> man sagen kann, daß für gewisse Betrach<lb rend="shyphen"/>tungen ein  Sandkörnchen angenähert als<lb/> materieller Punkt gelten kann.</s>
             </del>
-            <rs type="extref" key="Platon: Theaitetos">
+            <rs type="extref" key="Plato: Theaitetos">
               <s type="es" part="N">Denke an<lb/> <persName key="Russell, Bertrand" instant="false" full="yes">Russell's</persName> Begriff vom ‘<seg xml:lang="en" part="N">individual</seg>’,  oder<lb/> an meinen von den ‘Gegenständen’ <add rend="im" instant="false" status="unremarkable">&amp;  ihren ‘Namen’</add>   (<rs type="extref" key="Wittgenstein, Ludwig: Logisch-philosophische Abhandlung" n="1921" xml:lang="de"><abbr type="abb">Log. Phil.  Abh.</abbr></rs>);<lb/> diese Gegenstände sollten die  Grundbe<lb rend="shyphen"/>standteile der Wirklichkeit sein; etwas,<lb/> wovon man nicht  aussagen könnte, es existie<lb rend="shyphen"/>re<del type="dnpc" instant="false" status="unremarkable">(</del><add rend="el" instant="false" status="unremarkable">;</add> oder existiere  nicht<del type="dnpc" instant="false" status="unremarkable">)</del>. <add rend="im" instant="false" status="unremarkable">(Theaitetos)</add></s>
             </rs>
             <s type="es" part="N">Welches diese <del type="d" instant="false" status="unremarkable"><add rend="our" instant="false" status="unremarkable">E</add>infachen</del><lb/> Elemente der Wirklichkeit  <choice type="s"><orig type="alt1">waren</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">seien</add></orig></choice>, schien<lb/> <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">schwer</del></orig><orig type="alt2"><add rend="im" instant="false" status="unremarkable">nicht  leicht</add></orig></choice> zu sagen<choice type="em"><orig type="em1"><add rend="el" instant="false" status="unremarkable">.</add><del type="d" instant="false" status="unremarkable">&amp;</del><choice type="o"><orig type="o1">s</orig><orig type="o2">S</orig></choice>ie zu  finden <add rend="i" instant="false" status="unremarkable"><seg type="edinst" part="N"> // </seg>Ich dachte, es sei<seg type="edinst" part="N"> // </seg></add><add rend="im" instant="false" status="unremarkable">dachte ich  mir als</add> die Aufgabe<lb/> weiterer ’logischer Analyse’ <del type="d" instant="false" status="unremarkable">zu sein</del>  <add rend="i" instant="false" status="unremarkable"><seg type="edinst" part="N"> // </seg>sie zu finden<seg type="edinst" part="N"> // </seg></add><add rend="el" instant="false" status="unremarkable">.</add></orig><orig type="em2"><choice type="s"><orig type="alt1"><choice type="dsl"><orig type="alt1">&amp; sie zu finden die Aufgabe weiterer ‘logischer  Analyse’ zu sein</orig><orig type="alt2">. <c type="c" part="N">S</c>ie zu finden dachte ich mir  als die Aufgabe weiterer ‘logischer  Analyse’.</orig></choice></orig><orig type="alt2">. <c type="c" part="N">I</c>ch dachte, es sei die  Aufgabe weiterer ‘logischer Analyse’ sie zu  finden.</orig></choice></orig></choice></s>
@@ -5245,7 +5245,7 @@
             <add rend="ilm" instant="false" status="unremarkable">
               <seg type="series-number-indent" part="N">44</seg>
             </add>
-            <s type="es" part="N">Aber wir könnten<lb/>   <del type="dnpc" instant="false" status="unremarkable"><lb rend="hl"/><seg type="series-number-indent" part="N">44</seg></del> uns auch den Fall  denken, wo <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">auch</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">selbst</add></orig></choice><lb/> dieser Unterricht nicht  <choice type="em"><orig type="em1">gebraucht wird. <add rend="i" instant="false" status="unremarkable">nötig ist; wo, wie wir  … </add><lb/> Einen Fall, in  welchem<add rend="el" instant="false" status="unremarkable">,</add> <add rend="im" instant="false" status="unremarkable">wie</add> wir sagen würden,<lb/> <del type="d" instant="false" status="unremarkable">daß</del> der Anblick  <del type="d" instant="false" status="unremarkable">dieser Formen</del>, <add rend="i" instant="false" status="unremarkable">der Buchstaben</add> ’a’, ’b’,  ’c’, ’d’,<lb/> <del type="d" instant="false" status="unremarkable">in Menschen die natürliche Tendenz erzeugt,  sich    <pb facs="Ms-115_152" rend="recto" n="pagename_Ms-115,152 pageref_00"/><fw type="pagen" place="top middle">152</fw> so &amp; so  zu bewegen.</del><add rend="el" instant="false" status="unremarkable">,</add> <add rend="i" instant="false" status="unremarkable">von Natur aus den Menschen <del type="d" instant="false" status="unremarkable">so &amp; so gehen  macht</del> sich so &amp; so bewegen macht.</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">gebraucht  wird. <c type="c" part="N">E</c>inen Fall, in welchem wir sagen würden, daß der Anblick  <choice type="dsl"><orig type="alt1">dieser Formen</orig><orig type="alt2">der Buchstaben</orig></choice>,  ‘<seg type="p" part="N">a</seg>’, ‘<seg type="p" part="N">b</seg>’,  ‘<seg type="p" part="N">c</seg>’, ‘<seg type="p" part="N">d</seg>’, in  Menschen die natürliche Tendenz erzeugt, sich  so &amp; so zu bewegen.</orig><orig type="alt2"><choice type="s"><orig type="alt1">gebraucht wird. <c type="c" part="N">E</c>inen Fall, in welchem, wie wir</orig><orig type="alt2">nötig  ist; wo, wie wir</orig></choice> sagen würden, der Anblick <choice type="dsl"><orig type="alt1">dieser Formen</orig><orig type="alt2">der  Buchstaben</orig></choice>, ‘<seg type="p" part="N">a</seg>’,  ‘<seg type="p" part="N">b</seg>’, ‘<seg type="p" part="N">c</seg>’,  ‘<seg type="p" part="N">d</seg>’, von Natur aus den Menschen <choice type="dsl"><orig type="alt1">so  &amp; so gehen macht</orig><orig type="alt2">sich so &amp; so bewegen  macht.</orig></choice></orig></choice></orig></choice></s>
+            <s type="es" part="N">Aber wir könnten<lb/>    <lb rend="hl"/> <seg type="series-number-indent" part="N"><del type="dnpc" instant="false" status="unremarkable">44</del></seg> uns auch den Fall  denken, wo <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">auch</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">selbst</add></orig></choice><lb/> dieser Unterricht nicht  <choice type="em"><orig type="em1">gebraucht wird. <add rend="i" instant="false" status="unremarkable">nötig ist; wo, wie wir  … </add><lb/> Einen Fall, in  welchem<add rend="el" instant="false" status="unremarkable">,</add> <add rend="im" instant="false" status="unremarkable">wie</add> wir sagen würden,<lb/> <del type="d" instant="false" status="unremarkable">daß</del> der Anblick  <del type="d" instant="false" status="unremarkable">dieser Formen</del>, <add rend="i" instant="false" status="unremarkable">der Buchstaben</add> ’a’, ’b’,  ’c’, ’d’,<lb/> <del type="d" instant="false" status="unremarkable">in Menschen die natürliche Tendenz erzeugt,  sich    <pb facs="Ms-115_152" rend="recto" n="pagename_Ms-115,152 pageref_00"/><fw type="pagen" place="top middle">152</fw> so &amp; so  zu bewegen.</del><add rend="el" instant="false" status="unremarkable">,</add> <add rend="i" instant="false" status="unremarkable">von Natur aus den Menschen <del type="d" instant="false" status="unremarkable">so &amp; so gehen  macht</del> sich so &amp; so bewegen macht.</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">gebraucht  wird. <c type="c" part="N">E</c>inen Fall, in welchem wir sagen würden, daß der Anblick  <choice type="dsl"><orig type="alt1">dieser Formen</orig><orig type="alt2">der Buchstaben</orig></choice>,  ‘<seg type="p" part="N">a</seg>’, ‘<seg type="p" part="N">b</seg>’,  ‘<seg type="p" part="N">c</seg>’, ‘<seg type="p" part="N">d</seg>’, in  Menschen die natürliche Tendenz erzeugt, sich  so &amp; so zu bewegen.</orig><orig type="alt2"><choice type="s"><orig type="alt1">gebraucht wird. <c type="c" part="N">E</c>inen Fall, in welchem, wie wir</orig><orig type="alt2">nötig  ist; wo, wie wir</orig></choice> sagen würden, der Anblick <choice type="dsl"><orig type="alt1">dieser Formen</orig><orig type="alt2">der  Buchstaben</orig></choice>, ‘<seg type="p" part="N">a</seg>’,  ‘<seg type="p" part="N">b</seg>’, ‘<seg type="p" part="N">c</seg>’,  ‘<seg type="p" part="N">d</seg>’, von Natur aus den Menschen <choice type="dsl"><orig type="alt1">so  &amp; so gehen macht</orig><orig type="alt2">sich so &amp; so bewegen  macht.</orig></choice></orig></choice></orig></choice></s>
             <s type="es" part="N">Dieser Fall erscheint <del type="d" instant="false" status="unremarkable">uns</del><lb/> auf den ersten Blick <add rend="im" instant="false" status="unremarkable">äußerst</add>  seltsam.</s>
             <s type="es" part="N">Wir scheinen etwas<lb/> <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">ganz <corr type="trsn" instant="false"><orig type="trsn1">u</orig><reg type="trsn2">U</reg></corr>nerhörtes</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">nie <corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">E</reg></corr>rhörtes</add></orig></choice> anzunehmen.</s>
             <s type="es" part="N">Oder wir <choice type="s"><orig type="alt1">fragen viel<lb rend="shyphen"/>leicht:</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">könnten  fragen:</add></orig></choice> “<c type="c" part="N">W</c>ie kann er denn wissen, wie er sich  zu<lb/> bewegen hat, wenn ihm der Buchstabe ‘<seg type="p" part="N">a</seg>’  ge<lb rend="shyphen0"/>zeigt wird?”</s>
@@ -6747,7 +6747,7 @@
           <seg type="publ" part="N">
             <s type="es" rend="indl_4" part="N">Ich hätte nun mein Erlebnis beim Lesen<lb/> eines Wortes auf verschiedene Weise  treffend<lb/> <choice type="s"><orig type="alt1">mit</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">in</add></orig></choice> Worten darstellen können.</s>
             <s type="es" part="N">So <del type="dnpc" instant="false" status="unremarkable">h<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>tte</del><lb/> könnte ich sagen,  <del type="dnpc" instant="false" status="unremarkable">ich</del> was beim Lesen eines<lb/> Wortes geschehe, sei nicht bloß, daß  ich <del type="d" instant="false" status="unremarkable">es</del><lb/> sehe &amp; dabei etwas ausspreche, sondern ich<lb/> fühle auch,  daß mir das Geschriebene das was<lb/> ich sage <emph rend="us1">eingebe</emph>.</s>
-            <s type="es" part="N">Aber ich hätte auch sagen können,<lb/> daß beim Lesen <del type="dnpc" instant="false" status="unremarkable">des Geschriebenen  (oder Gedruckten)</del> <add rend="i" instant="false" status="unremarkable">der Worte das Bild de<add rend="our" instant="false" status="unremarkable">s</add>  Buchstabens</add><lb/> &amp; <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">die</del><del type="d" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable">des</add></del><add rend="i" instant="false" status="unremarkable">der</add>  Laut<del type="d" instant="false" status="unremarkable">e<add rend="el" instant="false" status="unremarkable">s</add></del></orig><orig type="em2"><choice type="dsl"><orig type="alt1">die Laute</orig><orig type="alt2">des Lautes</orig><orig type="alt3">der  Laut</orig></choice></orig></choice> <choice type="s"><orig type="alt1">in einem eigentümlichen Sinn eine<lb/> <emph rend="us1">Einheit</emph>  bilden; so</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">eine eigent<corr type="trsn" instant="false"><orig type="trsn1">u</orig><reg type="trsn2">ü</reg></corr>mliche <emph rend="us1">Einheit</emph>  bilden. <c type="c" part="N">S</c>o <seg type="edinst" part="N"> …</seg></add></orig></choice> daß man <del type="dnpc" instant="false" status="unremarkable">um die  <corr type="npcn" instant="false">Aus</corr></del> <del type="dnpc" instant="false" status="unremarkable">den<lb/> Laut <corr type="npcn" instant="false">d</corr></del> den Zusammenhang des  Lautes <emph rend="us1"><seg type="p" part="N">e</seg></emph>   <pb facs="Ms-115_212" rend="recto" n="pagename_Ms-115,212 pageref_00"/><fw type="pagen" place="top middle">212</fw> mit dem Schri<add rend="our" instant="false" status="unremarkable">ft</add>zeichen  ‘<seg type="p" part="N">e</seg>’ dadurch erklären möch<lb rend="shyphen"/>te, <choice type="s"><orig type="alt1">daß</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">indem</add></orig></choice> man auf das Zeichen weisend sagt:  “<c type="c" part="N">D</c>as<lb/> <emph rend="us1">ist</emph> ja ein  <emph rend="us1"><seg type="p" part="N">e</seg></emph>”.</s>
+            <s type="es" part="N">Aber ich hätte auch sagen können,<lb/> daß beim Lesen <del type="dnpc" instant="false" status="unremarkable">des Geschriebenen  (oder Gedruckten)</del> <add rend="i" instant="false" status="unremarkable">der Worte das Bild de<add rend="our" instant="false" status="unremarkable">s</add>  Buchstaben</add><lb/> &amp; <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">die</del><del type="d" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable">des</add></del><add rend="i" instant="false" status="unremarkable">der</add>  Laut<del type="d" instant="false" status="unremarkable">e<add rend="el" instant="false" status="unremarkable">s</add></del></orig><orig type="em2"><choice type="dsl"><orig type="alt1">die Laute</orig><orig type="alt2">des Lautes</orig><orig type="alt3">der  Laut</orig></choice></orig></choice> <choice type="s"><orig type="alt1">in einem eigentümlichen Sinn eine<lb/> <emph rend="us1">Einheit</emph>  bilden; so</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">eine eigent<corr type="trsn" instant="false"><orig type="trsn1">u</orig><reg type="trsn2">ü</reg></corr>mliche <emph rend="us1">Einheit</emph>  bilden. <c type="c" part="N">S</c>o <seg type="edinst" part="N"> …</seg></add></orig></choice> daß man <del type="dnpc" instant="false" status="unremarkable">um die  <corr type="npcn" instant="false">Aus</corr></del> <del type="dnpc" instant="false" status="unremarkable">den<lb/> Laut <corr type="npcn" instant="false">d</corr></del> den Zusammenhang des  Lautes <emph rend="us1"><seg type="p" part="N">e</seg></emph>   <pb facs="Ms-115_212" rend="recto" n="pagename_Ms-115,212 pageref_00"/><fw type="pagen" place="top middle">212</fw> mit dem Schri<add rend="our" instant="false" status="unremarkable">ft</add>zeichen  ‘<seg type="p" part="N">e</seg>’ dadurch erklären möch<lb rend="shyphen"/>te, <choice type="s"><orig type="alt1">daß</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">indem</add></orig></choice> man auf das Zeichen weisend sagt:  “<c type="c" part="N">D</c>as<lb/> <emph rend="us1">ist</emph> ja ein  <emph rend="us1"><seg type="p" part="N">e</seg></emph>”.</s>
             <s type="es" part="N">(Ein Zusammenhang, eine ‘Einheit’,<lb/>  <del type="dnpc" instant="false" status="unremarkable">die</del><corr type="npc" instant="false"><add rend="el" instant="false" status="unremarkable">,</add></corr> <choice type="s"><orig type="alt1">dieser nicht unähnlich</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">der  zwischen dem <add rend="im" instant="false" status="unremarkable">Bild des</add> Buchstaben &amp; seinem Klang</add></orig></choice><del type="dnpc" instant="false" status="unremarkable">  ist</del>, besteht     <abbr type="abb">z.B.</abbr><lb/> zwischen den Gesichtern  berühmter Männer &amp; <choice type="em"><orig type="em1"><add rend="im" instant="false" status="unremarkable">dem Klang</add> ihre<choice type="o"><orig type="o1">n</orig><orig type="o2">r</orig></choice><lb/></orig><orig type="em2"><choice type="dsl"><orig type="alt1">ihren</orig><orig type="alt2">dem Klang ihrer</orig></choice></orig></choice> Namen.</s>
             <s type="es" part="N">Wenn Du Dir <add rend="im" instant="false" status="unremarkable"><choice type="dsf"><orig type="alt1"><add rend="el" instant="false" status="unremarkable"><abbr type="abb">z.B.</abbr></add></orig><orig type="alt2"><del type="d" instant="false" status="unremarkable">etwa</del></orig></choice></add> <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">die</del> Namen <add rend="im" instant="false" status="unremarkable">wie</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">die  Namen</orig><orig type="alt2">Namen wie</orig></choice></orig></choice> <persName key="Schubert, Franz" instant="false" full="yes"> Schubert</persName>, <persName key="Haydn, Joseph" instant="false" full="yes">Ha<corr type="trsn" instant="false"><orig type="trsn1">i</orig><reg type="trsn2">y</reg></corr>d<corr type="npcn" instant="false">e</corr>n</persName>,<lb/>  <persName key="Mozart, Wolfgang Amadeus" instant="false" full="yes">Mozart</persName>, sagst &amp; <choice type="em"><orig type="em1"><add rend="i" instant="false" status="unremarkable">Dir</add> dabei <del type="d" instant="false" status="unremarkable">an</del> die  Gesichter d<choice type="o"><orig type="o1">er</orig><orig type="o2">ie</orig></choice><add rend="el" instant="false" status="unremarkable">ser</add> <lb/>Männer vorstellst</orig><orig type="em2"><choice type="dsl"><orig type="alt1">dabei an  die Gesichter der Männer <corr type="tra" instant="false">denkst</corr></orig><orig type="alt2">Dir dabei die Gesichter  dieser<lb/> Männer vorstellst</orig></choice></orig></choice>, so kann es Dir so vorkom<lb rend="shyphen"/>men, als ob  jene Namen <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">ein <corr type="tra" instant="false">richtiger Ausdruck</corr></del></orig><orig type="alt2">der richtige  Ausdruck</orig></choice><lb/> für diese Gesichtszüge wären; daß etwa mit<lb/> dem Namen  <persName key="Schubert, Franz" instant="false" full="yes">Schubert</persName> dieses Gesicht richtig  be<lb rend="shyphen"/>schrieben <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">ist</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">sei</add></orig></choice>.)</s>
             <s type="es" part="N">Es ist mir, wenn ich das Erleb<lb rend="shyphen"/>ni<add rend="our" instant="false" status="unremarkable">s</add> dieser Einheit habe, als  könne ich <add rend="im" instant="false" status="unremarkable"><add rend="el" instant="false" status="unremarkable"><abbr type="abb">z.B.</abbr> beim Lesen des Wortes  ‘ja’</add><del type="dnpc" instant="false" status="unremarkable"><abbr type="abb">z.B.</abbr></del></add>  zwischen<lb/> dem <corr type="trsn" instant="false"><orig type="trsn1">G</orig><reg type="trsn2">g</reg></corr>eschriebenen Wort  <del type="d" instant="false" status="unremarkable">‘ja’</del> &amp; dem ausgespro<lb rend="shyphen"/>chenen  <choice type="s"><orig type="alt1">nicht recht</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">nicht</add></orig></choice> unterscheiden; <choice type="s"><orig type="alt1">oder, wie<lb/> ich auch  sagen könnte, als wäre das Ausspre<lb rend="shyphen"/>chen</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">ich könnte sagen, das  Aussprechen sei <seg type="edinst" part="N"> …</seg></add></orig></choice> ein Teil der Wahrnehmung des Zeichens<lb/>  selbst.</s>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-139a: so-called Lecture on Ethics (WL)</title>
+        <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-139a [so-called Lecture on Ethics] (WL)</title>
         <title xml:id="Ms-139a" n="Ms-139a" type="main" xml:lang="en"/>
         <author>
           <persName key="Wittgenstein, Ludwig" instant="false" full="yes">Ludwig Wittgenstein</persName>
@@ -45,7 +45,7 @@
         </respStmt>
         <respStmt>
           <name full="yes" instant="false">Claus Huitfeldt</name>
-          <resp>2020: Spell-check</resp>
+          <resp>2020: spell-check</resp>
         </respStmt>
         <respStmt>
           <name full="yes" instant="false">Michael Biggs, Hans Biesenbach</name>
@@ -277,7 +277,7 @@
               <s type="es" part="N"><q><seg type="direct_speech" part="N"><corr type="tra" instant="false">“</corr>This is a good   <corr type="trs" instant="false"><orig type="trs1">piano<lb rend="shyphen"/>player</orig><reg type="trs2">piano<lb/>  player</reg></corr><corr type="tra" instant="false">”</corr></seg></q> sim<corr type="tran" instant="false">p</corr>ly means that he can<lb/>   play p<corr type="trsn" instant="false"><orig type="trsn1">ea</orig><reg type="trsn2">ie</reg></corr>ces of a certain degree of<lb/>  complicatedness in a certain definable<lb/>  way.</s>
             </seg>
             <seg type="pictorial_expression" part="N">
-              <s type="es" part="N">T<add rend="our" instant="false" status="unremarkable">o</add> say <q><seg type="direct_speech" part="N"><corr type="tra" instant="false">“</corr>the <choice type="o"><orig type="o1">V</orig><orig type="o2">v</orig></choice>iol<corr type="trsn" instant="false"><orig type="trsn1">or</orig><reg type="trsn2">in</reg></corr> has a good<lb/>   voice<corr type="tra" instant="false">”</corr></seg></q> means it has a <corr type="trsn" instant="false"><orig type="trsn1">T</orig><reg type="trsn2">t</reg></corr>one agre<corr type="tran" instant="false">e</corr>able<lb/>  to the ear &amp; so on.</s>
+              <s type="es" part="N">T<add rend="our" instant="false" status="unremarkable">o</add> say <q><seg type="direct_speech" part="N"><corr type="tra" instant="false">“</corr>the <choice type="o"><orig type="o1">V</orig><orig type="o2">v</orig></choice>iolon has a good<lb/>   voice<corr type="tra" instant="false">”</corr></seg></q> means it has a <corr type="trsn" instant="false"><orig type="trsn1">T</orig><reg type="trsn2">t</reg></corr>one agre<corr type="tran" instant="false">e</corr>able<lb/>  to the ear &amp; so on.</s>
             </seg>
             <s type="es" part="N">Now <add rend="our" instant="false" status="unremarkable">what</add> I<lb/>   wish to contend is this that <emph rend="uw1">although</emph><lb/>  all relative judgment<corr type="tran" instant="false">s</corr> can be sh<corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">o</reg></corr>wn<lb/>  to be statements of facts <add rend="our" instant="false" status="unremarkable">n</add>o<lb/>   statement of fact can ever be or<lb/>  imply what we call an absolute<lb/>  that is ethical judgment.</s>
           </seg>
