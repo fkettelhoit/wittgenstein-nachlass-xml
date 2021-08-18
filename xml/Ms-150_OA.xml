@@ -24,7 +24,7 @@
           <resp>2001: parser for conversion from MECS to XML</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal</name>
+          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal, Tone Merete Bruvik</name>
           <resp>2002-: stylesheets</resp>
         </respStmt>
         <respStmt>
@@ -412,6 +412,7 @@
           <s type="es" part="N">Das hängt damit zusammen, daß wir <del type="dnpc" instant="false" status="unremarkable">bei der</del>    <pb facs="Ms-150_2" rend="verso" n="pagename_Ms-150,2 pageref_00"/><fw type="pagen">2</fw> uns das Gefühl der Trauer als etwas<lb/> hinter  den Empfindungen des Weinens,<lb/> schweren Atmens <abbr type="abb">etc.</abbr>  <abbr type="abb">etc.</abbr> vorstellen<lb/> &amp; diese geneigt sind als etwas  Nebensäch<lb rend="shyphen"/>liches zu vernachlässigen.</s>
           <s type="es" rend="indl_4" part="N">Auch hängt das mit der Frage zusammen<lb/> ob <choice type="s"><orig type="alt1">der Eindruck</orig><orig type="alt2"><add rend="im" instant="false" status="unremarkable">der   Ausdruck</add></orig></choice> des Gesichtes <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/150,2-1.jpg" subtype="graphics_Abbild; Gesicht(er)" rend="bitmap" part="N">150001</seg>  <emph rend="us1">gesehen</emph><lb/> wird oder hinter dem gesehenen<lb/> gefühlt.</s>
           <s type="es" part="N">Denke an <seg type="notation" corresp="http://www.minerva.mic.ul.ie/vol2/Ver_33/cat/D1021.gif" subtype="graphics_Polyeder; Würfel" rend="bitmap" part="N">150002</seg> &amp;  …</s>
+          <lb rend="hl"/>
           <emph rend="conline"/>
         </ab>
         <ab xml:id="Ms-150_2.2" n="Ms-150,2[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341200?-19350500?" emph="blbef_1" part="N">
@@ -558,6 +559,7 @@
           <s type="es" rend="indl_4" part="N">Und diese Art des Erlebnisses ist<lb/> charakteristisch für jedes fließende  Lesen<lb/> alles dessen was wir für gewöh<add rend="el" instant="false" status="unremarkable">n</add>lich  ‘Schrift’<lb/> nennen; aber nicht für das   ‘Lesen’ überha<add rend="our" instant="false" status="unremarkable">up</add>t.</s>
           <pb facs="Ms-150_8" rend="verso" n="pagename_Ms-150,8 pageref_00"/>
           <fw type="pagen">8</fw>
+          <lb rend="hl"/>
           <emph rend="conline"/>
         </ab>
         <ab xml:id="Ms-150_8.1" n="Ms-150,8[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19341200?-19350500?" emph="blbef_1" part="N">
@@ -1258,7 +1260,7 @@
         </ab>
         <ab xml:id="Ms-150_32.6" n="Ms-150,32[6]" ana="field:PhilosophyOfLanguage_date:19341200?-19350500?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_4" part="N"><seg type="edcom" part="N"> ❘ </seg>(This face has no real expression, no<lb/> meaning, it  doesn't <corr type="trsn" instant="false"><orig type="trsn1">k</orig><reg type="trsn2">c</reg></corr>lick.)<seg type="edcom" part="N"> ❘ </seg></s>
+          <s type="es" rend="indl_4" part="N"><seg type="edcom" part="N"> ∣ </seg>(This face has no real expression, no<lb/> meaning, it  doesn't <corr type="trsn" instant="false"><orig type="trsn1">k</orig><reg type="trsn2">c</reg></corr>lick.)<seg type="edcom" part="N"> ∣ </seg></s>
           <pb facs="Ms-150_33" rend="recto" n="pagename_Ms-150,33 pageref_00"/>
           <fw type="pagen">33</fw>
         </ab>
@@ -1600,8 +1602,8 @@
         </ab>
         <ab xml:id="Ms-150_43.7" n="Ms-150,43[7]" ana="field:PhilosophyOfLanguage_date:19341200?-19350500?" emph="blbef_1" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" part="N"><seg type="edcom" part="N"> ❘ </seg> Speaking as som<corr type="tran" instant="false">e</corr>body<corr type="tra" instant="false">'</corr>s friend,  doctor,<lb/> speaking as a private person, as a university<lb/>  lecturer<del type="d" instant="false" status="unremarkable">|</del>.</s>
-          <s type="es" part="N">One might think that whenever<lb/> a man speaks he speaks as   someone. <seg type="edcom" part="N"> ❘ </seg></s>
+          <s type="es" part="N"><seg type="edcom" part="N"> ∣ </seg> Speaking as som<corr type="tran" instant="false">e</corr>body<corr type="tra" instant="false">'</corr>s friend,  doctor,<lb/> speaking as a private person, as a university<lb/>  lecturer<del type="d" instant="false" status="unremarkable">|</del>.</s>
+          <s type="es" part="N">One might think that whenever<lb/> a man speaks he speaks as   someone. <seg type="edcom" part="N"> ∣ </seg></s>
           <emph rend="bl_1"/>
           <pb facs="Ms-150_44" rend="verso" n="pagename_Ms-150,44 pageref_00"/>
           <fw type="pagen">44</fw>

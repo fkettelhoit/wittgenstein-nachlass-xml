@@ -24,7 +24,7 @@
           <resp>2001: parser for conversion from MECS to XML</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal</name>
+          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal, Tone Merete Bruvik</name>
           <resp>2002-: stylesheets</resp>
         </respStmt>
         <respStmt>
@@ -1509,8 +1509,8 @@
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <seg type="VB" part="N">
-              <seg type="edcom" part="N"> ❘ </seg>
-              <s type="es" part="N">Das Gesicht ist die Seele des Körpers<corr type="tra" instant="false">.</corr><seg type="edcom" part="N"> ❘ </seg></s>
+              <seg type="edcom" part="N"> ∣ </seg>
+              <s type="es" part="N">Das Gesicht ist die Seele des Körpers<corr type="tra" instant="false">.</corr><seg type="edcom" part="N"> ∣ </seg></s>
             </seg>
             <pb facs="Ms-156a_49v" rend="verso" n="pagename_Ms-156a,49v pageref_00"/>
             <fw add="fremd" place="top right" type="pagen"/>

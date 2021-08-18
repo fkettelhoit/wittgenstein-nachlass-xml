@@ -24,7 +24,7 @@
           <resp>2001: parser for conversion from MECS to XML</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal</name>
+          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal, Tone Merete Bruvik</name>
           <resp>2002-: stylesheets</resp>
         </respStmt>
         <respStmt>
@@ -1069,11 +1069,11 @@
           <emph rend="vdline">
             <emph rend="slilm">
               <seg type="wabmarks-secml" part="N"/>
-              <s type="es" part="N"><seg type="edcom" part="N"> ❘ </seg> [Denke Dir eine Schrift in der das <seg type="notation" subtype="graphics_Zeichen; Handschrift" rend="literal" part="N">R</seg> ebensog<add rend="our" instant="false" status="unremarkable">u</add>t<lb/>   <seg type="notation" subtype="graphics_Zeichen; Schriftzeichen" rend="bitmap" part="N">ᴙ</seg>   als <seg type="notation" subtype="graphics_Zeichen; Handschrift" rend="literal" part="N"><emph rend="small">R</emph></seg> geschrieben werden  kann.</s>
+              <s type="es" part="N"><seg type="edcom" part="N"> ∣ </seg> [Denke Dir eine Schrift in der das <seg type="notation" subtype="graphics_Zeichen; Handschrift" rend="literal" part="N">R</seg> ebensog<add rend="our" instant="false" status="unremarkable">u</add>t<lb/>   <seg type="notation" subtype="graphics_Zeichen; Schriftzeichen" rend="bitmap" part="N">ᴙ</seg>   als <seg type="notation" subtype="graphics_Zeichen; Handschrift" rend="literal" part="N"><emph rend="small">R</emph></seg> geschrieben werden  kann.</s>
               <s type="es" part="N">Für sie ist<lb/> es der gleiche Buchstabe.</s>
               <s type="es" part="N">Sollen wir sagen für<lb/> sie sei der Buchstabe was den beiden  <corr type="trsn" instant="false"><orig type="trsn1">G</orig><reg type="trsn2">g</reg></corr>emeinsam<lb/> ist?</s>
               <s type="es" part="N">Oder gar eine Schrift in der jeder Buch<lb rend="shyphen"/>stabe irgendwie liegen kann  <abbr type="abb">z.B.</abbr> das<lb/> <seg type="notation" subtype="graphics_Zeichen; Handschrift" rend="literal" part="N"><seg type="p" part="N">A</seg></seg> so      <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/152,29-1.jpg" subtype="graphics_Zeichen; Schriftzeichen" rend="bitmap" part="N">152012</seg> <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/152,29-2.jpg" subtype="graphics_Zeichen; Schriftzeichen" rend="bitmap" part="N">152012</seg> <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/152,29-3.jpg" subtype="graphics_Zeichen; Schriftzeichen" rend="bitmap" part="N">152012</seg>   <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/152,29-4.jpg" subtype="graphics_Zeichen; Schriftzeichen" rend="bitmap" part="N">152012</seg>.</s>
-              <s type="es" part="N">Sie haben etwa immer<lb/> schon ihre Zeichen in Stempel geschnitten &amp;   dann<lb/> gedruckt.]<seg type="edcom" part="N"> ❘ </seg></s>
+              <s type="es" part="N">Sie haben etwa immer<lb/> schon ihre Zeichen in Stempel geschnitten &amp;   dann<lb/> gedruckt.]<seg type="edcom" part="N"> ∣ </seg></s>
             </emph>
           </emph>
         </ab>
@@ -2391,7 +2391,7 @@
         </ab>
         <ab xml:id="Ms-152_70.2" n="Ms-152,70[2]" ana="field:PhilosophyOfLanguage_date:19360800?-19361200?" emph="blbef_1" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>
-          <s type="es" rend="indl_2" part="N"><seg type="edcom" part="N"> ❘ </seg> [Wichtiges Beispiel] “<c type="c" part="N">I</c>ch habe mir eingebildet,  <choice type="s"><orig type="alt1">es <lb/>sei heute Samstag</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">heute sie <corr type="tra" instant="false">Samstag</corr></add></orig><orig type="alt3"><add rend="i" instant="false" status="unremarkable">daß  heute Samst<add rend="our" instant="false" status="unremarkable">ag</add> ist</add></orig></choice>”<corr type="tra" instant="false">.</corr><seg type="edcom" part="N"> ❘ </seg></s>
+          <s type="es" rend="indl_2" part="N"><seg type="edcom" part="N"> ∣ </seg> [Wichtiges Beispiel] “<c type="c" part="N">I</c>ch habe mir eingebildet,  <choice type="s"><orig type="alt1">es <lb/>sei heute Samstag</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">heute sie <corr type="tra" instant="false">Samstag</corr></add></orig><orig type="alt3"><add rend="i" instant="false" status="unremarkable">daß  heute Samst<add rend="our" instant="false" status="unremarkable">ag</add> ist</add></orig></choice>”<corr type="tra" instant="false">.</corr><seg type="edcom" part="N"> ∣ </seg></s>
         </ab>
         <ab xml:id="Ms-152_70.3" n="Ms-152,70[3]" ana="field:PhilosophyOfLanguage_date:19360800?-19361200?" emph="blbef_2" xml:lang="de" part="N">
           <seg type="wabmarks-secml" part="N"/>

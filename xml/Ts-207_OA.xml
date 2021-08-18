@@ -24,7 +24,7 @@
           <resp>2001: parser for conversion from MECS to XML</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal</name>
+          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal, Tone Merete Bruvik</name>
           <resp>2002-: stylesheets</resp>
         </respStmt>
         <respStmt>
@@ -114,14 +114,14 @@
   <text xml:lang="en">
     <body>
       <ab xml:id="Ts-207_1.1" n="Ts-207,1[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291100?" emph="blbef_0" part="N">
-        <seg type="wabmarks-secml" part="N"/>
+        <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <pb facs="Ts-207_1" rend="recto" n="pagename_Ts-207,1 pageref_00"/>
           <s type="es" part="N">Ladies and <c type="c" part="N">G</c>entlemen,<lb rend="hl"/> </s>
         </seg>
       </ab>
       <ab xml:id="Ts-207_1.2et2.1" n="Ts-207,1[2]et2[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291100?" emph="blbef_0" part="N">
-        <seg type="wabmarks-secml" part="N"/>
+        <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <s type="es" rend="indl_9" part="N">Before I begin to  speak about my subject proper let me make a<lb/> few introductory  remarks.</s>
           <s type="es" part="N"><c type="k" part="N">I</c> feel I shall have great difficulties in<lb/> communicating my  thoughts to you and I think some of them may be<lb/> diminished by mentioning  them to you beforehand.</s>
@@ -138,7 +138,7 @@
         </seg>
       </ab>
       <ab xml:id="Ts-207_2.2et3.1et4.1et5.1" n="Ts-207,2[2]et3[1]et4[1]et5[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291100?" emph="blbef_0" part="N">
-        <seg type="wabmarks-secml" part="N"/>
+        <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <s type="es" rend="indl_8" part="N"><c type="k" part="N">I</c> will now begin.</s>
           <rs type="extref" key="Moore, George Edward: Principia Ethica">
@@ -189,8 +189,8 @@
           <s type="es" part="N">Our words used as we use them in science, are vessels capable only of  con<lb rend="shyphen"/>taining and conveying meaning and sense, <emph rend="us1">natural</emph> meaning  an<add rend="our_h" instant="false" status="unremarkable">d</add> sense.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-207_5.2et6.1et7.1et8.1" n="Ts-207,5[2]et6[1]et7[1]et8[1]" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291100?" emph="blbef_0" xml:lang="en" part="N">
-        <seg type="wabmarks-secml" part="N"/>
+      <ab xml:id="Ts-207_5.2et6.1et7.1et8.1et8.2et9.1et10.1" n="Ts-207,5[2]et6[1]et7[1]et8[1]et8[2]et9[1]et10[1]" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291100?" emph="blbef_0" xml:lang="en" part="N">
+        <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Ethics, if it is anything, is supernatural and our words will only  express<lb/> facts; as a teacup will only hold a teacup full of water and if I  were to<lb/> <choice type="dsl_h"><orig type="alt1"><del type="d_h" instant="false" status="unremarkable">put</del></orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">pour</add></orig></choice> out a gallon  over it. ‒ ‒ ‒</s>
           <s type="es" part="N"><c type="k" part="N">I</c> said that so far<del type="dnpc_h" instant="false" status="unremarkable"/> as facts and  prop<add rend="el_h" instant="false" status="unremarkable">o</add>sitions<lb/> are concerned there is only relative value and  relative good, right <abbr type="abb">etc.</abbr></s>
@@ -254,9 +254,6 @@
           <s type="es" part="N">Now in our case as soon as we try to drop<lb/> the simile and simply to  state the facts which stand behind it, we find,<lb/> that there are no such  facts.</s>
           <s type="es" part="N">And so, what at first appeared to be a <del type="dnpc_h" instant="false" status="unremarkable"/><lb/> simile, now  seems to be mere nonsense. –</s>
         </seg>
-      </ab>
-      <ab xml:id="Ts-207_8.2et9.1et10.1" n="Ts-207,8[2]et9[1]et10[1]" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291100?" emph="blbef_0" xml:lang="en" part="N">
-        <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <s type="es" part="N">Now the three experiences which<lb/> I have mentioned to you (and I could  have added others) seem to those who<lb/> have experienced them, for  instance to me, to have in some sense an<lb/> intrinsic, absolute  value.</s>
           <s type="es" part="N">But when I say they are experiences, surely,<lb/> they are facts; they have  taken place then and there, lasted a certain<lb/>  <pb facs="Ts-207_9" rend="recto" n="pagename_Ts-207,9 pageref_00"/><fw type="pagen" place="top left">9)</fw> definite time and consequently are  describable.</s>

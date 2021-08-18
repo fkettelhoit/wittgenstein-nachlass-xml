@@ -24,7 +24,7 @@
           <resp>2001: parser for conversion from MECS to XML</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal</name>
+          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal, Tone Merete Bruvik</name>
           <resp>2002-: stylesheets</resp>
         </respStmt>
         <respStmt>
@@ -992,7 +992,7 @@
   <text xml:lang="de">
     <body>
       <div n="OUP_Bände_18_Ms-115" part="N" org="uniform" sample="complete">
-        <ab xml:id="Ms-115_IV.1" n="Ms-115,IV[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:fm.edcom.code" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_IV.1" n="Ms-115,IV[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:fm.edcom.code_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="edcom" part="N">
             <seg type="wabmarks-secml" part="N"/>
             <pb facs="Ms-115_FCr" rend="recto" n="pagename_Ms-115,FCr pageref_00"/>
@@ -1006,7 +1006,7 @@
           <pb facs="Ms-115_V" rend="recto" n="pagename_Ms-115,V pageref_00"/>
           <fw type="pagen" place="top middle">  </fw>
         </ab>
-        <ab xml:id="Ms-115_V.1" n="Ms-115,V[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:fm" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_V.1" n="Ms-115,V[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:fm_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <seg type="fm-title" part="N"><emph rend="indl_4"/><c type="c" part="N">P</c>hilosophische <emph rend="indl_9"/> Bemerkungen  <emph rend="indl_15"/><corr type="npc" instant="false"><add rend="fremd" instant="false" status="unremarkable">3</add></corr><emph rend="bl_1"/>  <emph rend="indl_8"/><emph rend="large"><seg type="p" part="N">XI</seg>.</emph></seg>
@@ -1052,7 +1052,7 @@
           <seg type="publ" part="N">
             <emph rend="indl_3"/>
             <emph rend="crossed">
-              <s type="es" part="N">Ich leugne natürlich nicht, daß es Phä<lb rend="shyphen"/>nomene des Wiedererkennens  gibt<choice type="o"><orig type="o1">. W</orig><orig type="o2"> (w</orig></choice>enn<lb/> wir,     <abbr type="abb">z.B.</abbr>,  sagen: “das ist dasselbe Kästchen,<lb/> das ich vor Jahren dort  gesehen habe”)<lb/> auch nicht, daß unter den Phänomenen<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">des Wie<corr type="tran" instant="false">dererkennens</corr></del></orig><orig type="alt2"><add rend="el" instant="false" status="unremarkable">,</add> die wir   “Wie<add rend="our" instant="false" status="unremarkable">de</add>rerkennen” nennen,</orig></choice> <lb/><choice type="s"><orig type="alt1">das</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">dasjenige</add></orig></choice> ist, ein Vorstellungsbild mit der Wirk<lb rend="shyphen"/>lichkeit   <add rend="im" instant="false" status="unremarkable">zu</add> vergleichen. <seg type="edcom" part="N"> ❘ </seg></s>
+              <s type="es" part="N">Ich leugne natürlich nicht, daß es Phä<lb rend="shyphen"/>nomene des Wiedererkennens  gibt<choice type="o"><orig type="o1">. W</orig><orig type="o2"> (w</orig></choice>enn<lb/> wir,     <abbr type="abb">z.B.</abbr>,  sagen: “das ist dasselbe Kästchen,<lb/> das ich vor Jahren dort  gesehen habe”)<lb/> auch nicht, daß unter den Phänomenen<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">des Wie<corr type="tran" instant="false">dererkennens</corr></del></orig><orig type="alt2"><add rend="el" instant="false" status="unremarkable">,</add> die wir   “Wie<add rend="our" instant="false" status="unremarkable">de</add>rerkennen” nennen,</orig></choice> <lb/><choice type="s"><orig type="alt1">das</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">dasjenige</add></orig></choice> ist, ein Vorstellungsbild mit der Wirk<lb rend="shyphen"/>lichkeit   <add rend="im" instant="false" status="unremarkable">zu</add> vergleichen. <seg type="edcom" part="N"> ∣ </seg></s>
             </emph>
             <s type="es" part="N">Wenn <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">aber jemand<lb/> auf meinen Schreibtisch zeigt &amp;</del><add rend="im" instant="false" status="unremarkable">man</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">aber jemand auf meinen Schreibtisch zeigt  &amp;</orig><orig type="alt2">man</orig></choice></orig></choice> mich fragt: “h<add rend="our" instant="false" status="unremarkable">a</add>st Du  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">ihn</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Deinen Schreibtisch</add></orig></choice> wiedererkannt,  <choice type="dsl"><orig type="alt1"><choice type="dsf"><orig type="alt1">wie</orig><orig type="alt2"><del type="d" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable">als</add></del></orig></choice><del type="d" instant="false" status="unremarkable">Du ihn heute</del><del type="d" instant="false" status="unremarkable">früh  <choice type="s"><orig type="alt1">früh wieder</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">nach dem Aufstehen</add></orig></choice> gesehen hast</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">wie  Du heute morgen<corr type="npcn" instant="false">s</corr> in Dein Zimmer getreten  bist</add></orig></choice>?”<lb/> so <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">werde</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">würde</add></orig></choice> ich <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">zwar</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">wohl</add></orig></choice> sagen  “gewiß!” und doch<lb/> ist es irreführend, das was  sich da abge<lb rend="shyphen"/>spielt hat ein “Wiedererkennen” zu  nennen.</s>
             <lb/>
@@ -1146,7 +1146,7 @@
             </reloc>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_5.2" n="Ms-115,5[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 116_page:166_order:W-PG;9.166.13_date:19331214?-19331231?_seg:misc" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_5.2" n="Ms-115,5[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 116_page:166_order:W-PG;9.166.13_seg:misc_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_2" part="N">Ich will alles ‘Geschichtliche’ aus<lb/> meiner  Betrachtungsweise des Bekannt<lb rend="shyphen"/>seins ausschalten.</s>
@@ -1562,7 +1562,7 @@
           </s>
           <lb rend="hl"/>
         </ab>
-        <ab xml:id="Ms-115_18.2" n="Ms-115,18[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 125_page:174_order:W-PG;9.174.15_date:19331214?-19331231?_seg:misc" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_18.2" n="Ms-115,18[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-PG: Part I: Section 125_page:174_order:W-PG;9.174.15_seg:misc_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" rend="indl_3" part="N">(Wer nicht versteht, warum wir über<lb/> diese Dinge reden, muß, was wir  sagen,<lb/> als leere Spielerei empfinden.)</s>
@@ -1836,17 +1836,17 @@
             <s type="es" rend="indl_5" part="N">Wir <choice type="em"><orig type="em1">könn<del type="d" instant="false" status="unremarkable">t</del>en</orig><orig type="em2"><choice type="dsl"><orig type="alt1">könnten</orig><orig type="alt2">können</orig></choice></orig></choice> uns auch  jeden Gegen<lb rend="shyphen"/>stand in einem unsichtbaren Fut<corr type="tran" instant="false">t</corr>eral<lb/> denken  &amp; das ändert gar nichts an<lb/> unseren Erfahrungen &amp; ist nun  eine<lb/> leere Form der Darstellung<corr type="tra" instant="false">.</corr></s>
           </seg>
         </ab>
-        <ab xml:id="Ms-115_30.2" n="Ms-115,30[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:misc" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_30.2" n="Ms-115,30[2]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:misc_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_3" part="N">(Die Darstellung der Philosophie<lb/> kann nur gedichtet werden.)</s>
           <lb rend="hl"/>
         </ab>
-        <ab xml:id="Ms-115_30.3" n="Ms-115,30[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:misc" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_30.3" n="Ms-115,30[3]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:misc_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">(<c type="k" part="N">P</c>hilosophie dürfte man eigentlich nur<lb/> <emph rend="us1">dichten</emph>.</s>
           <s type="es" part="N">Daraus muß sich, scheint mir,<lb/> ergeben, wie weit mein Denken der  Gegen<lb rend="shyphen"/>wart, Zukunft oder der Vergangenheit an<lb rend="shyphen"/>gehört:  <c type="c" part="N">D</c>enn ich habe mich damit<lb/> auch als einen bekannt, der nicht<lb/> ganz kann,  was er zu können wünscht.<corr type="tra" instant="false">)</corr></s>
         </ab>
-        <ab xml:id="Ms-115_30.4" n="Ms-115,30[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:misc" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_30.4" n="Ms-115,30[4]" reloc_type="relocate-opt" reloc_n="Ms-115,1-34_Ms-114,108v" reloc_corresp="relocOpt#Ms-114:92" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:misc_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <reloc type="relocate-opt" n="Ms-115,30_Ms-115,53" corresp="relocOpt#Ms-115:7" instant="false" status="unremarkable">
             <emph rend="indl_3"/>
@@ -3543,33 +3543,33 @@
             <s type="es" part="N">Das hei<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>t, die <corr type="trsn" instant="false"><orig type="trsn1">Ue</orig><reg type="trsn2">Ü</reg></corr>bergänge  <choice type="s"><orig type="alt1">gehören ganz andern Sprachspielen an</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>ge<lb rend="shyphen"/>hören zu  ganz verschiedenen Sprachspielen<seg type="edinst" part="N"> // </seg></orig></choice>.</s>
           </add>
         </ab>
-        <ab xml:id="Ms-115_95.5" n="Ms-115,95[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_95.5" n="Ms-115,95[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Ist, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> ich Zahnschmerzen habe <emph rend="space">ein  Grund</emph><lb/> zur Annahme, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> ich Zahnschmerzen  habe?</s>
         </ab>
-        <ab xml:id="Ms-115_95.6" n="Ms-115,95[6]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts.misc" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_95.6" n="Ms-115,95[6]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts.misc_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">(Man kann die Philosophen dadurch <emph rend="usb">verwirren</emph>  <add rend="i" instant="false" status="unremarkable">(<seg xml:lang="en" part="N">confound</seg>)</add>, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> man<lb/> nicht  blo<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> da Unsinn spricht, wo auch sie es tun, sondern  auch solchen, den<lb/> zu sagen sie sich scheuen<seg type="doubt" part="N">  (<emph rend="usb">würden</emph>)</seg>.)</s>
         </ab>
-        <ab xml:id="Ms-115_95.7et96.1" n="Ms-115,95[7]et96[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_95.7et96.1" n="Ms-115,95[7]et96[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Erschlie<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>t man aus der Wirklichkeit einen  Satz?</s>
           <s type="es" part="N">Al<lb rend="shyphen"/>so etwa “aus den wirklichen Zahnschmerzen, darauf,  da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> man Zahnschmerzen<lb/> hat”?</s>
           <s type="es" part="N">Aber das ist doch nur eine unkorrekte Ausdrucksweise; es  mü<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>te hei<corr type="npcn" instant="false">s</corr><corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false"><corr type="trsn" instant="false"><orig type="trsn1">s</orig><reg type="trsn2">ß</reg></corr>en:</corr>   <pb facs="Ms-115_96" rend="recto" n="pagename_Ms-115,96 pageref_00"/><fw type="pagen" place="top middle">96</fw><corr type="npcn-pb" instant="false"><corr type="trsn" instant="false"><orig type="trsn1">s</orig><reg type="trsn2">ß</reg></corr>en:</corr> man  schlie<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>t, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> man Zahnschmerzen  hat daraus, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> man Zahnschmer<lb rend="shyphen"/>zen hat  (offenbarer Unsinn).</s>
         </ab>
-        <ab xml:id="Ms-115_96.2" n="Ms-115,96[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_96.2" n="Ms-115,96[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="wabmarks-secml" part="N">  ∕∕ </seg>
           <s type="es" rend="indl_24" part="N">“Warum glaubst Du, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> Du Dich an der  <add rend="i_h" instant="false" status="unremarkable">heißen</add> Herdplatte<lb/> verbrennen wirst?”</s>
           <s type="es" part="N">– Hast Du Gründe für diesen Glauben, und brauchst Du<lb/>  Gründe?</s>
         </ab>
-        <ab xml:id="Ms-115_96.3" n="Ms-115,96[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_96.3" n="Ms-115,96[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_8" part="N">Hast Du diese Gründe – gleichsam – immer bei Dir, wenn Du es<lb/>  glaubst?</s>
           <s type="es" rend="indl_8" part="N">Und glaubst Du es immer – ausdrücklich – wenn Du Dich etwa  wehrst,<lb/> die Herdplatte anzurühren?</s>
           <s type="es" rend="indl_8" part="N">Meint man mit ‘Gründen <choice type="s"><orig type="alt1"><emph rend="usb">des Glaubens</emph></orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>für den Glauben<seg type="edinst" part="N"> // </seg></orig></choice>’ dasselbe,<lb/> wie  mit ‘Ursachen des Glaubens’ (Ursachen des  Vorgangs des Glaubens)?</s>
         </ab>
-        <ab xml:id="Ms-115_96.4" n="Ms-115,96[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_96.4" n="Ms-115,96[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="wabmarks-secml" part="N">  ∕∕ </seg>
           <s type="es" rend="indl_24" part="N">Was für einen Grund habe ich, anzunehmen, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> mein<lb/>  Finger, wenn er den Tisch berühren, einen Widerstand spüren wird?</s>
@@ -3577,36 +3577,36 @@
           <s type="es" part="N">Wenn ich dies frage, melden sich hundert Gründe,<lb/> die einander <choice type="s"><orig type="alt1">gar  nicht</orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">kaum</add></orig></choice> zu Wort kommen lassen wollen.</s>
           <s type="es" part="N">“Ich habe es doch<lb/> selbst ungezählte Male erfahren; und ebenso  oft von ähnlichen Erfahrungen<lb/> gehört; wenn es nicht so wäre, würde  …;      <abbr type="abb">etc.</abbr>”.</s>
         </ab>
-        <ab xml:id="Ms-115_96.5" n="Ms-115,96[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_96.5" n="Ms-115,96[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Glaube ich, wenn ich auf meine Tür zugehe, ausdrück<lb rend="shyphen"/>lich,  da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> sie sich öffnen lassen wird, –  da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> dahinter ein Zimmer und nicht<lb/> ein Abgrund sein  wird,     <abbr type="abb">etc.</abbr>?</s>
           <s type="es" rend="indl_8" part="N">Setzen wir statt des Glaubens den Ausdruck des Glaubens. –</s>
         </ab>
-        <ab xml:id="Ms-115_96.6" n="Ms-115,96[6]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_96.6" n="Ms-115,96[6]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Was hei<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>t es, etwas aus einem bestimmten Grunde<lb/>  glauben?</s>
           <s type="es" part="N">Entspricht es, wenn wir statt des Glaubens den Ausdruck des Glau<lb rend="shyphen"/>bens  setzen, dem, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> <choice type="em"><orig type="em1">Einer  <seg type="edinst" part="N"> // </seg>man<seg type="edinst" part="N"> // </seg> den Grund sagt, ehe er  <seg type="edinst" part="N"> // </seg>man<seg type="edinst" part="N"> // </seg></orig><orig type="em2"><choice type="s"><orig type="alt1">Einer den Grund sagt, ehe er</orig><orig type="alt2">man den Grund sagt, ehe man</orig></choice></orig></choice> das<lb/> Begründete sagt?</s>
         </ab>
-        <ab xml:id="Ms-115_96.7et97.1" n="Ms-115,96[7]et97[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_96.7et97.1" n="Ms-115,96[7]et97[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">“Hast Du es aus diesen Gründen geglaubt?”  ist dann<lb/> eine ähnliche Frage, wie: “hast Du, als Du mir  sagtest, 25  ×  25 sei 625, die   <pb facs="Ms-115_97" rend="verso" n="pagename_Ms-115,97 pageref_00"/><fw type="pagen" place="top middle">97</fw> Multiplikation wirklich  ausgeführt?”</s>
         </ab>
-        <ab xml:id="Ms-115_97.2" n="Ms-115,97[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_97.2" n="Ms-115,97[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <s type="es" rend="indl_24" part="N">Die Frage <choice type="s"><orig type="alt1">“warum glaubst Du das”</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>“aus welchen Grün<lb rend="shyphen"/>den glaubst Du  das”<seg type="edinst" part="N"> // </seg></orig></choice> könnte <emph rend="usb">bedeuten</emph>:  “aus welchen Gründen leitest Du das<lb/> jetzt ab (hast Du es  jetzt abgeleitet)”; aber auch: “welche  Gründe kannst<lb/> Du mir nachträglich für diese Annahme  angeben”.</s>
         </ab>
-        <ab xml:id="Ms-115_97.3" n="Ms-115,97[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_97.3" n="Ms-115,97[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Ich könnte also unter ‘Gründen’ zu einer Meinung<lb/>  tatsächlich nur das verstehen, was <choice type="dsl"><orig type="alt1"><del type="d_h" instant="false" status="unremarkable">der Andere</del></orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">Einer</add></orig></choice> sich vorgesagt hat, ehe er zu<lb/> der Meinung  kam.</s>
           <s type="es" part="N">Die Rechnung, die er tatsächlich ausgeführt hat.</s>
         </ab>
-        <ab xml:id="Ms-115_97.4" n="Ms-115,97[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_97.4" n="Ms-115,97[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Frage ich jemand: “warum glaubst Du,  da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> diese Arm<lb rend="shyphen"/>bewegung einen Schmerz mit sich  bringen wird?”, und er antwortet: “weil  sie<lb/> ihn einmal hervorgebracht und einmal nicht hervorgebracht  hat”, so werde ich<lb/> sagen: “das ist doch kein  Grund zu Deiner Annahme”.</s>
           <s type="es" rend="indl_8" part="N">Wie nun, wenn er mir darauf antwortet: “oh doch!  ich habe diese An<lb rend="shyphen"/>nahme noch immer gemacht, wenn ich diese Erfahrung  gemacht hatte”?</s>
           <s type="es" part="N">– Da<lb/> würden wir <del type="d_h" instant="false" status="unremarkable">doch</del> sagen: “Du  scheinst mir die Ursache (psychologische Ursache)<lb/> Deiner Annahme  anzugeben, aber nicht den Grund”.</s>
         </ab>
-        <ab xml:id="Ms-115_97.5" n="Ms-115,97[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_97.5" n="Ms-115,97[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">“Warum glaubst Du, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> das geschehen  wird?”</s>
           <s type="es" part="N">– “Weil<lb/> ich es zweimal beobachtet  habe”.</s>
@@ -3619,22 +3619,22 @@
           <pb facs="Ms-115_98" rend="recto" n="pagename_Ms-115,98 pageref_00"/>
           <fw type="pagen" place="top middle">98</fw>
         </ab>
-        <ab xml:id="Ms-115_98.1" n="Ms-115,98[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_98.1" n="Ms-115,98[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Man möchte sagen: <c type="c" part="N">W</c>ir schlie<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>en nur dann  aus der<lb/> früheren Erfahrung auf die zukünftige, wenn wir die Vorgänge  verstehen (im<lb/> Besitze der richtigen Hypothese sind).</s>
           <s type="es" part="N">Wenn wir den richtigen, tatsächli<lb rend="shyphen"/>chen, Mechanismus zwischen den  beiden <corr type="trsn" instant="false"><orig type="trsn1">B</orig><reg type="trsn2">b</reg></corr>eobachteten Rädern annehmen.</s>
           <s type="es" part="N">Aber den<lb rend="shyphen"/>ken wir doch nur: <c type="c" part="N">W</c>as ist denn <choice type="s"><orig type="alt1">das</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>unser<seg type="edinst" part="N"> // </seg></orig></choice> Kriterium dafür,  da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> unsere<lb/> Annahme die richtige ist? –</s>
           <s type="es" rend="indl_8" part="N">Das Bild und die Daten überzeugen uns und führen uns nicht wieder<lb/> weiter  – zu andern Gründen.</s>
         </ab>
-        <ab xml:id="Ms-115_98.2" n="Ms-115,98[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_98.2" n="Ms-115,98[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Wir sagen: “diese Gründe sind überzeugend”;  und da<lb rend="shyphen"/>bei handelt es sich nicht um Prämissen, aus denen das  <emph rend="space">folgt</emph>, wovon wir<lb/> überzeugt wurden.</s>
         </ab>
-        <ab xml:id="Ms-115_98.3" n="Ms-115,98[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_98.3" n="Ms-115,98[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Wenn man sagt: “die gegebenen Daten sind insofern<lb/>  Gründe, zu glauben, <seg type="p" part="N">p</seg> werde geschehen, als dies aus den Daten zusammen  mit<lb/> dem angenommenen Naturgesetz folgt”, – dann kommt das  eben darauf hinaus,<lb/> zu sagen, das Geglaubte folge aus den Daten   <emph rend="space">nicht</emph>, sondern komme viel<lb rend="shyphen"/>mehr <seg type="doubt" part="N"><add rend="i" instant="false" status="unremarkable"><seg type="edcom" part="N"><corr type="tra" instant="false">˓</corr>﹖–<corr type="tra" instant="false">˒</corr></seg></add>einer neuen Annahme gleich.<add rend="i" instant="false" status="unremarkable"><seg type="edcom" part="N"><corr type="tra" instant="false">˓</corr>–﹖<corr type="tra" instant="false">˒</corr></seg></add></seg></s>
         </ab>
-        <ab xml:id="Ms-115_98.4" n="Ms-115,98[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_98.4" n="Ms-115,98[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <s type="es" rend="indl_28" part="N">Wenn man nun fragt: wie <emph rend="space">kann</emph> aber frühere  Er<lb rend="shyphen"/>fahrung ein Grund zur Annahme sein, es werde später das und das  eintreffen, – <lb/> so ist die Antwort: welchen allgemeinen Begriff vom  Grund zu solch einer An<lb rend="shyphen"/>nahme haben wir denn?</s>
@@ -3644,7 +3644,7 @@
           <pb facs="Ms-115_99" rend="verso" n="pagename_Ms-115,99 pageref_00"/>
           <fw type="pagen" place="top middle">99</fw>
         </ab>
-        <ab xml:id="Ms-115_99.1" n="Ms-115,99[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_99.1" n="Ms-115,99[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <s type="es" rend="indl_24" part="N">Wer sagt, er ist durch Angaben über Vergangenes nicht<lb/> davon zu überzeugen,  da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> in Zukunft etwas geschehen wird, der  mu<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> etwas<lb/> anderes mit dem Wort  “überzeugen” meinen, als wir es tun.</s>
           <s type="es" part="N">– Man könnte ihn<lb/> fragen: <c type="c" part="N">W</c>as willst Du denn  hören?</s>
@@ -3656,37 +3656,37 @@
           <lb/>
           <s type="es" part="N">‘Keine Gründe’ –: im Gegensatz  wozu?</s>
         </ab>
-        <ab xml:id="Ms-115_99.2" n="Ms-115,99[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_99.2" n="Ms-115,99[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <s type="es" rend="indl_24" part="N">Denn, wohlgemerkt: Gründe sind hier nicht Sätze, aus<lb/> denen das  Geglaubte <emph rend="space">folgt</emph>.</s>
         </ab>
-        <ab xml:id="Ms-115_99.3" n="Ms-115,99[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_99.3" n="Ms-115,99[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <s type="es" rend="indl_18" part="N">Aber <choice type="o"><orig type="o1">N</orig><orig type="o2">n</orig></choice>icht, als ob <choice type="em"><orig type="em1">man  <seg type="edinst" part="N"> // </seg>wir<seg type="edinst" part="N"> // </seg> sagen könnte <del type="d" instant="false" status="unremarkable">kön</del>  <seg type="edinst" part="N"> // </seg>woll<lb rend="shyphen"/>ten<seg type="edinst" part="N"> // </seg></orig><orig type="em2"><choice type="s"><orig type="alt1">man sagen könnte<del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false"> kön</corr></del></orig><orig type="alt2">wir sagen wollten</orig></choice></orig></choice>:  <c type="c" part="N">F</c>ür's Glauben genügt eben weniger, als für das  Wissen. –</s>
           <s type="es" part="N">Denn hier<lb/> handelt es sich nicht um eine Annäherung an das logische  Folgen.</s>
         </ab>
-        <ab xml:id="Ms-115_99.4" n="Ms-115,99[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_99.4" n="Ms-115,99[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">? ∕∕ </seg>
           <s type="es" rend="indl_18" part="N">Irregeführt werden wir durch die <choice type="s"><orig type="alt1">Ausdrucksweise</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>Rede<lb rend="shyphen"/>weise<seg type="edinst" part="N"> // </seg></orig></choice>:  <choice type="s"><orig type="alt1">“<c type="c" part="N">D</c>as ist ein <choice type="s"><orig type="alt1">guter</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>richtiger<seg type="edinst" part="N"> // </seg></orig></choice> Grund zu unserer Annahme, denn<lb/> er  macht das Eintreffen des Ereignisses wahrscheinlich”.</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>“<c type="c" part="N">D</c>ieser Grund ist<lb/> gut, denn er macht das  Eintreffen des Ereignisses  wahrscheinlich”.<seg type="edinst" part="N"> // </seg></orig></choice></s>
           <s type="es" part="N">Hier<lb/> ist es, als ob wir nun etwas <corr type="trsn" instant="false"><orig type="trsn1">w</orig><reg type="trsn2">W</reg></corr>eiteres über den  Grund ausgesagt hätten, <choice type="s"><orig type="alt1">was<lb/> seine Zugrundelegung</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>was  ihn als <seg type="doubt" part="N">(<emph rend="usb">guten</emph>)</seg>  Grund<seg type="edinst" part="N"> // </seg></orig></choice> rechtfertigt; während<lb/> mit dem Satz,  da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> dieser Grund das Eintreffen wahrscheinlich macht,  nichts<lb/> gesagt ist, wenn nicht, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> dieser Grund  <choice type="s"><orig type="alt1">dem</orig><orig type="alt2"><seg type="edinst" part="N"> // </seg>einem<seg type="edinst" part="N"> // </seg></orig></choice> bestimmten <choice type="s"><orig type="alt1">Standard</orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">Maßstab</add></orig></choice> des guten Grundes entspricht, – der  <choice type="s"><orig type="alt1">Standard</orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">Maßstab</add></orig></choice><lb/> aber nicht begründet ist!</s>
         </ab>
-        <ab xml:id="Ms-115_99.5" n="Ms-115,99[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_99.5" n="Ms-115,99[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N">? ∕∕ </seg>
           <s type="es" rend="indl_24" part="N">Ein guter Grund ist einer<add rend="el_h" instant="false" status="unremarkable">,</add> der <emph rend="space">so</emph>  aussieht.</s>
         </ab>
-        <ab xml:id="Ms-115_99.6" n="Ms-115,99[6]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_99.6" n="Ms-115,99[6]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">“Das ist ein guter Grund, denn er macht das Eintref<lb rend="shyphen"/>fen  wahrscheinlich” erscheint uns so wie: “das ist  ein guter Hieb, denn er<lb/> macht den Gegner kampfunfähig”.</s>
           <emph rend="bl_2"/>
           <pb facs="Ms-115_100" rend="recto" n="pagename_Ms-115,100 pageref_00"/>
           <fw type="pagen" place="top middle">100</fw>
         </ab>
-        <ab xml:id="Ms-115_100.1" n="Ms-115,100[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_0" part="N">
+        <ab xml:id="Ms-115_100.1" n="Ms-115,100[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_0" part="N">
           <seg type="wabmarks-secml" part="N">∕∕ </seg>
           <s type="es" rend="indl_24" part="N">Man möchte sagen: “ein guter Grund ist er nur  da<lb rend="shyphen"/>rum, weil er das Eintreffen <emph rend="space">wirklich</emph> wahrscheinlich  macht”.</s>
           <s type="es" part="N">Weil er<lb/> sozusagen wirklich einen Einflu<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> auf das  Ereignis hat, also quasi einen<lb/>  erfahrungsmä<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr>igen.</s>
         </ab>
-        <ab xml:id="Ms-115_100.2" n="Ms-115,100[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_100.2" n="Ms-115,100[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">“Warum nimmst Du an, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> er besserer  Stimmung sein<lb/> wird, weil ich Dir sage, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> er gegessen  hat? ist denn das ein Grund?” –</s>
           <lb rend="hl"/>
@@ -3695,7 +3695,7 @@
           <s type="es" rend="indl_9" part="N">Wenn man aber fragen wollte: “<c type="c" part="N">U</c>nd ist alles das,  was Du von der<lb/> früheren Erfahrung vorbringst, ein guter Grund, anzunehmen,  da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> <add rend="im" instant="false" status="unremarkable">es</add> sich auch<lb/> diesmal so verhalten  wird”, so kann ich nun nicht sagen: ja, denn das macht<lb/> das  Eintreffen der Annahme w<choice type="o"><orig type="o1">h</orig><orig type="o2">a</orig></choice>hrscheinlich.</s>
           <s type="es" part="N">Ich habe oben meinen Grund mit<lb/> Hilfe des Standards für den guten Grund  gerechtfertigt; jetzt kann ich aber<lb/> nicht den Standard  rechtfertigen.</s>
         </ab>
-        <ab xml:id="Ms-115_100.3" n="Ms-115,100[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:ts" emph="blbef_2" part="N">
+        <ab xml:id="Ms-115_100.3" n="Ms-115,100[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:ts_date:19331214?-19331231?" emph="blbef_2" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_24" part="N">Wenn man sagt “die Furcht ist begründet”, so ist<lb/>  nicht wieder begründet, da<corr type="trsn" instant="false"><orig type="trsn1">ss</orig><reg type="trsn2">ß</reg></corr> wir das als guten Grund  zur Furcht ansehen.</s>
           <lb/>
@@ -4024,7 +4024,7 @@
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">“Das Wollen kommt, wenn es kommt”, <lb/>&amp; das  heißt, es müßte eigentlich<lb/> etwas sein, was da ist, ehe es da ist.</s>
         </ab>
-        <ab xml:id="Ms-115_110.4" n="Ms-115,110[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331214?-19331231?_seg:misc" emph="blbef_1" part="N">
+        <ab xml:id="Ms-115_110.4" n="Ms-115,110[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_seg:misc_date:19331214?-19331231?" emph="blbef_1" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">
             <choice type="s">
@@ -6640,7 +6640,7 @@
             <s type="es" part="N"><add rend="ilm" instant="false" status="unremarkable"><seg type="series-number" part="N">79<emph rend="blankspace_4"/></seg></add><c type="c" part="N">L</c>ies den Buch<lb rend="shyphen0"/>staben  ‘<seg type="p" part="N">A</seg>’.</s>
             <s type="es" part="N">Nun wie kam der Laut?</s>
             <s type="es" part="N">Wir wissen<lb/> gar nicht<choice type="o"><orig type="o1">t</orig><orig type="o2">s</orig></choice><del type="dn" instant="false" status="unremarkable">s</del> darüber zu sagen.</s>
-            <s type="es" part="N">– Nun lies den<lb rend="hl"/>      <pb facs="Ms-115_207" rend="verso" n="pagename_Ms-115,207 pageref_00"/><fw type="pagen" place="top middle">207</fw> <seg type="mark-ref" n="Ms-115,287_Ms-115,207" ana="intRef,Ms-115,38" part="N"/>   <add rend="ilm" instant="false" status="unremarkable"><seg type="series-number-indent" part="N">79<hi ana="facs" type="editor">See facsimile; arrows marking intended position of section number.</hi></seg></add>   Buchstaben ‘<seg type="p" part="N">a</seg>’ im Spiel (37) indem Du  die ent<lb rend="shyphen"/>sprechende Bewegung mit der Hand machst!</s>
+            <s type="es" part="N">– Nun lies den<lb rend="hl"/>      <pb facs="Ms-115_207" rend="verso" n="pagename_Ms-115,207 pageref_00"/><fw type="pagen" place="top middle">207</fw> <seg type="mark-ref" n="Ms-115,287_Ms-115,207" ana="intRef,Ms-115,38" part="N"/>   <add rend="ilm" instant="false" status="unremarkable"><seg type="series-number-indent" part="N">79<hi ana="facs">See facsimile; arrows marking intended position of section number.</hi></seg></add>   Buchstaben ‘<seg type="p" part="N">a</seg>’ im Spiel (37) indem Du  die ent<lb rend="shyphen"/>sprechende Bewegung mit der Hand machst!</s>
             <lb/>
             <s type="es" part="N">Wie kam diese Bewegung? anders als der Laut <lb/>im vorigen  Versuch?</s>
             <s type="es" part="N">– Ich habe in die Tabelle<lb/> geschaut &amp; die entsprechende  Bewegung ge<lb rend="shyphen"/>macht; mehr weiß ich nicht zu sagen.</s>
