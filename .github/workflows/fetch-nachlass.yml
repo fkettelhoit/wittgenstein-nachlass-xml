@@ -1,6 +1,7 @@
 name: Fetch Wittgenstein Nachlass
 
 on:
+  push:
   schedule:
     - cron: '0 * * * *'
 
