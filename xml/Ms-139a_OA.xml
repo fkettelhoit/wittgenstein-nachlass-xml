@@ -155,8 +155,9 @@
   </facsimile>
   <text xml:lang="en">
     <body>
-      <ab xml:id="Ms-139a_1r.1et1r.2et1v.1et2r.1et2v.1et3r.1et3v.1et4r.1et4v.1et5r.1et5v.1et6r.1et6v.1et7r.1et7v.1et8r.1et9r.1et10r.1et10r.3et11r.1et11v.1et12r.1et12v.1" n="Ms-139a,1r[1]et1r[2]et1v[1]et2r[1]et2v[1]et3r[1]et3v[1]et4r[1]et4v[1]et5r[1]et5v[1]et6r[1]et6v[1]et7r[1]et7v[1]et8r[1]et9r[1]et10r[1]et10r[3]et11r[1]et11v[1]et12r[1]et12v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_1" part="N">
+      <ab xml:id="Ms-139a_1r.1et1r.2et1v.1et2r.1et2v.1et3r.1et3v.1et4r.1et4v.1et5r.1et5v.1et6r.1et6v.1et7r.1et7v.1et8r.1et9r.1et10r.1et10r.3et11r.1et11v.1et12r.1et12v.1" n="Ms-139a,1r[1]et1r[2]et1v[1]et2r[1]et2v[1]et3r[1]et3v[1]et4r[1]et4v[1]et5r[1]et5v[1]et6r[1]et6v[1]et7r[1]et7v[1]et8r[1]et9r[1]et10r[1]et10r[3]et11r[1]et11v[1]et12r[1]et12v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" part="N">
         <seg type="wabmarks-secml" part="N"/>
+        <emph rend="bl_1"/>
         <seg type="publ" part="N">
           <pb facs="Ms-139a_1r" n="pagename_Ms-139a,1r pageref_00"/>
           <fw type="pagen" place="top right">I</fw>
@@ -467,7 +468,7 @@
           <s type="es" part="N">But it is a document<lb/>  <del type="dnpc" instant="false" status="unremarkable">which I</del> of <add rend="our" instant="false" status="unremarkable">a</add> tendency in the human<lb/>   mind which I person<add rend="el" instant="false" status="unremarkable">a</add>l<corr type="tran" instant="false">l</corr>y cannot help<lb/>  respecting deeply &amp; I would not<lb/>   for my life ridicul<corr type="tran" instant="false">e</corr> it. </s>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_8v.1" n="Ms-139a,8v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_8v.1" n="Ms-139a,8v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <pb facs="Ms-139a_8v" n="pagename_Ms-139a,8v pageref_00"/>
@@ -491,7 +492,7 @@
           <fw type="pagen" place="top right"> </fw>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_9v.1et10r.2" n="Ms-139a,9v[1]et10r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_9v.1et10r.2" n="Ms-139a,9v[1]et10r[2]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
           <emph rend="vdline">
@@ -532,10 +533,10 @@
           <fw type="pagen" place="top right"> </fw>
         </seg>
       </ab>
-      <ab xml:id="Ms-139a_10v.1" n="Ms-139a,10v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" emph="blbef_0" part="N">
+      <ab xml:id="Ms-139a_10v.1" n="Ms-139a,10v[1]" xml:lang="en" ana="field:PhilosophyOfLanguage.Ethics_pub:W-LE_date:19291101?-19291117?" part="N">
         <seg type="wabmarks-secml" part="N"/>
         <seg type="publ" part="N">
-          <seg type="notation" ana="field:PhilosophyOfLanguage.Ethics_pos_114ml1" rend="bitmap" part="N">
+          <seg type="notation" subtype="graphics_pos_114ml1" rend="bitmap" part="N">
             <note type="editor" anchored="true">Ms-139a, page 10v contains a sketchy drawing which is not included in the transcription. The drawing is accompanied by text that is difficult to decipher, possibly: "The order of even[ts]","Will","Fr[eedom]".</note>
           </seg>
         </seg>

@@ -452,7 +452,7 @@
   <text xml:lang="de">
     <body>
       <div n="OUP_Notebooks_7_Ms-153b" part="N" org="uniform" sample="complete">
-        <ab xml:id="Ms-153b_FCv.1" n="Ms-153b,FCv[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_FCv.1" n="Ms-153b,FCv[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <pb facs="Ms-153b_FCr" rend="recto" n="pagename_Ms-153b,FCr  pageref_00"/>
           <pb facs="Ms-153b_FCv" rend="verso" n="pagename_Ms-153b,FCv pageref_00"/>
@@ -462,8 +462,9 @@
               <emph rend="bl_1"/>
             </emph>
           </reloc>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_FCv.2" n="Ms-153b,FCv[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_FCv.2" n="Ms-153b,FCv[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <add rend="fremd" instant="false" status="unremarkable">
             <s type="es" part="N">
@@ -471,8 +472,9 @@
             </s>
             <note type="editor" anchored="true">For dating of Ms-153b see the corresponding parts in MSS 112-113.</note>
           </add>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_FCv.3et1r.1" n="Ms-153b,FCv[3]et1r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_FCv.3et1r.1" n="Ms-153b,FCv[3]et1r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <s type="es" part="N"><seg n="Ms-153a,BCr_Ms-153b,FCv" type="mark-ref" ana="intRef,Ms-153a,3" part="N"/><note type="editor" anchored="true">Continuation from Ms-153a,BCr.</note><corr type="tra" instant="false"> …</corr>          denn die Tabelle <lb/>zwingt mich nicht<lb/>  ihn zu machen<corr type="tra" instant="false">.</corr></s>
           <lb/>
@@ -493,13 +495,15 @@
             <lb rend="hl"/>
           </s>
           <s type="es" part="N"><choice type="o"><orig type="o1">u</orig><orig type="o2"><c type="c" part="N">U</c></orig></choice>nd also richte <lb/>ich mich doch un<lb rend="shyphen"/>mittelbar nach<lb/>  dem se<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>undären <lb/>Zeichen wenn ich in <lb/>der Tabelle von<lb/>  diesem se<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>undären Zeichen<lb/> gerade  <emph rend="us1">dort<lb rend="shyphen"/>hin</emph> gehe<corr type="tra" instant="false">.</corr></s>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_1r.2et1v.1" n="Ms-153b,1r[2]et1v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_1r.2et1v.1" n="Ms-153b,1r[2]et1v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Nun könnte man freilich <lb/>die Tabelle durch die <lb/>ersten Anwendungen <lb/>der  sekundären Zeichen <lb/>ersetzen &amp; man hätte <lb/>sich in Zukunft nach <lb/>diesen  ersten Anwendungen <lb/>zu richten.</s>
           <s type="es" part="N">Und das <lb/>geschieht bis zu einem <lb/>   <pb facs="Ms-153b_1v" rend="verso" n="pagename_Ms-153b,1v  pageref_00"/> gewissen Grade denn<lb/>  wir erinnern uns <add rend="i" instant="false" status="unremarkable"><unclear instant="false">vielleicht</unclear></add> <lb/>daran den Buchstaben<lb/>  <emph rend="us1"><seg type="p" part="N">a</seg></emph> immer <emph rend="us1">so</emph> gelesen <lb/>zu haben.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_1v.2et2r.1" n="Ms-153b,1v[2]et2r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_1v.2et2r.1" n="Ms-153b,1v[2]et2r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die Worte sind belie<lb rend="shyphen"/>big aus ihnen geht <lb/>nicht hervor welche <lb/>Farbe sie  meinen.</s>
           <s type="es" part="N">Aber <lb/><choice type="s"><orig type="alt1">so ist die Anwendung <lb/>der Tabelle</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">auch die Anwendung der  Tabelle ist beliebig</add></orig></choice>.</s>
@@ -516,18 +520,21 @@
           <s type="es" part="N">(Es ist gleichgül<lb rend="shyphen"/>tig ob ich sage die Tabelle <lb/>oder die hinweisende<lb/>  Erklärung denn diese <lb/>beiden sind Eins.)</s>
           <lb rend="hl"/>
           <s type="es" part="N">Und wo sie nötig ist <lb/>können wir von primären <lb/>&amp; sekundären Zeichen<lb/>  sprechen.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_2r.1et2v.1" n="Ms-153b,2r[1]et2v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_2r.1et2v.1" n="Ms-153b,2r[1]et2v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <s type="es" part="N">Welcher Art ist denn <lb/>meine Aussage über <lb/>die Tabelle „daß <lb/>sie mich  nicht zwingt <lb/>sie so &amp; so zu gebrau<lb rend="shyphen"/>chen”.</s>
           <s type="es" part="N">Und „daß die <lb/>Anwendung durch <lb/>   <pb facs="Ms-153b_2v" rend="verso" n="pagename_Ms-153b,2v  pageref_00"/> die Regel (oder<lb/>  Tabelle) nicht anti<lb rend="shyphen"/>zipiert <choice type="s"><orig type="alt1">wird</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">ist</add></orig></choice>”?</s>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_2v.2" n="Ms-153b,2v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_2v.2" n="Ms-153b,2v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <s type="es" part="N">Woher nimmt diese Be<lb rend="shyphen"/>trachtung ihre Wich<lb rend="shyphen"/>tigkeit? da sie  doch <lb/>nur alles <emph rend="uw1">Interessante</emph> <lb/>zu zerstören scheint? –</s>
           <lb/>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_2v.3" n="Ms-153b,2v[3]" xml:lang="en" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_2v.3" n="Ms-153b,2v[3]" xml:lang="en" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="edcom" part="N"> ∣ </seg>
           <rs type="extref" key="Augustinus, Aurelius: Confessiones">
@@ -547,7 +554,7 @@
             <add rend="fremd" instant="false" status="unremarkable">3</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-153b_3r.1" n="Ms-153b,3r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;49.1_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_3r.1" n="Ms-153b,3r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;49.1_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <emph rend="bl_1"/>
@@ -559,26 +566,29 @@
               </seg>
             </rs>
           </seg>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_3r.2et3v.1" n="Ms-153b,3r[2]et3v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_3r.2et3v.1" n="Ms-153b,3r[2]et3v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="edcom" part="N"> ∣ </seg>
           <s type="es" part="N">Woher nimmt die Be<lb rend="shyphen"/>trachtung ihre Wich<lb rend="shyphen"/>tigkeit die uns darauf<lb/>  aufmerksam macht <lb/>daß man eine Tabelle <lb/>auf mehr als <emph rend="us1">eine</emph> Weise<lb/>  brauchen kann, daß <lb/>man sich eine Tabelle <lb/>als Anleitung zum <lb/>Gebrauch einer  Tabelle<lb/> <choice type="s"><orig type="alt1"><emph rend="uw1">denken</emph></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">konstruieren</add></orig></choice> kann, daß <lb/>man einen  Pfeil auch <lb/>als Zeigen der Richtung <lb/>   <pb facs="Ms-153b_3v" rend="verso" n="pagename_Ms-153b,3v  pageref_00"/> von der Spitze zum  Schwanz<lb rend="shyphen"/>ende auffassen kann,<lb/> daß ich eine Vorlage <add rend="our" instant="false" status="unremarkable">auf</add><lb/>  mancherlei Weise als <lb/>Vorlage benützen <lb/>kann?</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_3v.2et4r.1" n="Ms-153b,3v[2]et4r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_3v.2et4r.1" n="Ms-153b,3v[2]et4r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <s type="es" part="N">So ist also an der <lb/>Bemerkung daß <lb/>es in jeder Sprache <lb/>primäre Zeichen geben<lb/>  muß die die Wörter <lb/>definieren das, daß <lb/>man eine Tabelle <lb/>aufstellen kann <lb/>auf  deren beiden Seiten <lb/>einerseits die Wörter ander<lb rend="shyphen"/>seits Exempel ihrer<lb/>  Anwendung stehen.</s>
           <lb/>
           <s type="es" part="N">Und <del type="dnpc" instant="false" status="unremarkable">so ist</del> das ist <lb/>   <pb facs="Ms-153b_4r" rend="recto" n="pagename_Ms-153b,4r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">4</add></fw>  wahr, soweit sich <lb/><del type="dnpc" instant="false" status="unremarkable">die</del> Exe<add rend="our" instant="false" status="unremarkable">m</add>pel der Anwen<lb rend="shyphen"/>dung der  Worte zum <lb/><emph rend="uw1"><choice type="o"><orig type="o1">F</orig><orig type="o2">f</orig></choice>igurieren</emph> in einer Tabelle <lb/>eignen denn  die Tabelle <lb/>ist dann ja weiter <lb/>nichts als ein beson<lb rend="shyphen"/>derer Fall der  An<lb rend="shyphen"/>wendung der <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">sec</corr></del> <lb/>Wörter <abbr type="abb">vergl.</abbr>  <seg type="notation" subtype="graphics_Schema; ohne Linien" rend="bitmap" part="N"><table rend="tablem"><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1">|<milestone unit="br"/>o</cell><cell role="data" rows="1" cols="1">–<milestone unit="br"/>x</cell></row></table></seg><corr type="tra" instant="false">.</corr></s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_4r.2" n="Ms-153b,4r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_4r.2" n="Ms-153b,4r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N">/ </seg>
           <s type="es" part="N">Der Irrtum von den <lb/>primären Zeichen gehört <lb/>zu denen die die  Philoso<lb rend="shyphen"/>phie wie eine Art Physik <lb/>behandeln indem sie <lb/>einfachen Gesetzen  nach<lb rend="shyphen"/>spüren wollen.</s>
           <s type="es" part="N"><emph rend="uw1"><add rend="our" instant="false" status="unremarkable"><c type="k" part="N">P</c>rinzipi<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">en</reg></corr></add></emph><lb/> im Sinne  <persName key="Newton, Isaac" instant="false" full="yes">Newtons</persName>.</s>
           <lb/>
           <pb facs="Ms-153b_4v" rend="verso" n="pagename_Ms-153b,4v  pageref_00"/>
         </ab>
-        <ab xml:id="Ms-153b_4v.1et5r.1" n="Ms-153b,4v[1]et5r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_4v.1et5r.1" n="Ms-153b,4v[1]et5r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="bl_1"/>
           <seg type="wabmarks-secml" part="N">/ </seg>
           <s type="es" part="N">„<seg xml:lang="en" part="N"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable"><emph rend="uw1"><corr type="trsn" instant="false"><orig type="trsn1">s</orig><reg type="trsn2"><c type="c" part="N">S</c></reg></corr>eeing</emph></del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><emph rend="uw1"><corr type="trsn" instant="false"><orig type="trsn1">v</orig><reg type="trsn2"><c type="c" part="N">V</c></reg></corr>erifying</emph></add></orig></choice> by  inspection</seg>”<lb/> ist ein gänzlich irre<lb rend="shyphen"/>führender  Ausdruck.</s>
@@ -588,26 +598,29 @@
           <s type="es" part="N">Aber <lb/>dann ist eben das Um<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">wenden</corr>     <pb facs="Ms-153b_5r" rend="recto" n="pagename_Ms-153b,5r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">5</add></fw><corr type="npcn-pb" instant="false">wenden</corr> <add rend="i" instant="false" status="unremarkable">(oder schauen)</add> ein dem  Sehen <lb/>externer Vorgang der <lb/>uns (<emph rend="uw1">daher</emph>) nur prak<lb rend="shyphen"/>tisch  interessiert.</s>
           <lb/>
           <s type="es" part="N">Was man <choice type="s"><orig type="alt1">meint</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">sagen möchte</add></orig></choice> ist <lb/>‚sehen durch  sehen’ aber <lb/>das heißt nichts.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_5r.2" n="Ms-153b,5r[2]" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" xml:lang="en" part="N">
+        <ab xml:id="Ms-153b_5r.2" n="Ms-153b,5r[2]" ana="field:PhilosophyOfLanguage_date:19311122?" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">There is an infinity <lb/>of things which you <lb/>must notice about <lb/>the  use of the sim<lb rend="shyphen"/>plest word.</s>
           <s type="es" part="N"><choice type="em"><orig type="em1"><add rend="i" instant="false" status="unremarkable">The</add><choice type="o"><orig type="o1">G</orig><orig type="o2">g</orig></choice>rammar</orig><orig type="em2"><choice type="dsl"><orig type="alt1"><c type="c" part="N">G</c>rammar</orig><orig type="alt2"><c type="c" part="N">T</c>he grammar</orig></choice></orig></choice><lb/> of every word is enor<lb rend="shyphen"/>mously complicated<lb/>  &amp; therefore enormous<lb rend="shyphen"/>ly difficult to overlook <lb/>&amp; it is  just that you <lb/>must try to do.</s>
           <emph rend="bl_1"/>
           <pb facs="Ms-153b_5v" rend="verso" n="pagename_Ms-153b,5v  pageref_00"/>
         </ab>
-        <ab xml:id="Ms-153b_5v.1" n="Ms-153b,5v[1]" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" xml:lang="en" part="N">
+        <ab xml:id="Ms-153b_5v.1" n="Ms-153b,5v[1]" ana="field:PhilosophyOfLanguage_date:19311122?" xml:lang="en" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Methods of <unclear instant="false"><corr type="trsn" instant="false"><orig type="trsn1">P</orig><reg type="trsn2">p</reg></corr>rojection</unclear> <lb/>for colours &amp;  shapes.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_5v.2et6r.1" n="Ms-153b,5v[2]et6r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_5v.2et6r.1" n="Ms-153b,5v[2]et6r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die Sprache hat <lb/>für Alle die gleichen <lb/>Fallen bereit, das <lb/>gleiche  <add rend="im" instant="false" status="unremarkable">ungeheure</add> Netz schon <lb/>angelegter Irrwege.</s>
           <lb/>
           <s type="es" part="N">Und so sehen wir also <lb/>Einen nach dem <unclear instant="false">Andern</unclear> <lb/>die gleichen Wege  gehn <lb/>&amp; wissen schon wo <lb/>er jetzt abbiegen wird, <lb/><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">welche  Abzweigung <lb/>er nicht bemerken wird</del><lb/></orig><orig type="alt2">wo er  gera<del type="dn" instant="false" status="unremarkable"><gap extent="characters_1" instant="false"/></del>d<corr type="tran" instant="false">e</corr>aus <lb/>fortgehen wird ohne <lb/>die Abzweigung zu<lb/>  bemerken</orig></choice> <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr></s>
           <s type="es" rend="indl_2" part="N">Ich sollte also <lb/>   <pb facs="Ms-153b_6r" rend="recto" n="pagename_Ms-153b,6r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">6</add></fw>  an allen den Stellen <lb/>an denen Irrwege <lb/>angelegt sind <lb/><choice type="s"><orig type="alt1">Wegweiser</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Tafeln</add></orig></choice> aufstellen<lb/> die über die gefährli<lb rend="shyphen"/>chen Punkte hinweg<lb/>  helfen.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_6r.2et6v.1et7r.1et7v.1et8r.1et8v.1et9r.1et9v.1" n="Ms-153b,6r[2]et6v[1]et7r[1]et7v[1]et8r[1]et8v[1]et9r[1]et9v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_6r.2et6v.1et7r.1et7v.1et8r.1et8v.1et9r.1et9v.1" n="Ms-153b,6r[2]et6v[1]et7r[1]et7v[1]et8r[1]et8v[1]et9r[1]et9v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N">X </seg>
             <seg type="edcom" part="N"> ∣ </seg>
@@ -649,7 +662,7 @@
             <add rend="fremd" instant="false" status="unremarkable">10</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-153b_10r.1et10v.1et11r.1et11v.1et12r.1et12v.1et13r.1et13v.1" n="Ms-153b,10r[1]et10v[1]et11r[1]et11v[1]et12r[1]et12v[1]et13r[1]et13v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_10r.1et10v.1et11r.1et11v.1et12r.1et12v.1et13r.1et13v.1" n="Ms-153b,10r[1]et10v[1]et11r[1]et11v[1]et12r[1]et12v[1]et13r[1]et13v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="crossed">
             <s type="es" part="N">Folgt nun aber daraus <lb/>nicht daß die Defini<lb rend="shyphen"/>tion die Wort mit <lb/>Wort  (auch wenn dieses <lb/>ein färbiges Täfelchen ist) <lb/>von anderer Art, in<lb/>  einem andern Sinne <lb/>Definition ist als die <lb/>welche <add rend="im" instant="false" status="unremarkable">das</add> Wort mit <lb/>einem  Muster verbindet.</s>
@@ -694,7 +707,7 @@
             <s type="es" part="N">Nun da denken <lb/>wir natürlich an die <lb/>Regel eine Farbe durch <lb/>ihre  <corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">K</reg></corr>omplementärfar<lb rend="shyphen"/>be zu ersetzen.</s>
           </emph>
         </ab>
-        <ab xml:id="Ms-153b_13v.2et14r.1et14v.1et15r.1et15v.1et16r.1et16v.1" n="Ms-153b,13v[2]et14r[1]et14v[1]et15r[1]et15v[1]et16r[1]et16v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_13v.2et14r.1et14v.1et15r.1et15v.1et16r.1et16v.1" n="Ms-153b,13v[2]et14r[1]et14v[1]et15r[1]et15v[1]et16r[1]et16v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="crossed">
             <s type="es" rend="indl_4" part="N"> Meine Frage war <lb/>aber eigentlich die:<lb/> <c type="c" part="N">K</c>ommt das Kopieren<lb/>  überhaupt in Betracht <lb/>wenn Worte definiert <lb/>werden?</s>
@@ -725,8 +738,9 @@
             <s type="es" part="N">Denken <lb/>wir uns ein <abbr corresp="photographisches">Photogr.</abbr> <lb/>grün  rotes Negativ <lb/><abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr>  <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> <abbr type="abb">etc.</abbr></s>
             <lb/>
           </emph>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_16v.2et17r.1et17v.1" n="Ms-153b,16v[2]et17r[1]et17v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_16v.2et17r.1et17v.1" n="Ms-153b,16v[2]et17r[1]et17v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Das Charakteristische <lb/>an diesen  Proje<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>tions<lb rend="shyphen"/>methoden ist daß <lb/>sie in eine Tabelle<lb/>  münden, was die räum<lb rend="shyphen"/>lichen nicht tu<corr type="npcn" instant="false">e</corr>n.</s>
@@ -740,8 +754,9 @@
             <lb/>
             <s type="es" part="N">(Die Möglichkeiten <lb/>zeigen sich <unclear instant="false">deutlich</unclear><lb/> im  Farbeno<add rend="our_h" instant="false" status="unremarkable">ktaeder</add>.)</s>
           </emph>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_17v.2et18r.1et18v.1" n="Ms-153b,17v[2]et18r[1]et18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_17v.2et18r.1et18v.1" n="Ms-153b,17v[2]et18r[1]et18v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Wird denn ein Wort <lb/>eigentlich als Wort <lb/>gebraucht wenn <lb/>ich es <del type="dnpc" instant="false" status="unremarkable">dann  brauche</del> <lb/>nur in Verbindung <lb/>mit einer Tabelle <lb/>gebrauche die  <del type="dnpc" instant="false" status="unremarkable">es</del> <lb/>den Übergang zu <lb/>Mustern <emph rend="uw1">macht</emph>?</s>
@@ -757,8 +772,9 @@
             <s type="es" part="N">Etwas <lb/>ist auch an dieser Über<lb rend="shyphen"/>tragung willkürlich (die<lb/>  Proje<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>tionsmethode) &amp; wie <lb/>sollte ich  bestimmen was <lb/>willkürlicher ist.</s>
             <lb rend="hl"/>
           </emph>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_18v.2" n="Ms-153b,18v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_18v.2" n="Ms-153b,18v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Goethe, Johann Wolfgang von: Faust">
             <s type="es" part="N">„Stell Deinen Fuß <lb/>auf ellenhohe Socken, <lb/>Du bleibst doch  immer <lb/>was Du bist.”</s>
@@ -769,13 +785,14 @@
             <add rend="fremd" instant="false" status="unremarkable">19</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-153b_19r.1" n="Ms-153b,19r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_19r.1" n="Ms-153b,19r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Das Wort <choice type="s"><orig type="alt1">in</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">zwischen</add></orig></choice> Anführungs<lb rend="shyphen"/>zeichen ist ein  Muster.</s>
           </emph>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_19r.2" n="Ms-153b,19r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_19r.2" n="Ms-153b,19r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="ringed">
             <seg xml:lang="en" part="N">
@@ -788,39 +805,45 @@
               <s type="es" part="N">The subject in visual<lb/> space.</s>
             </seg>
           </emph>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_19r.3et19v.1" n="Ms-153b,19r[3]et19v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_19r.3et19v.1" n="Ms-153b,19r[3]et19v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Die Schwierigkeit <lb/>die uns das <choice type="o"><orig type="o1">s</orig><orig type="o2">S</orig></choice>prechen<lb/> über den  Gesichtsraum <lb/>ohne Subje<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>t macht<lb/> &amp; über meine  &amp; seine<lb/> Zahnschmerzen ist <lb/>die die Sprache einzuren<lb rend="shyphen"/>ken daß sie  richtig <lb/>   <pb facs="Ms-153b_19v" rend="verso" n="pagename_Ms-153b,19v  pageref_00"/> in den Tatsachen sitzt.</s>
           </emph>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_19v.2" n="Ms-153b,19v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_19v.2" n="Ms-153b,19v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Wenn mir Herr <seg type="p" part="N">N</seg> <lb/>vorgestellt wird weiß<lb/> ich jetzt etwas über <lb/>ihn  nämlich wie er <lb/>ausschaut <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> oder ver<lb rend="shyphen"/>stehe  ich jetzt den Namen <lb/>‚<seg type="p" part="N">N</seg>’?</s>
             <s type="es" part="N"><abbr type="abb">D.h.</abbr> war die Vorstel<lb rend="shyphen"/>lung ein Satz über <seg type="p" part="N">N</seg><lb/>  oder eine Definition von<lb/> ‚<seg type="p" part="N">N</seg>’?</s>
           </emph>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_19v.3" n="Ms-153b,19v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_19v.3" n="Ms-153b,19v[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N"><emph rend="us1"><c type="k" part="N">G</c>rund &amp; Ursache</emph>.</s>
           </emph>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_19v.4et20r.1" n="Ms-153b,19v[4]et20r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_19v.4et20r.1" n="Ms-153b,19v[4]et20r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N"><choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">Es ist als</del> // <del type="d" instant="false" status="unremarkable"><c type="c" part="N">I</c>ch <corr type="npcn" instant="false">ver</corr> so</del><lb/>  <c type="c" part="N">S</c>o verbinde ich <add rend="i" instant="false" status="unremarkable"><c type="c" part="N">S</c>o scheine ich</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1"><choice type="s"><orig type="alt1"><c type="c" part="N">E</c>s  ist als verbinde ich</orig><orig type="alt2"><c type="c" part="N">I</c>ch ver<corr type="tran" instant="false">binde</corr> so</orig></choice></orig><orig type="alt2"><choice type="dsf"><orig type="alt1"><c type="c" part="N">S</c>o verbinde ich</orig><orig type="alt2"><corr type="npc" instant="false"><c type="c" part="N">S</c>o scheine  ich</corr></orig></choice></orig></choice></orig></choice> ein (<emph rend="uw1">neues</emph>) <lb/>Zeichen mit ihm  (<del type="dnpc" instant="false" status="unremarkable">wie wenn <lb/>ich </del>eine andere Art <lb/>   <pb facs="Ms-153b_20r" rend="recto" n="pagename_Ms-153b,20r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">20</add></fw> Pfeil, wie wenn ich zur  <corr type="trsn" instant="false"><orig type="trsn1">e</orig><reg type="trsn2">E</reg></corr>r<lb rend="shyphen"/>klärung <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">von</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">des   <unclear instant="false">Fleckes</unclear></add></orig></choice> <seg type="p" part="N">o</seg> <seg type="p" part="N">x</seg> daneben<lb/> <seg type="edinst" part="N"><emph rend="startarrforward"/></seg> einen   Pfeil setzte <seg type="notation" subtype="graphics_Pfeile; nach oben-rechts" rend="bitmap" part="N"><table><row role="data" rows="1" cols="1"><cell role="data" rows="1" cols="1"><milestone unit="br"/>o</cell><cell role="data" rows="1" cols="1">x<milestone unit="br"/>↗</cell></row></table></seg><corr type="tra" instant="false">.</corr></s>
           </emph>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_20r.2" n="Ms-153b,20r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_20r.2" n="Ms-153b,20r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N"><seg xml:lang="en" part="N">Don't say this is no <lb/>explanation: <c type="c" part="N">T</c>his <lb/>is  <emph rend="us1">what we call</emph><lb/> an explanation</seg>.</s>
           </emph>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_20r.3et20v.1" n="Ms-153b,20r[3]et20v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_20r.3et20v.1" n="Ms-153b,20r[3]et20v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <seg type="edinst" part="N">
@@ -834,8 +857,9 @@
             <lb/>
             <s type="es" part="N">Als wäre durch <lb/>den Pfeil allein noch <lb/>eine sichtbare Lücke<lb/> gelassen die ich  jetzt <lb/>(also ein für allemal)<lb/> ausfülle<corr type="tra" instant="false">.</corr></s>
           </emph>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_20v.2et21r.1" n="Ms-153b,20v[2]et21r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_20v.2et21r.1" n="Ms-153b,20v[2]et21r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">– <c type="k" part="N">s</c>o gebe ich eine Defini<lb rend="shyphen"/>tion während es scheint<lb/> als  hätte ich sozusagen <lb/>die Angabe des Pfeiles <lb/>ergänzt.</s>
@@ -844,15 +868,17 @@
             <s type="es" part="N">Während es <lb/><emph rend="us1">scheint</emph> als wäre der<lb/> Pfeil <add rend="im" instant="false" status="unremarkable">selbst</add> wesentlich  unvoll<lb rend="shyphen"/>kommen, ergänzungs<lb rend="shyphen"/>bed<corr type="trsn" instant="false"><orig type="trsn1">u</orig><reg type="trsn2">ü</reg></corr>rftig &amp; als  hätte <lb/>ich ihm nun die nötige <lb/>Ergänzung gegeben: <lb/><c type="c" part="N">W</c>ie man eine  Beschrei<lb rend="shyphen"/>bung eines Gegenstandes <lb/>als unvollkommen <lb/>erkennt &amp;  <choice type="s"><orig type="alt1">vervoll<lb rend="shyphen"/>ständigt</orig><orig type="alt2"><seg type="edinst" part="N"> [ </seg>vervollstän<lb rend="shyphen"/>digen  kann<seg type="edinst" part="N"> ] </seg></orig></choice>.</s>
             <s type="es" part="N">Als hätte <lb/>der Pfeil die Beschrei<lb rend="shyphen"/>bung angefangen &amp; <lb/>wir sie  durch den Satz <lb/>vollendet.</s>
           </emph>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_21r.2et21v.1" n="Ms-153b,21r[2]et21v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_21r.2et21v.1" n="Ms-153b,21r[2]et21v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Eddington, Sir Arthur Stanley: The Nature of the Physical World">
             <s type="es" part="N">Was <persName key="Eddington, Sir Arthur Stanley" instant="false" full="yes">Ed<corr type="tran" instant="false">d</corr>ington</persName> über<lb/> die  ‚Richtung der <lb/>   <pb facs="Ms-153b_21v" rend="verso" n="pagename_Ms-153b,21v  pageref_00"/> Zeit’  &amp; den Ent<corr type="npcn" instant="false">h</corr>ropie<lb rend="shyphen"/>satz sagt  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable"><unclear instant="false">kommt</unclear></del><lb/></orig><orig type="alt2">läuft</orig></choice> darauf hinaus, <lb/>daß die Zeit  ihre <lb/>Richtung umkeh<lb rend="shyphen"/>ren würde, wenn die <lb/>Menschen eines schönen <lb/>Tages  anfingen rück<lb rend="shyphen"/>wärts zu gehen.</s>
           </rs>
           <s type="es" part="N">Wenn<lb/> man will kann man <lb/>das freilich so nennen; <lb/>man muß dann nur<lb/>  <add rend="im" instant="false" status="unremarkable">darüber</add> klar sein daß man<lb/> damit nichts anderes <lb/>sagt als daß die  Men<lb rend="shyphen"/>schen ihre Gehrichtung <lb/>geändert haben.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_21v.2" n="Ms-153b,21v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_21v.2" n="Ms-153b,21v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Untersuchen wir <choice type="s"><orig type="alt1">die</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">unsere</add></orig></choice> Sprache<lb/> <emph rend="us1">auf ihre Regeln  hin</emph>.</s>
           <pb facs="Ms-153b_22r" rend="recto" n="pagename_Ms-153b,22r  pageref_00"/>
@@ -860,29 +886,33 @@
             <add rend="fremd" instant="false" status="unremarkable">22</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-153b_22r.1" n="Ms-153b,22r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_22r.1" n="Ms-153b,22r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Finden wir irgendwo <lb/>keine (<emph rend="uw1">festen</emph>) Regeln, nun<lb/> so ist  <emph rend="us1">das</emph> das Resultat.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_22r.2" n="Ms-153b,22r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_22r.2" n="Ms-153b,22r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wie findet man denn <lb/>die Regel eines Spiels<lb/> bei einem fremden  Volk?</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_22r.3" n="Ms-153b,22r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_22r.3" n="Ms-153b,22r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Einer teilt die Menschen <lb/>ein in Käufer &amp; Verkäufer<lb/> &amp;  vergißt, daß Käufer <lb/>auch Verkäufer sind.</s>
           <lb/>
           <s type="es" part="N">Wenn ich ihn daran erin<lb rend="shyphen"/>nere, wird seine Grammatik<lb/>  geändert?</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_22r.4et22v.1" n="Ms-153b,22r[4]et22v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_22r.4et22v.1" n="Ms-153b,22r[4]et22v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn ich sagte „ich <lb/>sah einen Sessel”<lb/> so widerspricht  dem <lb/>   <pb facs="Ms-153b_22v" rend="verso" n="pagename_Ms-153b,22v  pageref_00"/> (in einem gewissen Sinn <lb/>gebraucht) nicht der<lb/>  Satz ‚es war keiner da’.</s>
           <lb/>
           <s type="es" part="N">Denn den ersten Satz <lb/>würde ich auch in der <lb/>Beschreibung eines <lb/>Traums  verwenden <lb/>&amp; niemand würde mir<lb/> dann mit den Worten <lb/>des zweiten  widersprechen.</s>
           <lb/>
           <s type="es" part="N">Aber die <add rend="our" instant="false" status="unremarkable">Besc</add>hrei<lb rend="shyphen"/>bung des Traums <lb/>mit jenen Worten wirft<lb/>  auch <emph rend="us1">ein</emph> Licht auf <lb/>den Sinn der Worte <lb/>„<emph rend="us1">ich</emph>  <emph rend="us1">sah</emph>”.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_22v.2et23r.1et23v.1" n="Ms-153b,22v[2]et23r[1]et23v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_22v.2et23r.1et23v.1" n="Ms-153b,22v[2]et23r[1]et23v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die meisten Menschen<lb/> wenn sie eine philoso<lb rend="shyphen"/>phische Untersuchung<lb/>     <pb facs="Ms-153b_23r" rend="recto" n="pagename_Ms-153b,23r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">23</add></fw> anstellen <add rend="im" instant="false" status="unremarkable">sollen</add> <choice type="s"><orig type="alt1"><emph rend="uw1">benehmen<lb/>  sich</emph> wie<lb/></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><choice type="s"><orig type="alt1"><emph rend="uw1">sind</emph></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">machen es</add></orig></choice><emph rend="uw1">wie</emph></add></orig></choice> <del type="dnpc" instant="false" status="unremarkable">Einer der ein <lb/>sehr nervöser Mensch</del><lb/> Einer der  äußerst nervös <lb/><del type="d" instant="false" status="unremarkable">&amp; in <unclear instant="false">Hast</unclear></del> einen Gegen<lb rend="shyphen"/>stand in  einer Lade sucht.</s>
           <lb/>
@@ -891,19 +921,22 @@
           <lb/>
           <s type="es" part="N">Man kann diesem dann <lb/>nur sagen: <c type="c" part="N">H</c>alt, wenn <lb/>Du <emph rend="us1">so</emph>  suchst kann<lb/> <del type="dnpc" instant="false" status="unremarkable">ich nicht <gap extent="words_1" instant="false"/> Dir</del> ich Dir <lb/>nicht  <add rend="im" instant="false" status="unremarkable">suchen</add> helfen.</s>
           <s type="es" part="N">Erst mußt <lb/>Du anfangen in vollkom<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">mener</corr>   <pb facs="Ms-153b_23v" rend="verso" n="pagename_Ms-153b,23v  pageref_00"/><corr type="npcn-pb" instant="false">mener</corr> Ruhe  &amp; metho<lb rend="shyphen"/>disch eins nach dem <lb/>andern zu untersuchen <lb/>dann bin ich  auch be<lb rend="shyphen"/>reit <choice type="s"><orig type="alt1">Dir suchen zu helfen <lb/></orig><orig type="alt2"><seg type="edinst" part="N"> [ </seg>mit Dir zu  suchen<seg type="edinst" part="N"> ] </seg></orig></choice> &amp; <lb/><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">auch</del></orig><orig type="alt2">mich auch</orig></choice> in  mei<lb rend="shyphen"/>ner Methode nach Dir<lb/> zu richten.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_23v.2" n="Ms-153b,23v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_23v.2" n="Ms-153b,23v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">„Das Stück war für Dich <lb/>gemeint”; wie äußert <lb/>sich das,  was ist die <lb/>Verifi<corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>ation dieses Satzes <lb/><emph rend="uw1">dann</emph>  werden wir wissen <lb/>was er sagt.</s>
           </emph>
+          <emph rend="bl_2"/>
         </ab>
-        <ab xml:id="Ms-153b_23v.3et24r.1" n="Ms-153b,23v[3]et24r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_2" part="N">
+        <ab xml:id="Ms-153b_23v.3et24r.1" n="Ms-153b,23v[3]et24r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die philosophisch <lb/>wichtigsten Aspekte <lb/><choice type="s"><orig type="alt1">der Dinge</orig><orig type="alt2"><seg type="edinst" part="N"> [ </seg>der  Sprache<seg type="edinst" part="N"> ] </seg></orig></choice> <lb/>   <pb facs="Ms-153b_24r" rend="recto" n="pagename_Ms-153b,24r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">24</add></fw> sind d<add rend="our" instant="false" status="unremarkable">urch</add> ihre Einfach<lb rend="shyphen"/>heit  &amp; Alltäglichkeit <lb/>verborgen.</s>
           <s type="es" rend="indl_4" part="N">Man kann es nicht <lb/>bemerken weil man es <lb/>immer <emph rend="uw1"><add rend="im" instant="false" status="unremarkable">offen</add></emph> vor  Augen hat<corr type="tra" instant="false">.</corr></s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_24r.2" n="Ms-153b,24r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_24r.2" n="Ms-153b,24r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <rs type="extref" key="Darwin, Charles: The Expression of the Emotions in Man and Animals">
             <s type="es" part="N">(Das eigentliche Ver<lb rend="shyphen"/>dienst eines  <persName key="Kopernikus, Nikolaus" instant="false" full="yes">Koperni<lb rend="shyphen"/><corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">k</reg></corr>us</persName> oder <persName key="Darwin, Charles" instant="false" full="yes">Darwin</persName>  <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr><lb/> war nicht <add rend="i" instant="false" status="unremarkable">die Entdeckung</add> einer wahren<lb/>  Theorie sondern eines frucht<lb rend="shyphen"/>baren Aspekts.)</s>
@@ -943,13 +976,14 @@
           </s>
           <pb facs="Ms-153b_24v" rend="verso" n="pagename_Ms-153b,24v  pageref_00"/>
         </ab>
-        <ab xml:id="Ms-153b_24v.1" n="Ms-153b,24v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_24v.1" n="Ms-153b,24v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Der Übergang von<lb/> der Rechnung über <lb/>Pflaumen zu einer <lb/>Handlung mit den<lb/>  Pflaumen &amp; vom <add rend="our" instant="false" status="unremarkable">W</add>ort<lb/> Pflaume zum Ding.</s>
           </emph>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_24v.2et25r.1et25v.1et26r.1et26v.1et27r.1et27v.1et28r.1" n="Ms-153b,24v[2]et25r[1]et25v[1]et26r[1]et26v[1]et27r[1]et27v[1]et28r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_24v.2et25r.1et25v.1et26r.1et26v.1et27r.1et27v.1et28r.1" n="Ms-153b,24v[2]et25r[1]et25v[1]et26r[1]et26v[1]et27r[1]et27v[1]et28r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <emph rend="crossed">
             <seg type="wabmarks-secml" part="N"/>
             <s type="es" part="N">Die Definition &amp; die Namen<lb rend="shyphen"/>gebung ordnet einer<lb/> Sache ein   Zeichen bei <lb/>(im ersten Fall einem<lb/> Zeichen). –</s>
@@ -1004,7 +1038,7 @@
             <lb/>
           </emph>
         </ab>
-        <ab xml:id="Ms-153b_28r.2et28v.1et29v.1" n="Ms-153b,28r[2]et28v[1]et29v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_28r.2et28v.1et29v.1" n="Ms-153b,28r[2]et28v[1]et29v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="crossed">
             <s type="es" part="N"> Das heißt, der Übergang <lb/>   <pb facs="Ms-153b_28v" rend="verso" n="pagename_Ms-153b,28v  pageref_00"/> vom Namen  zum Benannten<lb/> muß <choice type="o"><orig type="o1">A</orig><orig type="o2">a</orig></choice>nderer Natur <lb/>sein  als der vom Definie<lb rend="shyphen"/><add rend="our" instant="false" status="unremarkable">rendem</add> zu Definiertem.</s>
@@ -1023,7 +1057,7 @@
             <s type="es" part="N">Also im Unter<lb rend="shyphen"/>schied zwischen Begriffs<lb rend="shyphen"/>namen &amp;  Eigennamen?</s>
           </emph>
         </ab>
-        <ab xml:id="Ms-153b_29r.1" n="Ms-153b,29r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_29r.1" n="Ms-153b,29r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <pb facs="Ms-153b_29r" rend="recto" n="pagename_Ms-153b,29r  pageref_00"/>
@@ -1045,7 +1079,7 @@
             <lb/>
           </seg>
         </ab>
-        <ab xml:id="Ms-153b_29v.2et30v.2et31r.1et31v.1et32r.1et32v.1et33r.1" n="Ms-153b,29v[2]et30v[2]et31r[1]et31v[1]et32r[1]et32v[1]et33r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_29v.2et30v.2et31r.1et31v.1et32r.1et32v.1et33r.1" n="Ms-153b,29v[2]et30v[2]et31r[1]et31v[1]et32r[1]et32v[1]et33r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="crossed">
             <s type="es" rend="indl_4" part="N"> Ist es denn aber<lb/> nicht einfach so: <c type="c" part="N">D</c>as<lb/> Gleichheitszeichen  zwischen <lb/>zwei <choice type="s"><orig type="alt1">Ausdrücken</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Zeichen</add></orig></choice> be<lb rend="shyphen"/>deutet daß  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">sie</del></orig><orig type="alt2">die beiden</orig></choice><lb/> die gleiche Bedeutung <lb/>haben  <abbr type="abb">d.h.</abbr> daß die  gleichen</s>
@@ -1080,7 +1114,7 @@
             <s type="es" part="N">Und zwar spielt<lb/> der Träger in dem Zeichen<lb/> eine ganz besondere  Rol<lb rend="shyphen"/>le.</s>
           </emph>
         </ab>
-        <ab xml:id="Ms-153b_30r.1et30v.1" n="Ms-153b,30r[1]et30v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_30r.1et30v.1" n="Ms-153b,30r[1]et30v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <pb facs="Ms-153b_30r" rend="recto" n="pagename_Ms-153b,30r  pageref_00"/>
           <fw type="pagen" place="top right">
@@ -1102,8 +1136,9 @@
               </emph>
             </seg>
           </reloc>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_33r.1et33v.1et37v.2et38r.2et38v.1" n="Ms-153b,33r[1]et33v[1]et37v[2]et38r[2]et38v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_33r.1et33v.1et37v.2et38r.2et38v.1" n="Ms-153b,33r[1]et33v[1]et37v[2]et38r[2]et38v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <emph rend="bl_1"/>
           <emph rend="crossed">
@@ -1172,7 +1207,7 @@
             <add rend="fremd" instant="false" status="unremarkable">39</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-153b_34r.1et34v.1et35r.1et35v.1et36r.1et36v.1et37r.1et37v.1" n="Ms-153b,34r[1]et34v[1]et35r[1]et35v[1]et36r[1]et36v[1]et37r[1]et37v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_34r.1et34v.1et35r.1et35v.1et36r.1et36v.1et37r.1et37v.1" n="Ms-153b,34r[1]et34v[1]et35r[1]et35v[1]et36r[1]et36v[1]et37r[1]et37v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311122?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <pb facs="Ms-153b_34r" rend="recto" n="pagename_Ms-153b,34r pageref_00"/>
           <fw type="pagen" place="top right">
@@ -1215,21 +1250,23 @@
             <s type="es" part="N">Daher <lb/>kommen wir &amp; <emph rend="uw1">schaffen</emph> <lb/>eine klare    Ordnung<del type="dnpc" instant="false" status="unremarkable">,</del>: <lb/><c type="c" part="N">W</c>ir setzen den    Pr<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>sidenten<lb/> an das obere Ende des <lb/>Tisches &amp;    seinen Sekretär <lb/>zu ihm an ein eigenes Tisch<lb rend="shyphen"/>chen &amp; die    gleichberech<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">tigten</corr>        <pb facs="Ms-153b_37v" rend="verso" n="pagename_Ms-153b,37v  pageref_00"/><emph rend="ringed"><corr type="npcn-pb" instant="false">tigten</corr> Mitglieder     alle <lb/>an einen Tisch <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr></emph></s>
             <emph rend="bl_1"/>
           </reloc>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_39r.1" n="Ms-153b,39r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311123?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_39r.1" n="Ms-153b,39r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311123?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">„Etwas habe ich aber<lb/> doch gemeint als ich <lb/>das  sagte!”</s>
           <s type="es" part="N">Nun gut,<lb/> aber wie können wir es<lb/> herausbringen<choice type="o"><orig type="o1">;</orig><orig type="o2">?</orig></choice> doch<lb/>  wohl nur dadurch <lb/>daß wir ihn fragen.</s>
           <lb/>
           <s type="es" part="N"><del type="dnpc" instant="false" status="unremarkable">Nicht</del><c type="c" part="N">W</c>enn wir nicht <lb/>sein übriges  Verhalten <lb/>zum <corr type="trsn" instant="false"><orig type="trsn1">C</orig><reg type="trsn2">K</reg></corr>riterium des <lb/>Sinnes nehmen sollen <lb/>dann  also das was <lb/>er uns erklärt.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_39r.2" n="Ms-153b,39r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311124?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_39r.2" n="Ms-153b,39r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311124?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wen<add rend="our" instant="false" status="unremarkable">n</add> man <choice type="s"><orig type="alt1">in der Philo<lb rend="shyphen"/>sophie</orig><orig type="alt2"><seg type="edinst" part="N"> [ </seg>den  Philosophen<seg type="edinst" part="N"> ] </seg></orig></choice><lb/> fragt „was ist –  <abbr type="abb">z.B.</abbr> – Sub<lb rend="shyphen"/>stanz”  <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> <abbr type="abb">etc.</abbr>, so wird <lb/>um eine Regel  gebeten<corr type="tra" instant="false">.</corr></s>
           <emph rend="bl_1"/>
           <pb facs="Ms-153b_39v" rend="verso" n="pagename_Ms-153b,39v  pageref_00"/>
         </ab>
-        <ab xml:id="Ms-153b_39v.1" n="Ms-153b,39v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;51.1_date:19311124?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_39v.1" n="Ms-153b,39v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;51.1_date:19311124?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="publ" part="N">
             <s type="es" part="N">Sehe die Photographien<lb/> von <corr type="trsn" instant="false"><orig type="trsn1">C</orig><reg type="trsn2">k</reg></corr>orsischen Briganten <lb/>und  denke mir: die <lb/>Gesichter sind zu hart<lb/> <del type="dnpc" instant="false" status="unremarkable">um das Christentum</del><lb/>  &amp; meines zu weich als<lb/> daß das Christentum<lb/> darauf schreiben<lb/>  könnte.</s>
@@ -1242,7 +1279,7 @@
             </fw>
           </seg>
         </ab>
-        <ab xml:id="Ms-153b_40r.1et40v.1et41r.1" n="Ms-153b,40r[1]et40v[1]et41r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311126?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_40r.1et40v.1et41r.1" n="Ms-153b,40r[1]et40v[1]et41r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311126?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Zwei Farben, zwei Dampfspan<lb rend="shyphen"/>nungen, zwei elektrische<lb/> Ladungen  <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr> haben <lb/>nicht zu gleicher Zeit <lb/>an  einem <choice type="o"><orig type="o1">A</orig><orig type="o2">O</orig></choice>rt Platz.</s>
           <s type="es" rend="indl_4" part="N">Eine merkwürdige Ge<lb rend="shyphen"/>sellschaft <choice type="s"><orig type="alt1">die ich da <lb/>aufzähle.</orig><orig type="alt2"><seg type="edinst" part="N"> [ </seg>die sich da <lb/>zusammenfindet<seg type="edinst" part="N"> ] </seg>.</orig></choice></s>
@@ -1268,19 +1305,22 @@
           <s type="es" rend="indl_4" part="N">Kann ich die Regel<lb/> die dem allem zugrun<lb rend="shyphen"/>de liegt so schreiben:  <emph rend="indl_4"/> <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">fa  =   fa  ∙  ~ fb</seg>? <del type="dn" instant="false" status="unremarkable"><gap extent="characters_1" instant="false"/></del>  <abbr type="abb">d.i.</abbr>: aus <lb rend="hl"/><seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">fa</seg> folgt  <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">~   fb</seg><corr type="tra" instant="false">.</corr></s>
           <emph rend="sepline"/>
         </ab>
-        <ab xml:id="Ms-153b_41r.2et41v.1" n="Ms-153b,41r[2]et41v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_41r.2et41v.1" n="Ms-153b,41r[2]et41v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn Leute sagen der<lb/> Satz „es ist wahrschein<lb rend="shyphen"/>lich daß  <seg type="p" part="N">p</seg> eintreffen <lb/>wird” sage etwas <lb/>über das Ereignis <seg type="p" part="N">p</seg><lb/> so  vergessen sie  <lb/>  <pb facs="Ms-153b_41v" rend="verso" n="pagename_Ms-153b,41v  pageref_00"/> daß es auch  wahr<lb rend="shyphen"/>scheinlich bleibt <lb/>wenn das Ereignis <lb/><seg type="p" part="N">p</seg> <emph rend="us1">nicht</emph>  eingetroffen <lb/>ist.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_41v.2" n="Ms-153b,41v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_41v.2" n="Ms-153b,41v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wir sagen mit dem <lb/>Satz „<seg type="p" part="N">p</seg> wird wahr<lb rend="shyphen"/>scheinlich  eintreffen”<lb/> zwar etwas über die <lb/>Zukunft aber nicht<lb/> etwas  „<emph rend="us1">über</emph> das <lb/>Ereignis <seg type="p" part="N">p</seg>” wie die<lb/> grammatische  Form <add rend="im" instant="false" status="unremarkable">der <unclear instant="false">Aussage</unclear></add><lb/> uns glauben macht.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_41v.3et42r.1" n="Ms-153b,41v[3]et42r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_41v.3et42r.1" n="Ms-153b,41v[3]et42r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn ich nach dem <lb/>Grund einer <unclear instant="false">Behauptung</unclear> <lb/>frage  <del type="d" instant="false" status="unremarkable">„warum sagst<lb/> Du glaubst Du das”<lb/></del>    <pb facs="Ms-153b_42r" rend="recto" n="pagename_Ms-153b,42r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">42</add></fw> so ist die Antwort auf<lb/> diese Frage nicht für<lb/>  den Gefragten sondern <lb/>allgemein gültig.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_42r.2et42v.1" n="Ms-153b,42r[2]et42v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_42r.2et42v.1" n="Ms-153b,42r[2]et42v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn ich sage: „das <lb/>Wetter deutet auf <lb/>Regen” sage  ich etwas <lb/>über d<add rend="our" instant="false" status="unremarkable">as</add> <del type="dnpc" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del> zukün<lb rend="shyphen"/>ftige  Wetter?</s>
           <s type="es" part="N">Nein son<lb rend="shyphen"/>dern über das gegenwär<lb rend="shyphen"/><add rend="our" instant="false" status="unremarkable">tige</add> mit Hilfe eines<lb/>  Gesetzes welches das <lb/>Wetter zu einer Zeit mit<lb/> dem in einer  <choice type="s"><orig type="alt1">späteren</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">früheren</add></orig></choice> Zeit <lb/>in Verbindung bringt.</s>
@@ -1290,19 +1330,22 @@
           <s type="es" part="N">Aber es war <lb/>ja auch vorschnell <lb/>zu sagen der Satz „das <lb/>Wetter  deutet auf Regen”<lb/> sage nichts über das <lb/>zukünftige Wetter.</s>
           <s type="es" part="N">Das <lb/>kommt darauf an<lb/> was man darunter ver<lb rend="shyphen"/>steht „etwas über  etwas<lb/> aussagen”.</s>
           <s type="es" part="N">Er sagt eben <lb/><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">was</del></orig><orig type="alt2">seinen Wortlaut</orig></choice>!</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_42v.1et43r.1" n="Ms-153b,42v[1]et43r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_42v.1et43r.1" n="Ms-153b,42v[1]et43r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Der Satz <add rend="im" instant="false" status="unremarkable">„<choice type="em"><orig type="em1"><choice type="o"><orig type="o1">p</orig><orig type="o2">e</orig></choice>s</orig><orig type="em2"><choice type="dsl"><orig type="alt1"><seg type="p" part="N">p</seg></orig><orig type="alt2">es</orig></choice></orig></choice> wird <abbr corresp="wahrscheinlich">wahrsch.</abbr>  eintreten”</add> sagt nur <lb/>etwas über die Zukunft <lb/>in einem Sinn in  welchem <lb/>   <pb facs="Ms-153b_43r" rend="recto" n="pagename_Ms-153b,43r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">43</add></fw> seine Wahr-<corr type="x" instant="false">heit</corr>  &amp; Falschheit <lb/><unclear instant="false"><seg type="doubt" part="N">g<corr type="trsn" instant="false"><orig type="trsn1">a</orig><reg type="trsn2">ä</reg></corr>nzlich</seg></unclear>  unabhängig<lb/> ist von dem was in der <lb/>Zukunft geschehen <lb/>wird.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_43r.2et43v.1" n="Ms-153b,43r[2]et43v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_43r.2et43v.1" n="Ms-153b,43r[2]et43v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn wir sagen das <lb/>Gewehr zie<del type="dn" instant="false" status="unremarkable">h</del>lt jetzt <lb/>auf <choice type="s"><orig type="alt1">diesen</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">den</add></orig></choice> Punkt <add rend="i" instant="false" status="unremarkable"><seg type="p" part="N">P</seg></add> so <lb/>sagen wir nichts darüber <lb/>wohin der  Schuß treffen <lb/>wird.</s>
           <s type="es" part="N">Der Punkt auf<lb/> den es zielt ist ein <lb/><emph rend="us1">geometrisches</emph>  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Mittel<lb/></del></orig><orig type="alt2">Hilfsmittel</orig></choice> zur <choice type="o"><orig type="o1">a</orig><orig type="o2">A</orig></choice>ngabe <lb/>seiner  Richtung.</s>
           <s type="es" part="N">Daß <lb/>wir gerade dieses <lb/>Mittel verwenden hängt <lb/>allerdings mit gewissen   <emph rend="centered"><seg type="notation" corresp="http://www.minerva.mic.ul.ie/vol2/Ver_33/cat/D1180.gif" subtype="graphics_Kurven; Kurve" rend="bitmap" part="N">153039</seg></emph>    <pb facs="Ms-153b_43v" rend="verso" n="pagename_Ms-153b,43v  pageref_00"/>  Erfahrungs<unclear instant="false">tatsachen</unclear> <lb/>zusammen (Wurfparabel<lb/>  <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr>) aber diese treten jetzt<lb/> nicht in die  Bestimmung<lb/> der Richtung ein.</s>
           <emph rend="sepline"/>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_43v.2" n="Ms-153b,43v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_43v.2" n="Ms-153b,43v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Mi<add rend="our" instant="false" status="unremarkable">t</add> der Möglichkeit <lb/><seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">p  ∙  q  =  p</seg> wenn sie <lb/>nicht   aus der W-F<corr type="trs" instant="false"><orig type="trs1"> </orig><reg type="trs2">-</reg></corr>Notation<lb/> hervorgeht <lb/>habe ich natürlich  ein<corr type="npcn" instant="false">e</corr><lb/> ganz neues Element<lb/> in den Kalkül einge<lb rend="shyphen"/>führt den  Kalkül <lb/><del type="d" instant="false" status="unremarkable">ganz</del> geändert.</s>
           <emph rend="bl_2"/>
@@ -1311,7 +1354,7 @@
             <add rend="fremd" instant="false" status="unremarkable">44</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-153b_44r.1et44v.1et45r.1et45v.1" n="Ms-153b,44r[1]et44v[1]et45r[1]et45v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_44r.1et44v.1et45r.1et45v.1" n="Ms-153b,44r[1]et44v[1]et45r[1]et45v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311129?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Man kann definieren <lb rend="hl"/><seg type="notation" subtype="maths_arithmetic representation graphics_Reihenfolgen; Strichnotation" rend="literal" part="N"><del type="d" instant="false" status="unremarkable">(∃x) φx</del><lb rend="hl"/>  (∃x,y) φx  ∙  φ y  ∙  ~  (∃ x,y,z) φx  ∙  φ y  ∙  φ  z<lb rend="hl"/> ≝ (∃<emph rend="sub">n</emph> <choice type="o"><orig type="o1">φ</orig><orig type="o2">x</orig></choice>,y)  φx  ∙  φ y  =  ∃<emph rend="sub">n</emph> ❘ ❘x)   φx</seg> <lb rend="hl"/>ebenso <lb rend="hl"/><seg type="notation" subtype="maths_arithmetic representation graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">(∃ x,y,z) φx   ∙  φ y  ∙  φ z  ∙  ~ ‒ ‒ ‒<lb rend="hl"/>   =  (∃<emph rend="sub">n</emph> ❘ ❘ ❘ x) φx   <abbr type="abb">etc.</abbr></seg></s>
           <lb rend="hl"/>
@@ -1331,8 +1374,9 @@
           <s type="es" rend="indl_4" part="N">Es hat dagegen Sinn <lb/>nach dieser allgemeinen    <pb facs="Ms-153b_45v" rend="verso" n="pagename_Ms-153b,45v  pageref_00"/> Regel zu schreiben  <emph rend="centered"><seg type="notation" subtype="logic_nonstandard existential quantifier list" rend="literal" part="N">(∃ 2x ‒ ‒ ‒ (∃  3x)</seg></emph> <emph rend="centered"><seg type="notation" subtype="logic_nonstandard existential quantifier" rend="literal" part="N">(∃ 2  +   3x)</seg></emph></s>
           <s type="es" part="N">Wenn man (<emph rend="uw1">sozusagen</emph>) <lb/>noch nicht weiß<lb/> was  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">2  +  3</seg> ergeben wird<lb/>  denn <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">2  +  3</seg> hat nur  sofern<lb/> einen Sinn <choice type="s"><orig type="alt1">als es noch <lb/>auszurechnen ist</orig><orig type="alt2"><seg type="edinst" part="N"> [ </seg>als<lb/> es noch  ausgerechnet<lb/> werden <choice type="s"><orig type="alt1">kann</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">muß</add></orig></choice>.<seg type="edinst" part="N"> ] </seg></orig></choice></s>
           <s type="es" rend="indl_4" part="N">Daher hat die Glei<lb rend="shyphen"/>chung  <emph rend="indl_4"/><seg type="notation" subtype="maths_arithmetic representation graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘ ❘ + ❘ ❘ ❘ = ❘ ❘ ❘ ❘ ❘</seg> nur  dann <lb/>einen Sinn wenn das Zeichen <lb/><seg type="notation" subtype="maths_arithmetic representation graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘ ❘ ❘ ❘ ❘</seg> so  wiedererkannt<lb/> <choice type="s"><orig type="alt1">werden kann</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">wird</add></orig></choice> wie das Zeichen<lb/> 5.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_45v.1et46r.1et46v.1" n="Ms-153b,45v[1]et46r[1]et46v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_45v.1et46r.1et46v.1" n="Ms-153b,45v[1]et46r[1]et46v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Zu sagen <seg type="notation" subtype="maths_arithmetic representation" rend="literal" part="N">„4 Gegenstände <lb/>   <pb facs="Ms-153b_46r" rend="recto" n="pagename_Ms-153b,46r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">46</add></fw>  +  4 Gegenstände sind<lb/> 8  Gegenstände”</seg> heißt<lb/> nichts &amp; ebensowenig<lb/>  <seg type="notation" subtype="maths_arithmetic representation" rend="literal" part="N">4 Äpfel &amp;  4 Äpfel sind 8 Äpfel</seg> außer <lb/>wenn damit der<lb/> Erfahrungssatz<del type="dn" instant="false" status="unremarkable"><gap extent="characters_1" instant="false"/></del><lb/>  ausgesprochen sein <lb/>soll daß 8 <corr type="trsn" instant="false"><orig type="trsn1">A</orig><reg type="trsn2">Ä</reg></corr>pfel<lb/> auf dem Tisch  liegen <lb/>wenn man zuerst<lb/> 4 &amp; dann noch einmal <lb/>4  <corr type="trsn" instant="false"><orig type="trsn1">A</orig><reg type="trsn2">Ä</reg></corr>pfel auf den Tisch <lb/>gelegt hat.</s>
           <s type="es" part="N">Die Glei<lb rend="shyphen"/>chung der Arithmetik <lb/>dagegen heißt  <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">4  +  4  =   8</seg>.</s>
@@ -1343,8 +1387,9 @@
           <lb/>
           <s type="es" part="N"><seg type="edcom" part="N">→</seg> Es ist also Unsinn<lb/> zu fragen ob <choice type="o"><orig type="o1">zwei</orig><orig type="o2">vier</orig></choice>  Gegen<lb rend="shyphen"/>stände auch dann<lb/> <seg type="notation" subtype="maths_arithmetic" rend="literal" part="N">2   +  2</seg> Gegenstände sind <lb/>wenn <del type="dnpc" instant="false" status="unremarkable">sie <seg type="p" part="N">k</seg></del> nicht je<lb/> 2  <add rend="im" instant="false" status="unremarkable">von ihnen</add> unter einen Begriff<lb/> fallen.</s>
           <emph rend="sepline"/>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_46v.2et47r.1et47v.1" n="Ms-153b,46v[2]et47r[1]et47v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_46v.2et47r.1et47v.1" n="Ms-153b,46v[2]et47r[1]et47v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Von einem Teil meines <lb/>Gesichtsfeldes zu sagen <lb/>er habe keine Farben<lb/>     <pb facs="Ms-153b_47r" rend="recto" n="pagename_Ms-153b,47r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">47</add></fw> ist Unsinn ebenso <lb/>natürlich auch zu <lb/>sagen er  habe Farben<corr type="tra" instant="false">.</corr></s>
           <lb/>
@@ -1366,26 +1411,29 @@
             <add rend="fremd" instant="false" status="unremarkable">48</add>
           </fw>
         </ab>
-        <ab xml:id="Ms-153b_48r.1" n="Ms-153b,48r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_48r.1" n="Ms-153b,48r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wir brauchen nicht von<lb/> Farben zu reden sondern <lb/><add rend="im" instant="false" status="unremarkable">nur</add> von der Teilung  einer <lb/>Fläche im Gesichtsraum <lb/>überhaupt.</s>
           <lb rend="hl"/>
           <s type="es" part="N">
             <emph rend="centered">– – – – – – – </emph>
           </s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_48r.2et48v.1" n="Ms-153b,48r[2]et48v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_48r.2et48v.1" n="Ms-153b,48r[2]et48v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><abbr type="abb">D.h.</abbr><c type="c" part="N">D</c>ie <emph rend="uw1">Aussage</emph> „die<lb/>  Fläche hat nur eine Farbe” <lb/>enthält keine Aussage<lb/> „die  Fläche ist färbig” <lb/>welche ja Unsinn wäre.</s>
           <lb/>
           <s type="es" part="N">Was gezählt wird <lb/>sind die gleichfärbigen<lb/> (einfarbigen) Flecken in<lb/>  dem <emph rend="us1">Viereck</emph>.</s>
           <s type="es" part="N"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Es</del></orig><orig type="alt2"><c type="c" part="N">U</c>nd es</orig></choice><lb/>können sehr wohl gar<lb/> keine solche  Flecke in <lb/>Viereck sein, wenn etwa<lb/> das ganze Viereck von <lb/>   <pb facs="Ms-153b_48v" rend="verso" n="pagename_Ms-153b,48v  pageref_00"/>  einem kontinuierlichen <lb/>Regenbogen ausgefüllt<lb/> ist<del type="d" instant="false" status="unremarkable">,</del>  (<add rend="our" instant="false" status="unremarkable">k</add>ontinuierlich<lb/>  =  visuell  kontinuier<lb rend="shyphen"/>lich<del type="dn" instant="false" status="unremarkable">.</del>).</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_48v.2" n="Ms-153b,48v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_48v.2" n="Ms-153b,48v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wenn ich sage „alle diese <lb/>Hüte sind von <emph rend="us1">einer</emph>  Größe”<lb/> so heißt das nicht <lb/><choice type="s"><orig type="alt1">„sie haben eine &amp;  nur eine <lb/>Größe”</orig><orig type="alt2"><seg type="edinst" part="N"> [ </seg>„sie haben eine <lb/>Größe &amp;  nur <emph rend="us1">eine</emph>”<seg type="edinst" part="N"> ] </seg></orig></choice><corr type="tra" instant="false">.</corr></s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_48v.3et50r.1et50v.1et51r.1et51v.1et52r.1" n="Ms-153b,48v[3]et50r[1]et50v[1]et51r[1]et51v[1]et52r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_48v.3et50r.1et50v.1et51r.1et51v.1et52r.1" n="Ms-153b,48v[3]et50r[1]et50v[1]et51r[1]et51v[1]et52r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Soll ich nun den Satz <lb/>alle diese Stäbe haben<lb/> die gleiche Länge so<lb/>  <emph rend="uw1">schreiben</emph>: „<c type="c" part="N">E</c>s gibt eine <lb/>Länge welche alle  die<unclear instant="false">se</unclear><lb/> Stäbe haben”<unclear instant="false">?</unclear> also:  <emph rend="indl_4"/><seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N"><emph rend="centered">(∃L): φx  .⊃<emph rend="sub">x</emph>.x εL</emph></seg></s>
           <pb facs="Ms-153b_49r" rend="recto" n="pagename_Ms-153b,49r  pageref_00"/>
@@ -1425,76 +1473,88 @@
           <lb/>
           <s type="es" part="N">Wir sagen doch nie <lb/><seg type="p" part="N">a</seg> ist ein Apfel)</s>
           <s type="es" part="N">Es gilt <lb/>dann natürlich für<lb/> <seg type="notation" subtype="logic_nonstandard quantificational formula, type-theoretic formula" rend="literal" part="N">Z (φ Z,  ψ Z)</seg> die Regel <lb/>daß<lb rend="hl"/>  <seg type="notation" subtype="logic_nonstandard quantificational formula, type-theoretic formula" rend="literal" part="N">Z (φ Z, ψ Z)  ∙   (ε<add rend="our" instant="false" status="unremarkable">1</add> x) φx  ∙  (ε 1 x)  ψ x <corr type="npc" instant="false"> = <lb rend="hl"/></corr>  =  (ε 1 x) φx   ∙  (ε 1 x) ψ x  =   <del type="dnpc" instant="false" status="unremarkable"><emph rend="centered"><abbr type="abb">u.s.w.</abbr>.</emph></del>  =   Z (φ Z, ψ Z)  ∙  (ε 1 x) φx   =      <pb facs="Ms-153b_52r" rend="recto" n="pagename_Ms-153b,52r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">52</add></fw>  =  <choice type="o"><orig type="o1">(</orig><orig type="o2">Z</orig></choice>  (φ Z ψ<unclear instant="false">Z</unclear>)  ∙  (ε 1 x) ψ  x</seg>  <emph rend="indl_4"/><abbr type="abb">u.s.w.</abbr> in der Reihe der<lb/>  Kardinalzahlen.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_52r.2" n="Ms-153b,52r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_52r.2" n="Ms-153b,52r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><seg type="edcom" part="N"> ∣ </seg>  Die Gleichung <seg type="notation" subtype="logic_propositional formula, type-theoretic formula" rend="literal" part="N">p  ∙  q  =   p</seg><lb/> zeigt den eigentlichen <lb/>Zusammenhang des <lb/>Folgens &amp; der  Wahrheits<lb rend="shyphen"/>funktionen. <seg type="edcom" part="N"> ∣ </seg></s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_52r.3" n="Ms-153b,52r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_52r.3" n="Ms-153b,52r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><gap extent="lines_3" instant="false"/><seg type="notation" subtype="graphics_Schema; ohne Linien" rend="literal" part="N"><emph rend="indl_4"/>a b b c d e f  <emph rend="indl_4"/>a a a a a a a   <emph rend="indl_4"/>a b c d e f g</seg><lb rend="hl"/> sind 7 Buchstaben <lb/>da so können nicht<lb/>  mehr als 7 Typen von <lb/>Buchstaben dasein <lb/>&amp; nicht weniger als  eine.</s>
           <lb/>
           <pb facs="Ms-153b_52v" rend="verso" n="pagename_Ms-153b,52v  pageref_00"/>
         </ab>
-        <ab xml:id="Ms-153b_52v.1" n="Ms-153b,52v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_52v.1" n="Ms-153b,52v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Sind aber 0 Buchstaben <lb/>da wieviel Ty<corr type="tran" instant="false">p</corr>en <unclear instant="false">können</unclear> <lb/>dann  vorhanden sein?</s>
           <lb/>
           <s type="es" part="N">Wir sagen: er hat Kappen<lb/> &amp; 3 Arten von Hüten <del type="dnpc" instant="false" status="unremarkable">aber <lb/>auch  er verkauft<lb/> Kappen &amp;</del> oder auch <lb/>„Kappen &amp;  <emph rend="us1">eine</emph> Art von <lb/>Hüten”, aber auch <lb/>Kappen &amp; keine Art<lb/>  von Hüten.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_52v.2et53r.1" n="Ms-153b,52v[2]et53r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_52v.2et53r.1" n="Ms-153b,52v[2]et53r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Man könnte <choice type="s"><orig type="alt1">die</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">eine</add></orig></choice> An<lb rend="shyphen"/>zahl von <del type="dnpc" instant="false" status="unremarkable">Hüten</del>  Dingen<corr type="tra" instant="false">,</corr> <lb/>Hüten etwa sehr wohl <lb/>durch die Anzahl ihrer <lb/>möglichen Paare angeben<lb/>  &amp; die Anzahl der <unclear instant="false">verschie<lb rend="shyphen"/>denen</unclear> Arten unter ihnen<lb/>  durch die Anzahl <lb/>   <pb facs="Ms-153b_53r" rend="recto" n="pagename_Ms-153b,53r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">53</add></fw> verschiedener Paare.</s>
           <lb/>
           <s type="es" part="N">Soll ich nun sagen <lb/>daß die Zahlen die <lb/><del type="dnpc" instant="false" status="unremarkable">Paare</del> mögliche Paare<lb/>  angeben andrer Art <lb/>sind als die Kardinal<lb rend="shyphen"/>zahlen?</s>
           <s type="es" part="N">Soll ich sagen <lb/>daß die Quadratzahlen <lb/>1 4 9 16  <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr> nicht Kardi<lb rend="shyphen"/>nalzahlen sind?</s>
           <s type="es" part="N">Und<lb/> daß sich in gewissem Sinne <lb/>die Quadratzahlen zu<lb/> den Kardinalzahlen<lb/>  verhalten wie die Kardinal<lb rend="shyphen"/>zahlen zu den  <add rend="our" instant="false" status="unremarkable">R</add>ationalzahlen.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_53r.2" n="Ms-153b,53r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_53r.2" n="Ms-153b,53r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N"><seg type="edcom" part="N"> ∣ </seg>  Wird mit dem <unclear instant="false">Beweis</unclear> der <lb/>Widerspruchsfreiheit ein<lb/>  <emph rend="us1">Satz</emph> <unclear instant="false">bewiesen</unclear>?</s>
           <s type="es" part="N">Und <unclear instant="false">wie <lb/>lautet der?</unclear></s>
           <pb facs="Ms-153b_53v" rend="verso" n="pagename_Ms-153b,53v  pageref_00"/>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_53v.1" n="Ms-153b,53v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_53v.1" n="Ms-153b,53v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Angenommen die <unclear instant="false">Widerspruchs<lb rend="shyphen"/>freiheit</unclear> ist bewiesen:  was <lb/>haben wir gewonnen?</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_53v.2" n="Ms-153b,53v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_53v.2" n="Ms-153b,53v[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">In wiefern ist denn<lb/> der Widerspruch in<lb/> den Axiomen <emph rend="us1">schon<lb/>  enthalten</emph>, wenn ich <lb/>keine <del type="dn" instant="false" status="unremarkable"><gap extent="characters_1" instant="false"/></del> Methoden<lb/> kenne ihn  hervorzu<lb rend="shyphen"/>ziehen?</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_53v.3et54r.1" n="Ms-153b,53v[3]et54r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_53v.3et54r.1" n="Ms-153b,53v[3]et54r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19311202?-19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">„In den Regeln <emph rend="us1">darf</emph><lb/> kein Widerspruch sein”<lb/> das  klingt so wie eine <lb/>Vorschrift<del type="d" instant="false" status="unremarkable"> wie</del>: „in einem<lb/>  Benzin<add rend="our" instant="false" status="unremarkable">m</add>otor darf das <lb/>Zahnrad auf der Kurbel<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">welle</corr>   <pb facs="Ms-153b_54r" rend="recto" n="pagename_Ms-153b,54r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">54</add></fw><corr type="npcn-pb" instant="false">welle</corr> nicht lose sitzen”.</s>
           <lb/>
           <s type="es" part="N">Man erwartet sich dann <lb/><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">ein, „weil<del type="dnpc" instant="false" status="unremarkable">”</del>  sonst  …”</del></orig><orig type="alt2">eine <lb/>Begründung: weil <lb/>sonst   …</orig></choice>.</s>
           <s type="es" part="N">Im ersten<lb/> Falle könnte diese <lb/>Begründung aber<lb/> nur lauten: weil es<lb/>  sonst <choice type="em"><orig type="em1">kein<del type="d" instant="false" status="unremarkable">e</del> <del type="d" instant="false" status="unremarkable">Regelver<lb rend="shyphen"/>zeichnisse sind.</del>  Regel<lb rend="shyphen"/>verzeichnis ist.</orig><orig type="em2"><choice type="dsl"><orig type="alt1">keine Regelver<lb rend="shyphen"/>zeichnisse  sind.</orig><orig type="alt2">kein Regel<lb rend="shyphen"/>verzeichnis ist.</orig></choice></orig></choice></s>
           <s type="es" part="N">Es<lb/> ist eben wieder der<lb/> Fall der grammati<lb rend="shyphen"/>schen <emph rend="uw1">Struktur</emph> die<lb/>  sich nicht begründen <lb/>läßt.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_54r.2et54v.1et55r.1" n="Ms-153b,54r[2]et54v[1]et55r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_54r.2et54v.1et55r.1" n="Ms-153b,54r[2]et54v[1]et55r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Könnte ich nun auch<lb/> eine Zahlenart den<lb/> Kardinalzahlen    <pb facs="Ms-153b_54v" rend="verso" n="pagename_Ms-153b,54v  pageref_00"/>  entgegensetzen die <lb/>etwa die Kardinal<lb rend="shyphen"/>zahlen ohne der <lb/>5 wären?</s>
           <s type="es" part="N">Oh ja; nur<lb/> wäre diese zu <emph rend="us1">nichts</emph> <lb/>zu brauchen wo<add rend="our" instant="false" status="unremarkable">zu</add> <lb/>die  Kardinalzahlen <lb/>es sind.</s>
           <s type="es" part="N">Und die <lb/>5 fehlt diesen Zahlen <lb/>nicht wie <del type="dnpc" instant="false" status="unremarkable">etwas</del> ein<lb/> Apfel den  man <lb/>aus einer Kiste voll<unclear instant="false">er</unclear><lb/> Äpfel genommen hat<lb/> &amp; wieder  hineinlegen <lb/>kann, sondern die<lb/> 5 fehlt dem Wesen<lb/> dieser Zahlen sie <del type="dn" instant="false" status="unremarkable"><gap extent="characters_1" instant="false"/></del><lb/>  <emph rend="us1">nennen</emph> die 5 nicht <lb/>(wie die Kardinal<unclear instant="false">zah<lb rend="shyphen"/>len</unclear> die  Zahl <figure ana="Bruch" rend="tablem" sameAs="½"><formula>1<milestone unit="br"/><emph rend="fractionbarover">2</emph></formula></figure> nicht <lb/>   <pb facs="Ms-153b_55r" rend="recto" n="pagename_Ms-153b,55r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">55</add></fw> nennen.)</s>
           <s type="es" part="N">Angewendet <lb/>würden also diese<lb/> Zahlen (wenn man<lb/> sie so nennen will)<lb/> in  einem Fall wo es <lb/><emph rend="us1">unsinnig</emph> wäre die Kar<lb rend="shyphen"/>dinalzahlen  <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">anzu</corr></del> <lb/>(mit der 5)  anzuwen<lb rend="shyphen"/>den<corr type="tra" instant="false">.</corr></s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_55r.2" n="Ms-153b,55r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320228?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_55r.2" n="Ms-153b,55r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320228?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Zeigt sich hier nicht <lb/>die Unsinnigkeit <lb/>des <add rend="our" instant="false" status="unremarkable">G</add>eredes von der<lb/>  „Grundintuition”?</s>
+          <emph rend="bl_3"/>
         </ab>
-        <ab xml:id="Ms-153b_55r.3et55v.1" n="Ms-153b,55r[3]et55v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" emph="blbef_3" part="N">
+        <ab xml:id="Ms-153b_55r.3et55v.1" n="Ms-153b,55r[3]et55v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Regeln, die eine Ver<lb rend="shyphen"/>bindung zwischen<lb/> <unclear instant="false">Sprache</unclear> und  Wirklich<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">keit</corr><pb facs="Ms-153b_55v" rend="verso" n="pagename_Ms-153b,55v  pageref_00"/><corr type="npcn-pb" instant="false">keit</corr> herstellen  &amp;<lb/> solche die es<lb/> nicht tun.</s>
           <s type="es" part="N">Die <lb/>erste Art <add rend="im" instant="false" status="unremarkable">etwa</add>: „<c type="c" part="N">D</c>iese Farbe<lb/> nenne ich  ‚rot’” – die <lb/>zweite:  „<seg type="notation" subtype="logic_propositional formula, type-theoretic formula" rend="literal" part="N">~ ~p  =   p</seg>”.</s>
           <lb rend="hl"/>
           <s type="es" part="N">Aber über diesen Un<lb rend="shyphen"/>terschied besteht<lb/> ein Irrtum durch <lb/> <corr type="trs" instant="false"><orig type="trs1">den er von prinzipieller</orig><reg type="trs2">den er von prinzipieller</reg></corr><lb/> Art zu  sein <unclear instant="false">scheint</unclear>.</s>
+          <emph rend="bl_4"/>
         </ab>
-        <ab xml:id="Ms-153b_55v.2et56r.1" n="Ms-153b,55v[2]et56r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" emph="blbef_4" part="N">
+        <ab xml:id="Ms-153b_55v.2et56r.1" n="Ms-153b,55v[2]et56r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Die Philosophen <unclear instant="false">welche</unclear> <lb/>sagen: „nach dem<lb/>  To<choice type="o"><orig type="o1">g</orig><orig type="o2">d</orig></choice> wird ein <unclear instant="false">zeitloser</unclear> <lb/>Zustand eintreten”<lb/>  oder „mit dem Tod <lb/>   <pb facs="Ms-153b_56r" rend="recto" n="pagename_Ms-153b,56r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">56</add></fw> tritt ein zeitloser <lb/>Zustand ein”,  &amp;<lb/> nicht merken daß <lb/>sie <add rend="im" instant="false" status="unremarkable">zeitlich</add> „nach”  &amp; „mit” <lb/>gesagt haben &amp; <lb/>die Zeitlichkeit in<lb/>  ih<corr type="npcn" instant="false">e</corr>rer Grammatik <lb/>liegt.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_56r.2et56v.1et57r.1et57v.1" n="Ms-153b,56r[2]et56v[1]et57r[1]et57v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_56r.2et56v.1et57r.1et57v.1" n="Ms-153b,56r[2]et56v[1]et57r[1]et57v[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">„Das Viereck hat eine <lb/>Farbe &amp; nur  <emph rend="us1">eine</emph>”.</s>
           <s type="es" part="N">Der <lb/>erste Teil des Satzes<lb/> darf dann nicht <lb/>die grammatische <lb/>Aussage der  <corr type="trsn" instant="false"><orig type="trsn1">f</orig><reg type="trsn2">F</reg></corr>ärbig<lb rend="shyphen"/>keit sein.</s>
@@ -1511,7 +1571,7 @@
           <s type="es" rend="indl_4" part="N">Wenn ich, <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">daß</del><add rend="im" instant="false" status="unremarkable"><abbr type="abb">z.B.</abbr></add> die <lb/><del type="d" instant="false" status="unremarkable">Fläche</del>  schwarz<add rend="el" instant="false" status="unremarkable">e</add> <del type="d" instant="false" status="unremarkable">ist</del> <add rend="i" instant="false" status="unremarkable">Fläche</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">daß die Fläche schwarz  ist</orig><orig type="alt2"><abbr type="abb">z.B.</abbr> die schwarze Fläche</orig></choice></orig></choice><lb/> farblos  nenne so<lb/> <emph rend="uw1">scheint alles</emph> ganz<lb/> einfach zu werden.</s>
           <s type="es" rend="indl_4" part="N">Man ist versucht <lb/>zu glauben, daß zwar <lb/><emph rend="us1">eine</emph> Länge nicht so ist<lb/>     <pb facs="Ms-153b_57v" rend="verso" n="pagename_Ms-153b,57v  pageref_00"/> wie ein Apfel aber <lb/>3 Längen so sind wie <lb/>3  Äpfel.</s>
         </ab>
-        <ab xml:id="Ms-153b_57v.2et58r.1et58v.1et59r.1et59v.1et60r.1" n="Ms-153b,57v[2]et58r[1]et58v[1]et59r[1]et59v[1]et60r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_57v.2et58r.1et58v.1et59r.1et59v.1et60r.1" n="Ms-153b,57v[2]et58r[1]et58v[1]et59r[1]et59v[1]et60r[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" rend="indl_4" part="N">Man möchte auch immer<lb/> sagen „daß die Stäbe <lb/>eine Länge haben ist<lb/>  selbstverständlich”.</s>
           <lb/>
@@ -1535,19 +1595,22 @@
           <s type="es" part="N">Denn der Zwei<lb/> geht ja dann nicht<lb/> etwa eine gedachte Eins<lb/> voraus, sondern  die<lb/> zwei Stücke wären wirk<corr type="npcn-pb" instant="false"><lb rend="shyphen-pb"/></corr><corr type="tran-pb" instant="false">lich</corr>   <pb facs="Ms-153b_59v" rend="verso" n="pagename_Ms-153b,59v  pageref_00"/><corr type="npcn-pb" instant="false">lich</corr> der  <emph rend="us1">Anfang</emph>.</s>
           <s type="es" part="N">Und <lb/>eine Eins könnte es <lb/>da nicht geben ganz <lb/>so wie wenn man<lb/> mit  <add rend="im" instant="false" status="unremarkable">den</add> geraden Zahlen <lb/><choice type="em"><orig type="em1"><emph rend="uw1">zählte</emph><add rend="i" instant="false" status="unremarkable"><emph rend="uw1">en  würde</emph></add></orig><orig type="em2"><choice type="s"><orig type="alt1"><emph rend="uw1">zählte</emph></orig><orig type="alt2"><emph rend="uw1">zählen würde</emph></orig></choice></orig></choice> die  Eins in der<lb/> Zahlenreihe nichts zu <lb/>suchen hätte.</s>
           <s type="es" part="N">Man<lb/> könnte die Zählstriche<lb/> in diesem Fall etwa <lb/>so schreiben      <seg type="notation" corresp="http://www.minerva.mic.ul.ie/vol2/Ver_33/cat/D1242.gif" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N"/>   <seg type="notation" corresp="http://www.minerva.mic.ul.ie/vol2/Ver_33/cat/D1243.gif" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N"/>   <seg type="notation" corresp="http://www.minerva.mic.ul.ie/vol2/Ver_33/cat/D1244.gif" subtype="graphics_Reihenfolgen; Gabelnotation" rend="bitmap" part="N"/>         um zu zeigen daß es<lb/>  sich bei ihnen um<lb/> den Richtungs<emph rend="us1">unterschied</emph> handelt; so daß <lb/>der  einfache Strich<lb/> <seg type="notation" subtype="graphics_Reihenfolgen; Strichnotation" rend="literal" part="N">❘</seg> einer Art o  entspre<lb rend="shyphen"/>che.</s>
-          <s type="es" part="N">Ja man kann<lb/> auch wirklich die Unter<lb rend="shyphen"/>schiede zählen &amp; in<lb/>     <pb facs="Ms-153b_60r" rend="recto" n="pagename_Ms-153b,60r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">60</add></fw> diesem Fall gibt es <lb/>zwar eine   Eins aber<lb/> die Zahlenreihe lautet <lb/><seg type="notation" ana="field:PhilosophyOfLanguage_maths_finite arithmetic sequence" rend="bitmap" part="N">0, <add rend="our" instant="false" status="unremarkable">1</add>, 3, <del type="dn" instant="false" status="unremarkable">1 2</del>6, (<figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">n  ∙ (n  ‒  1)</emph><milestone unit="br"/>2</formula></figure>)</seg>.</s>
+          <s type="es" part="N">Ja man kann<lb/> auch wirklich die Unter<lb rend="shyphen"/>schiede zählen &amp; in<lb/>     <pb facs="Ms-153b_60r" rend="recto" n="pagename_Ms-153b,60r  pageref_00"/><fw type="pagen" place="top right"><add rend="fremd" instant="false" status="unremarkable">60</add></fw> diesem Fall gibt es <lb/>zwar eine   Eins aber<lb/> die Zahlenreihe lautet <lb/><seg type="notation" subtype="maths_finite arithmetic sequence" rend="bitmap" part="N">0, <add rend="our" instant="false" status="unremarkable">1</add>, 3, <del type="dn" instant="false" status="unremarkable">1 2</del>6, (<figure ana="Bruch" rend="tablem"><formula><emph rend="fractionbarunder">n  ∙ (n  ‒  1)</emph><milestone unit="br"/>2</formula></figure>)</seg>.</s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_60r.2" n="Ms-153b,60r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_60r.2" n="Ms-153b,60r[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Wie ist es nun wenn<lb/> wir die Teile zählen<lb/> in die (<emph rend="uw1">etwa</emph>) ein  bestimm<lb rend="shyphen"/>tes Quadrat geteilt <lb/>ist?</s>
           <s type="es" part="N">(In zwei Teile geteilt <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/graphicsHB/153b,60r.jpg" subtype="graphics_Vierecke; Quadrat" rend="bitmap" part="N">153042</seg> nennt man <lb/>auch  ‚<emph rend="us1">einmal</emph> <lb/>geteilt’, &amp; wenn <lb/>das ganze nur  ein<lb/> Teil ist so sagt man<lb/> es sei <emph rend="us1">un</emph>geteilt)<corr type="tra" instant="false">.</corr></s>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_60r.3" n="Ms-153b,60r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_60r.3" n="Ms-153b,60r[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <s type="es" part="N">Der aufregende Charakter <lb/>der grammatischen<lb/> Unklarheiten<corr type="tra" instant="false">.</corr></s>
           <pb facs="Ms-153b_60v" rend="verso" n="pagename_Ms-153b,60v  pageref_00"/>
+          <emph rend="bl_1"/>
         </ab>
-        <ab xml:id="Ms-153b_60v.1etBCr.1" n="Ms-153b,60v[1]etBCr[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" emph="blbef_1" part="N">
+        <ab xml:id="Ms-153b_60v.1etBCr.1" n="Ms-153b,60v[1]etBCr[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <seg type="misc" part="N">
             <rs type="extref" key="Schenker, Heinrich: Neue musikalische Theorien und Phantasien">
@@ -1561,7 +1624,7 @@
             </rs>
           </seg>
         </ab>
-        <ab xml:id="Ms-153b_FCv.1-relocated" n="Ms-153b,FCv[1]-relocated" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_FCv.1-relocated" n="Ms-153b,FCv[1]-relocated" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <reloc type="fetch-nec" n="Ms-153b,FCv_Ms-153b,BCr" corresp="relocNec#Ms-153b:1" instant="false" status="unremarkable">
             <seg type="misc" part="N">
@@ -1571,7 +1634,7 @@
             </seg>
           </reloc>
         </ab>
-        <ab xml:id="Ms-153b_29r.1-relocated" n="Ms-153b,29r[1]-relocated" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;50.1_date:19320229?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_29r.1-relocated" n="Ms-153b,29r[1]-relocated" xml:lang="de" ana="field:PhilosophyOfLanguage_pub:W-VB_order:W-VB;50.1_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <reloc type="fetch-nec" n="Ms-153b,29r_Ms-153b,BCr" corresp="relocNec#Ms-153b:2" instant="false" status="unremarkable">
             <seg type="VB" part="N">
@@ -1586,7 +1649,7 @@
             </seg>
           </reloc>
         </ab>
-        <ab xml:id="Ms-153b_30r.1-relocated" n="Ms-153b,30r[1]-relocated" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" emph="blbef_0" part="N">
+        <ab xml:id="Ms-153b_30r.1-relocated" n="Ms-153b,30r[1]-relocated" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320229?" part="N">
           <seg type="wabmarks-secml" part="N"/>
           <reloc type="fetch-nec" n="Ms-153b,30r_Ms-153b,BCr" corresp="relocNec#Ms-153b:3" instant="false" status="unremarkable">
             <seg xml:lang="en" part="N">
