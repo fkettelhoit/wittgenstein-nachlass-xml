@@ -192,7 +192,7 @@
   </facsimile>
   <text xml:lang="en">
     <body>
-      <ab xml:id="Ts-201a2_TP.1" n="Ts-201a2,TP[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?_seg:fm" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_TP.1" n="Ts-201a2,TP[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140201?-19140228?_seg:fm" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <pb facs="Ts-201a2_TP" rend="recto" n="pagename_Ts-201a2,TP pageref_00"/>
@@ -213,7 +213,7 @@
           <fw type="pagen">1</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a1.1" n="Ts-201a2,a1[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a1.1" n="Ts-201a2,a1[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="centered">
@@ -225,7 +225,7 @@
         </seg>
         <emph rend="bl_2"/>
       </ab>
-      <ab xml:id="Ts-201a2_a1.2" n="Ts-201a2,a1[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a1.2" n="Ts-201a2,a1[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -233,7 +233,7 @@
           <s type="es" part="N">One reason for thinking the old notation wrong is that it is<lb/> very  unlikely that from every proposition <seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg> an infinite number of<lb/> other  propositions <seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-not-p</seg>,  <seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-not-not-not-p</seg>,  <abbr type="abb">etc.</abbr>, should<lb/> follow.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a1.3" n="Ts-201a2,a1[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a1.3" n="Ts-201a2,a1[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -242,7 +242,7 @@
           <s type="es" part="N">Then what about their denials?</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a1.4" n="Ts-201a2,a1[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a1.4" n="Ts-201a2,a1[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -250,14 +250,14 @@
           <s type="es" part="N">The verb of a proposition cannot be “is true” or  “is false”,<lb/> but whatever is true or false must already  contain the verb.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a1.5" n="Ts-201a2,a1[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a1.5" n="Ts-201a2,a1[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N">o.</seg>
           <s type="es" rend="indl_5" part="N">Deductions only proceed according to the laws of deduction,<lb/> but these  laws cannot justify the deduction.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a1.6" n="Ts-201a2,a1[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a1.6" n="Ts-201a2,a1[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -265,7 +265,7 @@
           <s type="es" part="N">One reason for supposing that not all propositions which<lb/> have more than  one argument are relational propositions is that<lb/> if they were, the  relations of judgment and inference would have<lb/> to hold between an  arbitrary number of things.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a1.7" n="Ts-201a2,a1[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a1.7" n="Ts-201a2,a1[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -275,7 +275,7 @@
           <fw type="pagen">2</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a2.1" n="Ts-201a2,a2[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a2.1" n="Ts-201a2,a2[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -285,7 +285,7 @@
           <s type="es" part="N">Because spatial complexes<seg type="edcom" part="N">*</seg> consist<del type="dn" instant="false" status="unremarkable">s</del> of <c type="c" part="N">T</c>hings and  <c type="c" part="N">R</c>elations<lb/> only and the idea of a complex is taken from  space.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a2.2" n="Ts-201a2,a2[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a2.2" n="Ts-201a2,a2[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -293,7 +293,7 @@
           <s type="es" part="N">In a proposition convert all its indefinables into<lb/> variables; there  then remains a class of propositions which<lb/> is not all propositions but a  type.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a2.3" n="Ts-201a2,a2[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a2.3" n="Ts-201a2,a2[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -306,7 +306,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a2.4" n="Ts-201a2,a2[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a2.4" n="Ts-201a2,a2[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -322,7 +322,7 @@
           <fw type="pagen">3</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a3.1" n="Ts-201a2,a3[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a3.1" n="Ts-201a2,a3[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -331,7 +331,7 @@
           <s type="es" part="N">This shows the bi<add rend="el_h" instant="false" status="unremarkable">-</add>polarity of the<lb/> proposition.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a3.2" n="Ts-201a2,a3[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a3.2" n="Ts-201a2,a3[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -347,7 +347,7 @@
           <s type="es" part="N">And therefore we shall never get<lb/> two symbols for the same molecular  function.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a3.3" n="Ts-201a2,a3[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a3.3" n="Ts-201a2,a3[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -355,7 +355,7 @@
           <s type="es" part="N">The meaning of a proposition is the fact which actually<lb/> corresponds to  it.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a3.4" n="Ts-201a2,a3[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a3.4" n="Ts-201a2,a3[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -371,7 +371,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a4.1" n="Ts-201a2,a4[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a4.1" n="Ts-201a2,a4[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -381,14 +381,14 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a4.2" n="Ts-201a2,a4[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a4.2" n="Ts-201a2,a4[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <s type="es" rend="indl_5" part="N">[Note by <persName key="Russell, Bertrand" instant="false" full="yes"><abbr corresp="Bertrand Russell">B.R.</abbr></persName><corr type="tra" instant="false">:</corr> <emph rend="us1"><seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal" part="N">ab</seg></emph> means the  same as <seg xml:lang="de" part="N"><abbr type="abb">WF</abbr></seg>, which means true-false.]</s>
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a4.3" n="Ts-201a2,a4[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a4.3" n="Ts-201a2,a4[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -397,7 +397,7 @@
           <s type="es" part="N">A function is like a line<lb/> dividing points of a plane into right and  left ones; then<lb/> “<seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg> or <seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-p</seg>” has no meaning because  it does not divide the<lb/> plane.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a4.4" n="Ts-201a2,a4[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a4.4" n="Ts-201a2,a4[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -420,7 +420,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a5.1" n="Ts-201a2,a5[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a5.1" n="Ts-201a2,a5[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -429,7 +429,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a5.2" n="Ts-201a2,a5[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a5.2" n="Ts-201a2,a5[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -443,7 +443,7 @@
           <s type="es" part="N">This is a definition of sense.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a5.3" n="Ts-201a2,a5[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a5.3" n="Ts-201a2,a5[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N">I</seg>
@@ -452,7 +452,7 @@
           <s type="es" part="N">The proper theory of<lb/> judgment must make it impossible to judge  nonsense.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a5.4eta6.1" n="Ts-201a2,a5[4]eta6[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a5.4eta6.1" n="Ts-201a2,a5[4]eta6[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -472,7 +472,7 @@
           <s type="es" part="N">Consequently the<lb/> molecular propositions will only be used in cases  where their<lb/> <seg type="notation" subtype="logic_truth function, propositional semantics" rend="literal" part="N"><emph rend="us1">ab</emph></seg> function stands under a  generality sign or enters into<lb/> another function such as “I  believe that,  <abbr type="abb">etc<corr type="trco" instant="false"><orig type="trco1">”.</orig><reg type="trco2">.”</reg></corr></abbr>, because  then<lb/> the sense enters.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a6.2" n="Ts-201a2,a6[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a6.2" n="Ts-201a2,a6[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -483,7 +483,7 @@
           <s type="es" part="N">This is obviously not a<lb/> relation in the ordinary sense.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a6.3" n="Ts-201a2,a6[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a6.3" n="Ts-201a2,a6[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -498,7 +498,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a7.1" n="Ts-201a2,a7[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a7.1" n="Ts-201a2,a7[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -507,14 +507,14 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a7.2" n="Ts-201a2,a7[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a7.2" n="Ts-201a2,a7[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
           <s type="es" rend="indl_6" part="N">Old definitions now become tautologous.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a7.3" n="Ts-201a2,a7[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a7.3" n="Ts-201a2,a7[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -525,7 +525,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a7.4" n="Ts-201a2,a7[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a7.4" n="Ts-201a2,a7[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -538,7 +538,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a7.5" n="Ts-201a2,a7[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a7.5" n="Ts-201a2,a7[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N">VI</seg>
@@ -547,14 +547,14 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a7.6" n="Ts-201a2,a7[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a7.6" n="Ts-201a2,a7[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
           <s type="es" rend="indl_5" part="N">Every proposition that says something indefinable about one<lb/> thing is a  subject-predicate proposition, and so on.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_a7.7" n="Ts-201a2,a7[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a7.7" n="Ts-201a2,a7[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -567,14 +567,14 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a8.1" n="Ts-201a2,a8[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a8.1" n="Ts-201a2,a8[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <s type="es" rend="indl_5" part="N">What is essential in a correct apparent-variable notation<lb/> is  this:– (1) it must mention a type of propositions;  (2) it<lb/> must show which components of a proposition of this type  are<lb/> constants.</s>
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a8.2" n="Ts-201a2,a8[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a8.2" n="Ts-201a2,a8[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -583,7 +583,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_a8.3" n="Ts-201a2,a8[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_a8.3" n="Ts-201a2,a8[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <s type="es" rend="indl_5" part="N">Take <seg type="notation" subtype="logic_nonstandard quantificational formula, nonstandard type-theoretic formula" rend="literal" part="N">(<add rend="el_h" instant="false" status="unremarkable">φ</add>).  <add rend="el_h" instant="false" status="unremarkable">φ</add>!x</seg>.</s>
@@ -595,7 +595,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b1.1" n="Ts-201a2,b1[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b1.1" n="Ts-201a2,b1[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: Summary_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="fm-title" part="N">
@@ -606,7 +606,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b1.2" n="Ts-201a2,b1[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b1.2" n="Ts-201a2,b1[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -617,14 +617,14 @@
           <s type="es" part="N">A name can not only occur in two different propositions, but can<lb/> occur  in the same way in both.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b1.3" n="Ts-201a2,b1[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b1.3" n="Ts-201a2,b1[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
           <s type="es" rend="indl_5" part="N">Propositions [which are symbols having reference to facts]<lb/> are  themselves facts: that this inkpot is on this table may<lb/> express  that I sit in this chair.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b1.4" n="Ts-201a2,b1[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b1.4" n="Ts-201a2,b1[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -633,7 +633,7 @@
           <s type="es" part="N">Nevertheless one is<lb/> always tempted, in a difficulty, to take refuge in  different<lb/> ways of designation.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b1.5" n="Ts-201a2,b1[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b1.5" n="Ts-201a2,b1[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -642,7 +642,7 @@
           <s type="es" part="N">Both are false; and<lb/> especially false is the statement  “propositions are names of<lb/> complexes.”</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b1.6" n="Ts-201a2,b1[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b1.6" n="Ts-201a2,b1[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -655,7 +655,7 @@
           <fw type="pagen">2</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b2.1" n="Ts-201a2,b2[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b2.1" n="Ts-201a2,b2[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -663,7 +663,7 @@
           <s type="es" part="N">The reason why “<add rend="el_h" instant="false" status="unremarkable">~</add><persName key="Sokrates" instant="false" full="yes">Socrates</persName>” means nothing is that  “<seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N"><add rend="el_h" instant="false" status="unremarkable">~</add>x</seg>” does<lb/> not express a  property of <seg type="notation" subtype="logic_quantificational variable" rend="literal" part="N"><emph rend="us1">x</emph></seg>.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b2.2" n="Ts-201a2,b2[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b2.2" n="Ts-201a2,b2[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -676,14 +676,14 @@
           <s type="es" part="N">Negative facts only<lb/> justify the negations of atomic  propositions.)</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b2.3" n="Ts-201a2,b2[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b2.3" n="Ts-201a2,b2[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
           <s type="es" rend="indl_5" part="N"><emph rend="us1">Positive</emph> and <emph rend="us1">negative</emph> facts there are, but not  <emph rend="us1">true</emph> and<lb/> <emph rend="us1">false</emph> facts.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b2.4etb3.1" n="Ts-201a2,b2[4]etb3[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b2.4etb3.1" n="Ts-201a2,b2[4]etb3[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -702,7 +702,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b4.1" n="Ts-201a2,b4[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b4.1" n="Ts-201a2,b4[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 1. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="fm-title" part="N">
@@ -713,7 +713,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b4.2" n="Ts-201a2,b4[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b4.2" n="Ts-201a2,b4[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -724,7 +724,7 @@
           <s type="es" part="N">Hence we must have <emph rend="us1">general</emph> indefinable symbols; these are<lb/>  unavoidable if propositions are not all indefinable.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b4.3" n="Ts-201a2,b4[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b4.3" n="Ts-201a2,b4[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -733,14 +733,14 @@
           <lb rend="hl"/>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b4.4" n="Ts-201a2,b4[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b4.4" n="Ts-201a2,b4[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
           <s type="es" rend="indl_5" part="N">Not only must logic not deal with [particular] things, but<lb/> just  as little with relations and predicates.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b4.5" n="Ts-201a2,b4[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b4.5" n="Ts-201a2,b4[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -748,7 +748,7 @@
           <s type="es" part="N">There are no propositions containing real variables.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b4.6" n="Ts-201a2,b4[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b4.6" n="Ts-201a2,b4[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -757,7 +757,7 @@
           <s type="es" part="N">But we must be able to understand<lb/> a proposition without knowing if it  is true or false.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b4.7" n="Ts-201a2,b4[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b4.7" n="Ts-201a2,b4[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
@@ -765,14 +765,14 @@
           <s type="es" part="N">But we do not know [necessarily]<lb/> whether it is true or  false.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b4.8" n="Ts-201a2,b4[8]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b4.8" n="Ts-201a2,b4[8]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
           <s type="es" rend="indl_5" part="N">Propositions are not names.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b4.9" n="Ts-201a2,b4[9]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b4.9" n="Ts-201a2,b4[9]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -782,7 +782,7 @@
           <fw type="pagen">5</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b5.1" n="Ts-201a2,b5[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b5.1" n="Ts-201a2,b5[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -796,7 +796,7 @@
           <s type="es" part="N">A reason<lb/> against them is the generality of logic: logic cannot  treat<lb/> a special set of things.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b5.2" n="Ts-201a2,b5[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b5.2" n="Ts-201a2,b5[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -804,7 +804,7 @@
           <s type="es" part="N">Molecular propositions contain nothing beyond what is<lb/> contained in  their atoms; they add no material information<lb/> above that contained in  their atoms.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b5.3" n="Ts-201a2,b5[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b5.3" n="Ts-201a2,b5[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
@@ -812,7 +812,7 @@
           <lb rend="hl"/>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b5.4" n="Ts-201a2,b5[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b5.4" n="Ts-201a2,b5[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -820,7 +820,7 @@
           <s type="es" part="N">Alternative indefinability shows that the indefinables<lb/> have not been  reached.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b5.5" n="Ts-201a2,b5[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b5.5" n="Ts-201a2,b5[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -832,7 +832,7 @@
           <fw type="pagen">6</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b6.1" n="Ts-201a2,b6[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b6.1" n="Ts-201a2,b6[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -842,7 +842,7 @@
           <s type="es" part="N">In “<seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-not-<emph rend="us1">p</emph></seg>”,  “<seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-<emph rend="us1">p</emph></seg>” does not  occur;<lb/> for “<seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-not-<emph rend="us1">p</emph></seg>” is the  same as “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg></emph>”, and therefore, if  “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-p</seg></emph>”<lb/> occurred in  “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-not-p</seg></emph>”, it would  occur in “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg></emph>”.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b6.2" n="Ts-201a2,b6[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b6.2" n="Ts-201a2,b6[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -851,7 +851,7 @@
           <s type="es" part="N">Nor are “not” and “or”, like  judgment,<lb/> <emph rend="us1">analogous</emph> to predicates or relations, because they do  not<lb/> introduce anything new.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b6.3" n="Ts-201a2,b6[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b6.3" n="Ts-201a2,b6[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -859,7 +859,7 @@
           <s type="es" part="N">Propositions are always complex even if they contain no<lb/> names.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b6.4" n="Ts-201a2,b6[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b6.4" n="Ts-201a2,b6[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -869,7 +869,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b6.5" n="Ts-201a2,b6[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b6.5" n="Ts-201a2,b6[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -882,7 +882,7 @@
           <fw type="pagen">7</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b7.1" n="Ts-201a2,b7[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b7.1" n="Ts-201a2,b7[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
@@ -894,7 +894,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b8.1" n="Ts-201a2,b8[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b8.1" n="Ts-201a2,b8[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 2. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="fm-title" part="N">
@@ -906,7 +906,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b8.2" n="Ts-201a2,b8[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b8.2" n="Ts-201a2,b8[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -922,7 +922,7 @@
           <fw type="pagen">9</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b9.1" n="Ts-201a2,b9[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b9.1" n="Ts-201a2,b9[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -930,7 +930,7 @@
           <s type="es" part="N">The comparison of language and reality is like that of<lb/> retinal image  and visual image: to the blind spot nothing in<lb/> the visual image  seems to correspond, and thereby the boundaries<lb/> of the blind spot  determine the visual image – as true negations<lb/> of atomic  propositions determine reality.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b9.2" n="Ts-201a2,b9[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b9.2" n="Ts-201a2,b9[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -939,7 +939,7 @@
           <s type="es" part="N">If <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg></emph> follows from  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">q</seg></emph>,  it can also be<lb/> inferred from <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">q</seg></emph>, and the “manner of  deduction” is indifferent.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b9.3" n="Ts-201a2,b9[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b9.3" n="Ts-201a2,b9[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -948,7 +948,7 @@
           <s type="es" part="N">There is no<lb/> proposition which is expressed by  “<seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">x  =   x</seg>”, for “<seg type="p" part="N">x</seg>” has no<lb/>  signification; but there is a proposition “<seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">(x). x   =  x</seg>” and propositions such as  “<persName key="Sokrates" instant="false" full="yes">Socrates</persName>  =   <persName key="Sokrates" instant="false" full="yes">Socrates</persName>”  <abbr type="abb">etc.</abbr></s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b9.4etb10.1" n="Ts-201a2,b9[4]etb10[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b9.4etb10.1" n="Ts-201a2,b9[4]etb10[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -961,7 +961,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b10.2" n="Ts-201a2,b10[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b10.2" n="Ts-201a2,b10[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -972,7 +972,7 @@
           <s type="es" part="N">The best example of this is<lb/> mathematics, for man has until lately used  the symbols for<lb/> numbers without knowing what they signify or that they  signify<lb/> nothing.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b10.3" n="Ts-201a2,b10[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b10.3" n="Ts-201a2,b10[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -984,7 +984,7 @@
           <fw type="pagen">11</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b11.1" n="Ts-201a2,b11[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b11.1" n="Ts-201a2,b11[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -993,7 +993,7 @@
           <s type="es" part="N">How, in each case, the resolution is to be made,<lb/> is an important  question, but its answer is not unconditionally<lb/> necessary for the  construction of logic.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b11.2" n="Ts-201a2,b11[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b11.2" n="Ts-201a2,b11[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1004,7 +1004,7 @@
           <lb rend="hl"/>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b11.3" n="Ts-201a2,b11[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b11.3" n="Ts-201a2,b11[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1018,7 +1018,7 @@
           <fw type="pagen">12</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b12.1" n="Ts-201a2,b12[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b12.1" n="Ts-201a2,b12[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1027,7 +1027,7 @@
           <s type="es" part="N">But from this<lb/> it follows that, at best, these properties may be types,  but<lb/> certainly not the objects of which they are asserted.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b12.2" n="Ts-201a2,b12[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b12.2" n="Ts-201a2,b12[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1035,7 +1035,7 @@
           <s type="es" part="N">At a pinch we are always inclined to explanations of<lb/> logical functions  of propositions which aim at introducing into<lb/> the function either only  the constituents of these propositions,<lb/> or only their form,  <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr>; and we overlook that ordinary<lb/>  language would not contain the whole propositions if it did<lb/> not need  them: <c type="c" part="N">H</c>owever, <abbr type="abb">e.g.</abbr>,  “<emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-p</seg></emph>” may be explained,  there<lb/> must always be a meaning given to the question “what is  denied?”</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b12.3" n="Ts-201a2,b12[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b12.3" n="Ts-201a2,b12[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1044,7 +1044,7 @@
           <s type="es" part="N">But if this method of designation suffices<lb/> for logic, it must be the  right one.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b12.4" n="Ts-201a2,b12[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b12.4" n="Ts-201a2,b12[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1058,7 +1058,7 @@
           <fw type="pagen">13</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b13.1" n="Ts-201a2,b13[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b13.1" n="Ts-201a2,b13[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1066,7 +1066,7 @@
           <s type="es" part="N">Just as little as we are concerned, in logic, with the<lb/> relation of a  name to its meaning, just so little are we<lb/> concerned with the relation of  a proposition to reality, but<lb/> we want to know the meaning of names and  the sense of propositions<lb/> as we introduce an indefinable concept  “<seg type="p" part="N">A</seg>” by saying:  “‘<seg type="p" part="N">A</seg>’<lb/> denotes something  indefinable”, so we introduce <abbr type="abb">e.g.</abbr> the  form<lb/> of propositions <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N"><emph rend="us1">a</emph> R <emph rend="us1">b</emph></seg> by saying:  “<c type="c" part="N">F</c>or all meanings of  “<seg type="notation" subtype="logic_quantificational variable" rend="literal" part="N">x</seg>”<lb/> and  “<seg type="notation" subtype="logic_quantificational variable" rend="literal" part="N">y</seg>”,  “<seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">x R  y</seg>” expresses something indefinable about <seg type="p" part="N">x</seg> and  <seg type="p" part="N">y</seg>”.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b13.2" n="Ts-201a2,b13[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b13.2" n="Ts-201a2,b13[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1082,7 +1082,7 @@
           <s type="es" part="N">The sense of the symbolizing<lb/> fact thus constructed I cannot define, but  I know it.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b13.3" n="Ts-201a2,b13[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b13.3" n="Ts-201a2,b13[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1092,7 +1092,7 @@
           <fw type="pagen">14</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b14.1" n="Ts-201a2,b14[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b14.1" n="Ts-201a2,b14[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1101,7 +1101,7 @@
           <s type="es" part="N">This has the most<lb/> important consequences for every symbolic  language.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b14.2" n="Ts-201a2,b14[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b14.2" n="Ts-201a2,b14[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1110,7 +1110,7 @@
           <s type="es" part="N">These words are incomplete symbols.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b14.3" n="Ts-201a2,b14[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b14.3" n="Ts-201a2,b14[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1120,7 +1120,7 @@
           <lb rend="hl"/>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b14.4" n="Ts-201a2,b14[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b14.4" n="Ts-201a2,b14[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1132,7 +1132,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b14.5etb15.1" n="Ts-201a2,b14[5]etb15[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b14.5etb15.1" n="Ts-201a2,b14[5]etb15[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1149,7 +1149,7 @@
           <s type="es" part="N">And we say now: <c type="c" part="N">F</c>or all<lb/> <seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg>'s and <seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">q</seg>'s,  “<seg type="notation" subtype="logic_propositional formula, Sheffer stroke" rend="literal" part="N">p<add rend="el_h" instant="false" status="unremarkable"> ∣ </add>q</seg>” says something  indefinable about the sense<lb/> of those simple propositions which are  contained in <seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg> and <seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">q</seg>.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b15.2" n="Ts-201a2,b15[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b15.2" n="Ts-201a2,b15[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1161,7 +1161,7 @@
           <s type="es" part="N">A proposition cannot possibly<lb/> assert of itself that it is true.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b15.3" n="Ts-201a2,b15[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b15.3" n="Ts-201a2,b15[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N"/>
@@ -1171,7 +1171,7 @@
           <fw type="pagen">16</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b16.1" n="Ts-201a2,b16[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b16.1" n="Ts-201a2,b16[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1182,7 +1182,7 @@
           <s type="es" part="N">What we understand is the <emph rend="us1">sense</emph> of the proposition.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b16.2" n="Ts-201a2,b16[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b16.2" n="Ts-201a2,b16[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1194,7 +1194,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b17.1" n="Ts-201a2,b17[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b17.1" n="Ts-201a2,b17[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 3. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="fm-title" part="N">
@@ -1205,7 +1205,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b17.2" n="Ts-201a2,b17[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b17.2" n="Ts-201a2,b17[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1214,7 +1214,7 @@
           <s type="es" part="N">[<c type="k" part="N">I</c> doubt this.]</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b17.3" n="Ts-201a2,b17[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b17.3" n="Ts-201a2,b17[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1222,7 +1222,7 @@
           <s type="es" part="N">The chief characteristic of my theory is that, in it, <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg></emph><lb/>  has the same <emph rend="us1">meaning</emph> as <seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">not-p</seg>.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b17.4" n="Ts-201a2,b17[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b17.4" n="Ts-201a2,b17[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1232,7 +1232,7 @@
           <lb rend="hl"/>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b17.5" n="Ts-201a2,b17[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b17.5" n="Ts-201a2,b17[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1240,7 +1240,7 @@
           <s type="es" part="N">If a word creates a world so that in it the principles<lb/> of logic are  true, it thereby creates a world in which the<lb/> whole of mathematics holds;  and similarly it could not create<lb/> a world in which a proposition was  true, without creating<lb/> its constituents.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b17.6" n="Ts-201a2,b17[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b17.6" n="Ts-201a2,b17[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1250,7 +1250,7 @@
           <s type="es" part="N">The same holds of all<lb/> <seg type="p" part="N"><emph rend="us1">ab</emph>-</seg>functions.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b17.7" n="Ts-201a2,b17[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b17.7" n="Ts-201a2,b17[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1263,7 +1263,7 @@
           <fw type="pagen">18</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b18.1" n="Ts-201a2,b18[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b18.1" n="Ts-201a2,b18[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1271,7 +1271,7 @@
           <s type="es" part="N"><c type="k" part="N">I</c> understand the proposition  “<seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">a R  b</seg>” when I know that either<lb/> the fact that  <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">a R b</seg> or  the fact that not <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">a R b</seg> corresponds to it;<lb/> but this is not to be confused  with the false opinion that I<lb/> understood  “<seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">a R  b</seg>” when I know that  “<seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">a R  b</seg> or not <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">a R b</seg>” is the<lb/> case.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b18.2" n="Ts-201a2,b18[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b18.2" n="Ts-201a2,b18[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1288,7 +1288,7 @@
           <fw type="pagen">19</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b19.1" n="Ts-201a2,b19[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b19.1" n="Ts-201a2,b19[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1297,7 +1297,7 @@
           <s type="es" part="N">We require not only an equivalence, but<lb/> a formal equivalence, which is  bound up with the introduction<lb/> of the form of  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg></emph>.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b19.2" n="Ts-201a2,b19[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b19.2" n="Ts-201a2,b19[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1305,7 +1305,7 @@
           <s type="es" part="N">The sense of an <seg type="p" part="N">ab-</seg>function of  <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg></emph>  is a function of the<lb/> sense of <emph rend="us1"><seg type="notation" subtype="logic_propositional formula" rend="literal" part="N">p</seg></emph>.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b19.3" n="Ts-201a2,b19[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b19.3" n="Ts-201a2,b19[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1313,7 +1313,7 @@
           <s type="es" part="N">The <seg type="p" part="N"><emph rend="us1">ab</emph>-</seg>functions use the discrimination of facts,  which<lb/> their arguments bring forth, in order to generate new<lb/>  discriminations.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b19.4" n="Ts-201a2,b19[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b19.4" n="Ts-201a2,b19[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1323,7 +1323,7 @@
           <s type="es" part="N">This is easily shown.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b19.5" n="Ts-201a2,b19[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b19.5" n="Ts-201a2,b19[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1333,7 +1333,7 @@
           <s type="es" part="N">This goes<lb/> against <persName key="Russell, Bertrand" instant="false" full="yes">Russell's</persName> theory of judgment.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b19.6" n="Ts-201a2,b19[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b19.6" n="Ts-201a2,b19[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <del type="d_h" instant="false" status="unremarkable">
@@ -1343,7 +1343,7 @@
           </del>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b20.1" n="Ts-201a2,b20[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b20.1" n="Ts-201a2,b20[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1352,7 +1352,7 @@
           <s type="es" part="N">For we introduce this class,<lb/> as it were, when we introduce  <seg type="p" part="N"><emph rend="us1">ab</emph>-</seg>functions.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b20.2" n="Ts-201a2,b20[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b20.2" n="Ts-201a2,b20[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1361,7 +1361,7 @@
           <s type="es" part="N"><emph rend="us1">But</emph> when we introduce<lb/> propositions of the form  <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">x R y</seg> we  mentioned no one particular<lb/> proposition of this form; and we only need to  introduce<lb/> <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">(<add rend="el_h" instant="false" status="unremarkable">∃</add> x,y). <add rend="el_h" instant="false" status="unremarkable">φ</add>(x,y)</seg> for all <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N"><add rend="el_h" instant="false" status="unremarkable">φ</add>'s</seg> in any way which  makes the<lb/> sense of these propositions dependent on the sense of all<lb/>   propositions of the form <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N"><add rend="el_h" instant="false" status="unremarkable">φ</add>(a, b)</seg>, and thereby the   <choice type="em"><orig type="em1">just<del type="d_h" instant="false" status="unremarkable">ification</del><add rend="i_h" instant="false" status="unremarkable">ness</add></orig><orig type="em2"><choice type="dsl_h"><orig type="alt1">justification</orig><orig type="alt2">just<add rend="i_h" instant="false" status="unremarkable">ness</add></orig></choice></orig></choice><lb/> of our procedure is proved.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b20.3etb21.1" n="Ts-201a2,b20[3]etb21[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b20.3etb21.1" n="Ts-201a2,b20[3]etb21[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1374,7 +1374,7 @@
           <s type="es" part="N">In short, for<lb/> the introduction of indefinable symbols and combinations  of<lb/> symbols the same holds, <seg type="ct" part="N">mutatis mutandis</seg>, that  <persName key="Frege, Gottlob" instant="false" full="yes">Frege</persName> has said<lb/> for the  introduction of symbols by definitions.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b21.2" n="Ts-201a2,b21[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b21.2" n="Ts-201a2,b21[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1383,7 +1383,7 @@
           <s type="es" part="N">In fact the understanding of general<lb/> propositions obviously depends on  that of atomic propositions.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b21.3" n="Ts-201a2,b21[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b21.3" n="Ts-201a2,b21[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1392,7 +1392,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b21.4" n="Ts-201a2,b21[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b21.4" n="Ts-201a2,b21[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1405,7 +1405,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b22.1" n="Ts-201a2,b22[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.1" n="Ts-201a2,b22[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1414,7 +1414,7 @@
         </seg>
         <emph rend="bl_1"/>
       </ab>
-      <ab xml:id="Ts-201a2_b22.2" n="Ts-201a2,b22[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.2" n="Ts-201a2,b22[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1422,7 +1422,7 @@
           <s type="es" part="N"><emph rend="us1">Not</emph>: “<c type="c" part="N">T</c>he complex sign  ‘<seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">a R  b</seg>’” says that <seg type="p" part="N"><emph rend="us1"><seg type="notation" subtype="logic_quantificational constant" rend="literal" part="N">a</seg></emph></seg> stands in the<lb/> relation  <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">R</seg> to  <seg type="p" part="N"><emph rend="us1"><seg type="notation" subtype="logic_quantificational constant" rend="literal" part="N">b</seg></emph></seg>; but <emph rend="us1">that</emph>  ‘<seg type="notation" subtype="logic_quantificational constant" rend="literal" part="N">a</seg>’ stands in a certain relation  to<lb/> ‘<seg type="notation" subtype="logic_quantificational constant" rend="literal" part="N">b</seg>’ says <emph rend="us1">that</emph>  <seg type="notation" subtype="logic_quantificational formula" rend="literal" part="N">a R  b</seg>.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b22.3" n="Ts-201a2,b22[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.3" n="Ts-201a2,b22[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <emph rend="clilm_h">
             <seg type="wabmarks-secml_h" part="N"/>
@@ -1437,7 +1437,7 @@
           </emph>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b22.4" n="Ts-201a2,b22[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.4" n="Ts-201a2,b22[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <emph rend="clilm_h">
             <seg type="wabmarks-secml_h" part="N"/>
@@ -1446,7 +1446,7 @@
           </emph>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b22.5" n="Ts-201a2,b22[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.5" n="Ts-201a2,b22[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <emph rend="clilm_h">
             <seg type="wabmarks-secml_h" part="N"/>
@@ -1455,7 +1455,7 @@
           </emph>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b22.6" n="Ts-201a2,b22[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.6" n="Ts-201a2,b22[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <emph rend="clilm_h">
             <seg type="wabmarks-secml_h" part="N"/>
@@ -1464,7 +1464,7 @@
           </emph>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b22.7" n="Ts-201a2,b22[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.7" n="Ts-201a2,b22[7]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <emph rend="clilm_h">
             <seg type="wabmarks-secml_h" part="N"/>
@@ -1473,7 +1473,7 @@
           </emph>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b22.8" n="Ts-201a2,b22[8]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.8" n="Ts-201a2,b22[8]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <emph rend="clilm_h">
             <seg type="wabmarks-secml_h" part="N"/>
@@ -1482,7 +1482,7 @@
           </emph>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b22.9" n="Ts-201a2,b22[9]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.9" n="Ts-201a2,b22[9]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <seg type="wabmarks-secml_h" part="N"/>
           <seg type="series-number-indent" part="N"/>
@@ -1492,7 +1492,7 @@
           </del>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b22.10" n="Ts-201a2,b22[10]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b22.10" n="Ts-201a2,b22[10]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1504,7 +1504,7 @@
           <fw type="pagen">23</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b23.1" n="Ts-201a2,b23[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b23.1" n="Ts-201a2,b23[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <emph rend="clilm_h">
             <seg type="wabmarks-secml_h" part="N"/>
@@ -1519,7 +1519,7 @@
           </emph>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b23.2" n="Ts-201a2,b23[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b23.2" n="Ts-201a2,b23[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <emph rend="clilm_h">
             <seg type="wabmarks-secml_h" part="N"/>
@@ -1528,7 +1528,7 @@
           </emph>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b23.3" n="Ts-201a2,b23[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b23.3" n="Ts-201a2,b23[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1536,7 +1536,7 @@
           <s type="es" part="N">Judgment, command and question all stand on the same level;<lb/> but all  have in common the propositional form, which does interest<lb/>  <emph rend="us1">us</emph>.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b23.4" n="Ts-201a2,b23[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b23.4" n="Ts-201a2,b23[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1545,7 +1545,7 @@
           <s type="es" part="N">But ordinary language conceals the<lb/> structure of the proposition:  in it, relations look like<lb/> predicates, predicates like names,  <abbr type="abb">etc.</abbr></s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b23.5" n="Ts-201a2,b23[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b23.5" n="Ts-201a2,b23[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N">I</seg>
@@ -1553,7 +1553,7 @@
           <lb rend="hl"/>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b23.6" n="Ts-201a2,b23[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b23.6" n="Ts-201a2,b23[6]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1567,7 +1567,7 @@
           <fw type="pagen">24</fw>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b24.1" n="Ts-201a2,b24[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b24.1" n="Ts-201a2,b24[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1576,7 +1576,7 @@
           <s type="es" part="N">What is justified in this desire is fully<lb/> satisfied by  <persName key="Russell, Bertrand" instant="false" full="yes">Russell's</persName> theory of  manufactured relations.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b24.2" n="Ts-201a2,b24[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b24.2" n="Ts-201a2,b24[2]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1586,7 +1586,7 @@
           <lb rend="hl"/>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b24.3" n="Ts-201a2,b24[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b24.3" n="Ts-201a2,b24[3]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1594,7 +1594,7 @@
           <s type="es" part="N">The false assumption that propositions are names leads us<lb/> to believe  that there must be logical objects: for the meanings<lb/> of logical  propositions will have to be such things.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b24.4" n="Ts-201a2,b24[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b24.4" n="Ts-201a2,b24[4]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent" part="N"/>
@@ -1606,14 +1606,14 @@
           <s type="es" rend="indl_5" part="N">A correct explanation of logical propositions must give<lb/> them a unique  position as against all other propositions.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b24.5" n="Ts-201a2,b24[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b24.5" n="Ts-201a2,b24[5]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <seg type="series-number-indent_h" part="N">VI</seg>
           <s type="es" rend="indl_5" part="N">No proposition can say anything about itself, because the<lb/> symbol of the  proposition cannot be contained in itself; this<lb/> must be the basis of the  theory of logical types.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b24.6etb25.1" n="Ts-201a2,b24[6]etb25[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b24.6etb25.1" n="Ts-201a2,b24[6]etb25[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <emph rend="indl_5"/>
@@ -1625,7 +1625,7 @@
           <pb facs="Ts-201a2_b26" rend="recto" n="pagename_Ts-201a2,b26 pageref_00"/>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b26.1" n="Ts-201a2,b26[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b26.1" n="Ts-201a2,b26[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="publ" part="N">
           <seg type="intref" n="201a2:136_201a3:136" part="N"/>
           <seg type="wabmarks-secml_h" part="N"/>
@@ -1659,7 +1659,7 @@
           </add>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b27r.1" n="Ts-201a2,b27r[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b27r.1" n="Ts-201a2,b27r[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <add rend="el_h" instant="false" status="unremarkable">
@@ -1673,7 +1673,7 @@
           </add>
         </seg>
       </ab>
-      <ab xml:id="Ts-201a2_b27v.1" n="Ts-201a2,b27v[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140200?" xml:lang="en" part="N">
+      <ab xml:id="Ts-201a2_b27v.1" n="Ts-201a2,b27v[1]" ana="field:PhilosophyOfLanguage_pub:W-NL: 4. MS_date:19140230?" xml:lang="en" part="N">
         <seg type="wabmarks-secml_h" part="N"/>
         <seg type="publ" part="N">
           <add rend="el_h" instant="false" status="unremarkable">
