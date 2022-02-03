@@ -7,40 +7,40 @@
         <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen.">Wittgenstein Nachlass Ms-141 (WL)</title>
         <title xml:id="Ms-141" n="Ms-141" type="main" xml:lang="en"/>
         <author>
-          <persName key="Wittgenstein, Ludwig" instant="false" full="yes">Ludwig Wittgenstein</persName>
+          <persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>
         </author>
-        <editor><orgName ref="http://wab.uib.no/" instant="false" full="yes">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this transcription: <persName instant="false" full="yes">Alois Pichler</persName></editor>
+        <editor><orgName ref="http://wab.uib.no/">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this transcription: <persName>Alois Pichler</persName></editor>
         <funder>Trinity College, Cambridge; Oxford University Press, Oxford;  Uni Research, Bergen; University of Bergen, Bergen; L. Meltzers Høyskolefond, Bergen; COST Action A32, Brussels; eContent+ DISCOVERY, Luxembourg; ICT PSP DM2E,  Brussels</funder>
         <respStmt>
-          <name full="yes" instant="false">Espen Ore, Kyrre Trohjell, Heinz Wilhelm Krüger, Jürgen Gercken</name>
+          <name>Espen Ore, Kyrre Trohjell, Heinz Wilhelm Krüger, Jürgen Gercken</name>
           <resp>transcription in MECS-WIT markup: 1995, 1997, 1999</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Alois Pichler</name>
+          <name>Alois Pichler</name>
           <resp>2001-: coordination and editorial guidelines; amendments; conversion from MECS-WIT to XML-TEI; XML-TEI markup</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Claus Huitfeldt, Kjersti Bjørnestad Berg, Sindre Sørensen, MLCD project</name>
+          <name>Claus Huitfeldt, Kjersti Bjørnestad Berg, Sindre Sørensen, MLCD project</name>
           <resp>2001: parser for conversion from MECS to XML</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal, Tone Merete Bruvik</name>
+          <name>Vemund Olstad, Øyvind L. Gjesdal, Tone Merete Bruvik</name>
           <resp>2002-: stylesheets</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Tone Merete Bruvik, Øyvind L. Gjesdal</name>
+          <name>Tone Merete Bruvik, Øyvind L. Gjesdal</name>
           <resp>2006-: XML-TEI validation</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Heinz Wilhelm Krüger, Deirdre C. P. Smith, Florian Gstöhl</name>
+          <name>Heinz Wilhelm Krüger, Deirdre C. P. Smith, Florian Gstöhl</name>
           <resp>2006-: amendments; XML-TEI markup</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Claus Huitfeldt</name>
+          <name>Claus Huitfeldt</name>
           <resp>2020: spell-check</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Michael Biggs, Hans Biesenbach</name>
+          <name>Michael Biggs, Hans Biesenbach</name>
           <resp>1990-: the transcription includes links to graphics provided by Michael Biggs: "Ludwig Wittgenstein: A Visual Concordance to the Published Works", Minerva Vol. 2 (1998) [http://www.minerva.mic.ul.ie/vol2/Ver_33/index.htm] or Hans Biesenbach.</resp>
         </respStmt>
       </titleStmt>
@@ -52,23 +52,23 @@
         <idno type="URL">http://www.wittgensteinsource.org/Ms-141_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ms-141_f</idno>
         <idno type="URL">http://wittgensteinonline.no/</idno>
-        <availability xml:lang="en" default="false">
-          <p part="N">Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
+        <availability xml:lang="en">
+          <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
       </publicationStmt>
-      <sourceDesc xml:lang="en" default="false">
-        <p part="N">Tba. </p>
+      <sourceDesc xml:lang="en">
+        <p>Tba. </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass default="false">
+      <textClass>
         <keywords scheme="http://philpapers.org/">
           <term>Philosophy of Language</term>
         </keywords>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
-      <change status="draft">Dating with reference to Pichler 1997, p. 65f (Spaetherbst 1933 bis Oktober 1934). </change>
+    <revisionDesc>
+      <change>Dating with reference to Pichler 1997, p. 65f (Spaetherbst 1933 bis Oktober 1934). </change>
     </revisionDesc>
   </teiHeader>
   <facsimile>
@@ -99,338 +99,338 @@
   </facsimile>
   <text xml:lang="de">
     <body>
-      <ab xml:id="Ms-141_1.1" n="Ms-141,1[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
+      <ab xml:id="Ms-141_1.1" n="Ms-141,1[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
         <pb facs="Ms-141_1" rend="recto" n="pagename_Ms-141,1 pageref_00"/>
         <fw type="pagen">1</fw>
         <emph rend="bl_1"/>
         <rs type="extref" key="Augustinus, Aurelius: Confessiones">
-          <s type="es" rend="indl_4" part="N">
-            <rs type="extref" key="Augustinus, Aurelius: Confessiones"><persName key="Augustinus, Aurelius" instant="false" full="yes"><c type="k" part="N">A</c>ugustinus'</persName>  Beschreibung des Lernens der Sprache.</rs>
+          <s type="es" rend="indl_4">
+            <rs type="extref" key="Augustinus, Aurelius: Confessiones"><persName key="Augustinus, Aurelius"><c type="k">A</c>ugustinus'</persName>  Beschreibung des Lernens der Sprache.</rs>
           </s>
-          <s type="es" rend="indl_2" part="N">Diese Auffassung ist einem großen Teil der Menschen die  natürliche.</s>
-          <s type="es" rend="indl_2" part="N">Man denkt daran, wie das Kind     <choice type="s_h"><orig type="alt1">die Namen</orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">den Gebrauch</add></orig></choice>    von Personen &amp; Worte<lb/> wie  “Mann”, “Sessel”,  “Zucker”, lernt.</s>
-          <s type="es" rend="indl_3" part="N">An Bestandteile der Sprache wie     “<choice type="s_h"><orig type="alt1">jetzt</orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">und</add></orig></choice>”,        “nicht”, “aber”,      “<choice type="s_h"><orig type="alt1">alle</orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">vielleicht</add></orig></choice>”           <lb/> denkt man dabei  nicht.</s>
-          <s type="es" rend="indl_2" part="N"><persName key="Augustinus, Aurelius" instant="false" full="yes"><c type="k" part="N">A</c>ugustin's</persName>  Auffassung des Lernens der Sprache könnte man<lb/>  <del type="d" instant="false" status="unremarkable">“</del>unvollständig<del type="d" instant="false" status="unremarkable">”</del>, <del type="d" instant="false" status="unremarkable">nennen</del>   <del type="d" instant="false" status="unremarkable">“</del>lückenhaft nennen.</s>
-          <s type="es" part="N">Als sähe jemand<lb/> auf einen Wald <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">aus</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">von</add></orig></choice>   Laubbäumen, Nadelbäumen, <add rend="im" instant="false" status="unremarkable">Sträuchern</add><add rend="el" instant="false" status="unremarkable">,</add> Farnen &amp;  anderem<del type="d" instant="false" status="unremarkable">.</del>,<del type="d" instant="false" status="unremarkable">.</del><lb/> &amp; sagte, der Wald  <choice type="em"><orig type="em1">bestehe<add rend="i_h" instant="false" status="unremarkable">t</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">bestehe</orig><orig type="alt2">besteht</orig></choice></orig></choice> aus  Kiefern.</s>
-          <s type="es" rend="indl_2" part="N">Es ist aber wichtig, daß wir uns eine Sprache (System der  Verstän<lb rend="shyphen"/>digung) denken können, für die  <persName key="Augustinus, Aurelius" instant="false" full="yes">Augustins</persName> Beschreibung  gilt.</s>
+          <s type="es" rend="indl_2">Diese Auffassung ist einem großen Teil der Menschen die  natürliche.</s>
+          <s type="es" rend="indl_2">Man denkt daran, wie das Kind     <choice type="s_h"><orig type="alt1">die Namen</orig><orig type="alt2"><add rend="i_h">den Gebrauch</add></orig></choice>    von Personen &amp; Worte<lb/> wie  “Mann”, “Sessel”,  “Zucker”, lernt.</s>
+          <s type="es" rend="indl_3">An Bestandteile der Sprache wie     “<choice type="s_h"><orig type="alt1">jetzt</orig><orig type="alt2"><add rend="i_h">und</add></orig></choice>”,        “nicht”, “aber”,      “<choice type="s_h"><orig type="alt1">alle</orig><orig type="alt2"><add rend="i_h">vielleicht</add></orig></choice>”           <lb/> denkt man dabei  nicht.</s>
+          <s type="es" rend="indl_2"><persName key="Augustinus, Aurelius"><c type="k">A</c>ugustin's</persName>  Auffassung des Lernens der Sprache könnte man<lb/>  <del type="d">“</del>unvollständig<del type="d">”</del>, <del type="d">nennen</del>   <del type="d">“</del>lückenhaft nennen.</s>
+          <s type="es">Als sähe jemand<lb/> auf einen Wald <choice type="dsl"><orig type="alt1"><del type="d">aus</del></orig><orig type="alt2"><add rend="i">von</add></orig></choice>   Laubbäumen, Nadelbäumen, <add rend="im">Sträuchern</add><add rend="el">,</add> Farnen &amp;  anderem<del type="d">.</del>,<del type="d">.</del><lb/> &amp; sagte, der Wald  <choice type="em"><orig type="em1">bestehe<add rend="i_h">t</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">bestehe</orig><orig type="alt2">besteht</orig></choice></orig></choice> aus  Kiefern.</s>
+          <s type="es" rend="indl_2">Es ist aber wichtig, daß wir uns eine Sprache (System der  Verstän<lb rend="shyphen"/>digung) denken können, für die  <persName key="Augustinus, Aurelius">Augustins</persName> Beschreibung  gilt.</s>
         </rs>
       </ab>
-      <ab xml:id="Ms-141_1.2" n="Ms-141,1[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">1)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Denken wir uns eine Sprache deren Funktion es ist, daß ein<lb/> Bauender  <seg type="p" part="N">A</seg> sich durch sie mit einem Handlanger <seg type="p" part="N">B</seg> verständigt.</s>
+      <ab xml:id="Ms-141_1.2" n="Ms-141,1[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">1)<emph rend="blankspace_3"/></seg>
+        <s type="es">Denken wir uns eine Sprache deren Funktion es ist, daß ein<lb/> Bauender  <seg type="p">A</seg> sich durch sie mit einem Handlanger <seg type="p">B</seg> verständigt.</s>
         <lb/>
-        <s type="es" part="N"><seg type="p" part="N">B</seg> soll dem <seg type="p" part="N">A</seg> Bausteine zureichen.</s>
-        <s type="es" part="N">Es gibt Quadern, Säulen, Platten,<lb/> Balken<del type="d" instant="false" status="unremarkable">,</del><del type="d" instant="false" status="unremarkable"><abbr type="abb">usw.</abbr></del>.</s>
-        <s type="es" part="N">Die Sprache besteht aus den Wörtern: “Quader”,  “Säule”,<lb/> “Platte”,  “Balken”; <seg type="p" part="N">A</seg> ruft dem <seg type="p" part="N">B</seg> eines dieser Wörter zu,  <seg type="p" part="N">B</seg> bringt darauf<lb/> einen Baustein von bestimmter Form.</s>
-        <s type="es" rend="indl_2" part="N">Das Kind lernt diese Sprache von den Erwachsenen; es wird zum<lb/> Gebrauch der  Sprache abgerichtet.</s>
-        <s type="es" part="N">Dabei wird auf einen Baustein<lb/> hingewiesen, die Aufmerksamkeit des Kindes  auf ihn gelenkt, &amp; ein Wort<lb/> ausgesprochen.</s>
-        <s type="es" part="N">Dies kann man “hinweisendes Wortelehren“ nennen.</s>
-        <s type="es" rend="indl_5" part="N">Im eigentlichen Gebrauch dieser Sprache ruft der eine Teil die<lb/> Worte, als   Befehle, der andere handelt nach ihnen;  <choice type="em"><orig type="em1">aber das Lernen <add rend="i" instant="false" status="unremarkable">im  Lernen</add><lb/> der Sprache kann den Vorgang enthalten <add rend="i" instant="false" status="unremarkable">wird es   vorkommen</add></orig><orig type="em2"><choice type="s"><orig type="alt1">aber das Lernen der Sprache kann den Vorgang enthalten,</orig><orig type="alt2">aber im Lernen der Sprache wird es vorkommen,</orig></choice></orig></choice> daß der Lernende die  Dinge<lb/> nur ‘benennt’, <abbr type="abb">d.h.</abbr>, die  Wörter der Sprache <choice type="dsl"><orig type="alt1">sagt</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">ausspricht</add></orig></choice> wenn auf die Dinge<lb/>  gezeigt wird.</s>
-        <s type="es" part="N">Ja es gibt in diesem Lernen auch <choice type="em"><orig type="em1">d<choice type="o"><orig type="o1">en</orig><orig type="o2">ie</orig></choice>  einfachere<del type="d" instant="false" status="unremarkable">n</del></orig><orig type="em2"><del type="d" instant="false" status="unremarkable"><corr type="npc" instant="false">den einfacheren</corr></del> die  einfachere</orig></choice><lb/> Übung: der Lernende wiederholt die Wörter die der  Erwachsene ihm vor<lb rend="shyphen"/>spricht.</s>
+        <s type="es"><seg type="p">B</seg> soll dem <seg type="p">A</seg> Bausteine zureichen.</s>
+        <s type="es">Es gibt Quadern, Säulen, Platten,<lb/> Balken<del type="d">,</del><del type="d"><abbr type="abb">usw.</abbr></del>.</s>
+        <s type="es">Die Sprache besteht aus den Wörtern: “Quader”,  “Säule”,<lb/> “Platte”,  “Balken”; <seg type="p">A</seg> ruft dem <seg type="p">B</seg> eines dieser Wörter zu,  <seg type="p">B</seg> bringt darauf<lb/> einen Baustein von bestimmter Form.</s>
+        <s type="es" rend="indl_2">Das Kind lernt diese Sprache von den Erwachsenen; es wird zum<lb/> Gebrauch der  Sprache abgerichtet.</s>
+        <s type="es">Dabei wird auf einen Baustein<lb/> hingewiesen, die Aufmerksamkeit des Kindes  auf ihn gelenkt, &amp; ein Wort<lb/> ausgesprochen.</s>
+        <s type="es">Dies kann man “hinweisendes Wortelehren“ nennen.</s>
+        <s type="es" rend="indl_5">Im eigentlichen Gebrauch dieser Sprache ruft der eine Teil die<lb/> Worte, als   Befehle, der andere handelt nach ihnen;  <choice type="em"><orig type="em1">aber das Lernen <add rend="i">im  Lernen</add><lb/> der Sprache kann den Vorgang enthalten <add rend="i">wird es   vorkommen</add></orig><orig type="em2"><choice type="s"><orig type="alt1">aber das Lernen der Sprache kann den Vorgang enthalten,</orig><orig type="alt2">aber im Lernen der Sprache wird es vorkommen,</orig></choice></orig></choice> daß der Lernende die  Dinge<lb/> nur ‘benennt’, <abbr type="abb">d.h.</abbr>, die  Wörter der Sprache <choice type="dsl"><orig type="alt1">sagt</orig><orig type="alt2"><add rend="i">ausspricht</add></orig></choice> wenn auf die Dinge<lb/>  gezeigt wird.</s>
+        <s type="es">Ja es gibt in diesem Lernen auch <choice type="em"><orig type="em1">d<choice type="o"><orig type="o1">en</orig><orig type="o2">ie</orig></choice>  einfachere<del type="d">n</del></orig><orig type="em2"><del type="d"><corr type="npc">den einfacheren</corr></del> die  einfachere</orig></choice><lb/> Übung: der Lernende wiederholt die Wörter die der  Erwachsene ihm vor<lb rend="shyphen"/>spricht.</s>
       </ab>
-      <ab xml:id="Ms-141_1.3" n="Ms-141,1[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">2)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Betrachten wir eine Erweiterung dieser Sprache: <c type="c" part="N">D</c>er Handlanger<lb/> weiß  die Reihe der Wörter “eins” bis “zehn”  auswendig; auf den Befehl<lb/> “fünf Platten!” geht er an  den Ort wo die Platten liegen, sagt die Reihe von<lb/> “eins”  bis “fünf” &amp; nimmt bei jedem Wort eine Platte auf;  dann bringt<lb/> er die fünf dem Bauenden.</s>
-        <s type="es" part="N">(Hier gebrauchen beide Teile die Sprache redend<corr type="tra" instant="false">.</corr>)</s>
-        <s type="es" rend="indl_2" part="N"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Beim</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><c type="c" part="N">I</c>m</add></orig></choice> Lernen dieser Sprache wird das  Memorieren der Zahlwörter<lb/> einen bedeutenden Platz einnehmen. –</s>
-        <s type="es" part="N">Die Anwendung der einzelnen Zahl<lb rend="shyphen"/>wörter wird wieder hinweisend  gelehrt werden.</s>
-        <s type="es" part="N">Aber nun wird das<lb/> gleiche Wort (etwa “drei”)  sowohl durch den Hinweis auf Platten, wie<lb/> auf Quadern etc. gelehrt,  &amp; anderseits verschiedene Zahlwörter<lb/> durch den Hinweis <del type="dnpc" instant="false" status="unremarkable">auf  durch den</del> auf verschiedene Gruppen der<lb/> gleichen Art von  Steinen.</s>
+      <ab xml:id="Ms-141_1.3" n="Ms-141,1[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">2)<emph rend="blankspace_3"/></seg>
+        <s type="es">Betrachten wir eine Erweiterung dieser Sprache: <c type="c">D</c>er Handlanger<lb/> weiß  die Reihe der Wörter “eins” bis “zehn”  auswendig; auf den Befehl<lb/> “fünf Platten!” geht er an  den Ort wo die Platten liegen, sagt die Reihe von<lb/> “eins”  bis “fünf” &amp; nimmt bei jedem Wort eine Platte auf;  dann bringt<lb/> er die fünf dem Bauenden.</s>
+        <s type="es">(Hier gebrauchen beide Teile die Sprache redend<corr type="tra">.</corr>)</s>
+        <s type="es" rend="indl_2"><choice type="dsl"><orig type="alt1"><del type="d">Beim</del></orig><orig type="alt2"><add rend="i"><c type="c">I</c>m</add></orig></choice> Lernen dieser Sprache wird das  Memorieren der Zahlwörter<lb/> einen bedeutenden Platz einnehmen. –</s>
+        <s type="es">Die Anwendung der einzelnen Zahl<lb rend="shyphen"/>wörter wird wieder hinweisend  gelehrt werden.</s>
+        <s type="es">Aber nun wird das<lb/> gleiche Wort (etwa “drei”)  sowohl durch den Hinweis auf Platten, wie<lb/> auf Quadern etc. gelehrt,  &amp; anderseits verschiedene Zahlwörter<lb/> durch den Hinweis <del type="dnpc">auf  durch den</del> auf verschiedene Gruppen der<lb/> gleichen Art von  Steinen.</s>
       </ab>
-      <ab xml:id="Ms-141_1.4" n="Ms-141,1[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">3)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Führen wir weitere Vorrichtungen der Sprache ein: Einem bestimmten<lb/>  Gegenstand (Baustein) wird – durch Hinweis – ein Name  (Eigenname)<lb/> gegeben; wird der Name gerufen, so bringt <seg type="p" part="N">B</seg> den  Gegenstand.</s>
-        <s type="es" part="N">Das Hin<lb rend="shyphen"/>weisende Lehren ist hier wieder anders; vergleiche es mit dem  Früheren.</s>
+      <ab xml:id="Ms-141_1.4" n="Ms-141,1[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">3)<emph rend="blankspace_3"/></seg>
+        <s type="es">Führen wir weitere Vorrichtungen der Sprache ein: Einem bestimmten<lb/>  Gegenstand (Baustein) wird – durch Hinweis – ein Name  (Eigenname)<lb/> gegeben; wird der Name gerufen, so bringt <seg type="p">B</seg> den  Gegenstand.</s>
+        <s type="es">Das Hin<lb rend="shyphen"/>weisende Lehren ist hier wieder anders; vergleiche es mit dem  Früheren.</s>
         <pb facs="Ms-141_2" rend="recto" n="pagename_Ms-141,2 pageref_00"/>
         <fw type="pagen">2</fw>
       </ab>
-      <ab xml:id="Ms-141_2.1" n="Ms-141,2[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">4)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Auf den Befehl “<c type="c" part="N">D</c>ie Platte dort!” bringt  <seg type="p" part="N">B</seg> die Platte auf welche gezeigt<lb/> <choice type="s"><orig type="alt1">wird</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">wurde</add></orig></choice>; auf den  Befehl “Platte dorthin!” bringt er eine Platte an den  Ort,<lb/> auf den gewiesen wird.</s>
-        <s type="es" part="N">Wird der Gebrauch der Worte “dort” &amp;  “dorthin”<lb/> auch hinweisend gelehrt?</s>
-        <s type="es" part="N"><choice type="s"><orig type="alt1"><abbr type="abb">N.B.</abbr><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">,</del></orig><orig type="alt2"><add rend="el" instant="false" status="unremarkable">:</add></orig></choice></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><c type="c" part="N">B</c>edenke:</add></orig></choice> man gibt nicht einem Ort den Namen  “dort”.</s>
+      <ab xml:id="Ms-141_2.1" n="Ms-141,2[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">4)<emph rend="blankspace_3"/></seg>
+        <s type="es">Auf den Befehl “<c type="c">D</c>ie Platte dort!” bringt  <seg type="p">B</seg> die Platte auf welche gezeigt<lb/> <choice type="s"><orig type="alt1">wird</orig><orig type="alt2"><add rend="i">wurde</add></orig></choice>; auf den  Befehl “Platte dorthin!” bringt er eine Platte an den  Ort,<lb/> auf den gewiesen wird.</s>
+        <s type="es">Wird der Gebrauch der Worte “dort” &amp;  “dorthin”<lb/> auch hinweisend gelehrt?</s>
+        <s type="es"><choice type="s"><orig type="alt1"><abbr type="abb">N.B.</abbr><choice type="dsl"><orig type="alt1"><del type="d">,</del></orig><orig type="alt2"><add rend="el">:</add></orig></choice></orig><orig type="alt2"><add rend="i"><c type="c">B</c>edenke:</add></orig></choice> man gibt nicht einem Ort den Namen  “dort”.</s>
       </ab>
-      <ab xml:id="Ms-141_2.2" n="Ms-141,2[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">5)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N"><c type="k" part="N">F</c>rage &amp; Antwort.</s>
-        <s type="es" part="N"><seg type="p" part="N">A</seg> fragt “<c type="c" part="N">W</c>ieviele Platten?”</s>
-        <s type="es" part="N">– <seg type="p" part="N">B</seg> zählt sie &amp; antwortet die<lb/> Zahl.</s>
-        <s type="es" rend="indl_7" part="N">Jede dieser Formen des sprachlichen Verkehrs könnte man ein  “Sprach<lb rend="shyphen"/>spiel” nennen.</s>
-        <s type="es" part="N">Sie sind dem, was wir gewöhnlich “Spiele” nennen, mehr<lb/>  oder weniger, verwandt.</s>
-        <s type="es" part="N">Das Kind lernt <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">den Gebrauch</del></orig><orig type="alt2">die Sprache</orig></choice> mittels<lb/>  solcher Spiele.</s>
-        <s type="es" part="N">(Und <choice type="s"><orig type="alt1">sie</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">diese</add></orig></choice> haben dann oft auch den unterhaltenden  Cha<lb rend="shyphen"/>rakter des Spiels.)</s>
-        <s type="es" rend="indl_7" part="N">Die Sprachspiele wollen wir nicht als unfertige Teile, als  Bruch<lb rend="shyphen"/>stücke eines Ganzen, der Sprache, betrachten, sondern als in sich  ab<lb rend="shyphen"/>geschlossene Sprachen, Systeme menschlicher Verständigung.</s>
-        <s type="es" part="N">Und<lb/> hiezu ist es nützlich sich vorzustellen, ein primitiver Volksstamm<lb/>  besitze so eine Sprache, die, <abbr type="abb">z.B.</abbr>, <choice type="s"><orig type="alt1">nur</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">blo<corr type="trsn" instant="false"><orig type="trsn1">s</orig><reg type="trsn2">ß</reg></corr></add></orig></choice> aus einem System von Befehlen<lb/> zum  Gebrauch im Kriege besteht. –</s>
-        <s type="es" part="N">Eine solche primitive Sprache ist<lb/> <del type="d" instant="false" status="unremarkable">dann</del> unmittelbar verwandt einer  primitiven Arithmetik.</s>
+      <ab xml:id="Ms-141_2.2" n="Ms-141,2[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">5)<emph rend="blankspace_3"/></seg>
+        <s type="es"><c type="k">F</c>rage &amp; Antwort.</s>
+        <s type="es"><seg type="p">A</seg> fragt “<c type="c">W</c>ieviele Platten?”</s>
+        <s type="es">– <seg type="p">B</seg> zählt sie &amp; antwortet die<lb/> Zahl.</s>
+        <s type="es" rend="indl_7">Jede dieser Formen des sprachlichen Verkehrs könnte man ein  “Sprach<lb rend="shyphen"/>spiel” nennen.</s>
+        <s type="es">Sie sind dem, was wir gewöhnlich “Spiele” nennen, mehr<lb/>  oder weniger, verwandt.</s>
+        <s type="es">Das Kind lernt <choice type="dsl"><orig type="alt1"><del type="d">den Gebrauch</del></orig><orig type="alt2">die Sprache</orig></choice> mittels<lb/>  solcher Spiele.</s>
+        <s type="es">(Und <choice type="s"><orig type="alt1">sie</orig><orig type="alt2"><add rend="i">diese</add></orig></choice> haben dann oft auch den unterhaltenden  Cha<lb rend="shyphen"/>rakter des Spiels.)</s>
+        <s type="es" rend="indl_7">Die Sprachspiele wollen wir nicht als unfertige Teile, als  Bruch<lb rend="shyphen"/>stücke eines Ganzen, der Sprache, betrachten, sondern als in sich  ab<lb rend="shyphen"/>geschlossene Sprachen, Systeme menschlicher Verständigung.</s>
+        <s type="es">Und<lb/> hiezu ist es nützlich sich vorzustellen, ein primitiver Volksstamm<lb/>  besitze so eine Sprache, die, <abbr type="abb">z.B.</abbr>, <choice type="s"><orig type="alt1">nur</orig><orig type="alt2"><add rend="i">blo<corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">ß</reg></corr></add></orig></choice> aus einem System von Befehlen<lb/> zum  Gebrauch im Kriege besteht. –</s>
+        <s type="es">Eine solche primitive Sprache ist<lb/> <del type="d">dann</del> unmittelbar verwandt einer  primitiven Arithmetik.</s>
         <lb rend="hl"/>
-        <s type="es" part="N">Auch <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">wer</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">der welcher</add></orig></choice> die  <del type="dnpc" instant="false" status="unremarkable"><corr type="npcn" instant="false">chem</corr></del> Zeichenschrift der Chemie, darstellende  Geo<lb rend="shyphen"/>metrie, das Lesen der Wetterkarte lernt, <abbr type="abb">etc.</abbr>,  lernt neue Sprach<lb rend="shyphen"/>formen, Sprachspiele.</s>
+        <s type="es">Auch <choice type="dsl"><orig type="alt1"><del type="d">wer</del></orig><orig type="alt2"><add rend="i">der welcher</add></orig></choice> die  <del type="dnpc"><corr type="npcn">chem</corr></del> Zeichenschrift der Chemie, darstellende  Geo<lb rend="shyphen"/>metrie, das Lesen der Wetterkarte lernt, <abbr type="abb">etc.</abbr>,  lernt neue Sprach<lb rend="shyphen"/>formen, Sprachspiele.</s>
       </ab>
-      <ab xml:id="Ms-141_2.3" n="Ms-141,2[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">6)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Ein weiteres Sprachspiel: <c type="c" part="N">N</c>ach der Benennung fragen.</s>
-        <s type="es" part="N">Es werden<lb/> neue Formen von Bausteinen eingeführt.</s>
-        <s type="es" part="N"><seg type="p" part="N">B</seg> zeigt auf einen &amp; fragt: “<c type="c" part="N">W</c>as<lb/> ist  das?” –</s>
-        <s type="es" part="N"><seg type="p" part="N">A</seg> antwortet “<c type="c" part="N">D</c>as ist ein  …”.</s>
-        <s type="es" part="N">Ruft <seg type="p" part="N">A</seg> später das <del type="d" instant="false" status="unremarkable">so</del> neu eingeführte<lb/> Wort <add rend="im" instant="false" status="unremarkable">(<choice type="s"><orig type="alt1">etwa</orig><orig type="alt2"><abbr type="abb">z.B.</abbr></orig></choice> “Sockel”)</add> so  bringt <seg type="p" part="N">B</seg> den Stein.</s>
-        <s type="es" part="N">Die Worte “das ist … ” mit der hinweisen<lb rend="shyphen"/>den  Gebärde heißen “hinweisende Erklärung”.</s>
-        <s type="es" rend="indl_5" part="N">Erklärt wurde in diesem Fall ein Gattungsname (insbesondere<lb/> ein  Formname).</s>
-        <s type="es" part="N">Analog kann hinweisend nach dem Eigennamen eines<lb/> bestimmten Dings  <emph rend="us1">gefragt</emph> werden, &amp; so auch nach <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">dem Namen  </del></orig><orig type="alt2"><lb/>der Benennung</orig></choice> einer Farbe, einer Zahl, einer Richtung,  <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr></s>
+      <ab xml:id="Ms-141_2.3" n="Ms-141,2[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">6)<emph rend="blankspace_3"/></seg>
+        <s type="es">Ein weiteres Sprachspiel: <c type="c">N</c>ach der Benennung fragen.</s>
+        <s type="es">Es werden<lb/> neue Formen von Bausteinen eingeführt.</s>
+        <s type="es"><seg type="p">B</seg> zeigt auf einen &amp; fragt: “<c type="c">W</c>as<lb/> ist  das?” –</s>
+        <s type="es"><seg type="p">A</seg> antwortet “<c type="c">D</c>as ist ein  …”.</s>
+        <s type="es">Ruft <seg type="p">A</seg> später das <del type="d">so</del> neu eingeführte<lb/> Wort <add rend="im">(<choice type="s"><orig type="alt1">etwa</orig><orig type="alt2"><abbr type="abb">z.B.</abbr></orig></choice> “Sockel”)</add> so  bringt <seg type="p">B</seg> den Stein.</s>
+        <s type="es">Die Worte “das ist … ” mit der hinweisen<lb rend="shyphen"/>den  Gebärde heißen “hinweisende Erklärung”.</s>
+        <s type="es" rend="indl_5">Erklärt wurde in diesem Fall ein Gattungsname (insbesondere<lb/> ein  Formname).</s>
+        <s type="es">Analog kann hinweisend nach dem Eigennamen eines<lb/> bestimmten Dings  <emph rend="us1">gefragt</emph> werden, &amp; so auch nach <choice type="dsl"><orig type="alt1"><del type="d">dem Namen  </del></orig><orig type="alt2"><lb/>der Benennung</orig></choice> einer Farbe, einer Zahl, einer Richtung,  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
       </ab>
-      <ab xml:id="Ms-141_2.4" n="Ms-141,2[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">7)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">In einer Tabelle <choice type="s"><orig type="alt1">werden</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">sind</add></orig></choice> Schriftzeichen Abbildungen  gegenübergestellt.</s>
+      <ab xml:id="Ms-141_2.4" n="Ms-141,2[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">7)<emph rend="blankspace_3"/></seg>
+        <s type="es">In einer Tabelle <choice type="s"><orig type="alt1">werden</orig><orig type="alt2"><add rend="i">sind</add></orig></choice> Schriftzeichen Abbildungen  gegenübergestellt.</s>
         <lb/>
-        <s type="es" part="N"><seg type="p" part="N">B</seg> ist mit der Tabelle versehen; <seg type="p" part="N">A</seg> schreibt eines der Zeichen;  <seg type="p" part="N">B</seg> sucht es<lb/> in der Tabelle, blickt <add rend="im" instant="false" status="unremarkable">oder zeigt</add> auf das  dazugehörige Bild &amp; bringt den Gegen<lb rend="shyphen"/>stand, den es  darstellt.</s>
-        <s type="es" rend="indl_5" part="N">Wir haben in jedem dieser Sprachspiele neue Zeichenarten  ein<lb rend="shyphen"/>geführt. –</s>
-        <s type="es" part="N">Ich will vor allem zwischen Sätzen &amp; Wörtern  unterschei<lb rend="shyphen"/>den.</s>
-        <s type="es" part="N">“<c type="k" part="N">S</c>atz” nenne ich hier jedes vollständige Zeichen  eines Sprach<lb rend="shyphen"/>spiels.</s>
-        <s type="es" part="N">Seine Teilzeichen sind Wörter.</s>
-        <s type="es" part="N">Ein Satz kann auch aus bloß<lb/> einem Wort bestehen.</s>
-        <s type="es" part="N">So sind <choice type="s"><orig type="alt1">im Sprachspiel (<seg type="p" part="N">I</seg>) die Wörter  “Quader”, “Platte”, <abbr type="abb">etc.</abbr>  die Sätze.</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">die Sätze des Sprachspiels (<seg type="p" part="N">I</seg>) die Wörter  “Quader”, “Platte”,  <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr></add></orig></choice></s>
+        <s type="es"><seg type="p">B</seg> ist mit der Tabelle versehen; <seg type="p">A</seg> schreibt eines der Zeichen;  <seg type="p">B</seg> sucht es<lb/> in der Tabelle, blickt <add rend="im">oder zeigt</add> auf das  dazugehörige Bild &amp; bringt den Gegen<lb rend="shyphen"/>stand, den es  darstellt.</s>
+        <s type="es" rend="indl_5">Wir haben in jedem dieser Sprachspiele neue Zeichenarten  ein<lb rend="shyphen"/>geführt. –</s>
+        <s type="es">Ich will vor allem zwischen Sätzen &amp; Wörtern  unterschei<lb rend="shyphen"/>den.</s>
+        <s type="es">“<c type="k">S</c>atz” nenne ich hier jedes vollständige Zeichen  eines Sprach<lb rend="shyphen"/>spiels.</s>
+        <s type="es">Seine Teilzeichen sind Wörter.</s>
+        <s type="es">Ein Satz kann auch aus bloß<lb/> einem Wort bestehen.</s>
+        <s type="es">So sind <choice type="s"><orig type="alt1">im Sprachspiel (<seg type="p">I</seg>) die Wörter  “Quader”, “Platte”, <abbr type="abb">etc.</abbr>  die Sätze.</orig><orig type="alt2"><add rend="i">die Sätze des Sprachspiels (<seg type="p">I</seg>) die Wörter  “Quader”, “Platte”,  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></add></orig></choice></s>
         <lb/>
-        <s type="es" part="N">Im zweiten Sprachspiel besteht ein Satz aus zwei Wörtern.</s>
-        <s type="es" rend="indl_5" part="N">Je nach der Rolle, die ihnen in dem Sprachspiele zufällt können<lb/> wir unter  den Sätzen Befehle, Fragen, Beschreibungen &amp; andre Arten<lb/>  unterscheiden.</s>
+        <s type="es">Im zweiten Sprachspiel besteht ein Satz aus zwei Wörtern.</s>
+        <s type="es" rend="indl_5">Je nach der Rolle, die ihnen in dem Sprachspiele zufällt können<lb/> wir unter  den Sätzen Befehle, Fragen, Beschreibungen &amp; andre Arten<lb/>  unterscheiden.</s>
       </ab>
-      <ab xml:id="Ms-141_2.5et3.1" n="Ms-141,2[5]et3[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">8)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Wenn in einem, <seg xml:lang="en" part="N">№ </seg> <seg type="p" part="N">1</seg> ähnlichen, Sprachspiel der  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Befehl</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Zuruf</add></orig></choice> lau<lb rend="shyphen"/>tet “Quader,  Platte, Säule!”, worauf der Gehilfe eine<corr type="tran" instant="false">n</corr>  Quader, eine Platte<lb/> &amp; eine Säule zureicht, so kann man hier von drei  Befehlen (Sätzen), aber   <pb facs="Ms-141_3" rend="recto" n="pagename_Ms-141,3 pageref_00"/><fw type="pagen">3</fw>  auch von einem (zusammengesetzten) sprechen.</s>
+      <ab xml:id="Ms-141_2.5et3.1" n="Ms-141,2[5]et3[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">8)<emph rend="blankspace_3"/></seg>
+        <s type="es">Wenn in einem, <seg xml:lang="en">№ </seg> <seg type="p">1</seg> ähnlichen, Sprachspiel der  <choice type="dsl"><orig type="alt1"><del type="d">Befehl</del></orig><orig type="alt2"><add rend="i">Zuruf</add></orig></choice> lau<lb rend="shyphen"/>tet “Quader,  Platte, Säule!”, worauf der Gehilfe eine<corr type="tran">n</corr>  Quader, eine Platte<lb/> &amp; eine Säule zureicht, so kann man hier von drei  Befehlen (Sätzen), aber   <pb facs="Ms-141_3" rend="recto" n="pagename_Ms-141,3 pageref_00"/><fw type="pagen">3</fw>  auch von einem (zusammengesetzten) sprechen.</s>
       </ab>
-      <ab xml:id="Ms-141_3.2et4.1" n="Ms-141,3[2]et4[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <s type="es" part="N">Soll aber<lb rend="hl"/>   <seg type="series-number" part="N">9)<emph rend="blankspace_3"/></seg>    durch die Ordnung der Wörter die Ordnung des Zureichens<lb/>  angegeben werden<del type="d" instant="false" status="unremarkable">,</del> (“Quader, dann Platte, dann  Säule”), so werden wir sagen,<lb/> <seg type="p" part="N">A</seg> rufe einen Satz, der aus  drei Wörtern besteht.</s>
-        <s type="es" rend="indl_5" part="N">Unter den Wörtern sehen wir <add rend="im" instant="false" status="unremarkable">Gruppen</add> solcher mit gleichartigen  Funktionen<corr type="tra" instant="false">.</corr></s>
+      <ab xml:id="Ms-141_3.2et4.1" n="Ms-141,3[2]et4[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <s type="es">Soll aber<lb rend="hl"/>   <seg type="series-number">9)<emph rend="blankspace_3"/></seg>    durch die Ordnung der Wörter die Ordnung des Zureichens<lb/>  angegeben werden<del type="d">,</del> (“Quader, dann Platte, dann  Säule”), so werden wir sagen,<lb/> <seg type="p">A</seg> rufe einen Satz, der aus  drei Wörtern besteht.</s>
+        <s type="es" rend="indl_5">Unter den Wörtern sehen wir <add rend="im">Gruppen</add> solcher mit gleichartigen  Funktionen<corr type="tra">.</corr></s>
         <lb/>
-        <s type="es" part="N">Wir sehen eine Analogie im Gebrauch der Wörter “eins”,  “zwei”, “drei”, <abbr type="abb">etc.</abbr><lb/>  &amp; anderseits eine <choice type="s"><orig type="alt1">im Gebrauch</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Analogie in der Art des  Gebrauchs</add></orig></choice> von “Quader”, “Säule”,  <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr></s>
-        <s type="es" part="N">Wir unterscheiden<lb/> <emph rend="uw1_h">daher</emph> Wortarten; <del type="d" instant="false" status="unremarkable">–</del>  <abbr type="abb">z.B.</abbr> Zahlwörter &amp; Formwörter.</s>
-        <s type="es" part="N">
-          <del type="dnpc" instant="false" status="unremarkable">Man könnte aber, aus<lb/> naheliegenden Gründen, das Wort  “eins”<corr type="tra" instant="false">.</corr></del>
+        <s type="es">Wir sehen eine Analogie im Gebrauch der Wörter “eins”,  “zwei”, “drei”, <abbr type="abb">etc.</abbr><lb/>  &amp; anderseits eine <choice type="s"><orig type="alt1">im Gebrauch</orig><orig type="alt2"><add rend="i">Analogie in der Art des  Gebrauchs</add></orig></choice> von “Quader”, “Säule”,  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
+        <s type="es">Wir unterscheiden<lb/> <emph rend="uw1_h">daher</emph> Wortarten; <del type="d">–</del>  <abbr type="abb">z.B.</abbr> Zahlwörter &amp; Formwörter.</s>
+        <s type="es">
+          <del type="dnpc">Man könnte aber, aus<lb/> naheliegenden Gründen, das Wort  “eins”<corr type="tra">.</corr></del>
         </s>
-        <s type="es" rend="indl_5" part="N">Die Sätze in (8) bestehen aus mehreren Wörtern der gleichen  Wortart.</s>
-        <s type="es" rend="indl_5" part="N">Die Funktion <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">der</del><add rend="i" instant="false" status="unremarkable">eines</add>  W<choice type="o"><orig type="o1">o</orig><orig type="o2">ö</orig></choice>rter</orig><orig type="em2"><choice type="dsl"><orig type="alt1">der Wörter</orig><orig type="alt2">eines Wortes</orig></choice></orig></choice> kann  in einem andern Sprachspiel auf<lb/> die <emph rend="us1">Ordnung</emph> der übrigen Wörter des  Satzes übergehn.</s>
-        <s type="es" part="N">Was hier ein<lb/> Wort leistet wird in einem andern System ohne ein solches  getan.</s>
-        <s type="es" rend="indl_2" part="N">Die Befehle im Sprachspiel (9) hätte man mit Hilfe von  Ordnungs<lb rend="shyphen"/>wörtern geben können; also etwa so:  “<c type="c" part="N">Z</c>weitens Platte, erstens Quader, drittens<lb/>  Säule!”; &amp; diese Ordnungswörter kann man durch die  Ordnung der<lb/> Formwörter eliminieren.</s>
-        <s type="es" rend="indl_5" part="N">Eine solche Überlegung zeigt, wie viel weniger rigid die Funktion<lb/> des  Wortes im Satz ist als die Logiker <choice type="s"><orig type="alt1">vielfach</orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">meistens</add></orig></choice>  annehmen.</s>
-        <s type="es" rend="indl_5" part="N">Wenn wir Wörter nach der Ähnlichkeit ihrer Funktion zusammen<lb rend="shyphen"/>stellen,  so werden sie sich nach verschiedenen Gesichtspunkten,<lb/> verschieden  zusammenstellen lassen.</s>
-        <s type="es" part="N">So könnte man, aus nahe<lb rend="shyphen"/>liegenden Gründen, das Wort  “eins” nicht mit “zwei”,  “drei”, <abbr type="abb">etc.</abbr> zusammen<lb rend="shyphen"/>fassen  wollen.</s>
-        <s type="es" part="N">(Man sagt oft “zwei oder mehrere”.)</s>
-        <add rend="el_h" instant="false" status="unremarkable">
-          <s type="es" part="N">“Weiß ist keine Farbe”.</s>
+        <s type="es" rend="indl_5">Die Sätze in (8) bestehen aus mehreren Wörtern der gleichen  Wortart.</s>
+        <s type="es" rend="indl_5">Die Funktion <choice type="em"><orig type="em1"><del type="d">der</del><add rend="i">eines</add>  W<choice type="o"><orig type="o1">o</orig><orig type="o2">ö</orig></choice>rter</orig><orig type="em2"><choice type="dsl"><orig type="alt1">der Wörter</orig><orig type="alt2">eines Wortes</orig></choice></orig></choice> kann  in einem andern Sprachspiel auf<lb/> die <emph rend="us1">Ordnung</emph> der übrigen Wörter des  Satzes übergehn.</s>
+        <s type="es">Was hier ein<lb/> Wort leistet wird in einem andern System ohne ein solches  getan.</s>
+        <s type="es" rend="indl_2">Die Befehle im Sprachspiel (9) hätte man mit Hilfe von  Ordnungs<lb rend="shyphen"/>wörtern geben können; also etwa so:  “<c type="c">Z</c>weitens Platte, erstens Quader, drittens<lb/>  Säule!”; &amp; diese Ordnungswörter kann man durch die  Ordnung der<lb/> Formwörter eliminieren.</s>
+        <s type="es" rend="indl_5">Eine solche Überlegung zeigt, wie viel weniger rigid die Funktion<lb/> des  Wortes im Satz ist als die Logiker <choice type="s"><orig type="alt1">vielfach</orig><orig type="alt2"><add rend="i_h">meistens</add></orig></choice>  annehmen.</s>
+        <s type="es" rend="indl_5">Wenn wir Wörter nach der Ähnlichkeit ihrer Funktion zusammen<lb rend="shyphen"/>stellen,  so werden sie sich nach verschiedenen Gesichtspunkten,<lb/> verschieden  zusammenstellen lassen.</s>
+        <s type="es">So könnte man, aus nahe<lb rend="shyphen"/>liegenden Gründen, das Wort  “eins” nicht mit “zwei”,  “drei”, <abbr type="abb">etc.</abbr> zusammen<lb rend="shyphen"/>fassen  wollen.</s>
+        <s type="es">(Man sagt oft “zwei oder mehrere”.)</s>
+        <add rend="el_h">
+          <s type="es">“Weiß ist keine Farbe”.</s>
         </add>
-        <s type="es" rend="indl_5" part="N"><c type="c" part="N">W</c>örter kann man in vielen Beziehungen mit Schachfiguren<lb/>  vergleichen. –</s>
-        <s type="es" part="N">Denke an die verschiedenen Möglichkeiten die Schachfi<lb rend="shyphen"/>guren nach  ihren Funktionen im Spiel in Gruppen zu sondern.</s>
+        <s type="es" rend="indl_5"><c type="c">W</c>örter kann man in vielen Beziehungen mit Schachfiguren<lb/>  vergleichen. –</s>
+        <s type="es">Denke an die verschiedenen Möglichkeiten die Schachfi<lb rend="shyphen"/>guren nach  ihren Funktionen im Spiel in Gruppen zu sondern.</s>
         <rs type="extref" key="Augustinus, Aurelius: Confessiones">
-          <s type="es" rend="indl_5" part="N">Es ist natürlich, zur Sprache, zum Ausdruck, auch die zeigen<lb rend="shyphen"/>de  Gebärde zu rechnen, die <abbr type="abb">z.B.</abbr> in (4) die Worte  begleitet.</s>
-          <s type="es" part="N">Aber auch<lb/> die Abbildungen in (7) sind <del type="d" instant="false" status="unremarkable">solche</del>  Sprachmittel.</s>
-          <corr type="tra" instant="false">(</corr>
-          <s type="es" part="N">
-            <add rend="el_h" instant="false" status="unremarkable">
-              <persName key="Augustinus, Aurelius" instant="false" full="yes">Augustinus</persName>
+          <s type="es" rend="indl_5">Es ist natürlich, zur Sprache, zum Ausdruck, auch die zeigen<lb rend="shyphen"/>de  Gebärde zu rechnen, die <abbr type="abb">z.B.</abbr> in (4) die Worte  begleitet.</s>
+          <s type="es">Aber auch<lb/> die Abbildungen in (7) sind <del type="d">solche</del>  Sprachmittel.</s>
+          <corr type="tra">(</corr>
+          <s type="es">
+            <add rend="el_h">
+              <persName key="Augustinus, Aurelius">Augustinus</persName>
             </add>
-            <corr type="tra" instant="false">.)</corr>
+            <corr type="tra">.)</corr>
           </s>
         </rs>
-        <s type="es" rend="indl_5" part="N">Solche Abbildungen &amp; andere ähnliche Mittel der Sprache nennen<lb/> wir  “Muster”.</s>
-        <s type="es" part="N">(Das ist eine vag<corr type="npcn" instant="false">u</corr>e Bestimmung<add rend="el_h" instant="false" status="unremarkable">;</add> &amp; soll  es sein.)</s>
-        <s type="es" rend="indl_5" part="N"><c type="k" part="N">M</c>uster &amp; Wort haben <del type="d" instant="false" status="unremarkable">ganz</del> verschiedene  Funktion.</s>
-        <s type="es" part="N">Mit dem Muster<lb/> wird etwas verglichen, mit dem Wort nicht.</s>
-        <s type="es" part="N">(Wird aber <choice type="s"><orig type="alt1">das</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">ein</add></orig></choice> Wort onomatopoetisch<lb/> gebraucht, so  könnte man es auch ein Muster nennen.)</s>
-        <s type="es" rend="indl_5" part="N">Wir haben mit dieser Unterscheidung aber nicht eine <del type="d" instant="false" status="unremarkable">fundamentale,</del><lb/>  letzte Dualität in der Logik festgestellt; sondern nur aus   <choice type="em"><orig type="em1">de<choice type="o"><orig type="o1">m</orig><orig type="o2">n</orig></choice></orig><orig type="em2"><del type="d" instant="false" status="unremarkable"><corr type="npc" instant="false">dem</corr></del> den</orig></choice>  <del type="d" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del><lb/> Mitteln unsrer Sprache zwei charakteristische Arten  hervorgehoben.</s>
-        <s type="es" rend="indl_5" part="N">Man wird etwa “1”, “2”,  “3”, “4”, <abbr type="abb">etc.</abbr>  <emph rend="us1">Wörter</emph> nennen; “❘”,  “❘ ❘”, “❘ ❘ ❘”,  “❘ ❘ ❘ ❘”,<lb/> <abbr type="abb">etc.</abbr> dagegen  <emph rend="us1">Muster</emph>.</s>
-        <s type="es" part="N">Wenn nun in einer Sprache die Zahlwörter<lb/> “eins”,  “eins eins”, “eins eins eins”,  <abbr type="abb">etc.</abbr> lauteten, – sollten wir “eins”  ein Wort<lb/> nennen oder ein Muster?</s>
-        <s type="es" rend="indl_5" part="N">Das gleiche Sprachelement kann hier als Wort &amp; dort als<lb/> Muster  fungieren.</s>
-        <s type="es" part="N">Eine Kreisfigur kann <choice type="s"><orig type="alt1">der Name (Wort) einer</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">das Wort für  eine</add></orig></choice> El<corr type="tran" instant="false">l</corr>ipse<lb/> sein, aber auch das Muster womit sie in einem  Sprachspiel nach<lb/> bestimmter Projektionsmethode zu vergleichen ist.</s>
+        <s type="es" rend="indl_5">Solche Abbildungen &amp; andere ähnliche Mittel der Sprache nennen<lb/> wir  “Muster”.</s>
+        <s type="es">(Das ist eine vag<corr type="npcn">u</corr>e Bestimmung<add rend="el_h">;</add> &amp; soll  es sein.)</s>
+        <s type="es" rend="indl_5"><c type="k">M</c>uster &amp; Wort haben <del type="d">ganz</del> verschiedene  Funktion.</s>
+        <s type="es">Mit dem Muster<lb/> wird etwas verglichen, mit dem Wort nicht.</s>
+        <s type="es">(Wird aber <choice type="s"><orig type="alt1">das</orig><orig type="alt2"><add rend="i">ein</add></orig></choice> Wort onomatopoetisch<lb/> gebraucht, so  könnte man es auch ein Muster nennen.)</s>
+        <s type="es" rend="indl_5">Wir haben mit dieser Unterscheidung aber nicht eine <del type="d">fundamentale,</del><lb/>  letzte Dualität in der Logik festgestellt; sondern nur aus   <choice type="em"><orig type="em1">de<choice type="o"><orig type="o1">m</orig><orig type="o2">n</orig></choice></orig><orig type="em2"><del type="d"><corr type="npc">dem</corr></del> den</orig></choice>  <del type="d"><gap extent="words_1"/></del><lb/> Mitteln unsrer Sprache zwei charakteristische Arten  hervorgehoben.</s>
+        <s type="es" rend="indl_5">Man wird etwa “1”, “2”,  “3”, “4”, <abbr type="abb">etc.</abbr>  <emph rend="us1">Wörter</emph> nennen; “❘”,  “❘ ❘”, “❘ ❘ ❘”,  “❘ ❘ ❘ ❘”,<lb/> <abbr type="abb">etc.</abbr> dagegen  <emph rend="us1">Muster</emph>.</s>
+        <s type="es">Wenn nun in einer Sprache die Zahlwörter<lb/> “eins”,  “eins eins”, “eins eins eins”,  <abbr type="abb">etc.</abbr> lauteten, – sollten wir “eins”  ein Wort<lb/> nennen oder ein Muster?</s>
+        <s type="es" rend="indl_5">Das gleiche Sprachelement kann hier als Wort &amp; dort als<lb/> Muster  fungieren.</s>
+        <s type="es">Eine Kreisfigur kann <choice type="s"><orig type="alt1">der Name (Wort) einer</orig><orig type="alt2"><add rend="i">das Wort für  eine</add></orig></choice> El<corr type="tran">l</corr>ipse<lb/> sein, aber auch das Muster womit sie in einem  Sprachspiel nach<lb/> bestimmter Projektionsmethode zu vergleichen ist.</s>
         <pb facs="Ms-141_3a" rend="verso" n="pagename_Ms-141,3a pageref_00"/>
         <fw type="pagen">3</fw>
         <emph rend="bl_1"/>
-        <note type="editor" anchored="true">See facsimile; unspecified drawings.</note>
-        <s type="es" part="N">
+        <note type="editor">See facsimile; unspecified drawings.</note>
+        <s type="es">
           <emph rend="centered">
-            <seg type="notation" subtype="graphics_Abbild; Varia" rend="bitmap" part="N"/>
+            <seg type="notation" subtype="graphics_Abbild; Varia" rend="bitmap"/>
           </emph>
         </s>
         <emph rend="bl_1"/>
         <pb facs="Ms-141_4" rend="recto" n="pagename_Ms-141,4 pageref_00"/>
         <fw type="pagen">4</fw>
-        <s type="es" rend="indl_5" part="N">Wir nennen eine große Mannigfaltigkeit mit einander mehr oder<lb/> weniger  verwandter Vorgänge <del type="d" instant="false" status="unremarkable">den</del> “Vergleich eines Gegenstands mit<lb/>  einem Muster” &amp; wir fassen Sprachelemente mit vielerlei  mehr oder<lb/> weniger verwandten Funktionen unter dem Wort “Muster”  zusammen.</s>
-        <s type="es" rend="indl_5" part="N"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Im Sprachspiel</del></orig><orig type="alt2"><c type="c" part="N">I</c>n</orig></choice> (7) vergleicht  <seg type="p" part="N">B</seg> ein Bild auf einer Tabelle mit Ge<lb rend="shyphen"/>genständen, die er vor sich  hat.</s>
-        <s type="es" part="N">Aber wie vergleicht er sie? –</s>
-        <s type="es" part="N"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Die Abbildun<lb rend="shyphen"/>gen</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Auf der Tabelle</add></orig></choice><lb/>  seien  in einem Fall <del type="dn" instant="false" status="unremarkable">(</del>α) <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">das</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">die</add></orig></choice>  Bild<add rend="el" instant="false" status="unremarkable">er</add> eines Hammers, einer Zange,<lb/> eines Meißels &amp; einer  Säge, in einem anderen <del type="d" instant="false" status="unremarkable">(</del>β) zwanzig Abbildungen  ver<lb rend="shyphen"/>schiedener Schmetterlinge der Gattung Schwärmer.</s>
-        <s type="es" part="N">Im zweiten Fall wird<lb/> das Vergleichen <choice type="dsl"><orig type="alt1"><del type="dnpc" instant="false" status="unremarkable">von</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">der</add></orig></choice> Abbildung mit den Gegenständen ein ganz ande<lb rend="shyphen"/>rer  Vorgang sein, als im ersten.</s>
-        <s type="es" part="N">Wieder anders aber im Fall γ), wenn<lb/> die Bilder die  <corr type="trsn" instant="false"><orig type="trsn1">M</orig><reg type="trsn2">m</reg></corr>aßstabgetreuen Zeichnungen von Quadern  verschiede<lb rend="shyphen"/>ner Proportionen sind &amp; das Vergleichen <add rend="im" instant="false" status="unremarkable">etwa</add>  mit dem Meßzirkel ge<lb rend="shyphen"/>schieht.</s>
-        <s type="es" part="N"><abbr type="abb">Etc.</abbr>, <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr></s>
-        <s type="es" rend="indl_5" part="N">Die Aufgabe konnte sein einen Stoff von der Farbe des Musters<lb/> zu  bringen.</s>
-        <s type="es" part="N">Aber wie sind die Farben von Muster &amp; Stoff zu vergleichen?</s>
+        <s type="es" rend="indl_5">Wir nennen eine große Mannigfaltigkeit mit einander mehr oder<lb/> weniger  verwandter Vorgänge <del type="d">den</del> “Vergleich eines Gegenstands mit<lb/>  einem Muster” &amp; wir fassen Sprachelemente mit vielerlei  mehr oder<lb/> weniger verwandten Funktionen unter dem Wort “Muster”  zusammen.</s>
+        <s type="es" rend="indl_5"><choice type="dsl"><orig type="alt1"><del type="d">Im Sprachspiel</del></orig><orig type="alt2"><c type="c">I</c>n</orig></choice> (7) vergleicht  <seg type="p">B</seg> ein Bild auf einer Tabelle mit Ge<lb rend="shyphen"/>genständen, die er vor sich  hat.</s>
+        <s type="es">Aber wie vergleicht er sie? –</s>
+        <s type="es"><choice type="dsl"><orig type="alt1"><del type="d">Die Abbildun<lb rend="shyphen"/>gen</del></orig><orig type="alt2"><add rend="i">Auf der Tabelle</add></orig></choice><lb/>  seien  in einem Fall <del type="dn">(</del>α) <choice type="dsl"><orig type="alt1"><del type="d">das</del></orig><orig type="alt2"><add rend="i">die</add></orig></choice>  Bild<add rend="el">er</add> eines Hammers, einer Zange,<lb/> eines Meißels &amp; einer  Säge, in einem anderen <del type="d">(</del>β) zwanzig Abbildungen  ver<lb rend="shyphen"/>schiedener Schmetterlinge der Gattung Schwärmer.</s>
+        <s type="es">Im zweiten Fall wird<lb/> das Vergleichen <choice type="dsl"><orig type="alt1"><del type="dnpc">von</del></orig><orig type="alt2"><add rend="i">der</add></orig></choice> Abbildung mit den Gegenständen ein ganz ande<lb rend="shyphen"/>rer  Vorgang sein, als im ersten.</s>
+        <s type="es">Wieder anders aber im Fall γ), wenn<lb/> die Bilder die  <corr type="trsn"><orig type="trsn1">M</orig><reg type="trsn2">m</reg></corr>aßstabgetreuen Zeichnungen von Quadern  verschiede<lb rend="shyphen"/>ner Proportionen sind &amp; das Vergleichen <add rend="im">etwa</add>  mit dem Meßzirkel ge<lb rend="shyphen"/>schieht.</s>
+        <s type="es"><abbr type="abb">Etc.</abbr>, <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
+        <s type="es" rend="indl_5">Die Aufgabe konnte sein einen Stoff von der Farbe des Musters<lb/> zu  bringen.</s>
+        <s type="es">Aber wie sind die Farben von Muster &amp; Stoff zu vergleichen?</s>
       </ab>
-      <ab xml:id="Ms-141_4.2" n="Ms-141,4[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">10)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Etwa so: <c type="c" part="N">M</c>an zeigt <seg type="p" part="N">B</seg> das Muster, daraufhin holt er den  Stoff<lb/> (“nach dem Gedächtnis”).</s>
+      <ab xml:id="Ms-141_4.2" n="Ms-141,4[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">10)<emph rend="blankspace_3"/></seg>
+        <s type="es">Etwa so: <c type="c">M</c>an zeigt <seg type="p">B</seg> das Muster, daraufhin holt er den  Stoff<lb/> (“nach dem Gedächtnis”).</s>
       </ab>
-      <ab xml:id="Ms-141_4.3" n="Ms-141,4[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">11)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Oder: <seg type="p" part="N">B</seg> erhält das Muster &amp; blickt vom Muster auf die  Stoffe<lb/> aus denen er zu wählen hat.</s>
+      <ab xml:id="Ms-141_4.3" n="Ms-141,4[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">11)<emph rend="blankspace_3"/></seg>
+        <s type="es">Oder: <seg type="p">B</seg> erhält das Muster &amp; blickt vom Muster auf die  Stoffe<lb/> aus denen er zu wählen hat.</s>
       </ab>
-      <ab xml:id="Ms-141_4.4" n="Ms-141,4[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">12)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Oder: <seg type="p" part="N">B</seg> hält das Muster der Reihe nach an die Stoffe &amp;  wählt<lb/> den, den er vom Muster nicht unterscheiden kann; für welchen, etwa,<lb/>  der <corr type="trsn" instant="false"><orig type="trsn1">U</orig><reg type="trsn2">Ü</reg></corr>bergang vom Muster zum Stoff verschwindet.</s>
+      <ab xml:id="Ms-141_4.4" n="Ms-141,4[4]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">12)<emph rend="blankspace_3"/></seg>
+        <s type="es">Oder: <seg type="p">B</seg> hält das Muster der Reihe nach an die Stoffe &amp;  wählt<lb/> den, den er vom Muster nicht unterscheiden kann; für welchen, etwa,<lb/>  der <corr type="trsn"><orig type="trsn1">U</orig><reg type="trsn2">Ü</reg></corr>bergang vom Muster zum Stoff verschwindet.</s>
       </ab>
-      <ab xml:id="Ms-141_4.5et5.1et6.1" n="Ms-141,4[5]et5[1]et6[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">13)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Denken wir anderseits an den Vergleich der Farben, wenn der<lb/> Auftrag  lautete: “<c type="c" part="N">B</c>ringe einen Stoff, etwas dunkler als dieses  Muster”.</s>
-        <s type="es" rend="indl_5" part="N">In (10) sagte ich, <seg type="p" part="N">B</seg> hole den Stoff nach dem Gedächtnis; ich<lb/>  bediente mich damit einer gebräuchlichen Redeweise.</s>
-        <s type="es" part="N">Es konnte da<lb/> aber verschiedenerlei geschehen. α) <seg type="p" part="N">B</seg>  schwebt ein Erinnerungsbild<lb/> des gesehenen Musters vor.</s>
-        <s type="es" part="N">Er läßt beim Wählen des Stoffes abwech<lb rend="shyphen"/>selnd den Stoff vor seinen  Augen &amp; das Erinnerungsbild auf sich ein<lb rend="shyphen"/>wirken, indem er auf  den Stoff sieht, dann die Augen schließt &amp; sich<lb/> das Muster  vorstellt.</s>
-        <s type="es" part="N">β) <seg type="p" part="N">B</seg> schwebt kein Bild des Musters vor.</s>
-        <s type="es" part="N">Er<lb/> sieht die Stoffe der Reihe nach an, er schüttelt jedesmal den Kopf,<lb/>  empfindet eine gewisse Spannung, Unbefriedigung; endlich kommt<lb/> er zu einem,  bei dessen Anblick sich die Spannung löst; er<lb/> nickt mit dem Kopf &amp;  zieht den Stoff aus dem Haufen.</s>
-        <s type="es" part="N">γ) Die Vor<lb rend="shyphen"/>gänge sind die gleichen wie in (β),  aber ohne die Kopfbewegungen<lb/> &amp; ohne das Spiel der  Empfindungen.</s>
-        <s type="es" rend="indl_5" part="N">“Aber warum hat er denn dann diesen Stoff gebracht?</s>
-        <s type="es" part="N">Wie<lb/> hat er ihn denn erkannt?</s>
-        <s type="es" part="N">Woran?” –</s>
-        <s type="es" part="N">Wenn Du “warum” fragst, fragst<lb/> Du da nach der Ursache,  oder nach dem Grund?</s>
-        <s type="es" part="N">Wenn nach der Ursache,<lb/> – so läßt sich ja leicht eine physiologische  oder psychologische<lb/> Hypothese ausdenken, nach der die Wahl unter diesen  &amp; diesen Bedin<lb rend="shyphen"/>gungen so ausfallen mußte.</s>
-        <s type="es" part="N">Im übrigen ist es <add rend="our" instant="false" status="unremarkable">S</add>ache der experimentel<lb rend="shyphen"/>len Wissenschaft  solche Hypothesen zu prüfen.</s>
-        <s type="es" part="N">Fragst Du nach dem Grund,<lb/> so ist die Antwort: die Wahl muß keinen  Grund gehabt haben.</s>
-        <s type="es" part="N">Ein Grund   <pb facs="Ms-141_5" rend="recto" n="pagename_Ms-141,5 pageref_00"/><fw type="pagen">5</fw> wäre ein Schritt, vor dem Schritt  der Wahl, der den Wählenden dazu ge<lb rend="shyphen"/>bracht hat, diesen zu tun.</s>
-        <s type="es" part="N">Aber warum soll einem Schritt immer ein<lb/>  <choice type="em"><orig type="em1">and<del type="d" instant="false" status="unremarkable">e</del>rer</orig><orig type="em2"><choice type="dsl"><orig type="alt1">anderer</orig><orig type="alt2">andrer</orig></choice></orig></choice>  <choice type="em"><orig type="em1">vor<del type="d" instant="false" status="unremarkable">her</del><add rend="i" instant="false" status="unremarkable">an</add>geh<del type="d_c" instant="false" status="unremarkable">e</del>n</orig><orig type="em2"><choice type="dsl"><orig type="alt1">vorhergehen</orig><orig type="alt2">vorangehen</orig></choice></orig></choice>?</s>
-        <s type="es" rend="indl_5" part="N">“Dann hat aber <seg type="p" part="N">B</seg> den Stoff, den er bringt, doch nicht als  den<lb/> richtigen <emph rend="us1">erkannt</emph>.” –</s>
-        <s type="es" part="N">Aber warum sollen wir die Vorgänge <del type="dnpc" instant="false" status="unremarkable"/> γ nicht<lb/> auch unter  das Erkennen rechnen? –</s>
-        <s type="es" part="N">“Aber es fehlt ih<corr type="trsn" instant="false"><orig type="trsn1">n</orig><reg type="trsn2">m</reg></corr> doch nun<lb/> das Kriterium  zum Erkennen!</s>
-        <s type="es" part="N">Im Falle α hatte er <abbr type="abb">z.B.</abbr> das  Gedächtnis<lb rend="shyphen"/>bild, &amp; an der Übereinstimmung mit diesem erkannte  er den <del type="d" instant="false" status="unremarkable">ver<lb rend="shyphen"/>langten</del>  gesuchten Stoff.” – <c type="c" part="N">A</c>ber  hatte er auch ein Bild dieser<lb/> Übereinstimmung bei sich, mit dem er die  Übereinstimmung verglei<lb rend="shyphen"/>chen konnte, um zu sehen, ob es die verlangte  Übereinstimmung<lb/> war?</s>
-        <s type="es" part="N">Und könnte es, anderseits, so ein Muster oder Bild der<lb/> Übereinstimmung  nicht geben?</s>
-        <s type="es" part="N">Erklärt man einem Menschen nicht<lb/> das Wort   “Übereinstimmung” an Beispielen, &amp; könnte ich dem,  der nach<lb/> einem roten Gegenstand mit rotem Muster sucht, nicht <lb/>außer diesem  zwei gleichfärbige Gegenstände mitgeben, damit er<lb/> sich, sozusagen, daran  erinnert, was “gleichfärbig” heißt?</s>
+      <ab xml:id="Ms-141_4.5et5.1et6.1" n="Ms-141,4[5]et5[1]et6[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">13)<emph rend="blankspace_3"/></seg>
+        <s type="es">Denken wir anderseits an den Vergleich der Farben, wenn der<lb/> Auftrag  lautete: “<c type="c">B</c>ringe einen Stoff, etwas dunkler als dieses  Muster”.</s>
+        <s type="es" rend="indl_5">In (10) sagte ich, <seg type="p">B</seg> hole den Stoff nach dem Gedächtnis; ich<lb/>  bediente mich damit einer gebräuchlichen Redeweise.</s>
+        <s type="es">Es konnte da<lb/> aber verschiedenerlei geschehen. α) <seg type="p">B</seg>  schwebt ein Erinnerungsbild<lb/> des gesehenen Musters vor.</s>
+        <s type="es">Er läßt beim Wählen des Stoffes abwech<lb rend="shyphen"/>selnd den Stoff vor seinen  Augen &amp; das Erinnerungsbild auf sich ein<lb rend="shyphen"/>wirken, indem er auf  den Stoff sieht, dann die Augen schließt &amp; sich<lb/> das Muster  vorstellt.</s>
+        <s type="es">β) <seg type="p">B</seg> schwebt kein Bild des Musters vor.</s>
+        <s type="es">Er<lb/> sieht die Stoffe der Reihe nach an, er schüttelt jedesmal den Kopf,<lb/>  empfindet eine gewisse Spannung, Unbefriedigung; endlich kommt<lb/> er zu einem,  bei dessen Anblick sich die Spannung löst; er<lb/> nickt mit dem Kopf &amp;  zieht den Stoff aus dem Haufen.</s>
+        <s type="es">γ) Die Vor<lb rend="shyphen"/>gänge sind die gleichen wie in (β),  aber ohne die Kopfbewegungen<lb/> &amp; ohne das Spiel der  Empfindungen.</s>
+        <s type="es" rend="indl_5">“Aber warum hat er denn dann diesen Stoff gebracht?</s>
+        <s type="es">Wie<lb/> hat er ihn denn erkannt?</s>
+        <s type="es">Woran?” –</s>
+        <s type="es">Wenn Du “warum” fragst, fragst<lb/> Du da nach der Ursache,  oder nach dem Grund?</s>
+        <s type="es">Wenn nach der Ursache,<lb/> – so läßt sich ja leicht eine physiologische  oder psychologische<lb/> Hypothese ausdenken, nach der die Wahl unter diesen  &amp; diesen Bedin<lb rend="shyphen"/>gungen so ausfallen mußte.</s>
+        <s type="es">Im übrigen ist es <add rend="our">S</add>ache der experimentel<lb rend="shyphen"/>len Wissenschaft  solche Hypothesen zu prüfen.</s>
+        <s type="es">Fragst Du nach dem Grund,<lb/> so ist die Antwort: die Wahl muß keinen  Grund gehabt haben.</s>
+        <s type="es">Ein Grund   <pb facs="Ms-141_5" rend="recto" n="pagename_Ms-141,5 pageref_00"/><fw type="pagen">5</fw> wäre ein Schritt, vor dem Schritt  der Wahl, der den Wählenden dazu ge<lb rend="shyphen"/>bracht hat, diesen zu tun.</s>
+        <s type="es">Aber warum soll einem Schritt immer ein<lb/>  <choice type="em"><orig type="em1">and<del type="d">e</del>rer</orig><orig type="em2"><choice type="dsl"><orig type="alt1">anderer</orig><orig type="alt2">andrer</orig></choice></orig></choice>  <choice type="em"><orig type="em1">vor<del type="d">her</del><add rend="i">an</add>geh<del type="d_c">e</del>n</orig><orig type="em2"><choice type="dsl"><orig type="alt1">vorhergehen</orig><orig type="alt2">vorangehen</orig></choice></orig></choice>?</s>
+        <s type="es" rend="indl_5">“Dann hat aber <seg type="p">B</seg> den Stoff, den er bringt, doch nicht als  den<lb/> richtigen <emph rend="us1">erkannt</emph>.” –</s>
+        <s type="es">Aber warum sollen wir die Vorgänge <del type="dnpc"/> γ nicht<lb/> auch unter  das Erkennen rechnen? –</s>
+        <s type="es">“Aber es fehlt ih<corr type="trsn"><orig type="trsn1">n</orig><reg type="trsn2">m</reg></corr> doch nun<lb/> das Kriterium  zum Erkennen!</s>
+        <s type="es">Im Falle α hatte er <abbr type="abb">z.B.</abbr> das  Gedächtnis<lb rend="shyphen"/>bild, &amp; an der Übereinstimmung mit diesem erkannte  er den <del type="d">ver<lb rend="shyphen"/>langten</del>  gesuchten Stoff.” – <c type="c">A</c>ber  hatte er auch ein Bild dieser<lb/> Übereinstimmung bei sich, mit dem er die  Übereinstimmung verglei<lb rend="shyphen"/>chen konnte, um zu sehen, ob es die verlangte  Übereinstimmung<lb/> war?</s>
+        <s type="es">Und könnte es, anderseits, so ein Muster oder Bild der<lb/> Übereinstimmung  nicht geben?</s>
+        <s type="es">Erklärt man einem Menschen nicht<lb/> das Wort   “Übereinstimmung” an Beispielen, &amp; könnte ich dem,  der nach<lb/> einem roten Gegenstand mit rotem Muster sucht, nicht <lb/>außer diesem  zwei gleichfärbige Gegenstände mitgeben, damit er<lb/> sich, sozusagen, daran  erinnert, was “gleichfärbig” heißt?</s>
         <lb/>
-        <s type="es" part="N">Ist irgend eine solche Erklärung wesentlich die letzte<del type="d" instant="false" status="unremarkable">;”</del>?</s>
+        <s type="es">Ist irgend eine solche Erklärung wesentlich die letzte<del type="d">;”</del>?</s>
         <lb/>
-        <s type="es" part="N"><del type="d" instant="false" status="unremarkable">Anderseits irgend eine wesentlich unumgänglich?</del> –</s>
-        <s type="es" part="N">Und wenn<lb/> Du sagst, im Fall β habe <seg type="p" part="N">B</seg> das Gesuchte durch das  Nachlassen<lb/> der Spannung erkannt, so frage ich, woran er denn das Nachlassen<lb/>  der Spannung als solches erkannt hat.</s>
-        <s type="es" rend="indl_5" part="N">“Aber <seg type="p" part="N">B</seg> handelt eben im Fall γ wie ein Automat, der  nicht<lb/> weiß, was er tut.” – <seg type="p" part="N">B</seg> hat im Fall γ  ein einfacheres Erlebnis, als<lb/> in α &amp; β.</s>
-        <s type="es" part="N">Und Du wolltest wohl sagen, <seg type="p" part="N">B</seg> weiß nicht, <emph rend="us1">warum</emph> er<lb/> so  handelt.</s>
-        <s type="es" part="N">Aber, was die Ursache der Handlung anbelangt,<lb/> so sind alle drei Fälle auf  der gleichen Stufe; &amp; vom Grund<lb/> kann man nicht sagen, <seg type="p" part="N">B</seg> wisse  ihn nicht; sondern es ist kein<lb/> Grund vorhanden.</s>
-        <s type="es" rend="indl_5" part="N">“Aber wenn er nun den Stoff bringt &amp; er stimmt mit dem  Muster<lb/> nicht zusammen!” –</s>
-        <s type="es" part="N">Aber das hätte auch im Fall α so geschehen<lb/> können.</s>
-        <s type="es" part="N">Man hätte dann vielleicht gesagt, sein Erinnerungsbild<lb/> habe sich  verändert.</s>
-        <s type="es" rend="indl_5" part="N">“Aber es ist doch ein wesentlicher Unterschied zwischen<lb/> den  Fällen α und γ.”</s>
-        <s type="es" part="N">Gewiß! eben der, den ihre Beschreibungen an<lb rend="shyphen"/>geben.</s>
-        <s type="es" rend="indl_5" part="N">In (1) hatte <seg type="p" part="N">B</seg> gelernt auf den Zuruf   “Quader” einen Stein von<lb/> bestimmter Form zu  bringen.</s>
-        <s type="es" part="N">Wir können uns <add rend="im" instant="false" status="unremarkable">denken</add>, daß dies so vor<lb/> sich ging: <c type="c" part="N">I</c>n  <seg type="p" part="N">B</seg> wurde durch das Wort die Vorstellung einer Quader<lb/> wachgerufen, das  Abrichten hatte, wie man sagen würde, diese Asso<lb rend="shyphen"/>ziation  hergestellt.</s>
-        <s type="es" part="N"><seg type="p" part="N">B</seg> hebt nun einen dieser Vorstellung entsprechen<lb rend="shyphen"/>den Baustein  auf, <abbr type="abb">etc.</abbr><corr type="npc" instant="false">.</corr>–</s>
-        <s type="es" part="N">Mußte das aber der Vorgang sein? –</s>
-        <s type="es" part="N">Wenn<lb/> das Abrichten es bewirken konnte, daß die Vorstellung, –  automa<lb rend="shyphen"/>tisch, – auf den Zuruf entstand, warum nicht auch, daß  <seg type="p" part="N">B</seg> auf<lb/> das Wort nach dem Stein von dieser Form greift?</s>
-        <s type="es" part="N">Das bedeutet ja nur<lb/> eine kleine Variation des assoziativen  Mechanismus.</s>
+        <s type="es"><del type="d">Anderseits irgend eine wesentlich unumgänglich?</del> –</s>
+        <s type="es">Und wenn<lb/> Du sagst, im Fall β habe <seg type="p">B</seg> das Gesuchte durch das  Nachlassen<lb/> der Spannung erkannt, so frage ich, woran er denn das Nachlassen<lb/>  der Spannung als solches erkannt hat.</s>
+        <s type="es" rend="indl_5">“Aber <seg type="p">B</seg> handelt eben im Fall γ wie ein Automat, der  nicht<lb/> weiß, was er tut.” – <seg type="p">B</seg> hat im Fall γ  ein einfacheres Erlebnis, als<lb/> in α &amp; β.</s>
+        <s type="es">Und Du wolltest wohl sagen, <seg type="p">B</seg> weiß nicht, <emph rend="us1">warum</emph> er<lb/> so  handelt.</s>
+        <s type="es">Aber, was die Ursache der Handlung anbelangt,<lb/> so sind alle drei Fälle auf  der gleichen Stufe; &amp; vom Grund<lb/> kann man nicht sagen, <seg type="p">B</seg> wisse  ihn nicht; sondern es ist kein<lb/> Grund vorhanden.</s>
+        <s type="es" rend="indl_5">“Aber wenn er nun den Stoff bringt &amp; er stimmt mit dem  Muster<lb/> nicht zusammen!” –</s>
+        <s type="es">Aber das hätte auch im Fall α so geschehen<lb/> können.</s>
+        <s type="es">Man hätte dann vielleicht gesagt, sein Erinnerungsbild<lb/> habe sich  verändert.</s>
+        <s type="es" rend="indl_5">“Aber es ist doch ein wesentlicher Unterschied zwischen<lb/> den  Fällen α und γ.”</s>
+        <s type="es">Gewiß! eben der, den ihre Beschreibungen an<lb rend="shyphen"/>geben.</s>
+        <s type="es" rend="indl_5">In (1) hatte <seg type="p">B</seg> gelernt auf den Zuruf   “Quader” einen Stein von<lb/> bestimmter Form zu  bringen.</s>
+        <s type="es">Wir können uns <add rend="im">denken</add>, daß dies so vor<lb/> sich ging: <c type="c">I</c>n  <seg type="p">B</seg> wurde durch das Wort die Vorstellung einer Quader<lb/> wachgerufen, das  Abrichten hatte, wie man sagen würde, diese Asso<lb rend="shyphen"/>ziation  hergestellt.</s>
+        <s type="es"><seg type="p">B</seg> hebt nun einen dieser Vorstellung entsprechen<lb rend="shyphen"/>den Baustein  auf, <abbr type="abb">etc.</abbr><corr type="npc">.</corr>–</s>
+        <s type="es">Mußte das aber der Vorgang sein? –</s>
+        <s type="es">Wenn<lb/> das Abrichten es bewirken konnte, daß die Vorstellung, –  automa<lb rend="shyphen"/>tisch, – auf den Zuruf entstand, warum nicht auch, daß  <seg type="p">B</seg> auf<lb/> das Wort nach dem Stein von dieser Form greift?</s>
+        <s type="es">Das bedeutet ja nur<lb/> eine kleine Variation des assoziativen  Mechanismus.</s>
         <pb facs="Ms-141_6" rend="recto" n="pagename_Ms-141,6 pageref_00"/>
         <fw type="pagen">6</fw>
-        <s type="es" rend="indl_5" part="N">Die Vorstellung, die so auf das Wort hin entsteht, wird<lb/> ja nicht nach  diesem mittels einer Regel gebildet, sondern<lb/> sie ist <del type="d" instant="false" status="unremarkable">durchaus</del> mit  einem Täfelchen zu vergleichen, das durch den<lb/> Druck auf einen Knopf  hervorspringt.</s>
-        <s type="es" part="N">Ja, wir könnten uns<lb/> dieses Hilfsmittel statt desjenigen der Assoziation  auch wirklich<lb/> im Gebrauch denken.</s>
-        <s type="es" rend="indl_5" part="N">Das Sprachmittel der Vorstellung einer Farbe, einer Figur,<lb/> eines  <add rend="im" instant="false" status="unremarkable">räumlichen</add> Ding's, eines Lautes,  <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr>          <choice type="s"><orig type="alt1">ist  durchaus dem einer wirklich<lb/> gesehenen Farbe, Figur,    <abbr type="abb">etc.</abbr>, <abbr type="abb">etc.</abbr> an die Seite zu stellen.</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">stellen wir <corr type="trs" instant="false"><orig type="trs1"> … </orig><reg type="trs2">durchaus dem einer wirklich<lb/> gesehenen Farbe, Figur,     <abbr type="abb">etc.</abbr>, <abbr type="abb">etc.</abbr></reg></corr> an die Seite.</add></orig></choice></s>
+        <s type="es" rend="indl_5">Die Vorstellung, die so auf das Wort hin entsteht, wird<lb/> ja nicht nach  diesem mittels einer Regel gebildet, sondern<lb/> sie ist <del type="d">durchaus</del> mit  einem Täfelchen zu vergleichen, das durch den<lb/> Druck auf einen Knopf  hervorspringt.</s>
+        <s type="es">Ja, wir könnten uns<lb/> dieses Hilfsmittel statt desjenigen der Assoziation  auch wirklich<lb/> im Gebrauch denken.</s>
+        <s type="es" rend="indl_5">Das Sprachmittel der Vorstellung einer Farbe, einer Figur,<lb/> eines  <add rend="im">räumlichen</add> Ding's, eines Lautes,  <abbr type="abb">etc<corr type="tra">.</corr></abbr>          <choice type="s"><orig type="alt1">ist  durchaus dem einer wirklich<lb/> gesehenen Farbe, Figur,    <abbr type="abb">etc.</abbr>, <abbr type="abb">etc.</abbr> an die Seite zu stellen.</orig><orig type="alt2"><add rend="i">stellen wir <corr type="trs"><orig type="trs1"> … </orig><reg type="trs2">durchaus dem einer wirklich<lb/> gesehenen Farbe, Figur,     <abbr type="abb">etc.</abbr>, <abbr type="abb">etc.</abbr></reg></corr> an die Seite.</add></orig></choice></s>
       </ab>
-      <ab xml:id="Ms-141_6.2" n="Ms-141,6[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">14)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Das Abrichten kann darauf ausgehen, nicht nur die Verwen<lb rend="shyphen"/>dung  einzelner Tabellen beizubringen, sondern zu bewirken, daß<lb/>  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">der Lernende</add></orig></choice> Tabellen mit neuen  Zuordnungen von Schriftzeichen &amp; Bildern<lb/> anlegt &amp;  verwendet.</s>
-        <s type="es" part="N"><c type="k" part="N">S</c>prachspiel: “<choice type="o"><orig type="o1">l</orig><orig type="o2"><c type="c" part="N">L</c></orig></choice>eg eine andere  Tabelle an!”</s>
-        <s type="es" part="N">Oder: “<c type="c" part="N">G</c>ib<lb/> den Dingen Namen!”</s>
+      <ab xml:id="Ms-141_6.2" n="Ms-141,6[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">14)<emph rend="blankspace_3"/></seg>
+        <s type="es">Das Abrichten kann darauf ausgehen, nicht nur die Verwen<lb rend="shyphen"/>dung  einzelner Tabellen beizubringen, sondern zu bewirken, daß<lb/>  <choice type="dsl"><orig type="alt1"><del type="d"><gap extent="words_1"/></del></orig><orig type="alt2"><add rend="i">der Lernende</add></orig></choice> Tabellen mit neuen  Zuordnungen von Schriftzeichen &amp; Bildern<lb/> anlegt &amp;  verwendet.</s>
+        <s type="es"><c type="k">S</c>prachspiel: “<choice type="o"><orig type="o1">l</orig><orig type="o2"><c type="c">L</c></orig></choice>eg eine andere  Tabelle an!”</s>
+        <s type="es">Oder: “<c type="c">G</c>ib<lb/> den Dingen Namen!”</s>
         <lb rend="hl"/>
-        <reloc type="fetch-opt" n="Ms-141,6_Ms-141,6" corresp="relocOpt#Ms-141:1" instant="false" status="unremarkable"/>
-        <seg type="edcom" part="N">
+        <reloc type="fetch-opt" n="Ms-141,6_Ms-141,6" corresp="relocOpt#Ms-141:1"/>
+        <seg type="edcom">
           <emph rend="endarrback"/>
         </seg>
-        <s type="es" rend="indl_5" part="N"><c type="c" part="N">I</c>m Abrichten zum Gebrauch einer  Tabelle kann die Übung<lb/> vorkommen: mit dem Finger von rechts gerade  nach links<lb/> zeigen, <del type="d" instant="false" status="unremarkable">(</del>sozusagen<del type="d" instant="false" status="unremarkable">, mit dem Finger</del>, parallele  horizontale Striche<lb/> ziehn<del type="d" instant="false" status="unremarkable">)</del>.</s>
+        <s type="es" rend="indl_5"><c type="c">I</c>m Abrichten zum Gebrauch einer  Tabelle kann die Übung<lb/> vorkommen: mit dem Finger von rechts gerade  nach links<lb/> zeigen, <del type="d">(</del>sozusagen<del type="d">, mit dem Finger</del>, parallele  horizontale Striche<lb/> ziehn<del type="d">)</del>.</s>
         <lb rend="hl"/>
-        <reloc type="relocate-opt" n="Ms-141,6_Ms-141,6" corresp="relocOpt#Ms-141:1" instant="false" status="unremarkable">
+        <reloc type="relocate-opt" n="Ms-141,6_Ms-141,6" corresp="relocOpt#Ms-141:1">
           <emph rend="arrback">
-            <s type="es" rend="indl_5" part="N">Ich werde <del type="d" instant="false" status="unremarkable">eine</del> Tabelle<add rend="el" instant="false" status="unremarkable">n</add> wie auch <del type="d" instant="false" status="unremarkable">eine </del>hinweisende  Erklärunge<add rend="el" instant="false" status="unremarkable">n</add> &amp;<lb/> andere analoge Behelfe, in Übereinstimmung mit  dem allgemeinen<lb/> Sprachgebrauch, “Regeln” nennen.</s>
-            <s type="es" rend="indl_5" part="N">Zum Gebrauch <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">einer Regel</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><choice type="o"><orig type="o1">D</orig><orig type="o2">d</orig></choice>ieses  Behelfs</add></orig></choice> wird man abgerichtet.</s>
-            <corr type="npc" instant="false">
-              <s type="es" part="N">Im Abrichten …</s>
+            <s type="es" rend="indl_5">Ich werde <del type="d">eine</del> Tabelle<add rend="el">n</add> wie auch <del type="d">eine </del>hinweisende  Erklärunge<add rend="el">n</add> &amp;<lb/> andere analoge Behelfe, in Übereinstimmung mit  dem allgemeinen<lb/> Sprachgebrauch, “Regeln” nennen.</s>
+            <s type="es" rend="indl_5">Zum Gebrauch <choice type="dsl"><orig type="alt1"><del type="d">einer Regel</del></orig><orig type="alt2"><add rend="i"><choice type="o"><orig type="o1">D</orig><orig type="o2">d</orig></choice>ieses  Behelfs</add></orig></choice> wird man abgerichtet.</s>
+            <corr type="npc">
+              <s type="es">Im Abrichten …</s>
             </corr>
           </emph>
         </reloc>
       </ab>
-      <ab xml:id="Ms-141_6.3" n="Ms-141,6[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <s type="es" part="N">Der Gebrauch <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">der</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">einer</add></orig></choice> Regel kann auch durch  eine weitere Regel<lb/> erklärt werden.</s>
-        <s type="es" part="N"><choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Es wird</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Beispiel:</add><c type="c" part="N">E</c>s wird</orig></choice> der  Gebrauch von Tabellen gelehrt, <lb rend="hl"/><seg type="series-number" part="N">15)<emph rend="blankspace_3"/></seg>  die man von oben nach unten, statt von links  nach rechts<lb/> abliest.</s>
-        <s type="es" part="N">Wir stellen die Gebrauchsart der Tabellen durch Schemata<lb/> dar; etwa:<note type="editor" anchored="true">See facsimile; length and spacing of arrows.</note>      <emph rend="centered"><seg type="notation" subtype="graphics_Schema; Pfeile" rend="literal" part="N"><table rend="table"><row role="data" rows="1" cols="1"><cell rend="column" n="1" role="data" rows="1" cols="1">⟶<milestone unit="br"/>⟶<milestone unit="br"/>⟶<milestone unit="br"/>⟶<milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1">oder<milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1">↓ ↓ ↓ ↓ <milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1">oder<milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1">↘<milestone unit="br"/>↘<milestone unit="br"/>↘<milestone unit="br"/>↘<milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1" role="data" rows="1" cols="1"><abbr type="abb">etc.</abbr><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell></row></table></seg></emph>         </s>
-        <s type="es" rend="indl_2" part="N"><choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">Solche</del><del type="d" instant="false" status="unremarkable"><add rend="i" instant="false" status="unremarkable">Diese</add></del><add rend="i" instant="false" status="unremarkable"><c type="c" part="N">S</c>o ein</add> Schema<del type="d" instant="false" status="unremarkable">ta</del>  <del type="d" instant="false" status="unremarkable">können</del> <add rend="i" instant="false" status="unremarkable">kann</add> nun als Regel<del type="d" instant="false" status="unremarkable">n</del></orig><orig type="em2"><choice type="s"><orig type="alt1"><choice type="dsl"><orig type="alt1"><c type="c" part="N">S</c>olche</orig><orig type="alt2"><c type="c" part="N">D</c>iese</orig></choice> Schemata können nun als Regeln</orig><orig type="alt2"><c type="c" part="N">S</c>o ein Schema  kann nun als Regel</orig></choice></orig></choice><choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">zum</del><add rend="i" instant="false" status="unremarkable">des</add> Ablesen<add rend="el" instant="false" status="unremarkable">s</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">zum Ablesen</orig><orig type="alt2">des Ablesens</orig></choice></orig></choice> einer Tabelle<lb/> beigegeben  werden.</s>
-        <s type="es" rend="indl_5" part="N">Könnte man nicht auch Regeln zum Gebrauch <emph rend="us1">dieser</emph> Regeln<lb/>  geben?</s>
-        <s type="es" part="N">Gewiß. –</s>
-        <s type="es" part="N">
+      <ab xml:id="Ms-141_6.3" n="Ms-141,6[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <s type="es">Der Gebrauch <choice type="dsl"><orig type="alt1"><del type="d">der</del></orig><orig type="alt2"><add rend="i">einer</add></orig></choice> Regel kann auch durch  eine weitere Regel<lb/> erklärt werden.</s>
+        <s type="es"><choice type="dsl"><orig type="alt1"><del type="d">Es wird</del></orig><orig type="alt2"><add rend="i">Beispiel:</add><c type="c">E</c>s wird</orig></choice> der  Gebrauch von Tabellen gelehrt, <lb rend="hl"/><seg type="series-number">15)<emph rend="blankspace_3"/></seg>  die man von oben nach unten, statt von links  nach rechts<lb/> abliest.</s>
+        <s type="es">Wir stellen die Gebrauchsart der Tabellen durch Schemata<lb/> dar; etwa:<note type="editor">See facsimile; length and spacing of arrows.</note>      <emph rend="centered"><seg type="notation" subtype="graphics_Schema; Pfeile" rend="literal"><table rend="table"><row><cell rend="column" n="1">⟶<milestone unit="br"/>⟶<milestone unit="br"/>⟶<milestone unit="br"/>⟶<milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1">oder<milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1">↓ ↓ ↓ ↓ <milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1">oder<milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1">↘<milestone unit="br"/>↘<milestone unit="br"/>↘<milestone unit="br"/>↘<milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><emph rend="blankspace_3"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell><cell rend="column" n="1"><abbr type="abb">etc.</abbr><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/><milestone unit="br"/></cell></row></table></seg></emph>         </s>
+        <s type="es" rend="indl_2"><choice type="em"><orig type="em1"><del type="d">Solche</del><del type="d"><add rend="i">Diese</add></del><add rend="i"><c type="c">S</c>o ein</add> Schema<del type="d">ta</del>  <del type="d">können</del> <add rend="i">kann</add> nun als Regel<del type="d">n</del></orig><orig type="em2"><choice type="s"><orig type="alt1"><choice type="dsl"><orig type="alt1"><c type="c">S</c>olche</orig><orig type="alt2"><c type="c">D</c>iese</orig></choice> Schemata können nun als Regeln</orig><orig type="alt2"><c type="c">S</c>o ein Schema  kann nun als Regel</orig></choice></orig></choice><choice type="em"><orig type="em1"><del type="d">zum</del><add rend="i">des</add> Ablesen<add rend="el">s</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">zum Ablesen</orig><orig type="alt2">des Ablesens</orig></choice></orig></choice> einer Tabelle<lb/> beigegeben  werden.</s>
+        <s type="es" rend="indl_5">Könnte man nicht auch Regeln zum Gebrauch <emph rend="us1">dieser</emph> Regeln<lb/>  geben?</s>
+        <s type="es">Gewiß. –</s>
+        <s type="es">
           <choice type="dsl">
             <orig type="alt1">
-              <del type="d" instant="false" status="unremarkable">Ist das Lehren der Regeln unvollständig, wenn<lb/> dies nicht  geschieht<corr type="tra" instant="false">?</corr></del>
+              <del type="d">Ist das Lehren der Regeln unvollständig, wenn<lb/> dies nicht  geschieht<corr type="tra">?</corr></del>
             </orig>
             <orig type="alt2">
-              <add rend="im" instant="false" status="unremarkable"><c type="c" part="N">I</c>st es eine Unvollständigkeit  der Erklärung, wenn der Gebrauch einer Regel nicht<lb/> durch die Angabe einer  Regel <del type="d" instant="false" status="unremarkable"><choice type="s"><orig type="alt1"><gap extent="words_3" instant="false"/></orig><orig type="alt2"><del type="d" instant="false" status="unremarkable">für ihren Gebrauch</del></orig></choice></del>  bestimmt wird?</add>
-              <corr type="npc" instant="false">?</corr>
+              <add rend="im"><c type="c">I</c>st es eine Unvollständigkeit  der Erklärung, wenn der Gebrauch einer Regel nicht<lb/> durch die Angabe einer  Regel <del type="d"><choice type="s"><orig type="alt1"><gap extent="words_3"/></orig><orig type="alt2"><del type="d">für ihren Gebrauch</del></orig></choice></del>  bestimmt wird?</add>
+              <corr type="npc">?</corr>
             </orig>
           </choice>
         </s>
-        <s type="es" part="N">Nein.</s>
-        <s type="es" part="N">Die Regeln haben einen Anfang.</s>
-        <s type="es" rend="indl_5" part="N">
-          <del type="d" instant="false" status="unremarkable">Es wird eine Notation der Zahlwörter eingeführt in der man<lb/> beliebig  weiter zählen kann, etwa die Dezimalnotation</del>
+        <s type="es">Nein.</s>
+        <s type="es">Die Regeln haben einen Anfang.</s>
+        <s type="es" rend="indl_5">
+          <del type="d">Es wird eine Notation der Zahlwörter eingeführt in der man<lb/> beliebig  weiter zählen kann, etwa die Dezimalnotation</del>
         </s>
-        <reloc type="fetch-opt" n="Ms-141,7_Ms-141,6" corresp="relocOpt#Ms-141:2" instant="false" status="unremarkable"/>
+        <reloc type="fetch-opt" n="Ms-141,7_Ms-141,6" corresp="relocOpt#Ms-141:2"/>
       </ab>
-      <ab xml:id="Ms-141_6.4et7.1" n="Ms-141,6[4]et7[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <seg type="series-number" part="N">16)<emph rend="blankspace_3"/></seg>
-        <s type="es" part="N">Es wird die Dezimalnotation der Kardinalzahlen, oder eine ähn<lb rend="shyphen"/>liche  Zeichenreihe (Wortreihe) eingeführt.</s>
-        <s type="es" part="N">Der Lernende aufgemuntert,<lb/> die Reihe selbständig nach Analogie  weiterzuführen.</s>
-        <s type="es" rend="indl_7" part="N"><c type="k" part="N">B</c>efehl<choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">,</del></orig><orig type="alt2">:</orig></choice> in der Reihe einen Schritt  weiter <del type="d" instant="false" status="unremarkable">zu</del> gehn;  <emph rend="indl_7"/> <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">oder,</del>  weiter<del type="d" instant="false" status="unremarkable">zu</del>zählen</orig><orig type="em2"><choice type="dsl"><orig type="alt1">oder,  weiterzuzählen</orig><orig type="alt2">weiterzählen</orig></choice></orig></choice> bis  “<c type="c" part="N">H</c>alt<del type="d" instant="false" status="unremarkable">!</del>” gerufen wird;  <emph rend="indl_7"/>  <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">oder; schreib</del><emph rend="us1">andere</emph> Zahlwörter  hinschreiben</orig><orig type="em2"><choice type="dsl"><orig type="alt1">oder; schreib andere Zahlwörter</orig><orig type="alt2"><emph rend="us1">andere</emph>  Zahlwörter hinschreiben</orig></choice></orig></choice>;  <emph rend="indl_7"/> <del type="d" instant="false" status="unremarkable">Gegenstände</del> Dinge,  Glockenschläge, <abbr type="abb">etc.</abbr> zählen;  <emph rend="indl_7"/> Dinge in Gruppen  zu so &amp; so vielen ordnen.</s>
-        <s type="es" part="N">Die elementare<lb/> Arithmetik, wie sie in den Volksschulen wirklich gelehrt  wird, be<lb rend="shyphen"/>steht ganz aus solchen Sprachspielen.</s>
+      <ab xml:id="Ms-141_6.4et7.1" n="Ms-141,6[4]et7[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <seg type="series-number">16)<emph rend="blankspace_3"/></seg>
+        <s type="es">Es wird die Dezimalnotation der Kardinalzahlen, oder eine ähn<lb rend="shyphen"/>liche  Zeichenreihe (Wortreihe) eingeführt.</s>
+        <s type="es">Der Lernende aufgemuntert,<lb/> die Reihe selbständig nach Analogie  weiterzuführen.</s>
+        <s type="es" rend="indl_7"><c type="k">B</c>efehl<choice type="dsl"><orig type="alt1"><del type="d">,</del></orig><orig type="alt2">:</orig></choice> in der Reihe einen Schritt  weiter <del type="d">zu</del> gehn;  <emph rend="indl_7"/> <choice type="em"><orig type="em1"><del type="d">oder,</del>  weiter<del type="d">zu</del>zählen</orig><orig type="em2"><choice type="dsl"><orig type="alt1">oder,  weiterzuzählen</orig><orig type="alt2">weiterzählen</orig></choice></orig></choice> bis  “<c type="c">H</c>alt<del type="d">!</del>” gerufen wird;  <emph rend="indl_7"/>  <choice type="em"><orig type="em1"><del type="d">oder; schreib</del><emph rend="us1">andere</emph> Zahlwörter  hinschreiben</orig><orig type="em2"><choice type="dsl"><orig type="alt1">oder; schreib andere Zahlwörter</orig><orig type="alt2"><emph rend="us1">andere</emph>  Zahlwörter hinschreiben</orig></choice></orig></choice>;  <emph rend="indl_7"/> <del type="d">Gegenstände</del> Dinge,  Glockenschläge, <abbr type="abb">etc.</abbr> zählen;  <emph rend="indl_7"/> Dinge in Gruppen  zu so &amp; so vielen ordnen.</s>
+        <s type="es">Die elementare<lb/> Arithmetik, wie sie in den Volksschulen wirklich gelehrt  wird, be<lb rend="shyphen"/>steht ganz aus solchen Sprachspielen.</s>
         <pb facs="Ms-141_7" rend="recto" n="pagename_Ms-141,7 pageref_00"/>
         <fw type="pagen">7</fw>
-        <s type="es" part="N">In (7) <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">holt</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">bringt</add></orig></choice> <seg type="p" part="N">B</seg> Gegenstände  nach Befehlen mittels einer<lb/> Tabelle.</s>
-        <s type="es" part="N">Es kann nun sein, daß der Vorgang, etwa nach einigen<lb/> Wiederholungen, dahin  abgeändert wird, daß <seg type="p" part="N">B</seg> auf den Befehl hin<lb/> den Gegenstand  <add rend="im" instant="false" status="unremarkable">bringt</add>, ohne die Tabelle zu verwenden<del type="dnpc" instant="false" status="unremarkable">, <gap extent="words_1" instant="false"/>  bringt</del> (also<lb/> wie in (1)).</s>
-        <s type="es" part="N">Man sagt in so einem Falle etwa, er habe sich nun<lb/> die Bedeutungen der  Worte gemerkt. –</s>
-        <s type="es" part="N">Aber hier gibt es wieder ver<lb rend="shyphen"/>schiedene  <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">Fälle</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">Möglichkeiten</add></orig></choice>, ähnlich denen in  (10).</s>
-        <s type="es" part="N">Statt der wirklichen Tabelle kann<lb/> <abbr type="abb">z.B.</abbr> eine  vorgestellte verwendet werden, ehe <choice type="s"><orig type="alt1">dieser</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">so ein</add></orig></choice> Behelf  gänzlich <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">fallen<lb/>  gelassen wird.</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">wegfällt.</add></orig></choice></s>
-        <s type="es" rend="indl_5" part="N">Die Tabelle, Regel, ist nun ganz aus dem Spiel ausgeschieden.</s>
+        <s type="es">In (7) <choice type="dsl"><orig type="alt1"><del type="d">holt</del></orig><orig type="alt2"><add rend="i">bringt</add></orig></choice> <seg type="p">B</seg> Gegenstände  nach Befehlen mittels einer<lb/> Tabelle.</s>
+        <s type="es">Es kann nun sein, daß der Vorgang, etwa nach einigen<lb/> Wiederholungen, dahin  abgeändert wird, daß <seg type="p">B</seg> auf den Befehl hin<lb/> den Gegenstand  <add rend="im">bringt</add>, ohne die Tabelle zu verwenden<del type="dnpc">, <gap extent="words_1"/>  bringt</del> (also<lb/> wie in (1)).</s>
+        <s type="es">Man sagt in so einem Falle etwa, er habe sich nun<lb/> die Bedeutungen der  Worte gemerkt. –</s>
+        <s type="es">Aber hier gibt es wieder ver<lb rend="shyphen"/>schiedene  <choice type="dsl"><orig type="alt1"><del type="d">Fälle</del></orig><orig type="alt2"><add rend="i">Möglichkeiten</add></orig></choice>, ähnlich denen in  (10).</s>
+        <s type="es">Statt der wirklichen Tabelle kann<lb/> <abbr type="abb">z.B.</abbr> eine  vorgestellte verwendet werden, ehe <choice type="s"><orig type="alt1">dieser</orig><orig type="alt2"><add rend="i">so ein</add></orig></choice> Behelf  gänzlich <choice type="dsl"><orig type="alt1"><del type="d">fallen<lb/>  gelassen wird.</del></orig><orig type="alt2"><add rend="i">wegfällt.</add></orig></choice></s>
+        <s type="es" rend="indl_5">Die Tabelle, Regel, ist nun ganz aus dem Spiel ausgeschieden.</s>
         <lb/>
-        <s type="es" part="N">Sie steht zu ihm nur <del type="d" instant="false" status="unremarkable"><choice type="s"><orig type="alt1">mehr</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">noch</add></orig></choice></del> in der Beziehung eines Behelfs des Lehrens,<lb/> Abrichtens, während  sie in (7) ein Instrument des Spiels ist.</s>
-        <s type="es" rend="indl_5" part="N">Wir können also unterscheiden den Fall, in welchem das Spiel<lb/> <emph rend="us1">mit  Hilfe</emph> der Regel gespielt<del type="d" instant="false" status="unremarkable">,</del> wird, von dem Fall, in dem es in  <emph rend="us1">Übereinstim<lb rend="shyphen"/>mung</emph> <del type="d" instant="false" status="unremarkable">aber ohne</del> mit der Regel aber ohne ihre  Hilfe gespielt wird.</s>
+        <s type="es">Sie steht zu ihm nur <del type="d"><choice type="s"><orig type="alt1">mehr</orig><orig type="alt2"><add rend="i">noch</add></orig></choice></del> in der Beziehung eines Behelfs des Lehrens,<lb/> Abrichtens, während  sie in (7) ein Instrument des Spiels ist.</s>
+        <s type="es" rend="indl_5">Wir können also unterscheiden den Fall, in welchem das Spiel<lb/> <emph rend="us1">mit  Hilfe</emph> der Regel gespielt<del type="d">,</del> wird, von dem Fall, in dem es in  <emph rend="us1">Übereinstim<lb rend="shyphen"/>mung</emph> <del type="d">aber ohne</del> mit der Regel aber ohne ihre  Hilfe gespielt wird.</s>
       </ab>
-      <ab xml:id="Ms-141_7.2" n="Ms-141,7[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <s type="es" rend="indl_5" part="N">Das Schachspiel wird, in diesem Sinne, für gewöhnlich nicht <emph rend="us1">mit<lb/>  Hilfe</emph> der Schachregeln gespielt.</s>
-        <s type="es" part="N">Wir könnten uns aber ein ähnliches Spiel  <lb rend="hl"/><seg type="series-number" part="N">17)<emph rend="blankspace_3"/></seg>  denken, in dem die Spieler mit Tabellen  versehen sind; in einer Kolum<lb rend="shyphen"/>ne stehen die Abbildungen der  verschiedenen im Spiel benutzen Steine, in<lb/> der andern diesen Bildern  zugeordnet Schemata, welche die Freiheit (die erlaub<lb rend="shyphen"/>ten Züge)  der Steine darstellen.</s>
-        <s type="es" part="N">Das Ablesen der <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">Tabelle bei jedem</del><add rend="i" instant="false" status="unremarkable">Regeln <del type="d" instant="false" status="unremarkable">von</del> für</add>  jede<choice type="o"><orig type="o1">m</orig><orig type="o2">n</orig></choice></orig><orig type="em2"><choice type="dsl"><orig type="alt1">Tabelle bei jedem</orig><orig type="alt2">Regeln  <choice type="dsl"><orig type="alt1">von</orig><orig type="alt2">für</orig></choice> jeden</orig></choice></orig></choice> Zug ist ein<lb/> Teil des Spieles.</s>
-        <s type="es" part="N">Das Spiel wird mit Hilfe dieser Regeln gespielt.</s>
-        <s type="es" part="N">Wurden<lb/> dem Lernenden <add rend="im" instant="false" status="unremarkable">auch</add> Regeln zum Gebrauche <emph rend="us1">dieser</emph>  gegeben, so gehören jene<lb/> (die Regeln ‘zweiten  Grades’) <add rend="im" instant="false" status="unremarkable">hier</add> <emph rend="us1">nicht</emph> zu den Instrumenten des  Spiels.</s>
+      <ab xml:id="Ms-141_7.2" n="Ms-141,7[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <s type="es" rend="indl_5">Das Schachspiel wird, in diesem Sinne, für gewöhnlich nicht <emph rend="us1">mit<lb/>  Hilfe</emph> der Schachregeln gespielt.</s>
+        <s type="es">Wir könnten uns aber ein ähnliches Spiel  <lb rend="hl"/><seg type="series-number">17)<emph rend="blankspace_3"/></seg>  denken, in dem die Spieler mit Tabellen  versehen sind; in einer Kolum<lb rend="shyphen"/>ne stehen die Abbildungen der  verschiedenen im Spiel benutzen Steine, in<lb/> der andern diesen Bildern  zugeordnet Schemata, welche die Freiheit (die erlaub<lb rend="shyphen"/>ten Züge)  der Steine darstellen.</s>
+        <s type="es">Das Ablesen der <choice type="em"><orig type="em1"><del type="d">Tabelle bei jedem</del><add rend="i">Regeln <del type="d">von</del> für</add>  jede<choice type="o"><orig type="o1">m</orig><orig type="o2">n</orig></choice></orig><orig type="em2"><choice type="dsl"><orig type="alt1">Tabelle bei jedem</orig><orig type="alt2">Regeln  <choice type="dsl"><orig type="alt1">von</orig><orig type="alt2">für</orig></choice> jeden</orig></choice></orig></choice> Zug ist ein<lb/> Teil des Spieles.</s>
+        <s type="es">Das Spiel wird mit Hilfe dieser Regeln gespielt.</s>
+        <s type="es">Wurden<lb/> dem Lernenden <add rend="im">auch</add> Regeln zum Gebrauche <emph rend="us1">dieser</emph>  gegeben, so gehören jene<lb/> (die Regeln ‘zweiten  Grades’) <add rend="im">hier</add> <emph rend="us1">nicht</emph> zu den Instrumenten des  Spiels.</s>
       </ab>
-      <ab xml:id="Ms-141_7.3" n="Ms-141,7[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?" part="N">
-        <seg type="wabmarks-secml" part="N"/>
-        <reloc type="relocate-opt" n="Ms-141,7_Ms-141,6" corresp="relocOpt#Ms-141:2" instant="false" status="unremarkable">
-          <seg type="edcom" part="N">
-            <s type="es" rend="indl_5" part="N">
+      <ab xml:id="Ms-141_7.3" n="Ms-141,7[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19331001?-19341031?">
+        <seg type="wabmarks-secml"/>
+        <reloc type="relocate-opt" n="Ms-141,7_Ms-141,6" corresp="relocOpt#Ms-141:2">
+          <seg type="edcom">
+            <s type="es" rend="indl_5">
               <emph rend="us1">[Zu <abbr type="abb">S.</abbr> 6]</emph>
             </s>
           </seg>
-          <s type="es" part="N">15˙1) <c type="k" part="N">S</c>prachspiel:  <c type="c" part="N">S</c>ich nach Zeichen bewegen.</s>
-          <s type="es" part="N">Das Zeichen<lb/> sei “– –  <seg type="p" part="N">x</seg>”; man folgt ihm dadurch,  daß man eine bestimmte Weg<lb rend="shyphen"/>strecke geht, indem man immer nach je zwei  Schritten einmal hüpft.</s>
+          <s type="es">15˙1) <c type="k">S</c>prachspiel:  <c type="c">S</c>ich nach Zeichen bewegen.</s>
+          <s type="es">Das Zeichen<lb/> sei “– –  <seg type="p">x</seg>”; man folgt ihm dadurch,  daß man eine bestimmte Weg<lb rend="shyphen"/>strecke geht, indem man immer nach je zwei  Schritten einmal hüpft.</s>
           <lb/>
-          <s type="es" part="N">Analog folgt man den Zeichen “– <seg type="p" part="N">x x</seg>”,  “– – <seg type="p" part="N">x x</seg>” &amp; andern.</s>
-          <s type="es" part="N">Das Abrichten zielt<lb/> darauf hin, daß <del type="d" instant="false" status="unremarkable"><gap extent="words_1" instant="false"/></del>      <choice type="em"><orig type="em1">neuen <add rend="i" instant="false" status="unremarkable">neue</add> Zeichen dieser Art, solche, deren Befolgung<lb/> das  Abrichten nicht eigens gelehrt<add rend="i_h" instant="false" status="unremarkable">beigebracht</add> hatte, <seg type="ct" part="N">ad  hoc</seg> gefolgt wird.<add rend="i" instant="false" status="unremarkable">befolgt werden.</add></orig><orig type="em2"><choice type="s"><orig type="alt1">neuen Zeichen dieser Art, solche, deren Befolgung<lb/> das  Abrichten nicht eigens <choice type="s"><orig type="alt1">gelehrt</orig><orig type="alt2">beigebracht</orig></choice> hatte, <seg type="ct" part="N">ad   hoc</seg> gefolgt wird.</orig><orig type="alt2">neue Zeichen dieser Art, solche, deren Befolgung<lb/> das   Abrichten nicht eigens <choice type="s"><orig type="alt1">gelehrt</orig><orig type="alt2">beigebracht</orig></choice> hatte, <seg type="ct" part="N">ad   hoc</seg> befolgt werden.</orig></choice></orig></choice>    </s>
-          <s type="es" rend="indl_5" part="N">Wir werden hier gewiß sagen, <choice type="em"><orig type="em1"><del type="d" instant="false" status="unremarkable">die</del><add rend="i_h" instant="false" status="unremarkable">ein</add> Zeichen  <add rend="i_h" instant="false" status="unremarkable">– x x –</add> sei<del type="d" instant="false" status="unremarkable">en Regeln</del> <add rend="i_h" instant="false" status="unremarkable"> … Regel</add>,  die uns zeig<del type="d" instant="false" status="unremarkable">en</del><add rend="i" instant="false" status="unremarkable">t</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">die Zeichen seien Regeln die uns  zeigen</orig><orig type="alt2">ein Zeichen – <seg type="p" part="N">x x</seg> –,  <unclear instant="false"><corr type="trs" instant="false"><orig type="trs1"> … </orig><reg type="trs2">sei eine</reg></corr></unclear> Regel, die uns zeigt</orig></choice></orig></choice>,<lb/>  wie wir <choice type="dsl"><orig type="alt1"><del type="d" instant="false" status="unremarkable">zu gehen</del></orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">uns zu bewegen</add></orig></choice> haben. </s>
+          <s type="es">Analog folgt man den Zeichen “– <seg type="p">x x</seg>”,  “– – <seg type="p">x x</seg>” &amp; andern.</s>
+          <s type="es">Das Abrichten zielt<lb/> darauf hin, daß <del type="d"><gap extent="words_1"/></del>      <choice type="em"><orig type="em1">neuen <add rend="i">neue</add> Zeichen dieser Art, solche, deren Befolgung<lb/> das  Abrichten nicht eigens gelehrt<add rend="i_h">beigebracht</add> hatte, <seg type="ct">ad  hoc</seg> gefolgt wird.<add rend="i">befolgt werden.</add></orig><orig type="em2"><choice type="s"><orig type="alt1">neuen Zeichen dieser Art, solche, deren Befolgung<lb/> das  Abrichten nicht eigens <choice type="s"><orig type="alt1">gelehrt</orig><orig type="alt2">beigebracht</orig></choice> hatte, <seg type="ct">ad   hoc</seg> gefolgt wird.</orig><orig type="alt2">neue Zeichen dieser Art, solche, deren Befolgung<lb/> das   Abrichten nicht eigens <choice type="s"><orig type="alt1">gelehrt</orig><orig type="alt2">beigebracht</orig></choice> hatte, <seg type="ct">ad   hoc</seg> befolgt werden.</orig></choice></orig></choice>    </s>
+          <s type="es" rend="indl_5">Wir werden hier gewiß sagen, <choice type="em"><orig type="em1"><del type="d">die</del><add rend="i_h">ein</add> Zeichen  <add rend="i_h">– x x –</add> sei<del type="d">en Regeln</del> <add rend="i_h"> … Regel</add>,  die uns zeig<del type="d">en</del><add rend="i">t</add></orig><orig type="em2"><choice type="dsl"><orig type="alt1">die Zeichen seien Regeln die uns  zeigen</orig><orig type="alt2">ein Zeichen – <seg type="p">x x</seg> –,  <unclear><corr type="trs"><orig type="trs1"> … </orig><reg type="trs2">sei eine</reg></corr></unclear> Regel, die uns zeigt</orig></choice></orig></choice>,<lb/>  wie wir <choice type="dsl"><orig type="alt1"><del type="d">zu gehen</del></orig><orig type="alt2"><add rend="i">uns zu bewegen</add></orig></choice> haben. </s>
           <lb rend="hl"/>
-          <seg type="series-number" part="N">15˙2)<emph rend="blankspace_3"/></seg>
-          <s type="es" part="N"><choice type="s"><orig type="alt1">Anders wäre es, wenn unser Spiel nur darin bestünde</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable"><c type="c" part="N">E</c>s  könnte aber unser Spiel       <choice type="s"><orig type="alt1">einfach</orig><orig type="alt2"><add rend="i" instant="false" status="unremarkable">bloß</add></orig></choice> darin bestehen</add></orig></choice>, daß auf  das<lb/> eine Zeichen “– – <seg type="p" part="N">x</seg>” in der  beschriebenen Weise reagiert würde.</s>
-          <s type="es" rend="indl_5" part="N">Oder <choice type="s"><orig type="alt1">auch, wenn <lb rend="hl"/>   <seg type="series-number" part="N">15˙3)<emph rend="blankspace_3"/></seg>      sich das Spiel auf die Verwendung <add rend="i_h" instant="false" status="unremarkable">sagen wir</add>  etwa <add rend="im" instant="false" status="unremarkable">um</add> 5 sol<lb rend="shyphen"/>cher Zeichen erstreckte</orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">ein Spiel  könnte sich auf die Verwendung</add> einer bestimmten Anzahl, <add rend="i_h" instant="false" status="unremarkable">sagen  wir</add> etwa <add rend="im" instant="false" status="unremarkable">um</add> 5 sol<lb rend="shyphen"/>cher Zeichen  <add rend="i_h" instant="false" status="unremarkable">erstrecken</add></orig></choice>.</s>
-          <s type="es" part="N">Der Begriff des Folgens, der Regel<del type="d" instant="false" status="unremarkable">,</del> ist von dem Fall der<lb/> nicht  begrenzten Anwendung hergenommen.</s>
-          <s type="es" part="N">Es kann uns aber Manches<lb/> veranlassen, <del type="d" instant="false" status="unremarkable">den einen</del> Fälle <add rend="im" instant="false" status="unremarkable">der  begrenzten Anwendung</add> wie 15˙<add rend="our" instant="false" status="unremarkable">3</add>, ja sogar <del type="d" instant="false" status="unremarkable">wie</del>  15˙2, unter dem Gesichts<lb rend="shyphen"/>punkt ihrer Ähnlichkeit mit denen der  unbegrenzten Anwendung zu be<lb rend="shyphen"/>trachten &amp; die Zeichen auch dort  Regeln zu nennen.</s>
-          <s type="es" rend="indl_5" part="N">Denken wir uns die Zeichen im Spiel 15˙1 dadurch gebildet, daß  Würfel,<lb/> die Striche oder Kreuzchen tragen (quasi Lettern) zu dem  Zeichen zusammen<lb rend="shyphen"/>gesetzt werden.</s>
+          <seg type="series-number">15˙2)<emph rend="blankspace_3"/></seg>
+          <s type="es"><choice type="s"><orig type="alt1">Anders wäre es, wenn unser Spiel nur darin bestünde</orig><orig type="alt2"><add rend="i"><c type="c">E</c>s  könnte aber unser Spiel       <choice type="s"><orig type="alt1">einfach</orig><orig type="alt2"><add rend="i">bloß</add></orig></choice> darin bestehen</add></orig></choice>, daß auf  das<lb/> eine Zeichen “– – <seg type="p">x</seg>” in der  beschriebenen Weise reagiert würde.</s>
+          <s type="es" rend="indl_5">Oder <choice type="s"><orig type="alt1">auch, wenn <lb rend="hl"/>   <seg type="series-number">15˙3)<emph rend="blankspace_3"/></seg>      sich das Spiel auf die Verwendung <add rend="i_h">sagen wir</add>  etwa <add rend="im">um</add> 5 sol<lb rend="shyphen"/>cher Zeichen erstreckte</orig><orig type="alt2"><add rend="i_h">ein Spiel  könnte sich auf die Verwendung</add> einer bestimmten Anzahl, <add rend="i_h">sagen  wir</add> etwa <add rend="im">um</add> 5 sol<lb rend="shyphen"/>cher Zeichen  <add rend="i_h">erstrecken</add></orig></choice>.</s>
+          <s type="es">Der Begriff des Folgens, der Regel<del type="d">,</del> ist von dem Fall der<lb/> nicht  begrenzten Anwendung hergenommen.</s>
+          <s type="es">Es kann uns aber Manches<lb/> veranlassen, <del type="d">den einen</del> Fälle <add rend="im">der  begrenzten Anwendung</add> wie 15˙<add rend="our">3</add>, ja sogar <del type="d">wie</del>  15˙2, unter dem Gesichts<lb rend="shyphen"/>punkt ihrer Ähnlichkeit mit denen der  unbegrenzten Anwendung zu be<lb rend="shyphen"/>trachten &amp; die Zeichen auch dort  Regeln zu nennen.</s>
+          <s type="es" rend="indl_5">Denken wir uns die Zeichen im Spiel 15˙1 dadurch gebildet, daß  Würfel,<lb/> die Striche oder Kreuzchen tragen (quasi Lettern) zu dem  Zeichen zusammen<lb rend="shyphen"/>gesetzt werden.</s>
         </reloc>
       </ab>
     </body>

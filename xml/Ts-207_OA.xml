@@ -7,48 +7,48 @@
         <title type="WS" key="Facsimile: CC BY-NC 4.0. Original at the Wren Library, Trinity College, Cambridge, where in 2014-15, on the request of the Wittgenstein Archives at the University of Bergen (WAB) and with the generous financial support of the Stanhill Foundation, London, this scan was produced. The image was post-processed at WAB and is reproduced here by permission of The Master and Fellows of Trinity College, Cambridge, and the University of Bergen, Bergen. The sale, further reproduction or use of this image for commercial purposes without prior permission from the copyright holder is prohibited. © 2015 The Master and Fellows of Trinity College, Cambridge; The University of Bergen, Bergen."> Ts-207 [so-called Lecture on Ethics] (WL)</title>
         <title xml:id="Ts-207" n="Ts-207" type="main" xml:lang="en"/>
         <author>
-          <persName key="Wittgenstein, Ludwig" instant="false" full="yes">Ludwig Wittgenstein</persName>
+          <persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>
         </author>
-        <editor><orgName ref="http://wab.uib.no/" instant="false" full="yes">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this transcription: <persName instant="false" full="yes">Alois Pichler</persName></editor>
+        <editor><orgName ref="http://wab.uib.no/">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this transcription: <persName>Alois Pichler</persName></editor>
         <funder>Trinity College, Cambridge; Oxford University Press, Oxford;  Uni Research, Bergen; University of Bergen, Bergen; L. Meltzers Høyskolefond, Bergen; COST Action A32, Brussels; eContent+ DISCOVERY, Luxembourg; ICT PSP DM2E,  Brussels</funder>
         <respStmt>
-          <name full="yes" instant="false">Odin Thorbjørnsen, Alois Pichler</name>
+          <name>Odin Thorbjørnsen, Alois Pichler</name>
           <resp>transcription in MECS-WIT markup: 1997</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Alois Pichler</name>
+          <name>Alois Pichler</name>
           <resp>2001-: coordination and editorial guidelines; amendments; conversion from MECS-WIT to XML-TEI; XML-TEI markup</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Claus Huitfeldt, Kjersti Bjørnestad Berg, Sindre Sørensen, MLCD project</name>
+          <name>Claus Huitfeldt, Kjersti Bjørnestad Berg, Sindre Sørensen, MLCD project</name>
           <resp>2001: parser for conversion from MECS to XML</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Vemund Olstad, Øyvind L. Gjesdal, Tone Merete Bruvik</name>
+          <name>Vemund Olstad, Øyvind L. Gjesdal, Tone Merete Bruvik</name>
           <resp>2002-: stylesheets</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Tone Merete Bruvik, Øyvind L. Gjesdal</name>
+          <name>Tone Merete Bruvik, Øyvind L. Gjesdal</name>
           <resp>2006-: XML-TEI validation</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Heinz Wilhelm Krüger, Deirdre C. P. Smith</name>
+          <name>Heinz Wilhelm Krüger, Deirdre C. P. Smith</name>
           <resp>2006-09: amendments; XML-TEI markup</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Špela Vidmar</name>
+          <name>Špela Vidmar</name>
           <resp>2013-14: proofreading of normalized transcription</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Nivedita Gangopadhyay </name>
+          <name>Nivedita Gangopadhyay </name>
           <resp>2018: proofreading of normalized transcription</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Claus Huitfeldt</name>
+          <name>Claus Huitfeldt</name>
           <resp>2020: spell-check</resp>
         </respStmt>
         <respStmt>
-          <name full="yes" instant="false">Michael Biggs, Hans Biesenbach</name>
+          <name>Michael Biggs, Hans Biesenbach</name>
           <resp>1990-: the transcription includes links to graphics provided by Michael Biggs: "Ludwig Wittgenstein: A Visual Concordance to the Published Works", Minerva Vol. 2 (1998) [http://www.minerva.mic.ul.ie/vol2/Ver_33/index.htm] or Hans Biesenbach.</resp>
         </respStmt>
       </titleStmt>
@@ -60,23 +60,23 @@
         <idno type="URL">http://www.wittgensteinsource.org/Ts-207_d</idno>
         <idno type="URL">http://www.wittgensteinsource.org/Ts-207_f</idno>
         <idno type="URL">http://wittgensteinonline.no/</idno>
-        <availability xml:lang="en" default="false">
-          <p part="N">Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
+        <availability xml:lang="en">
+          <p>Copyright holders: The Master and Fellows of Trinity College, Cambridge; University of Bergen, Bergen. Released under the Creative Commons General Public License Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
         </availability>
       </publicationStmt>
-      <sourceDesc xml:lang="en" default="false">
-        <p part="N">Tba. </p>
+      <sourceDesc xml:lang="en">
+        <p>Tba. </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass default="false">
+      <textClass>
         <keywords scheme="http://philpapers.org/">
           <term>Philosophy of Language</term>
         </keywords>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
-      <change status="draft">The text has not been proofread since the production of the Bergen Electronic Edition (2000), though some corrections have been made. Dating with reference to Pichler 1994, p.109ff. </change>
+    <revisionDesc>
+      <change>The text has not been proofread since the production of the Bergen Electronic Edition (2000), though some corrections have been made. Dating with reference to Pichler 1994, p.109ff. </change>
     </revisionDesc>
   </teiHeader>
   <facsimile>
@@ -113,184 +113,184 @@
   </facsimile>
   <text xml:lang="en">
     <body>
-      <ab xml:id="Ts-207_1.1" n="Ts-207,1[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291118?-19291130?" part="N">
-        <seg type="wabmarks-secml_h" part="N"/>
-        <seg type="publ" part="N">
+      <ab xml:id="Ts-207_1.1" n="Ts-207,1[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291118?-19291130?">
+        <seg type="wabmarks-secml_h"/>
+        <seg type="publ">
           <pb facs="Ts-207_1" rend="recto" n="pagename_Ts-207,1 pageref_00"/>
-          <s type="es" part="N">Ladies and <c type="c" part="N">G</c>entlemen,<lb rend="hl"/> </s>
+          <s type="es">Ladies and <c type="c">G</c>entlemen,<lb rend="hl"/> </s>
         </seg>
       </ab>
-      <ab xml:id="Ts-207_1.2et2.1" n="Ts-207,1[2]et2[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291118?-19291130?" part="N">
-        <seg type="wabmarks-secml_h" part="N"/>
-        <seg type="publ" part="N">
-          <s type="es" rend="indl_9" part="N">Before I begin to  speak about my subject proper let me make a<lb/> few introductory  remarks.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> feel I shall have great difficulties in<lb/> communicating my  thoughts to you and I think some of them may be<lb/> diminished by mentioning  them to you beforehand.</s>
-          <s type="es" part="N">The first one, which<lb/> almost I need not mention, is, that English is not  my native tongue and<lb/> my expression therefore often lacks that precision  and subtilty which<lb/> would be desirable if one talks  about a difficult subject.</s>
-          <s type="es" part="N">All I can do<lb/> is to ask you to make my task easier by trying to get at  my meaning<lb/> <corr type="trs" instant="false"><orig type="trs1">inspite</orig><reg type="trs2"> in spite</reg></corr> of the faults which I will  constantly be committing against the<lb/> English grammar.</s>
-          <s type="es" part="N">The second difficulty I will mention is this, that<lb/> probably many of you  come up to this lecture of mine with slightly wrong<lb/> expectations.</s>
-          <s type="es" part="N">And to set you right in this point I will say a few<lb/> words about the  reason for choosing the subject I have chosen: <c type="c" part="N">W</c>hen<lb/> your  former secretary honoured me by asking me to read a paper to your<lb/>  society, my first thought was that I would certainly do it and my second<lb/>  thought was that if I was to have the opportunity to speak to you I<lb/>  should speak about something which I am keen on communicating to you and<lb/>  that I should not misuse this opportunity to give you a lecture about,<lb/>  say, logic.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> call this a misuse for to explain a scientific matter to<lb/> you it  would need a course of lectures and not an hour's paper.</s>
-          <s type="es" part="N">An<lb/> other alternative would have been to give you what's called a  popular<lb rend="divl"/>scientific lecture, that is a lecture intended to make you  believe that<lb/> you understand a thing which actually you don't  understand, and to<lb/> gratify what I believe to be one of the lowest desires  of modern people,<lb/> namely the superficial curiosity about the latest  discoveries of science.<lb/></s>
-          <s type="es" part="N"><c type="k" part="N">I</c> rejected these alternatives and decided to talk to you about a  subject<lb/> which seems to me to be of general importance, hoping that it may  help<lb/> to clear up your thoughts about this subject (even if you  should<lb/>  <pb facs="Ts-207_2" rend="recto" n="pagename_Ts-207,2 pageref_00"/><fw type="pagen" place="top left">2)</fw> entirely disagree with what I will say  about it).</s>
-          <s type="es" part="N">My third and last<lb/> difficulty is one which, in fact, adheres to most  lengthy philosophical<lb/> lectures and it is this, that the hearer is  incapable of seeing both<lb/> the road he is led and the goal which it leads  to.</s>
-          <s type="es" part="N">That is to say: he<lb/> either thinks: <seg type="q" part="N">“I understand  all he says, but what on earth is he driving<lb/> at”</seg> or else he  thinks <seg type="q" part="N">“I see what he's driving at, but how on earth is<lb/>  he going to get there”</seg>.</s>
-          <s type="es" part="N">All I can do is again to ask you to be patient<lb/> and to hope that in the  end you may see both the way and where it leads<lb/> to. ‒ ‒ ‒</s>
+      <ab xml:id="Ts-207_1.2et2.1" n="Ts-207,1[2]et2[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291118?-19291130?">
+        <seg type="wabmarks-secml_h"/>
+        <seg type="publ">
+          <s type="es" rend="indl_9">Before I begin to  speak about my subject proper let me make a<lb/> few introductory  remarks.</s>
+          <s type="es"><c type="k">I</c> feel I shall have great difficulties in<lb/> communicating my  thoughts to you and I think some of them may be<lb/> diminished by mentioning  them to you beforehand.</s>
+          <s type="es">The first one, which<lb/> almost I need not mention, is, that English is not  my native tongue and<lb/> my expression therefore often lacks that precision  and subtilty which<lb/> would be desirable if one talks  about a difficult subject.</s>
+          <s type="es">All I can do<lb/> is to ask you to make my task easier by trying to get at  my meaning<lb/> <corr type="trs"><orig type="trs1">inspite</orig><reg type="trs2"> in spite</reg></corr> of the faults which I will  constantly be committing against the<lb/> English grammar.</s>
+          <s type="es">The second difficulty I will mention is this, that<lb/> probably many of you  come up to this lecture of mine with slightly wrong<lb/> expectations.</s>
+          <s type="es">And to set you right in this point I will say a few<lb/> words about the  reason for choosing the subject I have chosen: <c type="c">W</c>hen<lb/> your  former secretary honoured me by asking me to read a paper to your<lb/>  society, my first thought was that I would certainly do it and my second<lb/>  thought was that if I was to have the opportunity to speak to you I<lb/>  should speak about something which I am keen on communicating to you and<lb/>  that I should not misuse this opportunity to give you a lecture about,<lb/>  say, logic.</s>
+          <s type="es"><c type="k">I</c> call this a misuse for to explain a scientific matter to<lb/> you it  would need a course of lectures and not an hour's paper.</s>
+          <s type="es">An<lb/> other alternative would have been to give you what's called a  popular<lb rend="divl"/>scientific lecture, that is a lecture intended to make you  believe that<lb/> you understand a thing which actually you don't  understand, and to<lb/> gratify what I believe to be one of the lowest desires  of modern people,<lb/> namely the superficial curiosity about the latest  discoveries of science.<lb/></s>
+          <s type="es"><c type="k">I</c> rejected these alternatives and decided to talk to you about a  subject<lb/> which seems to me to be of general importance, hoping that it may  help<lb/> to clear up your thoughts about this subject (even if you  should<lb/>  <pb facs="Ts-207_2" rend="recto" n="pagename_Ts-207,2 pageref_00"/><fw type="pagen" place="top left">2)</fw> entirely disagree with what I will say  about it).</s>
+          <s type="es">My third and last<lb/> difficulty is one which, in fact, adheres to most  lengthy philosophical<lb/> lectures and it is this, that the hearer is  incapable of seeing both<lb/> the road he is led and the goal which it leads  to.</s>
+          <s type="es">That is to say: he<lb/> either thinks: <seg type="q">“I understand  all he says, but what on earth is he driving<lb/> at”</seg> or else he  thinks <seg type="q">“I see what he's driving at, but how on earth is<lb/>  he going to get there”</seg>.</s>
+          <s type="es">All I can do is again to ask you to be patient<lb/> and to hope that in the  end you may see both the way and where it leads<lb/> to. ‒ ‒ ‒</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-207_2.2et3.1et4.1et5.1" n="Ts-207,2[2]et3[1]et4[1]et5[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291118?-19291130?" part="N">
-        <seg type="wabmarks-secml_h" part="N"/>
-        <seg type="publ" part="N">
-          <s type="es" rend="indl_8" part="N"><c type="k" part="N">I</c> will now begin.</s>
+      <ab xml:id="Ts-207_2.2et3.1et4.1et5.1" n="Ts-207,2[2]et3[1]et4[1]et5[1]" xml:lang="en" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291118?-19291130?">
+        <seg type="wabmarks-secml_h"/>
+        <seg type="publ">
+          <s type="es" rend="indl_8"><c type="k">I</c> will now begin.</s>
           <rs type="extref" key="Moore, George Edward: Principia Ethica">
-            <s type="es" part="N">My subject, as you know, is <c type="c" part="N">E</c>thics and I will<lb/> adopt the  explanation of that term which <persName key="Moore, George Edward" instant="false" full="yes">Prof. Moore</persName> has given in his<lb/> book  <seg type="q" part="N">“Principia Ethica”</seg>.</s>
-            <s type="es" part="N">He says: <seg type="q" part="N">“<c type="c" part="N">E</c>thics is the general enquiry into<lb/>  what is good”</seg>.</s>
+            <s type="es">My subject, as you know, is <c type="c">E</c>thics and I will<lb/> adopt the  explanation of that term which <persName key="Moore, George Edward">Prof. Moore</persName> has given in his<lb/> book  <seg type="q">“Principia Ethica”</seg>.</s>
+            <s type="es">He says: <seg type="q">“<c type="c">E</c>thics is the general enquiry into<lb/>  what is good”</seg>.</s>
           </rs>
-          <s type="es" part="N">Now I am going to use the term <c type="c" part="N">E</c>thics in a slightly<lb/> wider sense,  in a sense in fact which includes what I believe to be the<lb/> most essential  part of what is generally called <c type="c" part="N">A</c>esthetics.</s>
+          <s type="es">Now I am going to use the term <c type="c">E</c>thics in a slightly<lb/> wider sense,  in a sense in fact which includes what I believe to be the<lb/> most essential  part of what is generally called <c type="c">A</c>esthetics.</s>
           <rs type="extref" key="Galton, Francis: Memories of my Life">
-            <s type="es" part="N">And to make<lb/> you see as clearly as possible what I take to be the  subject matter of<lb/> <c type="c" part="N">E</c>thics I will put before you a number of more or  less synonymous expres<lb rend="shyphen"/>sions each of which could be substituted for  the above definition, and<lb/> by enumerating them I want to produce the same  sort of effect which<lb/>  <persName key="Galton, Francis" instant="false" full="yes">Gal<del type="dnpc_h" instant="false" status="unremarkable"><corr type="npcn" instant="false">ls</corr></del>ton<del type="dnpc_h" instant="false" status="unremarkable"><corr type="npcn" instant="false">e</corr></del></persName> produced when he took a number of photos of  different faces<lb/> on the same photographic plate in order to get the  picture of the<lb/> typical features they all had in common.</s>
+            <s type="es">And to make<lb/> you see as clearly as possible what I take to be the  subject matter of<lb/> <c type="c">E</c>thics I will put before you a number of more or  less synonymous expres<lb rend="shyphen"/>sions each of which could be substituted for  the above definition, and<lb/> by enumerating them I want to produce the same  sort of effect which<lb/>  <persName key="Galton, Francis">Gal<del type="dnpc_h"><corr type="npcn">ls</corr></del>ton<del type="dnpc_h"><corr type="npcn">e</corr></del></persName> produced when he took a number of photos of  different faces<lb/> on the same photographic plate in order to get the  picture of the<lb/> typical features they all had in common.</s>
           </rs>
-          <s type="es" part="N">And as by showing to you such a<lb/> collective photo I could make you see  what is the typical – say – <lb/> <corr type="trsn" instant="false"><orig type="trsn1">c</orig><reg type="trsn2">C</reg></corr>hinese face;  so if you look through the row of synonyms which I will put<lb/> before you,  you will, I hope, be able to see the characteristic<lb/> features they all  have in common and these are the characteristic<lb/> features of  <c type="c" part="N">E</c>thics.</s>
-          <s type="es" part="N">Now instead of saying <seg type="q" part="N">“<c type="c" part="N">E</c><del type="dnpc_h" instant="false" status="unremarkable"><corr type="npcn" instant="false">t</corr></del>thics  is the enquiry into<lb/> what is good”</seg> I could have said  <c type="c" part="N">E</c>thics is the enquiry into what is valu<lb rend="shyphen"/>able, or, into what is  really important, or I could have said <c type="c" part="N">E</c>thics is<lb/>  <pb facs="Ts-207_3" rend="recto" n="pagename_Ts-207,3 pageref_00"/><fw type="pagen" place="top left">3)</fw> the enquiry into the meaning of life, or  into what makes life worth living<add rend="el_h" instant="false" status="unremarkable">,</add><lb/> or into the right way of  living.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> believe if you look at all these phrases<lb/> you will get a rough  idea as to what it is that <c type="c" part="N">E</c>thics is concerned with.<lb/></s>
-          <s type="es" part="N"> Now the first thing that strikes one about all these expressions is  that<lb/> each of them is actually used in two very different senses.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> will call<lb/> them the trivial or relative sense on the one hand  and the ethical or<lb/> absolute sense on the other.</s>
-          <s type="es" part="N">If for instance I say that this is a <emph rend="us1">good</emph><lb/> chair this means   that the chair serves a certain predetermined purpose and<lb/> the word <corr type="tra" instant="false">“</corr>good<corr type="tra" instant="false">”</corr>  here has only meaning so far as this purpose has been pre<lb rend="shyphen"/>viously  fixed upon.</s>
-          <s type="es" part="N">In fact the word <seg type="q" part="N"><corr type="tra" instant="false">“</corr>good<corr type="tra" instant="false">”</corr></seg> in the  relative sense simply<lb/> means coming up to a certain predetermined  standard.</s>
-          <s type="es" part="N">Thus when we say that<lb/> this man is a good pianist we mean that he can  play pieces of a certain<lb/> degree of difficulty with a certain degree of  dexterity.</s>
-          <s type="es" part="N">And similarly if<lb/> I say that it is <emph rend="us1">important</emph> for me not to  catch cold I mean that catching<lb/> a cold produces certain describable  disturbances in my life and if I say<lb/> that this is the <emph rend="us1">right</emph>  road <del type="dnpc" instant="false" status="unremarkable">that it</del> I mean that it's the right road rela<lb rend="shyphen"/>tive  to a certain goal.</s>
-          <s type="es" part="N">Used in this way these expressions don't present<lb/> any difficult or  deep problems.</s>
-          <s type="es" part="N">But this is not how <c type="c" part="N">E</c>thics uses them.<lb/></s>
-          <s type="es" part="N">Supposing that I could play tennis and one of you saw me playing and  said<lb/> <seg type="q" part="N">“well you play pretty badly”</seg> and suppose I  answered <seg type="q" part="N">“I know, I'm playing<lb/> badly but I don't want  to play any better”</seg>, all the other man could say<lb/> would be  <seg type="q" part="N">“<c type="c" part="N">A</c>h then that's all right”</seg>.</s>
-          <s type="es" part="N">But suppose I had told one of you a<lb/> preposterous lie and he came up to  me and said <seg type="q" part="N">“<c type="c" part="N">Y</c>ou're behaving like a<lb/>  beast”</seg> and then I were to say <seg type="q" part="N">“I know I behave  badly, but then I don't<lb/> want to behave any better”</seg>, could  he then say <seg type="q" part="N">“<c type="c" part="N">A</c>h, then that's all  right”</seg>?</s>
+          <s type="es">And as by showing to you such a<lb/> collective photo I could make you see  what is the typical – say – <lb/> <corr type="trsn"><orig type="trsn1">c</orig><reg type="trsn2">C</reg></corr>hinese face;  so if you look through the row of synonyms which I will put<lb/> before you,  you will, I hope, be able to see the characteristic<lb/> features they all  have in common and these are the characteristic<lb/> features of  <c type="c">E</c>thics.</s>
+          <s type="es">Now instead of saying <seg type="q">“<c type="c">E</c><del type="dnpc_h"><corr type="npcn">t</corr></del>thics  is the enquiry into<lb/> what is good”</seg> I could have said  <c type="c">E</c>thics is the enquiry into what is valu<lb rend="shyphen"/>able, or, into what is  really important, or I could have said <c type="c">E</c>thics is<lb/>  <pb facs="Ts-207_3" rend="recto" n="pagename_Ts-207,3 pageref_00"/><fw type="pagen" place="top left">3)</fw> the enquiry into the meaning of life, or  into what makes life worth living<add rend="el_h">,</add><lb/> or into the right way of  living.</s>
+          <s type="es"><c type="k">I</c> believe if you look at all these phrases<lb/> you will get a rough  idea as to what it is that <c type="c">E</c>thics is concerned with.<lb/></s>
+          <s type="es"> Now the first thing that strikes one about all these expressions is  that<lb/> each of them is actually used in two very different senses.</s>
+          <s type="es"><c type="k">I</c> will call<lb/> them the trivial or relative sense on the one hand  and the ethical or<lb/> absolute sense on the other.</s>
+          <s type="es">If for instance I say that this is a <emph rend="us1">good</emph><lb/> chair this means   that the chair serves a certain predetermined purpose and<lb/> the word <corr type="tra">“</corr>good<corr type="tra">”</corr>  here has only meaning so far as this purpose has been pre<lb rend="shyphen"/>viously  fixed upon.</s>
+          <s type="es">In fact the word <seg type="q"><corr type="tra">“</corr>good<corr type="tra">”</corr></seg> in the  relative sense simply<lb/> means coming up to a certain predetermined  standard.</s>
+          <s type="es">Thus when we say that<lb/> this man is a good pianist we mean that he can  play pieces of a certain<lb/> degree of difficulty with a certain degree of  dexterity.</s>
+          <s type="es">And similarly if<lb/> I say that it is <emph rend="us1">important</emph> for me not to  catch cold I mean that catching<lb/> a cold produces certain describable  disturbances in my life and if I say<lb/> that this is the <emph rend="us1">right</emph>  road <del type="dnpc">that it</del> I mean that it's the right road rela<lb rend="shyphen"/>tive  to a certain goal.</s>
+          <s type="es">Used in this way these expressions don't present<lb/> any difficult or  deep problems.</s>
+          <s type="es">But this is not how <c type="c">E</c>thics uses them.<lb/></s>
+          <s type="es">Supposing that I could play tennis and one of you saw me playing and  said<lb/> <seg type="q">“well you play pretty badly”</seg> and suppose I  answered <seg type="q">“I know, I'm playing<lb/> badly but I don't want  to play any better”</seg>, all the other man could say<lb/> would be  <seg type="q">“<c type="c">A</c>h then that's all right”</seg>.</s>
+          <s type="es">But suppose I had told one of you a<lb/> preposterous lie and he came up to  me and said <seg type="q">“<c type="c">Y</c>ou're behaving like a<lb/>  beast”</seg> and then I were to say <seg type="q">“I know I behave  badly, but then I don't<lb/> want to behave any better”</seg>, could  he then say <seg type="q">“<c type="c">A</c>h, then that's all  right”</seg>?</s>
           <lb/>
-          <s type="es" part="N">Certainly not; he would say <seg type="q" part="N">“<c type="c" part="N">W</c>ell, you <emph rend="us1">ought</emph>  to want to behave better”</seg>.</s>
+          <s type="es">Certainly not; he would say <seg type="q">“<c type="c">W</c>ell, you <emph rend="us1">ought</emph>  to want to behave better”</seg>.</s>
           <lb/>
-          <s type="es" part="N">Here you have an absolute judgment of value, whereas the first instance<lb/>  was one of a relative judgment.</s>
-          <s type="es" part="N">The essence of this difference seems to<lb/> be obviously this:  <c type="c" part="N">E</c>very judgment of relative value is a mere statement of<lb/>  <pb facs="Ts-207_4" rend="recto" n="pagename_Ts-207,4 pageref_00"/><fw type="pagen" place="top left">4)</fw> facts and can therefore be put in such a  form that it loses all the<lb/> appearance of a judgment of value:  <c type="c" part="N">I</c>nstead of saying <seg type="q" part="N">“this is the right way<lb/> to  <name key="Granchester" full="yes" instant="false">Granchester</name><corr type="tra" instant="false">”</corr></seg> I could equally well have  said <seg type="q" part="N">“this is the right way you<lb/> have to go if you want to get  to <name key="Granchester" full="yes" instant="false">Granchester</name> in the shortest time”</seg>,  <seg type="q" part="N"><corr type="tra" instant="false">“</corr>this<lb/> man is a good runner<corr type="tra" instant="false">”</corr></seg>  simply means that he runs a certain number of miles in<lb/> a certain number   of minutes, <abbr corresp="and so forth.">a.s.f.</abbr></s>
-          <s type="es" part="N">Now what I wish to contend is, that<lb/> although all judgments of relative  value can be shown to be mere statements<lb/> of facts, no statement of fact  can ever be, or imply, a judgment of<lb/> <emph rend="us1">absolute</emph> value.</s>
-          <s type="es" part="N">Let me explain this: <c type="c" part="N">S</c>uppose one of you were an omniscient<lb/>  person and therefore knew all the movements of all the bodies in the  world<lb/> dead or alive and that he also knew all the states of mind of all  human<lb/> beings that ever lived, and suppose this man wrote all he knew in a  big<lb/> book, then this book would contain the whole description of the  world; and<lb/> what I want to say is, that this book would contain nothing  that we would<lb/> call an <emph rend="us1">ethical</emph> judgment or anything that would  logically imply such a<lb/> judgment.</s>
-          <s type="es" part="N">It would of course contain all relative judgments of value and<lb/> all true  scientific propositions and in fact all true propositions that can<lb/> be  made.</s>
-          <s type="es" part="N">But all the facts described would, as it were, stand on the same<lb/> level  and in the same way all propositions stand on the same level.</s>
-          <s type="es" part="N">There<lb/> are no propositions which, in any absolute sense, are sublime,  important,<lb/> or trivial.</s>
+          <s type="es">Here you have an absolute judgment of value, whereas the first instance<lb/>  was one of a relative judgment.</s>
+          <s type="es">The essence of this difference seems to<lb/> be obviously this:  <c type="c">E</c>very judgment of relative value is a mere statement of<lb/>  <pb facs="Ts-207_4" rend="recto" n="pagename_Ts-207,4 pageref_00"/><fw type="pagen" place="top left">4)</fw> facts and can therefore be put in such a  form that it loses all the<lb/> appearance of a judgment of value:  <c type="c">I</c>nstead of saying <seg type="q">“this is the right way<lb/> to  <name key="Granchester">Granchester</name><corr type="tra">”</corr></seg> I could equally well have  said <seg type="q">“this is the right way you<lb/> have to go if you want to get  to <name key="Granchester">Granchester</name> in the shortest time”</seg>,  <seg type="q"><corr type="tra">“</corr>this<lb/> man is a good runner<corr type="tra">”</corr></seg>  simply means that he runs a certain number of miles in<lb/> a certain number   of minutes, <abbr corresp="and so forth.">a.s.f.</abbr></s>
+          <s type="es">Now what I wish to contend is, that<lb/> although all judgments of relative  value can be shown to be mere statements<lb/> of facts, no statement of fact  can ever be, or imply, a judgment of<lb/> <emph rend="us1">absolute</emph> value.</s>
+          <s type="es">Let me explain this: <c type="c">S</c>uppose one of you were an omniscient<lb/>  person and therefore knew all the movements of all the bodies in the  world<lb/> dead or alive and that he also knew all the states of mind of all  human<lb/> beings that ever lived, and suppose this man wrote all he knew in a  big<lb/> book, then this book would contain the whole description of the  world; and<lb/> what I want to say is, that this book would contain nothing  that we would<lb/> call an <emph rend="us1">ethical</emph> judgment or anything that would  logically imply such a<lb/> judgment.</s>
+          <s type="es">It would of course contain all relative judgments of value and<lb/> all true  scientific propositions and in fact all true propositions that can<lb/> be  made.</s>
+          <s type="es">But all the facts described would, as it were, stand on the same<lb/> level  and in the same way all propositions stand on the same level.</s>
+          <s type="es">There<lb/> are no propositions which, in any absolute sense, are sublime,  important,<lb/> or trivial.</s>
           <rs type="extref" key="Shakespeare, William: Hamlet">
-            <s type="es" part="N">Now perhaps some of you will agree to that and be reminded of<lb/>  Hamlet's words: <seg type="q" part="N"><corr type="tra" instant="false">“</corr>Nothing is either  good or bad, but thinking makes it so”</seg>.</s>
+            <s type="es">Now perhaps some of you will agree to that and be reminded of<lb/>  Hamlet's words: <seg type="q"><corr type="tra">“</corr>Nothing is either  good or bad, but thinking makes it so”</seg>.</s>
             <lb/>
-            <s type="es" part="N">But this again could lead to a misunderstanding.</s>
-            <s type="es" part="N">What Hamlet  says seems to<lb/> imply that good and bad, though not qualities of the world  outside us, are<lb/> attributes of our states of mind.</s>
-            <s type="es" part="N">But what I mean is that a state of mind,<lb/> so far as we mean by that a  fact which we can describe, is in no ethical<lb/> sense good or bad.</s>
+            <s type="es">But this again could lead to a misunderstanding.</s>
+            <s type="es">What Hamlet  says seems to<lb/> imply that good and bad, though not qualities of the world  outside us, are<lb/> attributes of our states of mind.</s>
+            <s type="es">But what I mean is that a state of mind,<lb/> so far as we mean by that a  fact which we can describe, is in no ethical<lb/> sense good or bad.</s>
           </rs>
-          <s type="es" part="N">If for instance in our world-book we read the descrip<lb rend="shyphen"/>tion of a  murder with all its details physical and psychological the mere<lb/>  description of these facts will contain nothing which we could call an<lb/>  <pb facs="Ts-207_5" rend="recto" n="pagename_Ts-207,5 pageref_00"/><fw type="pagen" place="top left">5)</fw> <emph rend="us1">ethical</emph> proposition.</s>
-          <s type="es" part="N">The murder will be on exactly the same level as any<lb/> other event, for  instance the falling of a stone.</s>
-          <s type="es" part="N">Certainly the reading of<lb/> this description might cause us pain or rage  or any other emotion, or we<lb/> might read about the pain or rage caused by  this murder in other people<lb/> when they heard of it, but there will simply  be facts, facts and facts but<lb/> no <c type="c" part="N">E</c>thics. –</s>
-          <s type="es" part="N">And now I must say that if I contemplate what <c type="c" part="N">E</c>thics really<lb/> would  have to be if there were such a science, this result seems to me<lb/> quite  obvious.</s>
-          <s type="es" part="N">It seems to me obvious that nothing we could ever think or<lb/> say should  be <emph rend="us1_ch">the</emph> thing.</s>
-          <s type="es" part="N">That we cannot write a scientific book, the sub<lb rend="shyphen"/>ject matter of which  could be intrinsically sublime and above all other<lb/> subject  matters.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> can only describe my feeling by the metaphor, that, if<lb/> a man  could write a book on <c type="c" part="N">E</c>thics which really was a book on <c type="c" part="N">E</c>thics,  this<lb/> book would, with an explosion, destroy all the other books in the  world. – <lb/></s>
-          <s type="es" part="N">Our words used as we use them in science, are vessels capable only of  con<lb rend="shyphen"/>taining and conveying meaning and sense, <emph rend="us1">natural</emph> meaning  an<add rend="our_h" instant="false" status="unremarkable">d</add> sense.</s>
+          <s type="es">If for instance in our world-book we read the descrip<lb rend="shyphen"/>tion of a  murder with all its details physical and psychological the mere<lb/>  description of these facts will contain nothing which we could call an<lb/>  <pb facs="Ts-207_5" rend="recto" n="pagename_Ts-207,5 pageref_00"/><fw type="pagen" place="top left">5)</fw> <emph rend="us1">ethical</emph> proposition.</s>
+          <s type="es">The murder will be on exactly the same level as any<lb/> other event, for  instance the falling of a stone.</s>
+          <s type="es">Certainly the reading of<lb/> this description might cause us pain or rage  or any other emotion, or we<lb/> might read about the pain or rage caused by  this murder in other people<lb/> when they heard of it, but there will simply  be facts, facts and facts but<lb/> no <c type="c">E</c>thics. –</s>
+          <s type="es">And now I must say that if I contemplate what <c type="c">E</c>thics really<lb/> would  have to be if there were such a science, this result seems to me<lb/> quite  obvious.</s>
+          <s type="es">It seems to me obvious that nothing we could ever think or<lb/> say should  be <emph rend="us1_ch">the</emph> thing.</s>
+          <s type="es">That we cannot write a scientific book, the sub<lb rend="shyphen"/>ject matter of which  could be intrinsically sublime and above all other<lb/> subject  matters.</s>
+          <s type="es"><c type="k">I</c> can only describe my feeling by the metaphor, that, if<lb/> a man  could write a book on <c type="c">E</c>thics which really was a book on <c type="c">E</c>thics,  this<lb/> book would, with an explosion, destroy all the other books in the  world. – <lb/></s>
+          <s type="es">Our words used as we use them in science, are vessels capable only of  con<lb rend="shyphen"/>taining and conveying meaning and sense, <emph rend="us1">natural</emph> meaning  an<add rend="our_h">d</add> sense.</s>
         </seg>
       </ab>
-      <ab xml:id="Ts-207_5.2et6.1et7.1et8.1et8.2et9.1et10.1" n="Ts-207,5[2]et6[1]et7[1]et8[1]et8[2]et9[1]et10[1]" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291130?" xml:lang="en" part="N">
-        <seg type="wabmarks-secml_h" part="N"/>
-        <seg type="publ" part="N">
-          <s type="es" part="N">Ethics, if it is anything, is supernatural and our words will only  express<lb/> facts; as a teacup will only hold a teacup full of water and if I  were to<lb/> <choice type="dsl_h"><orig type="alt1"><del type="d_h" instant="false" status="unremarkable">put</del></orig><orig type="alt2"><add rend="i_h" instant="false" status="unremarkable">pour</add></orig></choice> out a gallon  over it. ‒ ‒ ‒</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> said that so far<del type="dnpc_h" instant="false" status="unremarkable"/> as facts and  prop<add rend="el_h" instant="false" status="unremarkable">o</add>sitions<lb/> are concerned there is only relative value and  relative good, right <abbr type="abb">etc.</abbr></s>
+      <ab xml:id="Ts-207_5.2et6.1et7.1et8.1et8.2et9.1et10.1" n="Ts-207,5[2]et6[1]et7[1]et8[1]et8[2]et9[1]et10[1]" ana="field:PhilosophyOfLanguage_pub:W-LE_date:19291130?" xml:lang="en">
+        <seg type="wabmarks-secml_h"/>
+        <seg type="publ">
+          <s type="es">Ethics, if it is anything, is supernatural and our words will only  express<lb/> facts; as a teacup will only hold a teacup full of water and if I  were to<lb/> <choice type="dsl_h"><orig type="alt1"><del type="d_h">put</del></orig><orig type="alt2"><add rend="i_h">pour</add></orig></choice> out a gallon  over it. ‒ ‒ ‒</s>
+          <s type="es"><c type="k">I</c> said that so far<del type="dnpc_h"/> as facts and  prop<add rend="el_h">o</add>sitions<lb/> are concerned there is only relative value and  relative good, right <abbr type="abb">etc.</abbr></s>
           <lb/>
-          <s type="es" part="N">And let me, before I go <add rend="our_h" instant="false" status="unremarkable">o</add>n, illustrate this by a rather  obvious example.<lb/></s>
-          <s type="es" part="N">The right road is the road which leads to an arbitrarily predetermined  end<lb/> and it is quite clear to us all that there is no sense in talking  about the<lb/> right road apart from such a predetermined goal.</s>
-          <s type="es" part="N">Now let us see what we<lb/> could possibly mean by the expression  <seg type="q" part="N">“<emph rend="us1">the</emph> absolutely right road”</seg>.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> think<lb/> it would be the road which <emph rend="us1">everybody</emph> on seeing  it would, <emph rend="us1">with logical<lb/> necessity</emph> have to go, or be ashamed for  not going.</s>
-          <s type="es" part="N">And similarly the<lb/> <emph rend="us1">absolute</emph> <emph rend="us1">good</emph>, if it is a  describable state of affairs would be one which<lb/> everybody, independent of  his tastes and inclinations, would <emph rend="us1">necessarily</emph><lb/> bring about or  feel guilty for not bringing about.</s>
-          <s type="es" part="N">And I want to say that<lb/> such a state of affairs is a chimera.</s>
-          <s type="es" part="N">No state of affairs has in itself,<lb/>  <pb facs="Ts-207_6" rend="recto" n="pagename_Ts-207,6 pageref_00"/><fw type="pagen" place="top left">6)</fw> what I would like to call, the coercive  power of an absolute judge. –</s>
+          <s type="es">And let me, before I go <add rend="our_h">o</add>n, illustrate this by a rather  obvious example.<lb/></s>
+          <s type="es">The right road is the road which leads to an arbitrarily predetermined  end<lb/> and it is quite clear to us all that there is no sense in talking  about the<lb/> right road apart from such a predetermined goal.</s>
+          <s type="es">Now let us see what we<lb/> could possibly mean by the expression  <seg type="q">“<emph rend="us1">the</emph> absolutely right road”</seg>.</s>
+          <s type="es"><c type="k">I</c> think<lb/> it would be the road which <emph rend="us1">everybody</emph> on seeing  it would, <emph rend="us1">with logical<lb/> necessity</emph> have to go, or be ashamed for  not going.</s>
+          <s type="es">And similarly the<lb/> <emph rend="us1">absolute</emph> <emph rend="us1">good</emph>, if it is a  describable state of affairs would be one which<lb/> everybody, independent of  his tastes and inclinations, would <emph rend="us1">necessarily</emph><lb/> bring about or  feel guilty for not bringing about.</s>
+          <s type="es">And I want to say that<lb/> such a state of affairs is a chimera.</s>
+          <s type="es">No state of affairs has in itself,<lb/>  <pb facs="Ts-207_6" rend="recto" n="pagename_Ts-207,6 pageref_00"/><fw type="pagen" place="top left">6)</fw> what I would like to call, the coercive  power of an absolute judge. –</s>
           <lb/>
-          <s type="es" part="N">Then what have all of us who, like myself, are still tempted to use  such<lb/> expressions as <seg type="q" part="N">“absolute good”</seg>,  <seg type="q" part="N">“absolute value”</seg> <abbr type="abb">etc<corr type="tra" instant="false">.</corr></abbr>,  what have we in mind<lb/> and what do we try to express?</s>
-          <s type="es" part="N">Now whenever I try to make this clear to<lb/> myself it is natural that I  should recall cases in which I would certainly<lb/> use these expressions and  I am then in the situation and in which you would<lb/> be if, for instance, I  were to give you a lecture on the psychology of<lb/> pleasure.</s>
-          <s type="es" part="N">What you would do then would be to try and recall some typical<lb/>  situation in which you always felt pleasure.</s>
-          <s type="es" part="N">For, bearing this situation in<lb/> mind, all I should say to you would  become concrete and, as it were,<lb/> control<corr type="tran" instant="false">l</corr>able.</s>
-          <s type="es" part="N">One man would perhaps choose as his stock example the sensa<lb rend="shyphen"/>tion  when taking a walk on a fine summer's day.</s>
-          <s type="es" part="N">Now in this situation I am<lb/> if I want to fix my mind on what I mean by  absolute or ethical value.<lb/></s>
-          <s type="es" part="N">And there, in my case, it always happens that the idea of one  particular<lb/> experience presents itself to me which therefore is, in a  sense, my ex<lb rend="shyphen"/>perience <seg type="ct" part="N"><corr type="trs" instant="false"><orig type="trs1">for</orig><reg type="trs2"> par</reg></corr> excellence</seg> and  this is the reason why, in talking to you now,<lb/> I will use this experience  as my first and foremost example.</s>
-          <s type="es" part="N">(As I have<lb/> said before, this is an entirely personal matter and  others would find<lb/> other examples more striking<corr type="tra" instant="false">.</corr>)</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> will describe this experience in order, if<lb/> possible, to make  you recall the same or similar experiences, so that we<lb/> may have a common  ground for our investigation.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> believe the best way of<lb/> describing it is to say that when I  have it <emph rend="us1">I wonder at the existence of<lb/> the world.</emph></s>
-          <s type="es" part="N">And I am then inclined to use such phrases as <seg type="q" part="N">“how  extraordi<lb rend="shyphen"/>nary that anything should exist”</seg> or  <seg type="q" part="N">“how extraordinary that the world<lb/> should  exist”</seg>.</s>
+          <s type="es">Then what have all of us who, like myself, are still tempted to use  such<lb/> expressions as <seg type="q">“absolute good”</seg>,  <seg type="q">“absolute value”</seg> <abbr type="abb">etc<corr type="tra">.</corr></abbr>,  what have we in mind<lb/> and what do we try to express?</s>
+          <s type="es">Now whenever I try to make this clear to<lb/> myself it is natural that I  should recall cases in which I would certainly<lb/> use these expressions and  I am then in the situation and in which you would<lb/> be if, for instance, I  were to give you a lecture on the psychology of<lb/> pleasure.</s>
+          <s type="es">What you would do then would be to try and recall some typical<lb/>  situation in which you always felt pleasure.</s>
+          <s type="es">For, bearing this situation in<lb/> mind, all I should say to you would  become concrete and, as it were,<lb/> control<corr type="tran">l</corr>able.</s>
+          <s type="es">One man would perhaps choose as his stock example the sensa<lb rend="shyphen"/>tion  when taking a walk on a fine summer's day.</s>
+          <s type="es">Now in this situation I am<lb/> if I want to fix my mind on what I mean by  absolute or ethical value.<lb/></s>
+          <s type="es">And there, in my case, it always happens that the idea of one  particular<lb/> experience presents itself to me which therefore is, in a  sense, my ex<lb rend="shyphen"/>perience <seg type="ct"><corr type="trs"><orig type="trs1">for</orig><reg type="trs2"> par</reg></corr> excellence</seg> and  this is the reason why, in talking to you now,<lb/> I will use this experience  as my first and foremost example.</s>
+          <s type="es">(As I have<lb/> said before, this is an entirely personal matter and  others would find<lb/> other examples more striking<corr type="tra">.</corr>)</s>
+          <s type="es"><c type="k">I</c> will describe this experience in order, if<lb/> possible, to make  you recall the same or similar experiences, so that we<lb/> may have a common  ground for our investigation.</s>
+          <s type="es"><c type="k">I</c> believe the best way of<lb/> describing it is to say that when I  have it <emph rend="us1">I wonder at the existence of<lb/> the world.</emph></s>
+          <s type="es">And I am then inclined to use such phrases as <seg type="q">“how  extraordi<lb rend="shyphen"/>nary that anything should exist”</seg> or  <seg type="q">“how extraordinary that the world<lb/> should  exist”</seg>.</s>
           <rs type="extref" key="Anzengruber, Ludwig: Die Kreuzelschreiber">
-            <s type="es" part="N"><c type="k" part="N">I</c> will mention another experience straight away which I also<lb/> know  and which others of you might be acquainted with: it is, what one<lb/>  might call, the experience of feeling <emph rend="us1">absolutely</emph> safe.</s>
-            <s type="es" part="N"><c type="k" part="N">I</c> mean the state of<lb/> mind in which one is inclined to say  <seg type="q" part="N">“I am safe, nothing can injure me<lb/> whatever  happens”</seg>.</s>
+            <s type="es"><c type="k">I</c> will mention another experience straight away which I also<lb/> know  and which others of you might be acquainted with: it is, what one<lb/>  might call, the experience of feeling <emph rend="us1">absolutely</emph> safe.</s>
+            <s type="es"><c type="k">I</c> mean the state of<lb/> mind in which one is inclined to say  <seg type="q">“I am safe, nothing can injure me<lb/> whatever  happens”</seg>.</s>
           </rs>
-          <s type="es" part="N">Now let me consider these experiences, for, I believe,<lb/> they exhibit the  very characteristics we try to get clear about.</s>
-          <s type="es" part="N">And there<lb/>  <pb facs="Ts-207_7" rend="recto" n="pagename_Ts-207,7 pageref_00"/><fw type="pagen" place="top left">7)</fw> the first thing I have to say is, that  the verbal expression which we give<lb/> to these experiences is  nonsense!</s>
-          <s type="es" part="N">If I say <seg type="q" part="N">“I wonder at the existence of<lb/> the  world<add rend="el" instant="false" status="unremarkable">”</add></seg> I am misusing language.</s>
-          <s type="es" part="N">Let me explain this: <c type="c" part="N">I</c>t has a perfectly<lb/> good and clear  sense to say that I wonder at something being the case, we<lb/> all understand  what it means to say that I wonder at the size of a dog which<lb/> is bigger  than anyone I have ever seen before or at any thing which, in the<lb/> common  sense of the word, is extraordinary.</s>
-          <s type="es" part="N">In every such case I wonder at<lb/> something being the case which I  <emph rend="us1">could</emph> conceive <emph rend="us1">not</emph> to be the case.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> wonder<lb/> at the size of this dog because I could conceive of a  dog of another, namely<lb/> the ordinary size, at which I should not  wonder.</s>
-          <s type="es" part="N">To say <seg type="q" part="N">“I wonder at such and<lb/> such being the  case<add rend="el_h" instant="false" status="unremarkable">”</add></seg> has only sense if I can imagine it not to be  the case.<lb/></s>
-          <s type="es" part="N">In this sense one can wonder at the existence of, say, a house when one  sees<lb/> it and has not visited it for a long time and has imagined that it  had been<lb/> pulled down in the meantime.</s>
-          <s type="es" part="N">But it is nonsense to say that I wonder at the<lb/> existence of the world,  because I cannot imagine it not existing.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> could of<lb/> course wonder at the world round me being as it  is.</s>
-          <s type="es" part="N">If for instance I had this<lb/> experience while looking into the blue sky,  I could wonder at the sky being<lb/> blue as opposed to the case when it's  clouded.</s>
-          <s type="es" part="N">But that's not what I mean.<lb/></s>
-          <s type="es" part="N"><c type="k" part="N">I</c> am wondering at the sky being <emph rend="us1">whatever it is.</emph></s>
-          <s type="es" part="N">One might be tempted to say<lb/> that what I am wondering at is a  t<del type="dnpc_h" instant="false" status="unremarkable"><corr type="npcn" instant="false"><gap extent="words_1" instant="false"/></corr></del><add rend="i_h" instant="false" status="unremarkable">au</add>tology, namely at the sky being  blue or<lb/> not blue.</s>
-          <s type="es" part="N">But then it's just nonsense to say that one is wondering at a<lb/>  t<del type="dn_h" instant="false" status="unremarkable">on</del><corr type="tran" instant="false">au</corr>tology.</s>
-          <s type="es" part="N">Now the same applies to the other experience which I have  men<lb rend="shyphen"/>tioned, the experience of absolute safety.</s>
-          <s type="es" part="N">We all know what it means in ordi<lb rend="shyphen"/>nary life to be safe.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> am safe in my room, when I cannot be run over by an<lb/>  omnibus.</s>
-          <s type="es" part="N"><c type="k" part="N">I</c> am safe <del type="dnpc" instant="false" status="unremarkable">when I</del> if I have had whooping cough and cannot  therefore<lb/> get it again.</s>
-          <s type="es" part="N">To be <add rend="im" instant="false" status="unremarkable">safe</add> essentially means that it is physically impossible  that<lb/> certain things should happen to me and therefore it's nonsense  to say that<lb/> I am safe <emph rend="us1">whatever</emph> happens.</s>
-          <s type="es" part="N">Again this is a misuse of the word <seg type="q" part="N">“safe”</seg> as  the<lb/> other example was a misuse of the word  <seg type="q" part="N">“existence”</seg> or  <seg type="q" part="N">“wondering”</seg>.</s>
-          <s type="es" part="N">Now I want<lb/> to impress on you that a certain characteristic misuse of  our language runs<lb/>  <pb facs="Ts-207_8" rend="recto" n="pagename_Ts-207,8 pageref_00"/><fw type="pagen" place="top left">8)</fw> through <emph rend="us1">all</emph> ethical and  religious expressions.</s>
-          <s type="es" part="N">All these expressions <emph rend="us1">seem</emph>,<lb/> <seg type="ct" part="N">prima facie</seg>, to be just  <emph rend="us1">similes</emph>.</s>
-          <s type="es" part="N">Thus it seems that when we are using the<lb/> word <emph rend="us1">right</emph> in an  ethical sense, although, what we mean, is not right in its<lb/> trivial sense,  it's something similar, and when we say <seg type="q" part="N">“this is a good<lb/>  fellow”</seg>, although the word  <seg type="q" part="N"><corr type="tra" instant="false">“</corr>good<corr type="tra" instant="false">”</corr></seg> here doesn't mean  what it means in the sen<lb rend="shyphen"/>tence <seg type="q" part="N">“this is a good football  player”</seg> there seems to be some similarity.<lb/></s>
-          <s type="es" part="N">And when we say <seg type="q" part="N">“this man's life was valuable”</seg>  we don't mean it in the same<lb/> sense in which we would speak of some  valuable jewelry but there seems to<lb/> be some sort of analogy.</s>
-          <s type="es" part="N">Now all religious terms seem in this sense to be<lb/> used as similes or  allegorically.</s>
-          <s type="es" part="N">For when we speak of God and that he  sees<lb/> everything and when we kneel and pray to him all our terms and  actions<lb/> seem to be parts of a great and elaborate allegory which  represents him as<lb/> a human being of great power whose grace we try to win  <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr></s>
-          <s type="es" part="N">But this<lb/> allegory also describes the experience which I have just  referred to.</s>
-          <s type="es" part="N">For,<lb/> the first of them is, I believe, exactly what people were  referring to when<lb/> they said that God had  created the world; and the experience of absolute<lb/> safety has been  described by saying that we feel safe in the hands of God.<lb/></s>
-          <s type="es" part="N">A third experience of the same kind is that of feeling guilty and again<lb/>  this was described by the phrase that God  disapproves of our conduct.</s>
-          <s type="es" part="N">Thus<lb/> in ethical and religious language we seem constantly to be using  similes.<lb/></s>
-          <s type="es" part="N">But a simile must be the simile for <emph rend="us1">something.</emph></s>
-          <s type="es" part="N">And if I can describe a fact<lb/> by means of a simile I must also be able  to drop the simile and to<lb/> describe the facts without it.</s>
-          <s type="es" part="N">Now in our case as soon as we try to drop<lb/> the simile and simply to  state the facts which stand behind it, we find,<lb/> that there are no such  facts.</s>
-          <s type="es" part="N">And so, what at first appeared to be a <del type="dnpc_h" instant="false" status="unremarkable"/><lb/> simile, now  seems to be mere nonsense. –</s>
+          <s type="es">Now let me consider these experiences, for, I believe,<lb/> they exhibit the  very characteristics we try to get clear about.</s>
+          <s type="es">And there<lb/>  <pb facs="Ts-207_7" rend="recto" n="pagename_Ts-207,7 pageref_00"/><fw type="pagen" place="top left">7)</fw> the first thing I have to say is, that  the verbal expression which we give<lb/> to these experiences is  nonsense!</s>
+          <s type="es">If I say <seg type="q">“I wonder at the existence of<lb/> the  world<add rend="el">”</add></seg> I am misusing language.</s>
+          <s type="es">Let me explain this: <c type="c">I</c>t has a perfectly<lb/> good and clear  sense to say that I wonder at something being the case, we<lb/> all understand  what it means to say that I wonder at the size of a dog which<lb/> is bigger  than anyone I have ever seen before or at any thing which, in the<lb/> common  sense of the word, is extraordinary.</s>
+          <s type="es">In every such case I wonder at<lb/> something being the case which I  <emph rend="us1">could</emph> conceive <emph rend="us1">not</emph> to be the case.</s>
+          <s type="es"><c type="k">I</c> wonder<lb/> at the size of this dog because I could conceive of a  dog of another, namely<lb/> the ordinary size, at which I should not  wonder.</s>
+          <s type="es">To say <seg type="q">“I wonder at such and<lb/> such being the  case<add rend="el_h">”</add></seg> has only sense if I can imagine it not to be  the case.<lb/></s>
+          <s type="es">In this sense one can wonder at the existence of, say, a house when one  sees<lb/> it and has not visited it for a long time and has imagined that it  had been<lb/> pulled down in the meantime.</s>
+          <s type="es">But it is nonsense to say that I wonder at the<lb/> existence of the world,  because I cannot imagine it not existing.</s>
+          <s type="es"><c type="k">I</c> could of<lb/> course wonder at the world round me being as it  is.</s>
+          <s type="es">If for instance I had this<lb/> experience while looking into the blue sky,  I could wonder at the sky being<lb/> blue as opposed to the case when it's  clouded.</s>
+          <s type="es">But that's not what I mean.<lb/></s>
+          <s type="es"><c type="k">I</c> am wondering at the sky being <emph rend="us1">whatever it is.</emph></s>
+          <s type="es">One might be tempted to say<lb/> that what I am wondering at is a  t<del type="dnpc_h"><corr type="npcn"><gap extent="words_1"/></corr></del><add rend="i_h">au</add>tology, namely at the sky being  blue or<lb/> not blue.</s>
+          <s type="es">But then it's just nonsense to say that one is wondering at a<lb/>  t<del type="dn_h">on</del><corr type="tran">au</corr>tology.</s>
+          <s type="es">Now the same applies to the other experience which I have  men<lb rend="shyphen"/>tioned, the experience of absolute safety.</s>
+          <s type="es">We all know what it means in ordi<lb rend="shyphen"/>nary life to be safe.</s>
+          <s type="es"><c type="k">I</c> am safe in my room, when I cannot be run over by an<lb/>  omnibus.</s>
+          <s type="es"><c type="k">I</c> am safe <del type="dnpc">when I</del> if I have had whooping cough and cannot  therefore<lb/> get it again.</s>
+          <s type="es">To be <add rend="im">safe</add> essentially means that it is physically impossible  that<lb/> certain things should happen to me and therefore it's nonsense  to say that<lb/> I am safe <emph rend="us1">whatever</emph> happens.</s>
+          <s type="es">Again this is a misuse of the word <seg type="q">“safe”</seg> as  the<lb/> other example was a misuse of the word  <seg type="q">“existence”</seg> or  <seg type="q">“wondering”</seg>.</s>
+          <s type="es">Now I want<lb/> to impress on you that a certain characteristic misuse of  our language runs<lb/>  <pb facs="Ts-207_8" rend="recto" n="pagename_Ts-207,8 pageref_00"/><fw type="pagen" place="top left">8)</fw> through <emph rend="us1">all</emph> ethical and  religious expressions.</s>
+          <s type="es">All these expressions <emph rend="us1">seem</emph>,<lb/> <seg type="ct">prima facie</seg>, to be just  <emph rend="us1">similes</emph>.</s>
+          <s type="es">Thus it seems that when we are using the<lb/> word <emph rend="us1">right</emph> in an  ethical sense, although, what we mean, is not right in its<lb/> trivial sense,  it's something similar, and when we say <seg type="q">“this is a good<lb/>  fellow”</seg>, although the word  <seg type="q"><corr type="tra">“</corr>good<corr type="tra">”</corr></seg> here doesn't mean  what it means in the sen<lb rend="shyphen"/>tence <seg type="q">“this is a good football  player”</seg> there seems to be some similarity.<lb/></s>
+          <s type="es">And when we say <seg type="q">“this man's life was valuable”</seg>  we don't mean it in the same<lb/> sense in which we would speak of some  valuable jewelry but there seems to<lb/> be some sort of analogy.</s>
+          <s type="es">Now all religious terms seem in this sense to be<lb/> used as similes or  allegorically.</s>
+          <s type="es">For when we speak of God and that he  sees<lb/> everything and when we kneel and pray to him all our terms and  actions<lb/> seem to be parts of a great and elaborate allegory which  represents him as<lb/> a human being of great power whose grace we try to win  <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr></s>
+          <s type="es">But this<lb/> allegory also describes the experience which I have just  referred to.</s>
+          <s type="es">For,<lb/> the first of them is, I believe, exactly what people were  referring to when<lb/> they said that God had  created the world; and the experience of absolute<lb/> safety has been  described by saying that we feel safe in the hands of God.<lb/></s>
+          <s type="es">A third experience of the same kind is that of feeling guilty and again<lb/>  this was described by the phrase that God  disapproves of our conduct.</s>
+          <s type="es">Thus<lb/> in ethical and religious language we seem constantly to be using  similes.<lb/></s>
+          <s type="es">But a simile must be the simile for <emph rend="us1">something.</emph></s>
+          <s type="es">And if I can describe a fact<lb/> by means of a simile I must also be able  to drop the simile and to<lb/> describe the facts without it.</s>
+          <s type="es">Now in our case as soon as we try to drop<lb/> the simile and simply to  state the facts which stand behind it, we find,<lb/> that there are no such  facts.</s>
+          <s type="es">And so, what at first appeared to be a <del type="dnpc_h"/><lb/> simile, now  seems to be mere nonsense. –</s>
         </seg>
-        <seg type="publ" part="N">
-          <s type="es" part="N">Now the three experiences which<lb/> I have mentioned to you (and I could  have added others) seem to those who<lb/> have experienced them, for  instance to me, to have in some sense an<lb/> intrinsic, absolute  value.</s>
-          <s type="es" part="N">But when I say they are experiences, surely,<lb/> they are facts; they have  taken place then and there, lasted a certain<lb/>  <pb facs="Ts-207_9" rend="recto" n="pagename_Ts-207,9 pageref_00"/><fw type="pagen" place="top left">9)</fw> definite time and consequently are  describable.</s>
-          <s type="es" part="N">And so from what I have<lb/> said some minutes ago I must admit it is  nonsense to say that they have<lb/> absolute value.</s>
-          <corr type="tra" instant="false">
-            <s type="es" part="N">And here I have arrived at the main point of this paper: it is the paradox that an experience, a fact should seem to have absolute value.</s>
+        <seg type="publ">
+          <s type="es">Now the three experiences which<lb/> I have mentioned to you (and I could  have added others) seem to those who<lb/> have experienced them, for  instance to me, to have in some sense an<lb/> intrinsic, absolute  value.</s>
+          <s type="es">But when I say they are experiences, surely,<lb/> they are facts; they have  taken place then and there, lasted a certain<lb/>  <pb facs="Ts-207_9" rend="recto" n="pagename_Ts-207,9 pageref_00"/><fw type="pagen" place="top left">9)</fw> definite time and consequently are  describable.</s>
+          <s type="es">And so from what I have<lb/> said some minutes ago I must admit it is  nonsense to say that they have<lb/> absolute value.</s>
+          <corr type="tra">
+            <s type="es">And here I have arrived at the main point of this paper: it is the paradox that an experience, a fact should seem to have absolute value.</s>
           </corr>
-          <note type="editor" anchored="true">Added from Ms-139b,15. The sentence seems to have been omitted when producing the typescript.</note>
-          <s type="es" part="N">And I will make my point still more acute by saying <seg type="q" part="N">“it is<lb/>  the paradox that an experience, a fact, should seem to have supernatural<lb/>  value<corr type="tra" instant="false">”</corr></seg>.</s>
-          <s type="es" part="N">Now there is a way in which I would be tempted to meet this  paradox.<lb/></s>
-          <s type="es" part="N">Let me first consider, again, our first experience of wondering at the<lb/>  existence of the world and let me describe it in a slightly different  way<choice type="o"><orig type="o1">;</orig><orig type="o2">:</orig></choice><lb/> <c type="c" part="N">W</c>e all know what in ordinary life would be  called a miracle.</s>
-          <s type="es" part="N">It obviously<lb/> is simply an event the like of which we <del type="dnpc" instant="false" status="unremarkable">never have  seen</del> <choice type="em"><orig type="em1">yet<add rend="i_h" instant="false" status="unremarkable"><seg type="edinst" part="N">3</seg></add>  never<add rend="i_h" instant="false" status="unremarkable"><seg type="edinst" part="N">2</seg></add> have<add rend="i_h" instant="false" status="unremarkable"><seg type="edinst" part="N">1</seg></add></orig><orig type="em2"><choice type="dsl_h"><orig type="alt1">yet never have</orig><orig type="alt2">have never yet</orig></choice></orig></choice> seen.<lb/></s>
-          <s type="es" part="N">Now suppose such an event happened.</s>
-          <s type="es" part="N">Take the case that one of you suddenly<lb/> grew a lion<corr type="tra" instant="false">'</corr>s head  and began to roar.</s>
-          <s type="es" part="N">Certainly that would be as extraordi<lb rend="shyphen"/>nary a thing as I can  imagine.</s>
-          <s type="es" part="N">Now whenever we should have recovered from<lb/> our surprise, what I would  suggest would be to fetch a doctor and have the<lb/> case scientifically  investigated and if it were not for hurting him I would<lb/> have him  vivisected.</s>
-          <s type="es" part="N">And where would the miracle have got to?</s>
-          <s type="es" part="N">For it is<lb/> clear that when we look at it in this way everything  miraculous has dis<lb rend="shyphen"/>appeared; unless what we mean by this term is  merely that a fact has not<lb/> yet been explained by science which again  means that we have hitherto<lb/> failed to group this fact with others in a  scientific system.</s>
-          <s type="es" part="N">This shows<lb/> that it is absurd to say <seg type="q" part="N">“science has proved  that there are no miracles”</seg>.</s>
+          <note type="editor">Added from Ms-139b,15. The sentence seems to have been omitted when producing the typescript.</note>
+          <s type="es">And I will make my point still more acute by saying <seg type="q">“it is<lb/>  the paradox that an experience, a fact, should seem to have supernatural<lb/>  value<corr type="tra">”</corr></seg>.</s>
+          <s type="es">Now there is a way in which I would be tempted to meet this  paradox.<lb/></s>
+          <s type="es">Let me first consider, again, our first experience of wondering at the<lb/>  existence of the world and let me describe it in a slightly different  way<choice type="o"><orig type="o1">;</orig><orig type="o2">:</orig></choice><lb/> <c type="c">W</c>e all know what in ordinary life would be  called a miracle.</s>
+          <s type="es">It obviously<lb/> is simply an event the like of which we <del type="dnpc">never have  seen</del> <choice type="em"><orig type="em1">yet<add rend="i_h"><seg type="edinst">3</seg></add>  never<add rend="i_h"><seg type="edinst">2</seg></add> have<add rend="i_h"><seg type="edinst">1</seg></add></orig><orig type="em2"><choice type="dsl_h"><orig type="alt1">yet never have</orig><orig type="alt2">have never yet</orig></choice></orig></choice> seen.<lb/></s>
+          <s type="es">Now suppose such an event happened.</s>
+          <s type="es">Take the case that one of you suddenly<lb/> grew a lion<corr type="tra">'</corr>s head  and began to roar.</s>
+          <s type="es">Certainly that would be as extraordi<lb rend="shyphen"/>nary a thing as I can  imagine.</s>
+          <s type="es">Now whenever we should have recovered from<lb/> our surprise, what I would  suggest would be to fetch a doctor and have the<lb/> case scientifically  investigated and if it were not for hurting him I would<lb/> have him  vivisected.</s>
+          <s type="es">And where would the miracle have got to?</s>
+          <s type="es">For it is<lb/> clear that when we look at it in this way everything  miraculous has dis<lb rend="shyphen"/>appeared; unless what we mean by this term is  merely that a fact has not<lb/> yet been explained by science which again  means that we have hitherto<lb/> failed to group this fact with others in a  scientific system.</s>
+          <s type="es">This shows<lb/> that it is absurd to say <seg type="q">“science has proved  that there are no miracles”</seg>.</s>
           <lb/>
-          <s type="es" part="N">The truth is that the scientific way of looking at a fact is not the  way<lb/> to look at it as a miracle.</s>
-          <s type="es" part="N">For imagine whatever fact you may, it is not in<lb/> itself miraculous in  the absolute sense of that term.</s>
-          <s type="es" part="N">For we see now that<lb/> we have been using the word  <seg type="q" part="N">“miracle”</seg> in a relative and an absolute  sense.<lb/></s>
-          <s type="es" part="N">And I will now describe the experience of wondering at the existence of  the<lb/> world by saying: it is the experience of seeing the world as a  miracle.<lb/></s>
-          <s type="es" part="N">Now I am tempted to say that the right expression in language for the<lb/>  miracle of the existence of the world, though it is not any proposition  <emph rend="us1">in</emph><lb/> language, is the existence of language itself.</s>
-          <s type="es" part="N">But what then does it mean<lb/>  <pb facs="Ts-207_10" rend="recto" n="pagename_Ts-207,10 pageref_00"/><fw type="pagen" place="top left">10)</fw> to be aware of this miracle at some  times and not at other times<choice type="o_h"><orig type="o1">.</orig><orig type="o2">?</orig></choice></s>
-          <s type="es" part="N">For all<lb/> I have said by shifting the expression of the miraculous from  an expression<lb/> <emph rend="us1">by means of</emph> language to the expression <emph rend="us1">by  the existence</emph> of language, all I<lb/> have said is again that we cannot  express what we want to express and that<lb/> all we <emph rend="us1">say</emph> about the  absolute miraculous remains nonsense. –</s>
-          <s type="es" part="N">Now the answer<lb/> to all this will seem perfectly clear to many of  you.</s>
-          <s type="es" part="N">You will say: <c type="c" part="N">W</c>ell,<lb/> if certain experiences constantly tempt  us to attribute a quality to them<lb/> which we call absolute or ethical value  and importance, this simply shows<lb/> that by these words we  <emph rend="us1">don't</emph> mean nonsense, that after all what we mean by<lb/> saying  that an experience has absolute value <emph rend="us1">is just a fact like other<lb/>  facts</emph> and that all it comes to is that we have not yet succeeded in  finding<lb/> the correct logical analysis of what we mean by our ethical and  religious<lb/> expressions. –</s>
-          <s type="es" part="N">Now when this is urged against me I at once see clearly,<lb/> as it were in  a flash of light, not only that no description that I can<lb/> think of would  do to describe what I mean by absolute value, but that I<lb/> would reject  every significant description that anybody could possibly<lb/> suggest,  <seg type="ct" part="N"><emph rend="us1">ab initio</emph></seg>, on the ground of its significance.</s>
-          <s type="es" part="N">That is to say: I see<lb/> now that these nonsensical expressions were  not nonsensical because I had<lb/> not yet found the correct expressions, but  that their nonsensicality was<lb/> their very essence.</s>
-          <s type="es" part="N">For all I wanted to do with them was just <emph rend="us1">to go beyond</emph><lb/> the  world and that is to say beyond significant language.</s>
-          <s type="es" part="N">My whole tendency<lb/> and I believe the tendency of all men who ever tried  to write or talk<lb/> <c type="c" part="N">E</c>thics or <c type="c" part="N">R</c>eligion was to run against the  boundaries of language.</s>
-          <s type="es" part="N">This<lb/> running against the walls of our cage is perfectly, absolutely  hopeless. – <lb/></s>
-          <s type="es" part="N">Ethics so far as it springs from the desire to say something about the<lb/>  ultimate meaning of life, the absolute good, the absolute valuable, can  be<lb/> no science.</s>
-          <s type="es" part="N">What it says does not add to our knowledge in any sense.</s>
-          <s type="es" part="N">But it<lb/> is a document of a tendency in the human mind which I personally  cannot help<lb/> respecting deeply and I would not for my life ridicule  it.</s>
+          <s type="es">The truth is that the scientific way of looking at a fact is not the  way<lb/> to look at it as a miracle.</s>
+          <s type="es">For imagine whatever fact you may, it is not in<lb/> itself miraculous in  the absolute sense of that term.</s>
+          <s type="es">For we see now that<lb/> we have been using the word  <seg type="q">“miracle”</seg> in a relative and an absolute  sense.<lb/></s>
+          <s type="es">And I will now describe the experience of wondering at the existence of  the<lb/> world by saying: it is the experience of seeing the world as a  miracle.<lb/></s>
+          <s type="es">Now I am tempted to say that the right expression in language for the<lb/>  miracle of the existence of the world, though it is not any proposition  <emph rend="us1">in</emph><lb/> language, is the existence of language itself.</s>
+          <s type="es">But what then does it mean<lb/>  <pb facs="Ts-207_10" rend="recto" n="pagename_Ts-207,10 pageref_00"/><fw type="pagen" place="top left">10)</fw> to be aware of this miracle at some  times and not at other times<choice type="o_h"><orig type="o1">.</orig><orig type="o2">?</orig></choice></s>
+          <s type="es">For all<lb/> I have said by shifting the expression of the miraculous from  an expression<lb/> <emph rend="us1">by means of</emph> language to the expression <emph rend="us1">by  the existence</emph> of language, all I<lb/> have said is again that we cannot  express what we want to express and that<lb/> all we <emph rend="us1">say</emph> about the  absolute miraculous remains nonsense. –</s>
+          <s type="es">Now the answer<lb/> to all this will seem perfectly clear to many of  you.</s>
+          <s type="es">You will say: <c type="c">W</c>ell,<lb/> if certain experiences constantly tempt  us to attribute a quality to them<lb/> which we call absolute or ethical value  and importance, this simply shows<lb/> that by these words we  <emph rend="us1">don't</emph> mean nonsense, that after all what we mean by<lb/> saying  that an experience has absolute value <emph rend="us1">is just a fact like other<lb/>  facts</emph> and that all it comes to is that we have not yet succeeded in  finding<lb/> the correct logical analysis of what we mean by our ethical and  religious<lb/> expressions. –</s>
+          <s type="es">Now when this is urged against me I at once see clearly,<lb/> as it were in  a flash of light, not only that no description that I can<lb/> think of would  do to describe what I mean by absolute value, but that I<lb/> would reject  every significant description that anybody could possibly<lb/> suggest,  <seg type="ct"><emph rend="us1">ab initio</emph></seg>, on the ground of its significance.</s>
+          <s type="es">That is to say: I see<lb/> now that these nonsensical expressions were  not nonsensical because I had<lb/> not yet found the correct expressions, but  that their nonsensicality was<lb/> their very essence.</s>
+          <s type="es">For all I wanted to do with them was just <emph rend="us1">to go beyond</emph><lb/> the  world and that is to say beyond significant language.</s>
+          <s type="es">My whole tendency<lb/> and I believe the tendency of all men who ever tried  to write or talk<lb/> <c type="c">E</c>thics or <c type="c">R</c>eligion was to run against the  boundaries of language.</s>
+          <s type="es">This<lb/> running against the walls of our cage is perfectly, absolutely  hopeless. – <lb/></s>
+          <s type="es">Ethics so far as it springs from the desire to say something about the<lb/>  ultimate meaning of life, the absolute good, the absolute valuable, can  be<lb/> no science.</s>
+          <s type="es">What it says does not add to our knowledge in any sense.</s>
+          <s type="es">But it<lb/> is a document of a tendency in the human mind which I personally  cannot help<lb/> respecting deeply and I would not for my life ridicule  it.</s>
         </seg>
       </ab>
     </body>
