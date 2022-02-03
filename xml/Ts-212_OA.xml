@@ -9,7 +9,7 @@
         <author>
           <persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>
         </author>
-        <editor><orgName ref="http://wab.uib.no/">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this transcription: <persName>Alois Pichler</persName>          <emph rend="centered"><emph rend="us2">!!!N.B: The transcription of Ts-212 is currently under revision!!!</emph></emph>      </editor>
+        <editor><orgName ref="http://wab.uib.no/">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this transcription: <persName>Alois Pichler</persName>                </editor>
         <funder>Trinity College, Cambridge; Oxford University Press, Oxford;  Uni Research, Bergen; University of Bergen, Bergen; L. Meltzers Høyskolefond, Bergen; COST Action A32, Brussels; eContent+ DISCOVERY, Luxembourg; ICT PSP DM2E,  Brussels</funder>
         <respStmt>
           <name>N.N., Heinz Wilhelm Krüger</name>
@@ -14602,9 +14602,9 @@
               <s type="es">Man könnte nun sagen: <c type="c">D</c>er, welcher die Bedeutung des Wortes  “blau” vergessen hat <add rend="i">&amp; aufgefordert wurde  einen blauen Gegenstand</add> <add rend="irm">aus anderen auszuwählen</add> fühlt beim  Ansehen <del type="dnpc">der</del> <del type="dn_h">verschiede</del> dieser Gegenstände daß die  Verbindung zwischen dem Wort „<add rend="our">b</add>lau” und jenen  Farben nicht mehr besteht (unterbro<lb rend="shyphen"/>chen ist).</s>
               <s type="es">Und die Verbindung wird wieder <choice type="s"><orig type="alt1">gemacht</orig><orig type="alt2"><add rend="i"><emph rend="uw1">hergestellt</emph></add></orig></choice>,    wenn wir ihm die Erklärung des Wortes  wiederholen.</s>
               <s type="es">Aber wir konnten die Verbindung auf man<lb rend="shyphen"/>nigfache Weise wieder  herstellen: <c type="c">W</c>ir konnten ihm einen blauen Gegenstand zeigen  <corr type="trs"><orig type="trs1">die</orig><reg type="trs2">und</reg></corr> die hinweisende Definition geben oder ihm  sagen     <pb facs="Ts-212_V-41-15r" n="pagename_Ts-212,V-41-15r pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_557-1"/> “erinnere Dich an Deinen ‘blauen  Fleck’” oder wir konnten ihm das Wort  “<seg xml:lang="en">blue</seg>” zu<lb rend="shyphen"/>flüstern, <abbr type="abb">etc.</abbr>  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
-              <s type="es">Und wenn ich sagte wir konnten die Verbindung auf diese verschiedenen  Arten herstellen, so liegt nun der Gedanke nahe, daß ich <emph rend="us1">ein</emph>  bestimmtes Phänomen, <add rend="im">welches ich die Verbindung zwischen Wort und Farbe,  oder das Verständnis des Wortes nenne</add>, auf alle diese  ver<lb rend="shyphen"/>schiedenen Arten hervorgerufen habe; wie ich etwa sage, daß ich  <del type="dnpc">zwei</del> <del type="dn"><corr type="npcn">En</corr></del> die En<lb rend="shyphen"/>den zweier Drähte durch  <choice type="em"><orig type="em1"><add rend="im">Draht</add> Stücke</orig><orig type="em2"><choice type="dsl"><orig type="alt1">Stücke</orig><orig type="alt2">Drahtstücke</orig></choice></orig></choice>  verschiedener Länge und Materialien leitend miteinander verbinden  kann.</s>
-              <s type="es">Aber von so einem Phänomen, etwa dem Entstehen eines blauen  Vorstellungsbildes, muß keine Rede sein und das Verständnis wird sich dann  dadurch zeigen, daß er etwa die blaue Kugel aus den andern tatsächlich  auswählt, oder sagt, er könne es nun tun, wol<lb rend="shyphen"/>le es aber nicht;  <abbr type="abb">etc.</abbr>, <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
-              <s type="es">Wir können dann immer ein Spiel fest<lb rend="shyphen"/>setzen, welches  <emph rend="space">eine</emph> Möglichkeit so eines Vorgangs darstellt, und müssen nicht  vergessen, daß in Wirklichkeit hundert verschiedene und ih<lb rend="shyphen"/>re  Kreuzungen mit den Worten “die Bedeutung vergessen”,  “sich an die Be<lb rend="shyphen"/>deutung erinnern”, “die  Bedeutung kennen” <emph rend="uw1">beschrieben</emph> werden.</s>
+              <s type="es">Und wenn ich sagte wir konnten die Verbindung auf diese verschiedenen  Arten herstellen, so liegt nun der Gedanke nahe, daß ich <emph rend="us1">ein</emph>  bestimmtes Phänomen <add rend="im">welches ich die Verbindung zwischen Wort und Farbe  oder das Verständnis des Wortes nenne</add> auf alle diese  ver<lb rend="shyphen"/>schiedenen Arten hervorgerufen habe, wie ich etwa sage daß ich  <del type="dnpc">zwei</del> <del type="dn"><corr type="npcn">En</corr></del> die En<lb rend="shyphen"/>den zweier Drähte durch  <choice type="em"><orig type="em1"><add rend="im">Draht</add> Stücke</orig><orig type="em2"><choice type="dsl"><orig type="alt1">Stücke</orig><orig type="alt2">Drahtstücke</orig></choice></orig></choice>  verschiedener Länge und Materialien leitend miteinander verbinden  kann.</s>
+              <s type="es">Aber von so einem Phänomen etwa dem Entstehen eines blauen  Vorstellungsbildes muß keine Rede sein und das Verständnis wird sich dann  dadurch zeigen daß er etwa die blaue Kugel aus den andern tatsächlich  auswählt oder sagt er könne es nun tun wol<lb rend="shyphen"/>le es aber nicht;  <abbr type="abb">etc.</abbr>, <abbr type="abb">etc.</abbr> <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
+              <s type="es">Wir können dann immer ein Spiel fest<lb rend="shyphen"/>setzen welches  <emph rend="space">eine</emph> Möglichkeit so eines Vorgangs darstellt und müssen nicht  vergessen daß in Wirklichkeit hundert verschiedene und ih<lb rend="shyphen"/>re  Kreuzungen mit den Worten “die Bedeutung vergessen”,  “sich an die Be<lb rend="shyphen"/>deutung erinnern”, “die  Bedeutung kennen” <emph rend="uw1">beschrieben</emph> werden.</s>
             </add>
             <emph rend="bl_1"/>
           </ab>
@@ -14660,7 +14660,7 @@
             </fw>
             <seg type="212series-number-indent_h">78  3</seg>
             <seg type="wabmarks-secmr_h">/ </seg>
-            <s type="es" rend="indl_12">Wenn ich eine Erfahrung mit den Worten beschreibe “vor mir steht  ein blauer Kessel”, ist die Rechtfertigung dieser Worte,  au<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>er der Erfahrung die in den Worten beschrieben  wird, noch eine andere, etwa die Erinne<lb rend="shyphen"/>rung,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich das Wort ‘blau’ immer für  diese Farbe verwendet habe, <abbr type="abb">etc.</abbr>?</s>
+            <s type="es" rend="indl_12">Wenn ich eine Erfahrung mit den Worten beschreibe “vor mir steht  ein blauer Kessel”, ist die Rechtfertigung dieser Worte,  au<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>er der Erfahrung, die in den Worten beschrieben  wird, noch eine andere, etwa die Erinne<lb rend="shyphen"/>rung,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich das Wort ‘blau’ immer für  diese Farbe verwendet habe, <abbr type="abb">etc.</abbr>?</s>
             <emph rend="bl_1"/>
           </ab>
           <ab xml:id="Ts-212_V-42-3v.1" n="tekst mangler i gammel transkripsjon" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -14708,7 +14708,7 @@
             <add rend="ilom_h">
               <seg type="edcom">⋎</seg>
             </add>
-            <s type="es" rend="indl_12">Ich kann gewi<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> sagen: “<c type="c">T</c>u  jetzt, was Du, Deiner Erinnerung nach, gestern um diese Zeit getan  hast”.</s>
+            <s type="es" rend="indl_12">Ich kann gewi<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> sagen: “<c type="c">T</c>u  jetzt, was Du Deiner Erinnerung nach, gestern um diese Zeit getan  hast”.</s>
             <s type="es">Und wenn er sich daran erinnert, kann er seiner Erinnerung folgen.  <c type="c">E</c>rinnert er sich aber nicht, so hat der Befehl keinen Sinn für  ihn.</s>
           </ab>
           <ab xml:id="Ts-212_V-42-5.2" n="Ts-212,555[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -14716,8 +14716,8 @@
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_12">Wäre dieser Befehl also wie der: “<c type="c">T</c>u, was auf dem  Zettel in dieser <add rend="el_h">Lade <add rend="imw">aufgeschrieben</add>  steht”.</add></s>
             <add rend="el_h">
-              <s type="es">Wenn in der Lade kein Zettel ist, so ist das kein Befehl.</s>
-              <s type="es">(Oder denken wir uns, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> auf dem Zettel eine  <choice type="s"><orig type="alt1">unsinnige</orig><orig type="alt2">sinnlose</orig></choice> Wort<lb rend="shyphen"/>verbindung steht.</s>
+              <s type="es">Wenn in der Lade kein Zettel ist so ist das kein Befehl.</s>
+              <s type="es">Oder denken wir uns da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> auf dem Zettel eine  <choice type="s"><orig type="alt1">unsinnige</orig><orig type="alt2">sinnlose</orig></choice> Wort<lb rend="shyphen"/>verbindung steht.</s>
             </add>
           </ab>
           <ab xml:id="Ts-212_V-42-6.1" n="Ts-212,556[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -14727,7 +14727,7 @@
             </fw>
             <seg type="212series-number-indent_h">70a (78)  6</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
-            <s type="es">Wenn ich jemandem sage “male das Grün Deiner Zimmertür nach dem  Gedächtnis, so bestimmt das, was er zu tun hat, nicht eindeutiger, als der  Befehl “male das Grün, das Du auf dieser Tafel  siehst”.</s>
+            <s type="es">Wenn ich jemandem sage “male das Grün Deiner Zimmertür nach dem  Gedächtnis, so bestimmt das, was er zu tun hat, nicht eindeutiger, als der  Befehl “male das Grün, was Du auf dieser Tafel  siehst”.</s>
           </ab>
           <ab xml:id="Ts-212_V-42-7.1etV-42-8.1" n="Ts-212,557[1]et558[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_V-42-7" n="pagename_Ts-212,V-42-7 pageref_00"/>
@@ -14736,7 +14736,7 @@
             </fw>
             <seg type="212series-number-indent_h">70a (78)  7</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
-            <s type="es">Wenn es bei der Bedeutung des Wortes “rot” auf das Bild  ankommt,       <pb facs="Ts-212_V-42-8" n="pagename_Ts-212,V-42-8 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_560-4">287</fw> das mein Gedächtnis beim Klang dieses  Wortes automatisch reproduziert, so mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich mich auf  diese Reproduktion gerade so verlassen, als wäre ich  <choice type="dsl"><orig type="alt1"><del type="d_h">determiniert</del></orig><orig type="alt2"><add rend="i_h">entschlossen</add></orig></choice>, die  Bedeutung durch nachschlagen in einem Buche, zu bestimmen, wobei ich mich  diesem Buche<add rend="im_h">, dem Täfelchen das ich darin fände,</add> quasi auf Gnade  und Ungnade ergeben würde.</s>
+            <s type="es">Wenn es bei der Bedeutung des Wortes “rot” auf das Bild  ankommt,       <pb facs="Ts-212_V-42-8" n="pagename_Ts-212,V-42-8 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_560-4">287</fw> das mein Gedächtnis beim Klang dieses  Wortes automatisch reproduziert, so mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich mich auf  diese Reproduktion gerade so verlassen, als wäre ich  <choice type="dsl"><orig type="alt1"><del type="d_h">determiniert</del></orig><orig type="alt2"><add rend="i_h">entschlossen</add></orig></choice>, die  Bedeutung durch nachschlagen in einem Buche zu bestimmen, wobei ich mich  diesem Buche<add rend="im_h">, dem Täfelchen das ich darin fände,</add> quasi auf Gnade  und Ungnade ergeben würde.</s>
           </ab>
           <ab xml:id="Ts-212_V-42-9.1" n="Ts-212,559[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_V-42-9" n="pagename_Ts-212,V-42-9 pageref_00"/>
@@ -14755,7 +14755,7 @@
             <seg type="212series-number-indent_h">79a <del type="d">78</del> (78) (24) 70a</seg>
             <seg type="212series-number-indent_h">3</seg>
             <seg type="wabmarks-secmr_h">\ / </seg>
-            <s type="es">Freilich kann man sagen: das rote Täfelchen ist in Wirklichkeit auch nicht  maßgebend, weil das Gedächtnis als Kontrolle des Täfelchens verwendet  wird.</s>
+            <s type="es">Freilich kann man sagen: das rote Täfelchen ist in Wirklichkeit auch nicht   maßgebend, weil das Gedächtnis <add rend="i_h">immer</add> als Kontrolle des Täfelchens verwendet  wird.</s>
           </ab>
           <ab xml:id="Ts-212_V-42-11.1" n="Ts-212,561[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_V-42-11" n="pagename_Ts-212,V-42-11 pageref_00"/>
@@ -14777,7 +14777,7 @@
             <seg type="212series-number-indent_h">78 (79a) (27) 70a  3</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_12">Könnte ich behaupten, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> mein Gedächtnis immer  etwas nachdunkle?</s>
-            <s type="es" rend="indl_12">Jedenfalls könnte ich sagen: “wähle die Farbe, die Du im  Gedächt<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">nis</corr>      <pb facs="Ts-212_V-42-13" n="pagename_Ts-212,V-42-13 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_561-5">299</fw><corr type="npcn-pb">nis</corr> hast” und auch  “wähle eine etwas dunklere Farbe, als die die Du im Gedächtnis  hast.”</s>
+            <s type="es" rend="indl_12">Jedenfalls könnte ich sagen: “wähle die Farbe, die Du im  Gedächt<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">nis</corr>      <pb facs="Ts-212_V-42-13" n="pagename_Ts-212,V-42-13 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_561-5">299</fw><corr type="npcn-pb">nis</corr> hast” und auch  “wähle eine etwas dunklere Farbe, als die Du im Gedächtnis  hast.”</s>
             <s type="es">Von einem Nachdunkeln kann man natürlich <add rend="i"><emph rend="us1_h">nur</emph></add> im  Vergleich zu <choice type="s"><orig type="alt1">Etwas</orig><orig type="alt2"><seg type="edinst"> // </seg>etwas andrem<seg type="edinst"> // </seg></orig></choice>  sprechen und es genügt nicht, zu sagen “nun, mit der Farbe, wie sie  wirklich war”, weil hier die besondere Art der Verifikation,  <abbr type="abb">d.h.</abbr>, die (<emph rend="usb">besondere</emph>)  Grammatik der Worte “wie sie war” noch nicht  festge<lb rend="shyphen"/>legt ist, diese Worte (<emph rend="usb">also</emph>) noch  mehrdeutig sind.</s>
           </ab>
           <ab xml:id="Ts-212_V-42-14.1" n="Ts-212,564[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -14787,7 +14787,7 @@
             </fw>
             <seg type="212series-number-indent_h">70a  2</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
-            <s type="es" rend="indl_12">Mit einem Draht nach einem Kurzschlu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> suchen:  er ist gefunden, wenn es läutet.</s>
+            <s type="es" rend="indl_12">Mit einem Draht nach einem Kurzschlu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> suchen;  er ist gefunden, wenn es läutet.</s>
             <s type="es">Aber suche ich dabei auch nach etwas, was der Idee des Klingelns gleich  ist? <del type="d_h"><abbr type="abb">u.s.w.</abbr></del>,  <abbr type="abb">u.s.w.</abbr><corr type="npc">.</corr></s>
           </ab>
           <ab xml:id="Ts-212_V-42-15.1" n="Ts-212,565[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -14932,7 +14932,7 @@
             <seg type="wabmarks-secml_h"/>
             <pb facs="Ts-212_V-42-26" n="pagename_Ts-212,V-42-26 pageref_00"/>
             <fw type="fragpagen" place="top middle" n="oldref_567-1">514</fw>
-            <seg type="212series-number-indent_h">97a, 87  1</seg>
+            <seg type="212series-number-indent_h">79a, 87  1</seg>
             <s type="es" rend="indl_12">Die Kette der Gründe kommt zu einem Ende <choice type="s"><orig type="alt1"><choice type="dsf"><orig type="alt1">und zwar dem Ende in  diesem Spiel</orig><orig type="alt2"><del type="d_h"><seg type="edinst"> // </seg> und zwar dem Ende des Spiels <seg type="edinst"> // </seg></del></orig></choice></orig><orig type="alt2"><seg type="edinst"> // </seg>und zwar  (an<seg type="edcom"><corr type="tra">˓</corr><add rend="i">﹖</add><corr type="tra">˒</corr></seg>)  der Grenze des  Spiels<seg type="notation" subtype="logic_symbolic name" rend="literal"><add rend="i">✢</add></seg><del type="d_h"><seg type="edinst"> // </seg></del></orig></choice>.  <seg type="edinst"> // </seg></s>
             <emph rend="bl_1"/>
           </ab>
@@ -14988,10 +14988,10 @@
             <seg type="212series-number-indent_h">8a</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_12">Es ist wohl auch Unsinn zu sagen, die  <corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2">Ü</reg></corr>bereinstimmung (<choice type="dsl"><orig type="alt1"><del type="d_h">oder</del></orig><orig type="alt2"><add rend="i_h">und</add></orig></choice> Nichtüber<lb rend="shyphen"/>einstimmung) zwischen Satz und  <choice type="s"><orig type="alt1">Welt</orig><orig type="alt2"><seg type="edinst"> // </seg>Realität<seg type="edinst"> // </seg></orig></choice> sei willkürlich durch   eine Zuordnung<corr type="trs"><orig type="trs1">/</orig><reg type="trs2"> </reg></corr><emph rend="usb">geschaffen</emph>.</s>
-            <s type="es">Denn, wie ist die Zuordnung auszudrücken?</s>
+            <s type="es">Denn, wie ist diese Zuordnung auszudrücken?</s>
             <s type="es">Sie besteht darin, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> der Satz  “<seg type="notation" subtype="logic_symbolic name" rend="literal">p</seg>” sagt, es sei <emph rend="space">gerade das</emph> der  Fall.</s>
             <s type="es">Aber wie ist dieses “gerade das” <choice type="s"><orig type="alt1">ausgedrückt</orig><orig type="alt2"><seg type="edinst"> // </seg> gegeben<seg type="edinst"> // </seg></orig></choice>?</s>
-            <s type="es">Wenn durch einen andern Satz, so gewinnen wir nichts dabei; wenn aber  durch die Realität, dann mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> <emph rend="usb">diese</emph> schon in  bestimmter Weise – artikuliert –  aufge<lb rend="shyphen"/>fa<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t sein.</s>
+            <s type="es">Wenn durch einen andern Satz so gewinnen wir nichts dabei; wenn aber  durch die Realität, dann mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> <emph rend="usb">diese</emph> schon in  bestimmter Weise – artikuliert –  aufge<lb rend="shyphen"/>fa<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t sein.</s>
             <s type="es">Das hei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t: man kann nicht auf einen Satz und  auf eine Realität deuten und sagen: “<emph rend="space">das</emph>  entspricht <emph rend="space">dem</emph>”.</s>
             <s type="es">Sondern, dem Satz ent<lb rend="shyphen"/>spricht nur wieder das schon  Artikulierte.</s>
             <add rend="el_h">
@@ -15026,7 +15026,7 @@
             <s type="es" rend="indl_12">Wenn ich die Beschreibung nach Regeln bilde, was auch möglich ist, dann  übersetze ich sie als eine Sprache aus einer anderen.</s>
             <s type="es">Und das kann ich na<lb rend="shyphen"/>türlich mit Grammatik und Wörterbuch tun und so  rechtfertigen. –</s>
             <emph rend="wlilm_h">
-              <s type="es">Aber dann ist die <corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2">Ü</reg></corr>bertragung von Artikuliertem in  Artikuliertes.</s>
+              <s type="es">Aber dann ist die <corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2">Ü</reg></corr>bertragung vom Artikuliertem in  Artikuliertes.</s>
             </emph>
             <s type="es">Und wenn ich sie durch Berufung auf die Grammatik und das Wörterbuch  rechtfertige, so tue ich nichts, als eine Beziehung zwischen Wirklichkeit  und Beschreibung (eine projektive Beziehung) festzustellen, von der  Intention aber, meiner Be<lb rend="shyphen"/>schreibung ist hiebei keine Rede.</s>
             <s type="es">(<abbr type="abb">D.h.</abbr>, ich kann eben nur die  <corr type="tstrsn"><orig type="tstrsn1">Ae</orig><reg type="tstrsn2">Ä</reg></corr>hnlichkeit des Bildes prüfen, nichts  weiter.)</s>
@@ -15076,7 +15076,7 @@
             <seg type="212series-number-indent_h">2  6</seg>
             <seg type="wabmarks-secmr_h">✓ </seg>
             <s type="es" rend="indl_12">Aber was geht vor sich, wenn ich den Hahn aufdrehe, <emph rend="space">damit</emph>  Wasser herausflie<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t?</s>
-            <s type="es">Was geschieht, ist, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich den Hahn aufdrehe, und  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> dann Wasser herauskommt, oder nicht.</s>
+            <s type="es">Was geschieht ist, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich den Hahn aufdrehe, und  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> dann Wasser herauskommt, oder nicht.</s>
             <s type="es">Was geschieht, ist also, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich den Hahn  aufdrehe. –       <pb facs="Ts-212_V-44-3" n="pagename_Ts-212,V-44-3 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_572-3">125</fw> <del type="dnpc">ich den Hahn aufdrehe.  –</del></s>
             <s type="es">Was auf das Wort “damit” folgt, die Absicht, ist darin  nicht enthalten.</s>
             <s type="es">Ist sie vorhanden, so mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> sie ausgedrückt sein und  sie kann nur dann be<lb rend="shyphen"/>reits durch das Aufdrehen des Hahnes ausgedrückt  sein, wenn <choice type="dsl"><orig type="alt1"><del type="d">es</del></orig><orig type="alt2"><add rend="i">das</add></orig></choice> Teil ei<lb rend="shyphen"/>ner Sprache  ist.</s>
@@ -15158,7 +15158,7 @@
             <emph rend="bl_1"/>
           </ab>
           <ab xml:id="Ts-212_V-44-8.2etV-44-9.1" n="Ts-212,589[2]et590[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
-            <seg type="212series-number-indent_h">77b, 66  3</seg>
+            <seg type="212series-number-indent_h">77b, 76  3</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_12">Die grammatischen Regeln sind, wie sie nun einmal da sind, Regeln des  Gebrauchs der Wörter.</s>
             <s type="es"><corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2"><c type="c">Ü</c></reg></corr>bertreten wir sie, so können wir deswegen die  Wör<lb rend="shyphen"/>ter dennoch mit Sinn gebrauchen.</s>
@@ -15188,7 +15188,7 @@
             <seg type="212series-number-indent_h">60a (18)  5</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_12">Wie unterscheiden sich <del type="d_h">dann</del> die Sprachregeln von denen des  <choice type="em"><orig type="em1"><del type="d_h">Benehmens? [</del>Anstandes?<del type="d_h">]</del></orig><orig type="em2"><choice type="dsl"><orig type="alt1">Benehmens? [Anstandes?]</orig><orig type="alt2">Anstandes?</orig></choice></orig></choice></s>
-            <s type="es" rend="indl_12">Wenn man kein <del type="d_h"><add rend="im"><unclear>richtiges</unclear></add></del> Ziel angeben kann, das  nicht erreicht würde, wenn diese Regeln anders wären.</s>
+            <s type="es" rend="indl_12">Wenn man kein <del type="d_h"><add rend="im"><unclear>wichtiges</unclear></add></del> Ziel angeben kann, das  nicht erreicht würde, wenn diese Regeln anders wären.</s>
           </ab>
           <ab xml:id="Ts-212_V-44-12.1" n="Ts-212,593[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_V-44-12" n="pagename_Ts-212,V-44-12 pageref_00"/>
@@ -15225,7 +15225,6 @@
             <fw type="fragpagen" place="top middle" n="oldref_576-2">232</fw>
             <s type="es">Oder, nicht trösten.</s>
             <s type="es">Oder: nicht ohne eine Sprache Häuser und Maschinen bauen.</s>
-            <s type="es" rend="indl_12">Ohne Sprache könnten wir die Menschen nicht bewegen unseren Willen zu  tun.</s>
             <emph rend="bl_1"/>
           </ab>
           <ab xml:id="Ts-212_V-44-14.2" n="Ts-212,595[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -15240,9 +15239,9 @@
             </fw>
             <seg type="212series-number-indent_h"><del type="d">(</del>60a<del type="d">)</del> 39a  5</seg>
             <seg type="wabmarks-secmr_h">✓ ? </seg>
-            <s type="es" rend="indl_12">Die Worte, die Einer bei gewisser Gelegenheit sagt, sind insofern  <emph rend="wlirm">nicht willkürlich, als gerade <emph rend="space">diese</emph> in der Sprache, die  er sprechen will (oder mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>) das meinen, was er  sagen will; <abbr type="abb">d.h.</abbr>, als gerade für sie diese  grammatischen Regeln gelten.</emph></s>
+            <s type="es" rend="indl_12">Die Worte, die einer bei gewisser Gelegenheit sagt, sind insofern  <emph rend="wlirm">nicht willkürlich, als gerade <emph rend="space">diese</emph> in der Sprache, die  er sprechen will (oder mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>) das meinen, was er  sagen will; <abbr type="abb">d.h.</abbr>, als gerade für sie diese  grammatischen Regeln gelten.</emph></s>
             <s type="es">
-              <emph rend="wlirm">Was er aber meint, <abbr type="abb">d.h.</abbr> <choice type="dsl"><orig type="alt1"><del type="d_h">die  grammatischen Regeln sind in sofern nicht willkürlich</del></orig><orig type="alt2"><add rend="i_h">das  grammatische Spiel, das er spielt, ist insofern nicht willkürlich,   …</add></orig></choice> als er <add rend="im_h">etwa</add> <choice type="dsl"><orig type="alt1"><del type="d_h"><emph rend="uw1_c">einen  bestimmten</emph></del></orig><orig type="alt2"><add rend="i_h">seinen</add></orig></choice> Zweck nur so glaubt  erreichen zu können.</emph>
+              <emph rend="wlirm">Was er aber meint, <abbr type="abb">d.h.</abbr> <choice type="dsl"><orig type="alt1"><del type="d_h">die  grammatischen Regeln sind in sofern nicht willkürlich</del></orig><orig type="alt2"><add rend="i_h">das  grammatische Spiel, das er spielt ist insofern nicht willkürlich,   …</add></orig></choice> als er <add rend="im_h">etwa</add> <choice type="dsl"><orig type="alt1"><del type="d_h"><emph rend="uw1_c">einen  bestimmten</emph></del></orig><orig type="alt2"><add rend="i_h">seinen</add></orig></choice> Zweck nur so glaubt  erreichen zu können.</emph>
             </s>
             <pb facs="Ts-212_V-44BCv" n="pagename_Ts-212,V-44BCv pageref_00"/>
           </ab>
@@ -15271,7 +15270,7 @@
             <s type="es" rend="indl_12">Wie, wenn eine Sprache aus lauter einfachen und unabhängigen Signalen  bestünde?!</s>
             <s type="es">Denken wir uns diesen Fall: <c type="c">E</c>s handle sich etwa um die  Beschrei<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">bung</corr>      <pb facs="Ts-212_V-45-2" n="pagename_Ts-212,V-45-2 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_578-2">259</fw><corr type="npcn-pb">bung</corr> <seg type="212series-number-indent_h">77b</seg> einer Fläche, auf  der in schwarz und wei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> sich allerlei Figu<lb rend="shyphen"/>ren  zeigen können.</s>
             <s type="es">Wäre es nun möglich, alle möglichen Figuren durch un<lb rend="shyphen"/>abhängige  Symbole zu <choice type="s"><orig type="alt1">bezeichnen</orig><orig type="alt2"><seg type="edinst"> // </seg><emph rend="usb">kennzeichnen</emph><seg type="edinst"> // </seg></orig></choice>?</s>
-            <s type="es">(Ich nehme dabei an, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich nur über, sagen wir  10000 Figuren reden will.)</s>
+            <s type="es">(Ich nehme dabei an, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich nur über, sagen wir,  10000 Figuren reden will.)</s>
             <s type="es">Wenn ich Recht ha<lb rend="shyphen"/>be, so mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> die ganze  Geometrie in den Regeln über die Verwendung dieser 10000 Signale  wiederkehren.</s>
             <s type="es">(Und zwar ebenso, wie die Arithmetik, wenn wir statt 10 unabhängiger  Zahlzeichen eine Billion verwendeten.)</s>
             <emph rend="bl_1"/>
@@ -15325,7 +15324,7 @@
               </add>
             </seg>
             <add rend="el_h">
-              <s type="es">Denken wir, ich zeichne einen Sitzplan <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/212-600.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap">         m212015</seg>,   ist ein Kreuzchen das Bild eines Menschen oder  nicht? –</s>
+              <s type="es">Denken wir ich zeichne einen Sitzplan <seg type="notation" corresp="http://wab.uib.no/cost-a32_fax/bmp/212-600.BMP" subtype="graphics_Vierecke; Quadrat" rend="bitmap">         m212015</seg>,   ist ein Kreuzchen das Bild eines Menschen oder  nicht? –</s>
             </add>
             <emph rend="bl_1"/>
           </ab>
@@ -15337,7 +15336,7 @@
                 <s type="es">(<c type="k">A</c>bsatz)</s>
               </seg>
             </add>
-            <s type="es" rend="indl_12">Wie kann ich denn kontrollieren, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> es immer  dasselbe ist, was ich ‘<seg type="notation" subtype="logic_symbolic name" rend="literal">A</seg>’ nenne.</s>
+            <s type="es" rend="indl_12">Wie kann ich denn kontrollieren, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> es immer  dasselbe ist was ich ‘<seg type="notation" subtype="logic_symbolic name" rend="literal">A</seg>’ nenne.</s>
             <s type="es">Es sei denn, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich etwa ein Erinnerungsbild  zuziehe.</s>
             <s type="es">Das aber dann zum Zeichen gehört.</s>
             <emph rend="bl_1"/>
@@ -15387,7 +15386,7 @@
           <ab xml:id="Ts-212_V-45-5.3" n="Ts-212,602[3]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <seg type="212series-number-indent_h">77b  5</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
-            <s type="es" rend="indl_12">Ich mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>, auch wenn <add rend="imw_h"/> ich zu mir rede,  schon auf einem <choice type="s"><orig type="alt1">bestehenden</orig><orig type="alt2"><emph rend="usb">gegebe<lb rend="shyphen"/>nen</emph></orig></choice>  Sprachklavier spielen.</s>
+            <s type="es" rend="indl_12">Ich mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>, wenn <add rend="imw_h"/> ich zu mir rede,  schon auf einem <choice type="s"><orig type="alt1">bestehenden</orig><orig type="alt2"><emph rend="usb">gegebe<lb rend="shyphen"/>nen</emph></orig></choice>  Sprachklavier spielen.</s>
             <emph rend="bl_1"/>
           </ab>
           <ab xml:id="Ts-212_V-45-6.1etV-45-7.1" n="Ts-212,603[1]et604[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -15442,7 +15441,7 @@
                 <s type="es">(Wie Farben &amp; <unclear>Striche</unclear>)</s>
               </del>
             </add>
-            <s type="es" rend="indl_12">Aber die Worte, wenn sie nicht in einem grammatischen System stehen, sind  ja alle gleichwertig und also wäre es dann ganz gleichgültig, welche ich  wählte, ja, – man könnte sagen – als Worte würden sie sich  (<emph rend="usb">dann</emph>) voneinander gar nicht  unterscheiden.</s>
+            <s type="es" rend="indl_12">Aber die Worte, wenn sie nicht in einem grammatischen System stehen, sind  ja alle gleichwertig und also wäre es dann ganz gleichgültig, welche ich  wählte, ja – man könnte sagen – als Worte würden sie sich  (<emph rend="usb">dann</emph>) voneinander gar nicht  unterscheiden.</s>
             <s type="es" rend="indl_12">Man mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> die Worte wählen, <choice type="s"><orig type="alt1">wie</orig><orig type="alt2"><seg type="edinst"> // </seg>  in demselben Sinne wie<seg type="edinst"> // </seg></orig></choice> man die Striche <add rend="im_h">&amp;  Farben</add> wählt, mit denen man einen Körper abbildet.</s>
           </ab>
           <ab xml:id="Ts-212_V-45-10.1" n="Ts-212,607[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -15454,7 +15453,7 @@
             <seg type="wabmarks-secmr_h">\ </seg>
             <add rend="i_h">
               <s type="es" rend="indl_12">
-                <seg n="Ts-212,607[1]_Ts-212,606[1]" type="int-ref" ana="intRef,Ts-212#2">Zu [wählen der Worte, um zu porträtieren]</seg>
+                <seg n="Ts-212,607[1]_Ts-212,606[1]" type="int-ref" ana="intRef,Ts-212#2">Zu [wählen der Worte um zu porträtieren]</seg>
               </s>
             </add>
             <s type="es" rend="indl_12">Warum wir ein Wort – und nicht ein anderes – an dieser Stelle  gebrauchen, erfahren wir, wenn wir jemand fragen: warum gebrauchst Du  hier das Wort <seg type="notation" subtype="logic_symbolic name" rend="literal">A</seg>.</s>
@@ -15477,7 +15476,7 @@
           <ab xml:id="Ts-212_V-45-11.2" n="Ts-212,608[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <seg type="wabmarks-secml_h"/>
             <seg type="212series-number-indent_h">7a  2</seg>
-            <s type="es" rend="indl_12">Fehlt <choice type="s"><orig type="alt1">dieser Satz</orig><orig type="alt2"><seg type="edinst"> // </seg>diese Regel<seg type="edinst"> // </seg></orig></choice>, so  ist die Grammatik des Worts (seine Bedeutung) eine andere.</s>
+            <s type="es" rend="indl_12">Fehlt <choice type="s"><orig type="alt1">dieser Satz</orig><orig type="alt2"><seg type="edinst"> // </seg>diese Regel<seg type="edinst"> // </seg></orig></choice> so  ist die Grammatik des Worts (seine Bedeutung) eine andere.</s>
           </ab>
           <ab xml:id="Ts-212_V-45-12.1" n="Ts-212,609[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_V-45-12" n="pagename_Ts-212,V-45-12 pageref_00"/>
@@ -15525,7 +15524,7 @@
             <seg type="wabmarks-secmr_h">\ / </seg>
             <s type="es" rend="indl_12">Ich halte meine Wange, und jemand fragt, warum ich es tue und ich  ant<lb rend="shyphen"/>worte: “Zahnschmerzen”.</s>
             <s type="es">Das hei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t offenbar dasselbe, wie “ich habe  Zahn<lb rend="shyphen"/>schmerzen”, aber weder stelle ich mir die fehlenden  Worte im Geiste vor, noch gehen sie mir im Sinn irgendwie ab.</s>
-            <s type="es">“Daher ist es auch möglich, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich die  Worte “ich habe Zahnschmerzen” <emph rend="uw1_h">in <emph rend="space">dem</emph>  Sinne</emph> ausspreche, als sagte ich nur das letzte Wort oder, als wären  die drei nur <emph rend="space">ein</emph> Wort.”</s>
+            <s type="es">Daher ist es auch möglich, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich die  Worte “ich habe Zahnschmerzen” <emph rend="uw1_h">in <emph rend="space">dem</emph>  Sinne</emph> ausspreche, als sagte ich nur das letzte Wort oder, als wären  die drei nur <emph rend="space">ein</emph> Wort.</s>
             <emph rend="indl_12"/>
             <add rend="el_h">
               <s type="es">(El<corr type="tran">l</corr>iptischer Satz.</s>
@@ -15539,8 +15538,8 @@
               <add rend="i_h">594</add>
             </fw>
             <seg type="212series-number-indent_h">48b, 77  2</seg>
-            <s type="es" rend="indl_12">Ein einfaches Sprachspiel ist <abbr type="abb">z.B.</abbr> dieses:  <c type="c">M</c>an spricht zu einem Kind (es kann aber auch ein Erwachsener  sein), indem man das elektrische Licht in einem Raum andreht:  “<c type="c">L</c>icht”, dann, indem man es abdreht:  “<c type="c">F</c>inster”; und tut das etwa mehrere Male mit  Betonung und <emph rend="usb">variierenden Zeitlängen</emph>.</s>
-            <s type="es">Dann geht man etwa in das Nebenzimmer, dreht von dort aus das Licht im  ersten an und bringt das Kind dazu, <choice type="s"><orig type="alt1">da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> es  mitteilt, ob es licht oder finster ist.</orig><orig type="alt2"><seg type="edinst"> // </seg>  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> es mitteilt:  “<c type="c">L</c>icht”, oder  “<c type="c">F</c>inster”.<seg type="edinst"> // </seg></orig></choice></s>
+            <s type="es" rend="indl_12">Ein einfaches Sprachspiel ist <abbr type="abb">z.B.</abbr> dieses:  <c type="c">M</c>an spricht zu einem Kind (es kann aber auch ein Erwachsener  sein) indem man das elektrische Licht in einem Raum andreht:  “<c type="c">L</c>icht”, dann, indem man es abdreht:  “<c type="c">F</c>inster”; und tut das etwa mehrere Male mit  Betonung und <emph rend="usb">variierenden Zeitlängen</emph>.</s>
+            <s type="es">Dann geht man etwa in das Nebenzimmer, dreht von dort aus das Licht im  ersten an und ab und bringt das Kind dazu, <choice type="s"><orig type="alt1">da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> es  mitteilt, ob es licht oder finster ist.</orig><orig type="alt2"><seg type="edinst"> // </seg>  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> es mitteilt:  “<c type="c">L</c>icht”, oder  “<c type="c">F</c>inster”.<seg type="edinst"> // </seg></orig></choice></s>
             <s type="es" rend="indl_12">Soll ich da nun “<c type="c">L</c>icht” und  “<c type="c">F</c>inster” ‘Sätze’  nennen?</s>
             <s type="es">Nun, wie ich will.</s>
             <s type="es">– Und wie ist es mit der  ‘<corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2">Ü</reg></corr>bereinstimmung mit der  Wirklichkeit’?</s>
@@ -15549,7 +15548,7 @@
             <seg type="wabmarks-secml_h"/>
             <seg type="212series-number-indent_h">48b, 77, 61  3</seg>
             <rs type="extref" key="Nicod, Jean: [writings]">
-              <s type="es" rend="indl_12">Wenn ich bestimmte einfache Spiele beschreibe, so geschieht es nicht, um  mit ihnen nach und nach die wirklichen Vorgänge der ausgebildeten Sprache  – oder des Denkens – aufzubauen, was nur zu Ungerechtigkeiten  führt, – sondern ich stelle die Spiele als solche hin, und lasse sie  ihre aufklärende Wirkung auf die besonderen Probleme ausstrahlen.</s>
+              <s type="es" rend="indl_12">Wenn ich bestimmte einfache Spiele beschreibe, so geschieht es nicht, um  mit ihnen nach und nach die wirklichen Vorgänge der Sprache  – oder des Denkens – aufzubauen, was nur zu Ungerechtigkeiten  führt, – sondern ich stelle die Spiele als solche hin, und lasse sie  ihre aufklärende Wirkung auf die besondern Probleme ausstrahlen.</s>
             </rs>
             <emph rend="bl_1"/>
           </ab>
@@ -15579,7 +15578,7 @@
             <seg type="wabmarks-secml_h"/>
             <seg type="212series-number-indent_h">77  4</seg>
             <s type="es" rend="indl_12">Wenn ein Mann im Ertrinken “Hilfe!” schreit,  – konstatiert er die Tat<lb rend="shyphen"/>sache, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> er  Hilfe bedarf? da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> er ohne Hilfe ertrinken  wird? –</s>
-            <s type="es">Dagegen gibt es den Fall, in dem man, quasi, sich beobachtend, sagt  “ich hätte <del type="dnpc">jetzt</del> (oder: habe) jetzt den  Wunsch nach  …”.</s>
+            <s type="es">Dagegen gibt es den Fall, in dem man, quasi, sich beobachtend sagt  “ich hätte <del type="dnpc">jetzt</del> (oder: habe) jetzt den  Wunsch nach  …”.</s>
             <emph rend="bl_1"/>
           </ab>
           <ab xml:id="Ts-212_V-46-3.4etV-46-4.1" n="Ts-212,614[4]et615[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -15616,7 +15615,7 @@
             <s type="es">So mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> also in jedem Fall erst festgesetzt werden,  was unter “<corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2">Ü</reg></corr>bereinstimmung” zu  verstehen ist. –</s>
             <s type="es">So ist es nun auch mit der <corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2">Ü</reg></corr>bereinstimmung einer  Längenangabe mit einer Länge.</s>
             <s type="es">Wenn ich sage: “dieser Stab ist 2 m  lang”, so kann ich <abbr type="abb">z.B.</abbr> <choice type="s"><orig type="alt1">erklären</orig><orig type="alt2"><seg type="edinst"> // </seg> eine Erklärung geben<seg type="edinst"> // </seg></orig></choice>, wie man nach diesem  Satz mit einem Ma<corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">ß</reg></corr>stab die Länge des Stabes  kontrolliert, wie man etwa nach diesem Satz einen  Me<corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">ß</reg></corr>streifen für den Stab erzeugt.</s>
-            <s type="es">Und ich sage nun, der Satz stimmt mit der Wirklichkeit überein, wenn der  auf diese Weise konstruierte Me<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr><lb rend="shyphen"/>streifen mit  dem Stab übereinstimmt.</s>
+            <s type="es">Und ich sage nun, der Satz stimmt mit der Wirklichkeit überein, wenn der  auf diese Weise konstruierte, Me<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr><lb rend="shyphen"/>streifen, mit  dem Stab übereinstimmt.</s>
             <s type="es">Diese Konstruktion eines Me<corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">ß</reg></corr>streifens illustriert  übrigens, was ich in der “Abhandlung” damit meinte,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> der Satz bis an die Wirklichkeit herankommt. –</s>
             <s type="es">Man könnte das auch so klar ma<lb rend="shyphen"/>chen: <c type="c">W</c>enn ich die  Wirklichkeit daraufhin prüfen will, ob sie mit einem Satz übereinstimmt, so  kann ich das auch so machen, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich sie nun  be<lb rend="shyphen"/>schreibe und sehe, ob der gleiche Satz herauskommt.</s>
             <s type="es">Oder: ich kann die Wirklichkeit nach grammatischen Regeln in die  Sprache des Satzes überset<lb rend="shyphen"/>zen und nun im Land der Sprache  <seg type="edcom"><corr type="tra">˓</corr>﹖–<corr type="tra">˒</corr></seg>den Vergleich  durchführen<seg type="edcom"><add rend="i"><corr type="tra">˓</corr>–﹖<corr type="tra">˒</corr></add></seg>.</s>
@@ -15718,9 +15717,9 @@
                   <rs type="extref" key="Frege, Gottlob: Über die Begriffsschrift des Herrn Peano und meine eigene">
                     <s type="es" rend="indl_12">Man hat natürlich das Recht, ein Behauptungszeichen zu verwenden, wenn man  es im Gegensatz etwa zu einem Fragezeichen gebraucht.</s>
                     <s type="es">Irreleitend ist es nur, wenn man meint, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> die  Behauptung nun aus zwei Akten bestehe, dem Erwägen und dem Behaupten  (Beilegen des Wahrheitswertes, oder <abbr type="abb">dergl.</abbr>) und  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> wir diese Akte nach dem geschriebenen Satz  ausführen, ungefähr wie wir nach Noten Klavier spielen.</s>
-                    <s type="es" rend="indl_12">Mit dem Klavierspielen nach Noten ist nun allerdings das laute oder auch  leise, Lesen nach dem geschriebenen oder gedruckten Satz zu vergleichen und  ganz analog; aber nichts, was wir ‘denken’ nennen.</s>
+                    <s type="es" rend="indl_12">Mit dem Klavierspielen nach Noten ist nun allerdings das laute, oder auch  leise, Lesen nach dem geschriebenen oder gedruckten Satz zu vergleichen und  ganz analog; aber nichts, was wir ‘denken’ nennen.</s>
                     <s type="es">Ist also <abbr type="abb">z.B.</abbr> ein Behauptungszeichen im  geschriebenen Satz, so wird wieder ein Behauptungs<emph rend="space">zeichen</emph> im  gelesenen sein (etwa die Betonung, oder der Stimmfall).</s>
-                    <s type="es">Aber nicht, als ob im geschriebenen Satz <choice type="s"><orig type="alt1">das</orig><orig type="alt2">die</orig></choice> Zeichen, im  gedachten aber die Bedeutung anwesend wäre. –</s>
+                    <s type="es">Aber nicht, als ob im geschriebenen Satz das Zeichen, im  gedachten aber die Bedeutung anwesend wäre. –</s>
                   </rs>
                 </rs>
               </rs>
@@ -15751,10 +15750,10 @@
             <s type="es">Man kann auf dem Schachbrett einen Zug in einer Schachpartie machen,  – aber auch während eines Gesprächs über ein Schachproblem zur  Illustration, oder wenn man jemand das Spiel lehrt, –  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
             <s type="es">Man sagt dann auch etwa: “angenommen, ich zöge  <emph rend="space">so</emph>,  …”.</s>
             <s type="es">So ein Zug hat <corr type="tstrsn"><orig type="tstrsn1">Ae</orig><reg type="tstrsn2">Ä</reg></corr>hnlichkeit mit dem, was man in der  Sprache ‘Annahme’ nennt.</s>
-            <s type="es">Ich sage <add rend="im_h">nun</add> etwa “im Nebenzimmer ist ein  Dieb”, – der Andre fragt mich “woher  wei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t Du das?” und ich antworte:  “<corr type="npcn">ic</corr> “oh ich wollte nicht sagen,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> wirklich ein Dieb im Nebenzimmer ist, ich habe es  nur in Erwägung gezogen”. –</s>
+            <s type="es">Ich sage <add rend="im_h">nun</add> etwa “im Nebenzimmer ist ein  Dieb”, – der Andre fragt mich “woher  wei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t Du das?” und ich antworte:  “oh ich wollte nicht sagen,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> wirklich ein Dieb im Nebenzimmer ist, ich habe es  nur in Erwägung gezogen”. –</s>
             <s type="es">Möchte man da nicht fragen: <emph rend="space"><c type="c">W</c>as</emph> hast Du  erwogen? wie Du Dich benehmen würdest, wenn ein Dieb da wäre, oder,  was für ein Geräusch es machen würde, oder, was er Dir wohl stehlen  würde?</s>
             <rs type="extref" key="Frege, Gottlob: Funktion und Begriff">
-              <s type="es" rend="indl_12"><persName key="Frege, Gottlob"><c type="k">F</c>reges</persName> Anschauung könnte  man so wiedergeben: da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> die Annahme (so wie  er das Wort gebraucht) das ist, was die Behauptung,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> der Fall ist, mit der Frage, ob  <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> der Fall  ist, gemeinsam hat.</s>
+              <s type="es" rend="indl_12"><persName key="Frege, Gottlob"><c type="k">F</c>reges</persName> Anschauung könnte  man so wiedergeben: da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> die Annahme (so wie  er das Wort gebraucht) das ist, was die Behauptung,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> der Fall ist mit der Frage, ob  <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg> der Fall  ist, gemeinsam hat.</s>
             </rs>
             <add rend="el_h">
               <s type="es">Oder auch, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> die Annahme dasselbe ist wie die  Frage.</s>
@@ -15814,7 +15813,7 @@
               <emph rend="wlilm_h">
                 <emph rend="wlirm_h">
                   <s type="es">Ist es aber nicht auffällig, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>  wir es in unsern gewöhnlich philosophisch-grammatischen Problemen nie  damit zu tun haben, ob sie sich auf Behauptungen oder Fragen  beziehen?</s>
-                  <s type="es">(Etwa in dem Problem vom Idealismus und  Realismus.)</s>
+                  <s type="es">(Etwa in dem Problem von Idealismus und  Realismus.)</s>
                 </emph>
               </emph>
             </emph>
@@ -15889,7 +15888,7 @@
             <fw type="fragpagen" place="top middle" n="oldref_510-1"> </fw>
             <seg type="212series-number-indent_h">16  5</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
-            <s type="es" rend="indl_12">Man ist (durch die <choice type="dsl"><orig type="alt1"><del type="d_h">falsche</del></orig><orig type="alt2"><add rend="i_h">irreführende</add></orig></choice> Grammatik) versucht, zu fragen:  “wie denkt man den Satz <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>, wie erwartet man,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> das und das eintreffen wird” (wie  macht man das).</s>
+            <s type="es" rend="indl_12">Man ist (durch die <choice type="dsl"><orig type="alt1"><del type="d_h">falsche</del></orig><orig type="alt2"><add rend="i_h">irreführende</add></orig></choice> Grammatik) versucht, zu fragen:  wie denkt man den Satz <seg type="notation" subtype="logic_propositional formula" rend="literal">p</seg>, wie erwartet man,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> das und das eintreffen wird (wie  macht man das).</s>
             <s type="es">Und <add rend="im">in</add> dieser falschen Frage liegt wohl die ganze Schwierigkeit  <seg type="ct">in nuce</seg> enthalten.</s>
             <emph rend="bl_1"/>
           </ab>
@@ -15927,7 +15926,7 @@
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_12">Wenn man fragt “wie macht der <choice type="s"><orig type="alt1">Gedanke</orig><orig type="alt2"><seg type="edinst"> // </seg>  Satz<seg type="edinst"> // </seg></orig></choice> das, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> er  darstellt?”</s>
             <s type="es">So könnte die Antwort sein:  “<c type="c">W</c>ei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t Du es denn  (<emph rend="usb">wirklich</emph>) nicht?</s>
-            <s type="es"><c type="k">D</c>u siehst es doch, <choice type="s"><orig type="alt1">wenn Du denkst</orig><orig type="alt2"><seg type="edinst"> // </seg>wenn Du ihn  benützt<seg type="edinst"> // </seg></orig></choice>”.</s>
+            <s type="es"><c type="k">D</c>u siehst es doch <choice type="s"><orig type="alt1">wenn Du denkst</orig><orig type="alt2"><seg type="edinst"> // </seg>wenn Du ihn  benützt<seg type="edinst"> // </seg></orig></choice>”.</s>
             <s type="es">Es ist ja nichts verborgen.</s>
             <s type="es" rend="indl_12">Wie macht der Satz das? –</s>
             <s type="es">Wei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t Du es denn nicht?</s>
@@ -15941,7 +15940,7 @@
               <s type="es">zu der <unclear>vorigen</unclear> Seite</s>
             </seg>
             <rs type="extref" key="Heraklit: [writings]">
-              <s type="es" rend="indl_12">Da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ‘alles  flie<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t’, scheint uns am Ausdruck der Wahrheit  zu hindern, denn es ist, als ob wir sie nicht auffassen könnten, da sie  <emph rend="usb">uns</emph> entgleitet.</s>
+              <s type="es" rend="indl_12">Da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ‘alles  flie<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t’ scheint uns am Ausdruck der Wahrheit  zu hindern, denn es ist, als ob wir sie nicht auffassen könnten, da sie  <emph rend="usb">uns</emph> entgleitet.</s>
             </rs>
             <emph rend="bl_1"/>
           </ab>
@@ -15991,7 +15990,7 @@
             <s type="es">Es ist klar, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich mir eine Maschine denken kann,  die sich genau so benimmt (in allen Details), wie ein Mensch der  Schmerzen hat.</s>
             <s type="es">Oder vielmehr: ich kann den Andern eine Maschine nennen, die  Schmerzen hat, <abbr type="abb">d.h.</abbr>: den andern  <emph rend="space">Körper</emph>.</s>
             <s type="es">Und ebenso, natürlich, meinen Körper.</s>
-            <s type="es">Dagegen hat das Phänomen der Schmerzen, wie es <emph rend="usb">auftritt</emph>, wenn  ‘ich Schmerzen habe’, mit meinem Körper,  <abbr type="abb">d.h.</abbr> mit <choice type="em"><orig type="em1">demn</orig><orig type="em2"><corr type="npc">dem</corr> den</orig></choice>  Erfahrungen, die ich als Existenz meines Körpers zusammenfasse, gar nichts  zu tun.</s>
+            <s type="es">Dagegen hat das Phänomen der Schmerzen, wie es <emph rend="usb">auftritt</emph>, wenn  ‘ich Schmerzen habe’, mit meinem Körper,  <abbr type="abb">d.h.</abbr> mit <choice type="em"><orig type="em1">demn</orig><orig type="em2"><corr type="npc">dem</corr> den</orig></choice>  Erfahrungen die ich als Existenz meines Körpers zusammenfasse, gar nichts  zu tun.</s>
             <s type="es">(Ich kann Zahnschmerzen haben ohne Zähne.)</s>
             <s type="es">Und hier hat nun die Maschine gar keinen Platz. –</s>
             <s type="es">Es ist klar, die Maschine kann nur einen physikalischen Körper  ersetzen.</s>
@@ -16035,7 +16034,7 @@
             <seg type="212series-number-indent_h">16  4</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_12">Wir fragen: <c type="c">W</c>as ist ein Gedanke, welcher Art  mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> etwas sein, um die Funktion des Gedankens  verrichten zu können?</s>
-            <s type="es">Und diese Frage ist ganz analog der: <c type="c">W</c>as ist, oder, wie  funktioniert, eine Nähmaschine.</s>
+            <s type="es">Und diese Frage ist ganz analog der: <c type="c">W</c>as ist, oder wie  funktioniert, eine Nähmaschine.</s>
             <s type="es">“Wie macht sie das?”</s>
             <s type="es">Aber die Antwort könnte sein: <c type="c">S</c>chau den Stich an; alles, was  der Nähmaschine <corr type="trs"><orig type="trs1"><emph rend="space">wesentlich</emph></orig><reg type="trs2"> wesentlich</reg></corr> ist,  ist in ihm zu sehen; alles andre kann so, oder anders sein.</s>
           </ab>
@@ -16102,13 +16101,13 @@
             <seg type="wabmarks-secmr_h">\ </seg>
             <emph rend="indl_12"/>
             <del type="d_h">
-              <s type="es">Wir sagen für uns gibt es nicht wesentliche  <add rend="our">äu</add><corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>ere und innere Vorgänge.</s>
+              <s type="es">Wir sagen: für uns gibt es nicht wesentlich  <add rend="our">äu</add><corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>ere und innere Vorgänge.</s>
               <s type="es">(Jeder Vorgang ist in gewissem Sinne ein äu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>erer  Vorgang.)</s>
             </del>
             <lb rend="hl"/>
             <s type="es"><choice type="em"><orig type="em1"><add rend="el_h">Wir sagen,</add> Wir</orig><orig type="em2"><choice type="dsl"><orig type="alt1"><c type="c">W</c>ir</orig><orig type="alt2"><c type="c">W</c>ir sagen,  wir</orig></choice></orig></choice> werden das Denken untersuchen von dem Standpunkt aus,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> es auch von einer Maschine ausgeführt werden  könnte.</s>
             <s type="es" rend="indl_12">Aber hier befinden wir uns in einer <del type="d_h">gänzlich</del> falschen  Betrachtungsweise.</s>
-            <s type="es">Wir sehen das Denken <choice type="s"><orig type="alt1"><emph rend="uw1">für</emph></orig><orig type="alt2"><add rend="i_h">als</add></orig></choice> einen Vorgang  wie das Schreiben an, oder das Weben<del type="d_h">,</del> das Erzeugen eines Stoffes,  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
+            <s type="es">Wir sehen das Denken <choice type="s"><orig type="alt1"><emph rend="uw1">für</emph></orig><orig type="alt2"><add rend="i_h">als</add></orig></choice> einen Vorgang   wie das Schreiben an, oder das Weben, als wäre es das Erzeugen eines Produkts, des Gedankens, wie das Weben<del type="d_h">,</del> das Erzeugen eines Stoffes,  <abbr type="abb">etc.</abbr><corr type="npc">.</corr></s>
             <s type="es">Und dann lä<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t sich natürlich sagen,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> dieser Vorgang der Erzeugung <add rend="im">sich</add> im  Wesentlichen auch maschinell mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> denken  lassen.</s>
             <pb facs="Ts-212_VI-49BCv" n="pagename_Ts-212,VI-49BCv pageref_00"/>
           </ab>
@@ -16251,7 +16250,7 @@
             </fw>
             <seg type="212series-number-indent_h">16  2</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
-            <s type="es" rend="indl_12">Eine der gefährlichsten Ideen ist, merkwürdigerweise,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> wir mit dem Kopf, oder im Kopf denken.</s>
+            <s type="es" rend="indl_12">Eine der gefährlichsten Ideen ist, merkwürdigerweise,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> wir mit dem Kopf, oder im Kopf, denken.</s>
             <emph rend="bl_1"/>
           </ab>
           <ab xml:id="Ts-212_VI-52-1.2" n="Ts-212,654[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -16437,7 +16436,7 @@
           <ab xml:id="Ts-212_VI-53-7.1" n="Ts-212,665[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_VI-53-7" n="pagename_Ts-212,VI-53-7 pageref_00"/>
             <fw type="fragpagen" place="top middle" n="oldref_530-1">
-              <add rend="i_h">334</add>
+              <add rend="i_h">384</add>
             </fw>
             <seg type="212series-number-indent_h">28(a)  3</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
@@ -16475,7 +16474,7 @@
           <ab xml:id="Ts-212_VI-53-9.1" n="Ts-212,667[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_VI-53-9" n="pagename_Ts-212,VI-53-9 pageref_00"/>
             <fw type="fragpagen" place="top left" n="oldref_531-1">
-              <add rend="i_h">380</add>
+              <add rend="i_h">390</add>
             </fw>
             <seg type="212series-number-indent_h">28a  1</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
@@ -16652,7 +16651,7 @@
           </ab>
           <ab xml:id="Ts-212_VI-55-6.1" n="Ts-212,680[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_VI-55-6" n="pagename_Ts-212,VI-55-6 pageref_00"/>
-            <fw type="fragpagen" place="top middle" n="oldref_534-3">134'</fw>
+            <fw type="fragpagen" place="top left" n="oldref_534-3">134'</fw>
             <seg type="212series-number-indent_h">36  1</seg>
             <seg type="wabmarks-secmr_h">/ \ </seg>
             <s type="es" rend="indl_12">Die Natur des Glaubens an die Gleichförmigkeit des Geschehens wird  vielleicht am klarsten im Falle, in dem wir Furcht vor dem erwarteten  Ereignis empfinden.</s>
@@ -17268,7 +17267,7 @@
           </ab>
           <ab xml:id="Ts-212_VII-58-3.1" n="Ts-212,721[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_VII-58-3" n="pagename_Ts-212,VII-58-3 pageref_00"/>
-            <fw type="fragpagen" place="top middle" n="oldref_656-2">49</fw>
+            <fw type="fragpagen" place="top left" n="oldref_656-2">49</fw>
             <seg type="212series-number-indent_h">85  1</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_12">So können doch grammatische Regeln über den Gebrauch des Wortes  “Pflan<lb rend="shyphen"/>ze” gegeben werden und wir können also auf  Fragen von der Art “folgt aus <emph rend="space">diesem</emph> Sachverhalt,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> dort eine Pflanze steht” Bescheid  geben.</s>
@@ -17589,7 +17588,7 @@
           <ab xml:id="Ts-212_VII-58-30r.1" n="Ts-212,748[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_VII-58-30r" n="pagename_Ts-212,VII-58-30r pageref_00"/>
             <fw type="fragpagen" place="top left" n="oldref_670-2">
-              <add rend="i_h">69'</add>
+              <add rend="i_h">64</add>
             </fw>
             <seg type="212series-number-indent_h">49a  5</seg>
             <seg type="wabmarks-secmr_h">✓ </seg>
@@ -17607,11 +17606,11 @@
           <ab xml:id="Ts-212_VII-58-31.1etVII-58-32.1" n="Ts-212,749[1]et750[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_VII-58-31" n="pagename_Ts-212,VII-58-31 pageref_00"/>
             <fw type="fragpagen" place="top left" n="oldref_670-3">
-              <add rend="i_h">240'</add>
+              <add rend="i_h">240</add>
             </fw>
             <seg type="212series-number-indent_h">(49) 49a, 61  <unclear>5</unclear></seg>
             <seg type="wabmarks-secmr_h">\ </seg>
-            <s type="es" rend="indl_12">Wenn Einer von einer idealen Sprache redet, so mü<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>te  man  fra<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">gen:</corr>     <pb facs="Ts-212_VII-58-32" n="pagename_Ts-212,VII-58-32 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_670-4">241'</fw><corr type="npcn-pb">gen:</corr> in welcher Beziehung  ‘ideal’?</s>
+            <s type="es" rend="indl_12">Wenn Einer von einer idealen Sprache redet, so mü<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>te  man  fra<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">gen:</corr>     <pb facs="Ts-212_VII-58-32" n="pagename_Ts-212,VII-58-32 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_670-4">241</fw><corr type="npcn-pb">gen:</corr> in welcher Beziehung  ‘ideal’?</s>
             <s type="es">
               <del type="d_h">
                 <add rend="i_h"><c type="k">L</c>ogik normativ</add>
@@ -17622,7 +17621,7 @@
             <seg type="wabmarks-secml_h"/>
             <pb facs="Ts-212_VII-58-33" n="pagename_Ts-212,VII-58-33 pageref_00"/>
             <fw type="fragpagen" place="top left" n="oldref_670-5">
-              <add rend="i_h">512'</add>
+              <add rend="i_h">512</add>
             </fw>
             <seg type="212series-number-indent_h">49, 49a  2</seg>
             <s type="es" rend="indl_12">(Es gibt keine Logik für den luftleeren Raum.</s>
@@ -17971,7 +17970,7 @@
           <ab xml:id="Ts-212_VIII-61-1.1" n="Ts-212,773[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_VIII-61-1" n="pagename_Ts-212,VIII-61-1 pageref_00"/>
             <fw type="fragpagen" place="top middle" n="oldref_685-1">
-              <add rend="i_h">147'</add>
+              <add rend="i_h">147</add>
             </fw>
             <seg type="212series-number-indent_h">66a  1</seg>
             <seg type="wabmarks-secmr_h">✓ </seg>
@@ -17982,7 +17981,7 @@
             <seg type="wabmarks-secml_h"/>
             <pb facs="Ts-212_VIII-61-2" n="pagename_Ts-212,VIII-61-2 pageref_00"/>
             <fw type="fragpagen" place="top middle" n="oldref_685-2">
-              <add rend="i_h">131'</add>
+              <add rend="i_h">131</add>
             </fw>
             <seg type="212series-number-indent_h">67</seg>
             <s type="es" rend="indl_12">Wenn ich mich aber nun ärgere, <emph rend="space">weil</emph> jemand zur Türe  hereinkommt, kann ich mich hier im Nexus irren, oder <emph rend="usb">erlebe</emph> ich  ihn wie den <corr type="tstrsn"><orig type="tstrsn1">Ae</orig><reg type="tstrsn2">Ä</reg></corr>rger?</s>
