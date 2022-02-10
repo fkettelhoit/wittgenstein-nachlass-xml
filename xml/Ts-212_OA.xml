@@ -9,7 +9,7 @@
         <author>
           <persName key="Wittgenstein, Ludwig">Ludwig Wittgenstein</persName>
         </author>
-        <editor><orgName ref="http://wab.uib.no/">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this transcription: <persName>Alois Pichler</persName>                </editor>
+        <editor><orgName ref="http://wab.uib.no/">WAB</orgName> (directors: Claus Huitfeldt 1990-2000,  Alois Pichler 2001-). Responsible editor for this transcription: <persName>Alois Pichler</persName>          <emph rend="centered"><emph rend="us2">!!!N.B: The transcription of Ts-212 is currently under revision!!!</emph></emph>      </editor>
         <funder>Trinity College, Cambridge; Oxford University Press, Oxford;  Uni Research, Bergen; University of Bergen, Bergen; L. Meltzers Høyskolefond, Bergen; COST Action A32, Brussels; eContent+ DISCOVERY, Luxembourg; ICT PSP DM2E,  Brussels</funder>
         <respStmt>
           <name>N.N., Heinz Wilhelm Krüger</name>
@@ -18034,7 +18034,7 @@
           </ab>
           <ab xml:id="Ts-212_VIII-62-1.1" n="Ts-212,777[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_VIII-62-1" n="pagename_Ts-212,VIII-62-1 pageref_00"/>
-            <fw type="fragpagen" place="top middle" n="oldref_687-1">402'</fw>
+            <fw type="fragpagen" place="top middle" n="oldref_687-1">402</fw>
             <seg type="212series-number-indent_h">1, 67  1</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_12">Denken wir uns den einfachen Fall, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> jemand eine  Strecke absichtlich im Ma<corr type="trsn"><orig type="trsn1">ss</orig><reg type="trsn2">ßs</reg></corr>tab 1:1  kopiert.</s>
@@ -19590,7 +19590,7 @@
           <ab xml:id="Ts-212_X-70-5.1" n="Ts-212,884[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_X-70-5" n="pagename_Ts-212,X-70-5 pageref_00"/>
             <fw type="fragpagen" place="top left" n="oldref_31-1">
-              <add rend="i_h">3535</add>
+              <add rend="i_h">35</add>
             </fw>
             <seg type="212series-number-indent_h">3b  1</seg>
             <seg type="wabmarks-secmr_h">✓ </seg>
@@ -20961,7 +20961,7 @@
             <s type="es">Die Pünktchen sind so, wie weitere Zahlzeichen, die aber  <choice type="dsl_h"><orig type="alt1"><del type="d_h">verschwommen</del></orig><orig type="alt2"><add rend="i_h">undeutlich</add></orig></choice>  sind.</s>
             <s type="es">So, als hörte man auf, Zahlzeichen hinzuschreiben, weil man ja doch nicht  alle hinschreiben kann, <choice type="s"><orig type="alt1">aber als seien sie allerdings, quasi, in einer  Kiste, vorhanden.</orig><orig type="alt2"><seg type="edinst"> // </seg>…  aber als seien sie wohl,  gleichsam in einer Kiste vorhanden.<seg type="edinst"> // </seg></orig></choice></s>
             <s type="es">Etwa auch, wie wenn ich von einer Melodie nur die ersten Töne deutlich  singe und den Rest nur noch andeute und in Nichts auslaufen lasse.</s>
-            <s type="es">(Oder wenn man beim Schreiben von einem Wort nur wenige Buchstaben  deutlich schreibt und mit einem  unarti<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">kulierten</corr>      <pb facs="Ts-212_X-75-16" n="pagename_Ts-212,X-75-16 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_78-1"/><corr type="npcn-pb">kulierten</corr> Strich endet.)</s>
+            <s type="es">(Oder wenn man beim Schreiben von einem Wort nur wenige Buchstaben  deutlich schreibt und mit einem  unarti<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">kulierten</corr>      <pb facs="Ts-212_X-75-16" n="pagename_Ts-212,X-75-16 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_78-1">75</fw><corr type="npcn-pb">kulierten</corr> Strich endet.)</s>
             <s type="es"><emph rend="space"><choice type="em"><orig type="em1">Wo<add rend="el_h">|</add>dann</orig><orig type="em2"><c type="c">W</c>o dann</orig></choice> dem  ‘undeutlich’ ein ‘deutlich’  entspräche</emph>.</s>
           </ab>
           <ab xml:id="Ts-212_X-75-17.1" n="Ts-212,966[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -20981,7 +20981,7 @@
           </ab>
           <ab xml:id="Ts-212_X-75-18.1" n="Ts-212,967[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_X-75-18" n="pagename_Ts-212,X-75-18 pageref_00"/>
-            <fw type="fragpagen" place="top middle" n="oldref_79-2">25</fw>
+            <fw type="fragpagen" place="top middle" n="oldref_79-2">26</fw>
             <seg type="212series-number-indent_h">32  1</seg>
             <seg type="wabmarks-secmr_h">⨯ </seg>
             <s type="es" rend="indl_20">Ich wollte aber auch sagen, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> der Zahlbegriff  nicht unabhängig von den Zahlen (<emph rend="usb">gegeben</emph>) sein könnte,  und das ist nicht wahr.</s>
@@ -21224,7 +21224,7 @@
           <ab xml:id="Ts-212_XI-76-6.1" n="Ts-212,984[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_XI-76-6" n="pagename_Ts-212,XI-76-6 pageref_00"/>
             <fw type="fragpagen" place="top middle" n="oldref_90-3">
-              <add rend="i_h">363</add>
+              <add rend="i_h">383</add>
             </fw>
             <seg type="212series-number-indent_h">20a  1</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
@@ -21753,7 +21753,7 @@
           <ab xml:id="Ts-212_XI-78-13.2etXI-78-14.1" n="Ts-212,1021[2]et1022[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <seg type="212series-number-indent_h">70a (10)  6</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
-            <s type="es" rend="indl_20"><emph rend="space">Ihn</emph> (etwa meinen Stock) suchen, ist eine Art des  Suchens  und     <pb facs="Ts-212_XI-78-14" n="pagename_Ts-212,XI-78-14 pageref_00"/><fw type="fragpagen" place="top left" n="oldref_106-1"><add rend="i_h">294</add></fw> unterscheidet sich davon,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> man etwas andres sucht, durch das, was man beim  Suchen tut (sagt, denkt), nicht durch das, was man findet.</s>
+            <s type="es" rend="indl_20"><emph rend="space">Ihn</emph> (etwa meinen Stock) suchen, ist eine Art des  Suchens  und     <pb facs="Ts-212_XI-78-14" n="pagename_Ts-212,XI-78-14 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_106-1"><add rend="i_h">294</add></fw> unterscheidet sich davon,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> man etwas andres sucht, durch das, was man beim  Suchen tut (sagt, denkt), nicht durch das, was man findet.</s>
             <emph rend="bl_1"/>
           </ab>
           <ab xml:id="Ts-212_XI-78-14.2" n="Ts-212,1022[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
@@ -21805,7 +21805,7 @@
           </ab>
           <ab xml:id="Ts-212_XI-78-15.1" n="Ts-212,1023[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_XI-78-15" n="pagename_Ts-212,XI-78-15 pageref_00"/>
-            <fw type="fragpagen" place="top middle" n="oldref_107-1">296</fw>
+            <fw type="fragpagen" place="top middle" n="oldref_107-1">295</fw>
             <seg type="212series-number-indent_h">70a  1</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_20">Auch haben wir hier die Verwechslung zwischen der Bedeutung und dem Träger  eines Wortes.</s>
@@ -22130,7 +22130,7 @@
             <seg type="212series-number-indent_h">70  5</seg>
             <seg type="wabmarks-secmr_h">✓ </seg>
             <s type="es" rend="indl_20">Das wird erst dann seltsam, wenn der Befehl etwa ein Glockenzeichen  ist. –</s>
-            <s type="es">Denn, in welchem Sinne <del type="dnpc">wird</del> mir dieses Zeichen mitteilt, was  ich     <pb facs="Ts-212_XI-80-4" n="pagename_Ts-212,XI-80-4 pageref_00"/><fw type="fragpagen" place="top left" n="oldref_114-4"><add rend="i_h">275</add></fw> <seg type="212series-number-indent_h">70</seg> zu tun habe,  au<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>er da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich es <choice type="s"><orig type="alt1">einfach</orig><orig type="alt2"><seg type="edinst"> // </seg>eben<seg type="edinst"> // </seg></orig></choice> tue <emph rend="space">und</emph> das Zeichen da war  – –.</s>
+            <s type="es">Denn, in welchem Sinne <del type="dnpc">wird</del> mir dieses Zeichen mitteilt, was  ich     <pb facs="Ts-212_XI-80-4" n="pagename_Ts-212,XI-80-4 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_114-4">275</fw> <seg type="212series-number-indent_h">70</seg> zu tun habe,  au<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>er da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich es <choice type="s"><orig type="alt1">einfach</orig><orig type="alt2"><seg type="edinst"> // </seg>eben<seg type="edinst"> // </seg></orig></choice> tue <emph rend="space">und</emph> das Zeichen da war  – –.</s>
             <s type="es">Denn es ist auch nicht das, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich es  erfahrungsgemä<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> immer tue, wenn das Zeichen gegeben  wird.</s>
             <emph rend="bl_1"/>
           </ab>
@@ -23435,7 +23435,7 @@
             <seg type="wabmarks-secmr_h">\ </seg>
             <s type="es" rend="indl_20">Unsere grammatische Untersuchung unterscheidet sich ja von der eines  <choice type="dsl_h"><orig type="alt1"><del type="d_h">Anglisten oder Germanisten</del></orig><orig type="alt2"><add rend="i_h">Philologen</add></orig></choice> <abbr type="abb">etc.</abbr>; uns interessiert  <abbr type="abb">z.B.</abbr> die <corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2">Ü</reg></corr>bersetzung von einer  Sprache in andre <add rend="im_h">von uns erfundene</add> Sprachen.</s>
             <s type="es"><corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2"><c type="c">Ü</c></reg></corr>berhaupt interessieren uns Regeln, die der  Philologe gar nicht betrachtet.</s>
-            <s type="es">Diesen  Unterschied     <pb facs="Ts-212_XII-88-9" n="pagename_Ts-212,XII-88-9 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_156-1">245</fw> <seg type="212series-number-indent_h">60a</seg> können wir also  wohl hervorheben.</s>
+            <s type="es">Diesen  Unterschied     <pb facs="Ts-212_XII-88-9" n="pagename_Ts-212,XII-88-9 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_156-1">246</fw> <seg type="212series-number-indent_h">60a</seg> können wir also  wohl hervorheben.</s>
           </ab>
           <ab xml:id="Ts-212_XII-88-9.2" n="Ts-212,1130[2]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <emph rend="clirm_h">
@@ -23686,7 +23686,7 @@
           <ab xml:id="Ts-212_XII-89-17.1" n="Ts-212,1151[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_XII-89-17" n="pagename_Ts-212,XII-89-17 pageref_00"/>
             <fw type="fragpagen" place="top middle" n="oldref_163-4">
-              <add rend="i_h">138</add>
+              <add rend="i_h">188</add>
             </fw>
             <seg type="212series-number-indent_h">49 (9a)  3</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
@@ -24192,7 +24192,7 @@
           </ab>
           <ab xml:id="Ts-212_XII-90-19.1" n="Ts-212,1190[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_XII-90-19" n="pagename_Ts-212,XII-90-19 pageref_00"/>
-            <fw type="fragpagen" place="top left" n="oldref_176-2">125'</fw>
+            <fw type="fragpagen" place="top right" n="oldref_176-2">125'</fw>
             <seg type="212series-number-indent_h">62  1</seg>
             <seg type="wabmarks-secmr_h">⨯ </seg>
             <s type="es" rend="indl_20">Ich wollte sagen, es ist merkwürdig, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> die, die  nur den Dingen, nicht unseren Vorstellungen, Realität zuschreiben, sich in  der Vorstellungswelt so selbstverständlich bewegen und sich nie aus ihr  heraussehnen.</s>
@@ -24226,8 +24226,8 @@
           </ab>
           <ab xml:id="Ts-212_XII-90-22.1" n="Ts-212,1193[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_XII-90-22" n="pagename_Ts-212,XII-90-22 pageref_00"/>
-            <fw type="fragpagen" place="top middle" n="oldref_177-1">
-              <add rend="i_h">405</add>
+            <fw type="fragpagen" place="top left" n="oldref_177-1">
+              <add rend="i_h">454</add>
             </fw>
             <seg type="212series-number-indent_h">60<add rend="i">?</add>, 62<add rend="i">?</add>  3</seg>
             <seg type="wabmarks-secmr_h">\ </seg>
@@ -29810,7 +29810,7 @@
           <ab xml:id="Ts-212_XVII-121-1.1" n="Ts-212,1567[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <pb facs="Ts-212_XVII-121-1" n="pagename_Ts-212,XVII-121-1 pageref_00"/>
             <fw type="fragpagen" place="top left" n="oldref_769-1">
-              <add rend="i_h">630</add>
+              <add rend="i_h">430</add>
             </fw>
             <seg type="212series-number-indent_h">14</seg>
             <seg type="wabmarks-secmr_h">\   4</seg>
@@ -30040,7 +30040,7 @@
               <add rend="i_h">732</add>
             </fw>
             <seg type="212series-number-indent_h">14  4</seg>
-            <s type="es" rend="indl_20">Wenn durch Entdeckungen ein Kalkül der Mathematik geändert <del type="dn">weden</del>  wird, – können wir den alten Kalkül nicht behalten<del type="dn">t</del>  (auf<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">heben)?</corr>   <pb facs="Ts-212_XVII-121-22" n="pagename_Ts-212,XVII-121-22 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_779-2">773</fw><seg type="212series-number-indent_h">14</seg><corr type="npcn-pb">heben)?</corr></s>
+            <s type="es" rend="indl_20">Wenn durch Entdeckungen ein Kalkül der Mathematik geändert <del type="dn">weden</del>  wird, – können wir den alten Kalkül nicht behalten<del type="dn">t</del>  (auf<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">heben)?</corr>   <pb facs="Ts-212_XVII-121-22" n="pagename_Ts-212,XVII-121-22 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_779-2">733</fw><seg type="212series-number-indent_h">14</seg><corr type="npcn-pb">heben)?</corr></s>
             <s type="es">(<abbr type="abb">D.h.</abbr>, müssen wir ihn wegwerfen?)</s>
             <s type="es">Das ist ein sehr interessanter Aspekt.</s>
             <s type="es">Wir haben nach der Entdeckung des Nordpols nicht zwei Erden: eine  mit, und eine ohne den Nordpol.</s>
@@ -30050,7 +30050,7 @@
             <seg type="wabmarks-secml_h"/>
             <pb facs="Ts-212_XVII-121-23" n="pagename_Ts-212,XVII-121-23 pageref_00"/>
             <fw type="fragpagen" place="top left" n="oldref_780-1">
-              <add rend="i_h">770-1</add>
+              <add rend="i_h">770</add>
             </fw>
             <seg type="212series-number-indent_h">53 <seg type="212series-number-indent_h">1</seg></seg>
             <s type="es" rend="indl_20">Die mathematische Frage mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> so exakt sein, wie der  mathematische Satz.</s>
@@ -30213,7 +30213,9 @@
           <ab xml:id="Ts-212_XVII-122-6.1" n="Ts-212,1599[1]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
             <seg type="wabmarks-secml_h"/>
             <pb facs="Ts-212_XVII-122-6" n="pagename_Ts-212,XVII-122-6 pageref_00"/>
-            <fw type="fragpagen" place="top middle" n="oldref_785-2"> </fw>
+            <fw type="fragpagen" place="top middle" n="oldref_785-2">
+              <add rend="i_h">678</add>
+            </fw>
             <seg type="212series-number-indent_h">14, 64  2</seg>
             <s type="es" rend="indl_20">Es genügt also nicht zu sagen “<seg type="notation" subtype="logic_symbolic name" rend="literal">p</seg> ist beweisbar”,  sondern es mu<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> hei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>en:  beweisbar nach einem bestimmten System.</s>
             <s type="es" rend="indl_20">Und zwar behauptet der Satz nicht, <seg type="notation" subtype="logic_symbolic name" rend="literal">p</seg> sei beweisbar nach dem System  <seg type="notation" subtype="logic_symbolic name" rend="literal">S</seg>, sondern nach <emph rend="space">seinem</emph> System, dem System von  <seg type="notation" subtype="logic_symbolic name" rend="literal">p</seg>.</s>
@@ -30240,7 +30242,7 @@
             </fw>
             <seg type="212series-number-indent_h">14  1</seg>
             <s type="es" rend="indl_20">Kenne ich die Regeln der elementaren Trigonometrie, so kann ich den Satz  <seg type="notation" subtype="maths_trigonometry" rend="literal"><seg type="notation" subtype="logic_symbolic name" rend="literal">sin 2x  =  2 sin x.cos  x</seg></seg> kontrollieren, aber nicht den Satz  <seg type="notation" subtype="maths_trigonometry, real analysis, Taylor series expansion" rend="literal"><seg type="notation" subtype="logic_symbolic name" rend="literal"> sin x  =  x  ‒          <table rend="table"><row><cell rend="column" n="1">x³<milestone unit="br"/>3!</cell></row></table>  +     <table rend="table"><row><cell rend="column" n="1">x⁵<milestone unit="br"/>5!</cell></row></table>     ‒ </seg></seg>  ….</s>
-            <s type="es"><del type="dnpc"><gap extent="words_1"/></del><add rend="i"><c type="c">D</c>as hei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t</add> aber,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> der <corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">S</reg></corr>inus     <pb facs="Ts-212_XVII-122-9" n="pagename_Ts-212,XVII-122-9 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_786-3"> </fw> <seg type="212series-number-indent_h">14</seg> der elementaren Trigonometrie und der  <corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">S</reg></corr>inus der höheren Trigonometrie verschiedene Begriffe  sind.</s>
+            <s type="es"><del type="dnpc"><gap extent="words_1"/></del><add rend="i"><c type="c">D</c>as hei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>t</add> aber,  da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> der <corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">S</reg></corr>inus     <pb facs="Ts-212_XVII-122-9" n="pagename_Ts-212,XVII-122-9 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_786-3"><add rend="i_h">690</add></fw> <seg type="212series-number-indent_h">14</seg> der elementaren Trigonometrie und der  <corr type="trsn"><orig type="trsn1">s</orig><reg type="trsn2">S</reg></corr>inus der höheren Trigonometrie verschiedene Begriffe  sind.</s>
             <s type="es" rend="indl_20">Die beiden Sätze stehen gleichsam auf zwei verschiedenen Ebenen.</s>
             <s type="es">In der ersten kann ich mich bewegen, soweit ich will, ich werde nie zu dem  Satz auf der höheren Ebene kommen.</s>
             <s type="es" rend="indl_20">Der Schüler, dem das Rüstzeug der elementaren Trigonometrie zur Verfügung  stünde und von dem die <corr type="tstrsn"><orig type="tstrsn1">Ue</orig><reg type="tstrsn2">Ü</reg></corr>berprüfung der Gleichung      <seg type="notation" subtype="maths_trigonometry, real analysis, Taylor series expansion" rend="literal">sin x  =  x  ‒         <table rend="table"><row><cell rend="column" n="1">x³<milestone unit="br"/>3!</cell></row></table>             …</seg>       verlangt würde, fände das, was er zur  Bewältigung dieser Aufgabe braucht, eben nicht vor.</s>
@@ -30331,7 +30333,7 @@
             <seg type="wabmarks-secml_h"/>
             <pb facs="Ts-212_XVII-122-18" n="pagename_Ts-212,XVII-122-18 pageref_00"/>
             <fw type="fragpagen" place="top left" n="oldref_789-3">
-              <add rend="i_h">646</add>
+              <add rend="i_h">464</add>
             </fw>
             <seg type="212series-number-indent_h">64  2</seg>
             <s type="es" rend="indl_20">“Ich wei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>, da<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> es für  diese Aufgabe eine Lösung gibt, obwohl ich die <choice type="s"><orig type="alt1">Lösung</orig><orig type="alt2"><seg type="edinst"> // </seg>  Art der Lösung<seg type="edinst"> // </seg></orig></choice> noch nicht habe”. –</s>
@@ -30564,7 +30566,7 @@
               <add rend="i_h">695</add>
             </fw>
             <seg type="212series-number-indent_h">14, 64  4</seg>
-            <s type="es" rend="indl_20">(Ich kann der Aufgabe der 3-Teilung des Winkels in einem  grö<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>ern System ihren Platz bestimmten  <add rend="ib_h"><corr type="tra">(</corr>daher Geometrie nach der Möglichkeit der 3-Teilung  fragen)</add>, aber nicht im System der  <persName key="Euklid">Eukli<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">dischen</corr>   <pb facs="Ts-212_XVII-124-3" n="pagename_Ts-212,XVII-124-3 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_797-3">695</fw><seg type="212series-number-indent_h">32</seg><corr type="npcn-pb">dischen</corr></persName>  Geometrie <choice type="s"><orig type="alt1">nach der Möglichkeit der 3-Teilung fragen</orig><orig type="alt2"><seg type="edinst"> // </seg> nach ihrer Lösbarkeit fragen<seg type="edinst"> // </seg></orig><orig type="alt3">danach fragen,  ob sie lösbar ist<seg type="edinst"> // </seg></orig></choice>.</s>
+            <s type="es" rend="indl_20">(Ich kann der Aufgabe der 3-Teilung des Winkels in einem  grö<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr>ern System ihren Platz bestimmten  <add rend="ib_h"><corr type="tra">(</corr>daher Geometrie nach der Möglichkeit der 3-Teilung  fragen)</add>, aber nicht im System der  <persName key="Euklid">Eukli<corr type="npcn-pb"><lb rend="shyphen-pb"/></corr><corr type="tran-pb">dischen</corr>   <pb facs="Ts-212_XVII-124-3" n="pagename_Ts-212,XVII-124-3 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_797-3">696</fw><seg type="212series-number-indent_h">32</seg><corr type="npcn-pb">dischen</corr></persName>  Geometrie <choice type="s"><orig type="alt1">nach der Möglichkeit der 3-Teilung fragen</orig><orig type="alt2"><seg type="edinst"> // </seg> nach ihrer Lösbarkeit fragen<seg type="edinst"> // </seg></orig><orig type="alt3">danach fragen,  ob sie lösbar ist<seg type="edinst"> // </seg></orig></choice>.</s>
             <s type="es">In welcher <emph rend="space">Sprache</emph> sollte ich denn danach fragen? in  der <persName key="Euklid">euklidischen</persName>? –</s>
             <s type="es">Und ebensowenig kann ich in der  <persName key="Euklid">euklidischen</persName> Sprache nach der Möglichkeit  der 2-Teilung des Winkels im  <persName key="Euklid">euklidischen</persName> System fragen.</s>
             <s type="es">Denn das würde in dieser Sprache auf eine Frage nach der Möglichkeit  schlechthin hinauslaufen, welche immer Unsinn ist.)</s>
@@ -31152,7 +31154,7 @@
             <seg type="wabmarks-secmr_h">✓   3</seg>
             <s type="es" rend="indl_20">Wie aber wei<corr type="tstrsn"><orig type="tstrsn1">ss</orig><reg type="tstrsn2">ß</reg></corr> ich  <seg type="notation" subtype="maths_arithmetic" rend="literal">28 + (45 + 17)   =  (28 + 45) +  17</seg> ohne es bewiesen zu  haben?</s>
             <s type="es">Wie kann mir ein allgemeiner Beweis einen besonderen Beweis  schenken?</s>
-            <s type="es">Denn ich könnte doch den besondern Beweis führen, und wie treffen sich da     <pb facs="Ts-212_XVIII-129-5" n="pagename_Ts-212,XVIII-129-5 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_855-2">44</fw><seg type="212series-number-indent_h"><del type="d">44</del></seg> die beiden Beweise, und  wie, wenn sie nicht übereinstimmen?</s>
+            <s type="es">Denn ich könnte doch den besondern Beweis führen, und wie treffen sich da     <pb facs="Ts-212_XVIII-129-5" n="pagename_Ts-212,XVIII-129-5 pageref_00"/><fw type="fragpagen" place="top middle" n="oldref_855-2">76</fw><seg type="212series-number-indent_h"><del type="d">44</del></seg> die beiden Beweise, und  wie, wenn sie nicht übereinstimmen?</s>
             <emph rend="bl_1"/>
           </ab>
           <ab xml:id="Ts-212_XVIII-129-6.5" n="Ts-212,1669[5]" xml:lang="de" ana="field:PhilosophyOfLanguage_date:19320601?-19320831?">
